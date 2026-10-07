@@ -1,12 +1,112 @@
 {
   "weekOf": "2026-10-05",
-  "updated": "2026-10-07T04:42:43+00:00",
+  "updated": "2026-10-07T11:29:10+00:00",
   "summary": [
-    "Tech leads the news with 13 of 25 stories. Top headline: How to help stop spam calls on iPhone and Android",
+    "Tech leads the news with 16 of 25 stories. Top headline: Ultrahuman now offers on-demand heart rhythm scans",
     "Earnings this week from ASML.",
-    "Strongest rumor: The Emmy Awards are moving to Prime Video in 2027"
+    "Strongest rumor: Apple reportedly worked with LG on gadgets for its upcoming smart home push"
   ],
   "stories": [
+    {
+      "id": "017406967e",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-07T11:00:00+00:00",
+      "title": "Ultrahuman now offers on-demand heart rhythm scans",
+      "summary": "Ultrahuman is now offering on-demand heart rhythm scans to help you check for signs of Afib in real-time.",
+      "url": "https://www.engadget.com/2278463/ultrahuman-on-demand-afib-heart-rhythm-scan/"
+    },
+    {
+      "id": "361d53ba6f",
+      "topic": "Chips",
+      "kind": "Founder",
+      "source": "Engadget",
+      "published": "2026-10-07T11:00:00+00:00",
+      "title": "How to watch the Microsoft Windows and Surface event",
+      "summary": "Microsoft CEO Satya Nadella and NVIDIA CEO Jensen Huang join Windows and Devices chief Pavan Davuluri at the company's San Francisco event today.",
+      "url": "https://www.engadget.com/2279620/how-to-watch-microsoft-windows-surface-event/"
+    },
+    {
+      "id": "44f772d580",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-07T10:27:44+00:00",
+      "title": "Jaguar's controversial Type 01 EV looks like a '40s gangster car built for the modern electric era",
+      "summary": "Jaguar's Type 01 EV is designed to attract affluent young buyers with its deliberately polarizing design.",
+      "url": "https://www.engadget.com/2279734/jaguars-controversial-type-01-ev-looks-like-a-40s-gangster-car-built-for-the-modern-electric-era/"
+    },
+    {
+      "id": "d97d1b2869",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-07T10:03:46+00:00",
+      "title": "Jaguar’s first EV looks just like its divisive concept car",
+      "summary": "The Type 01, Jaguar's most important and divisive car in years, has arrived. The production follow-up to the polarising Type 00 concept, Jaguar says the electric, four-door grand tourer is its most powerful road car ever. Even though the Type 00's design chief was reportedly…",
+      "url": "https://www.theverge.com/transportation/1006536/jaguar-type-01-design-specs-price-reveal"
+    },
+    {
+      "id": "997dbed661",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-10-07T09:00:00+00:00",
+      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+      "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media"
+    },
+    {
+      "id": "dc31efd0e4",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-07T08:58:55+00:00",
+      "title": "Apple TV's F1 coverage will now support Dolby Atmos",
+      "summary": "Apple TV's F1 coverage will feature Dolby Atmos support, starting with the US Grand Prix in Texas later this month.",
+      "url": "https://www.engadget.com/2279712/apple-tv-dolby-atmos-support-formula-1/"
+    },
+    {
+      "id": "2417355b97",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Wired",
+      "published": "2026-10-07T08:30:00+00:00",
+      "title": "Your Next Great Read Might Be Certified ‘Organic’",
+      "summary": "Amid a sea of AI writing slop, a new stamp for “organic literature” will help readers to pick out books authored by real, corn-fed, free-range humans.",
+      "url": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/"
+    },
+    {
+      "id": "6ce0f88cff",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-07T07:00:00+00:00",
+      "title": "Spotify expands audiobooks to over 180 markets",
+      "summary": "Spotify will make 350,000 titles available in over 120 languages for this expansion",
+      "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/"
+    },
+    {
+      "id": "9070993546",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-07T02:02:11+00:00",
+      "title": "Strands Decider 2B: a small, open-source, decision model",
+      "summary": "Article URL: https://strandsagents.com/blog/introducing-strands-decider/ Comments URL: https://news.ycombinator.com/item?id=49987076 Points: 195 # Comments: 48",
+      "url": "https://strandsagents.com/blog/introducing-strands-decider/"
+    },
+    {
+      "id": "a3e4d04439",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-07T00:00:00+00:00",
+      "title": "How long have wireless gaming controllers been around for?",
+      "summary": "Game controllers have experimented with losing the cords for longer than you'd think, but early attempts didn't have much success.",
+      "url": "https://www.engadget.com/2278016/how-long-wireless-gaming-controllers-been-around/"
+    },
     {
       "id": "21226a834c",
       "topic": "Devices",
@@ -24,7 +124,7 @@
       "source": "Hacker News",
       "published": "2026-10-06T23:28:08+00:00",
       "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
-      "summary": "Article URL: https://github.com/boykopovar/AnyPS5 Comments URL: https://news.ycombinator.com/item?id=49985664 Points: 156 # Comments: 122",
+      "summary": "Article URL: https://github.com/boykopovar/AnyPS5 Comments URL: https://news.ycombinator.com/item?id=49985664 Points: 286 # Comments: 234",
       "url": "https://github.com/boykopovar/AnyPS5"
     },
     {
@@ -36,6 +136,16 @@
       "title": "OpenAI drops another batch of mathematical breakthroughs",
       "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and…",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github"
+    },
+    {
+      "id": "cc69cecac5",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-06T23:26:30+00:00",
+      "title": "State of Devs 2026",
+      "summary": "Article URL: https://2026.stateofdevs.com/en-US/ Comments URL: https://news.ycombinator.com/item?id=49985643 Points: 185 # Comments: 94",
+      "url": "https://2026.stateofdevs.com/en-US/"
     },
     {
       "id": "b70fad49ec",
@@ -84,16 +194,16 @@
       "source": "Hacker News",
       "published": "2026-10-06T22:17:21+00:00",
       "title": "Sharing AI progress in mathematics",
-      "summary": "https://github.com/openai/math https://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 598 # Comments: 539",
+      "summary": "https://github.com/openai/math https://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 957 # Comments: 920",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
     },
     {
-      "id": "0edb413dd4",
+      "id": "2614c5ba95",
       "topic": "Tech",
       "kind": "Founder",
       "source": "The Verge",
       "published": "2026-10-06T22:12:27+00:00",
-      "title": "Xbox has secured exclusive GTA 6 streaming rights",
+      "title": "Xbox has secured GTA 6 streaming rights",
       "summary": "Xbox CEO Asha Sharma told employees that Microsoft is getting ready to do something around Grand Theft Auto VI that \"no other platform holder is doing\" during an employee all-hands this morning. According to sources familiar with Microsoft's plans, Sharma's brief teaser was…",
       "url": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights"
     },
@@ -118,6 +228,16 @@
       "url": "https://www.engadget.com/2277445/use-mapquest-with-android-auto/"
     },
     {
+      "id": "57ba261a57",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-06T21:59:43+00:00",
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "summary": "Article URL: https://penguin-mail.com/ Comments URL: https://news.ycombinator.com/item?id=49984716 Points: 197 # Comments: 128",
+      "url": "https://penguin-mail.com/"
+    },
+    {
       "id": "14688b3961",
       "topic": "Tech",
       "kind": "Company",
@@ -136,143 +256,9 @@
       "title": "Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say",
       "summary": "Comedian Sebastian Maniscalco is facing backlash from fellow comics who claim his takeover of SiriusXM's Raw Comedy channel is harming up-and-coming talent, as reported earlier by Deadline. Many established comics, including Patton Oswalt and Margaret Cho, have posted videos…",
       "url": "https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy"
-    },
-    {
-      "id": "f059cb30a1",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-06T20:57:25+00:00",
-      "title": "Decisions API is in public beta",
-      "summary": "Article URL: https://developers.openai.com/api/docs/guides/decisions Comments URL: https://news.ycombinator.com/item?id=49984025 Points: 189 # Comments: 83",
-      "url": "https://developers.openai.com/api/docs/guides/decisions"
-    },
-    {
-      "id": "41d50e6a28",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-10-06T20:47:01+00:00",
-      "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
-      "summary": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
-      "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/"
-    },
-    {
-      "id": "74bb9f2172",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-06T20:37:54+00:00",
-      "title": "Tesla’s Model 3 and Model Y can be a backup battery for your house",
-      "summary": "Some Tesla Model 3 and Model Y owners can use their EV battery to keep the lights on longer during a power outage, now that Tesla's expanding the Powershare Home Backup feature. It was previously only available on the Cybertruck, and also requires owning Tesla's Powerwall 3.…",
-      "url": "https://www.theverge.com/transportation/1006193/tesla-model-3-model-y-powershare-home-backup"
-    },
-    {
-      "id": "5120001516",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-10-06T20:35:20+00:00",
-      "title": "How AI decision models could change content moderation",
-      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
-      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/"
-    },
-    {
-      "id": "2c2c576b65",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-06T20:33:47+00:00",
-      "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
-      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/ Comments URL: https://news.ycombinator.com/item?id=49983703 Points: 203 # Comments: 333",
-      "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/"
-    },
-    {
-      "id": "f35ab5ace4",
-      "topic": "Cloud",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-10-06T20:32:10+00:00",
-      "title": "Google’s power-hungry data centers crave nuclear energy",
-      "summary": "Google announced a new agreement to update six nuclear power plant sites across the US as the tech giant seeks to generate more electricity for its power-hungry data centers. Google signed the 20-year deal with Constellation, the leading nuclear power plant operator in the US.…",
-      "url": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation"
-    },
-    {
-      "id": "ab70d19f83",
-      "topic": "Startups",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-06T20:00:30+00:00",
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
-    },
-    {
-      "id": "c69bf55e41",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-06T20:00:00+00:00",
-      "title": "Amazon’s last-gen Kindle Paperwhite is 30 percent off",
-      "summary": "Calling something “last-gen” usually means it comes with big compromises compared to the latest version. That’s not as true for the last-gen Kindle Paperwhite as it is with some other tech. The newer version can open books 30 percent faster (not the same as page-turning speed)…",
-      "url": "https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale"
-    },
-    {
-      "id": "b50cae8bfd",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-06T19:56:50+00:00",
-      "title": "The next hurdle for AI agents: getting websites to let them in",
-      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
-      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/"
-    },
-    {
-      "id": "8a0191e22f",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-06T19:30:00+00:00",
-      "title": "Save on MacBooks, iPads and Apple Watches during October Prime Day",
-      "summary": "Amazon’s October Big Deal Days are underway (lasting through tomorrow night), and we spotted a ton of Apple products and accessories in the sale, ranging from laptops and headphones to desktops and more. Some of the deals are only for Prime members, but other retailers are often…",
-      "url": "https://www.theverge.com/gadgets/1005662/apple-ipad-macbook-airpod-prime-day-deal-sale"
-    },
-    {
-      "id": "3b7ef17bf2",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Ars Technica",
-      "published": "2026-10-06T19:21:14+00:00",
-      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-      "summary": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
-      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/"
-    },
-    {
-      "id": "b1b56bb06a",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-06T18:52:38+00:00",
-      "title": "Doom on the Vectrex turns the classic shooter into Tron-like vector art",
-      "summary": "With some processing caveats of course.",
-      "url": "https://www.engadget.com/2279239/doom-on-the-vectrex-turns-the-classic-shooter-into-tron-like-vector-art/"
     }
   ],
   "rumors": [
-    {
-      "id": "172d5e9ad7",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "The Emmy Awards are moving to Prime Video in 2027",
-      "detail": "Amazon is reportedly paying up to $25 million a year for exclusive global rights to the ceremony.",
-      "url": "https://www.engadget.com/2278708/the-emmy-awards-are-moving-to-prime-video-in-2027/",
-      "sources": 1,
-      "mentions": 2,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 18
-    },
     {
       "id": "6c2c993a1c",
       "topic": "Tech",
@@ -315,7 +301,7 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 6,
+      "days": 7,
       "tickers": [
         "NET"
       ],
@@ -336,20 +322,6 @@
       "score": 15
     },
     {
-      "id": "e5bb4ab48b",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Two mystery PlayStation products have leaked — one might be a PlayStation Portal OLED",
-      "detail": "Is Sony about to announce a new PlayStation Portal game streaming handheld? The Wi-Fi Alliance recently certified two unannounced PlayStation products of some kind, and the certification documents indicate that they could be updates to the PlayStation Portal, which might mean…",
-      "url": "https://www.theverge.com/games/1006092/playstation-portal-oled-wi-fi-alliance-certifications",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
-    },
-    {
       "id": "d564901a6d",
       "topic": "AI",
       "status": "Just surfaced",
@@ -361,6 +333,22 @@
       "credible": 0,
       "days": 0,
       "tickers": [],
+      "score": 8
+    },
+    {
+      "id": "65bbb49f3b",
+      "topic": "Chips",
+      "status": "Just surfaced",
+      "title": "SpaceX in Talks to Borrow $40 Billion to Buy Nvidia Chips",
+      "detail": "submitted by /u/esporx [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1wznljn/spacex_in_talks_to_borrow_40_billion_to_buy/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 0,
+      "days": 0,
+      "tickers": [
+        "NVDA"
+      ],
       "score": 8
     }
   ],
@@ -387,14 +375,35 @@
       "score": 41.0
     },
     {
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "price": 347.68,
+      "changePct": 2.0,
+      "catalyst": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "when": "In the news",
+      "signals": [
+        "6 headlines"
+      ],
+      "spark": [
+        342.75,
+        340.92,
+        344.08,
+        338.24,
+        343.5,
+        346.47,
+        347.68
+      ],
+      "score": 34.0
+    },
+    {
       "ticker": "AAPL",
       "name": "Apple",
       "price": 333.63,
       "changePct": 1.3,
-      "catalyst": "How to help stop spam calls on iPhone and Android",
+      "catalyst": "Apple TV's F1 coverage will now support Dolby Atmos",
       "when": "In the news",
       "signals": [
-        "7 headlines"
+        "6 headlines"
       ],
       "spark": [
         338.4,
@@ -406,27 +415,6 @@
         333.63
       ],
       "score": 32.6
-    },
-    {
-      "ticker": "GOOGL",
-      "name": "Alphabet",
-      "price": 347.68,
-      "changePct": 2.0,
-      "catalyst": "Google’s power-hungry data centers crave nuclear energy",
-      "when": "In the news",
-      "signals": [
-        "5 headlines"
-      ],
-      "spark": [
-        342.75,
-        340.92,
-        344.08,
-        338.24,
-        343.5,
-        346.47,
-        347.68
-      ],
-      "score": 29.0
     },
     {
       "ticker": "AMZN",
