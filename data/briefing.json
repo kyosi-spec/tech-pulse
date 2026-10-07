@@ -1,6 +1,6 @@
 {
   "weekOf": "2026-10-05",
-  "updated": "2026-10-07T04:17:54+00:00",
+  "updated": "2026-10-07T04:42:43+00:00",
   "summary": [
     "Tech leads the news with 13 of 25 stories. Top headline: How to help stop spam calls on iPhone and Android",
     "Earnings this week from ASML.",
@@ -12,17 +12,27 @@
       "topic": "Devices",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-07T05:30:00+00:00",
+      "published": "2026-10-06T23:30:00+00:00",
       "title": "How to help stop spam calls on iPhone and Android",
       "summary": "Spam calls don't have to grab your attention and waste your time. Use these built-in options to silence and block them without having to pay.",
       "url": "https://www.engadget.com/2277629/how-to-stop-spam-calls-iphone-android/"
+    },
+    {
+      "id": "df4368d830",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-06T23:28:08+00:00",
+      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
+      "summary": "Article URL: https://github.com/boykopovar/AnyPS5 Comments URL: https://news.ycombinator.com/item?id=49985664 Points: 156 # Comments: 122",
+      "url": "https://github.com/boykopovar/AnyPS5"
     },
     {
       "id": "a6766b7925",
       "topic": "AI",
       "kind": "Company",
       "source": "The Verge",
-      "published": "2026-10-07T05:26:38+00:00",
+      "published": "2026-10-06T23:26:38+00:00",
       "title": "OpenAI drops another batch of mathematical breakthroughs",
       "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and…",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github"
@@ -32,7 +42,7 @@
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-07T05:00:00+00:00",
+      "published": "2026-10-06T23:00:00+00:00",
       "title": "Why do some PCs have two Ethernet ports?",
       "summary": "Dual Ethernet ports don't automatically provide faster speed, but they increase your networking options.",
       "url": "https://www.engadget.com/2277504/why-come-pc-come-with-second-ethernet-port/"
@@ -42,7 +52,7 @@
       "topic": "Tech",
       "kind": "Company",
       "source": "TechCrunch",
-      "published": "2026-10-07T04:55:39+00:00",
+      "published": "2026-10-06T22:55:39+00:00",
       "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
       "summary": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads.",
       "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/"
@@ -52,7 +62,7 @@
       "topic": "Tech",
       "kind": "Company",
       "source": "TechCrunch",
-      "published": "2026-10-07T04:34:03+00:00",
+      "published": "2026-10-06T22:34:03+00:00",
       "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
       "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
       "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/"
@@ -62,7 +72,7 @@
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-07T04:30:00+00:00",
+      "published": "2026-10-06T22:30:00+00:00",
       "title": "Kindle Click vs Kobo Remote: How much of a difference is there?",
       "summary": "Of course you're going to get the one that works with your ereader, but which of these page-turning gadgets is actually better?",
       "url": "https://www.engadget.com/2277467/kindle-click-vs-kobo-remote-differences/"
@@ -72,9 +82,9 @@
       "topic": "AI",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-10-07T04:17:21+00:00",
+      "published": "2026-10-06T22:17:21+00:00",
       "title": "Sharing AI progress in mathematics",
-      "summary": "https://github.com/openai/math https://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 583 # Comments: 522",
+      "summary": "https://github.com/openai/math https://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 598 # Comments: 539",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
     },
     {
@@ -82,7 +92,7 @@
       "topic": "Tech",
       "kind": "Founder",
       "source": "The Verge",
-      "published": "2026-10-07T04:12:27+00:00",
+      "published": "2026-10-06T22:12:27+00:00",
       "title": "Xbox has secured exclusive GTA 6 streaming rights",
       "summary": "Xbox CEO Asha Sharma told employees that Microsoft is getting ready to do something around Grand Theft Auto VI that \"no other platform holder is doing\" during an employee all-hands this morning. According to sources familiar with Microsoft's plans, Sharma's brief teaser was…",
       "url": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights"
@@ -92,7 +102,7 @@
       "topic": "Tech",
       "kind": "Company",
       "source": "The Verge",
-      "published": "2026-10-07T04:00:00+00:00",
+      "published": "2026-10-06T22:00:00+00:00",
       "title": "The best robot vacuum and mop deals during October Prime Day",
       "summary": "Spending too much time constantly sweeping and mopping? If you have the money to delegate those chores to a robot cleaner, you could save a lot of personal time. Thankfully, it’s cheaper than usual to buy a robot vacuum / mop hybrid during Amazon’s Prime Big Deal Days, and some…",
       "url": "https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale"
@@ -102,7 +112,7 @@
       "topic": "Devices",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-07T04:00:00+00:00",
+      "published": "2026-10-06T22:00:00+00:00",
       "title": "Remember MapQuest? You can now use it with Android Auto",
       "summary": "If you use Android Auto, you can try out the beta mapping service today.",
       "url": "https://www.engadget.com/2277445/use-mapquest-with-android-auto/"
@@ -112,7 +122,7 @@
       "topic": "Tech",
       "kind": "Company",
       "source": "The Verge",
-      "published": "2026-10-07T03:39:53+00:00",
+      "published": "2026-10-06T21:39:53+00:00",
       "title": "Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat",
       "summary": "Apple is collaborating with LG on a new lineup of smart home devices, including a video doorbell, thermostat, indoor camera, and more, according to a report from Bloomberg. The products will reportedly feature LG branding but integrate with the company's rumored smart home hub…",
       "url": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc"
@@ -122,7 +132,7 @@
       "topic": "Tech",
       "kind": "Company",
       "source": "The Verge",
-      "published": "2026-10-07T03:10:13+00:00",
+      "published": "2026-10-06T21:10:13+00:00",
       "title": "Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say",
       "summary": "Comedian Sebastian Maniscalco is facing backlash from fellow comics who claim his takeover of SiriusXM's Raw Comedy channel is harming up-and-coming talent, as reported earlier by Deadline. Many established comics, including Patton Oswalt and Margaret Cho, have posted videos…",
       "url": "https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy"
@@ -132,9 +142,9 @@
       "topic": "AI",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-10-07T02:57:25+00:00",
+      "published": "2026-10-06T20:57:25+00:00",
       "title": "Decisions API is in public beta",
-      "summary": "Article URL: https://developers.openai.com/api/docs/guides/decisions Comments URL: https://news.ycombinator.com/item?id=49984025 Points: 186 # Comments: 82",
+      "summary": "Article URL: https://developers.openai.com/api/docs/guides/decisions Comments URL: https://news.ycombinator.com/item?id=49984025 Points: 189 # Comments: 83",
       "url": "https://developers.openai.com/api/docs/guides/decisions"
     },
     {
@@ -142,7 +152,7 @@
       "topic": "AI",
       "kind": "Launch",
       "source": "TechCrunch",
-      "published": "2026-10-07T02:47:01+00:00",
+      "published": "2026-10-06T20:47:01+00:00",
       "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
       "summary": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
       "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/"
@@ -152,7 +162,7 @@
       "topic": "AI",
       "kind": "Company",
       "source": "The Verge",
-      "published": "2026-10-07T02:37:54+00:00",
+      "published": "2026-10-06T20:37:54+00:00",
       "title": "Tesla’s Model 3 and Model Y can be a backup battery for your house",
       "summary": "Some Tesla Model 3 and Model Y owners can use their EV battery to keep the lights on longer during a power outage, now that Tesla's expanding the Powershare Home Backup feature. It was previously only available on the Cybertruck, and also requires owning Tesla's Powerwall 3.…",
       "url": "https://www.theverge.com/transportation/1006193/tesla-model-3-model-y-powershare-home-backup"
@@ -162,7 +172,7 @@
       "topic": "AI",
       "kind": "Launch",
       "source": "TechCrunch",
-      "published": "2026-10-07T02:35:20+00:00",
+      "published": "2026-10-06T20:35:20+00:00",
       "title": "How AI decision models could change content moderation",
       "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
       "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/"
@@ -172,9 +182,9 @@
       "topic": "Tech",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-10-07T02:33:47+00:00",
+      "published": "2026-10-06T20:33:47+00:00",
       "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
-      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/ Comments URL: https://news.ycombinator.com/item?id=49983703 Points: 201 # Comments: 328",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/ Comments URL: https://news.ycombinator.com/item?id=49983703 Points: 203 # Comments: 333",
       "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/"
     },
     {
@@ -182,7 +192,7 @@
       "topic": "Cloud",
       "kind": "Launch",
       "source": "The Verge",
-      "published": "2026-10-07T02:32:10+00:00",
+      "published": "2026-10-06T20:32:10+00:00",
       "title": "Google’s power-hungry data centers crave nuclear energy",
       "summary": "Google announced a new agreement to update six nuclear power plant sites across the US as the tech giant seeks to generate more electricity for its power-hungry data centers. Google signed the 20-year deal with Constellation, the leading nuclear power plant operator in the US.…",
       "url": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation"
@@ -192,7 +202,7 @@
       "topic": "Startups",
       "kind": "Founder",
       "source": "TechCrunch",
-      "published": "2026-10-07T02:00:30+00:00",
+      "published": "2026-10-06T20:00:30+00:00",
       "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
       "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
       "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
@@ -202,7 +212,7 @@
       "topic": "Tech",
       "kind": "Company",
       "source": "The Verge",
-      "published": "2026-10-07T02:00:00+00:00",
+      "published": "2026-10-06T20:00:00+00:00",
       "title": "Amazon’s last-gen Kindle Paperwhite is 30 percent off",
       "summary": "Calling something “last-gen” usually means it comes with big compromises compared to the latest version. That’s not as true for the last-gen Kindle Paperwhite as it is with some other tech. The newer version can open books 30 percent faster (not the same as page-turning speed)…",
       "url": "https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale"
@@ -212,7 +222,7 @@
       "topic": "AI",
       "kind": "Company",
       "source": "TechCrunch",
-      "published": "2026-10-07T01:56:50+00:00",
+      "published": "2026-10-06T19:56:50+00:00",
       "title": "The next hurdle for AI agents: getting websites to let them in",
       "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
       "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/"
@@ -222,7 +232,7 @@
       "topic": "Devices",
       "kind": "Company",
       "source": "The Verge",
-      "published": "2026-10-07T01:30:00+00:00",
+      "published": "2026-10-06T19:30:00+00:00",
       "title": "Save on MacBooks, iPads and Apple Watches during October Prime Day",
       "summary": "Amazon’s October Big Deal Days are underway (lasting through tomorrow night), and we spotted a ton of Apple products and accessories in the sale, ranging from laptops and headphones to desktops and more. Some of the deals are only for Prime members, but other retailers are often…",
       "url": "https://www.theverge.com/gadgets/1005662/apple-ipad-macbook-airpod-prime-day-deal-sale"
@@ -232,7 +242,7 @@
       "topic": "Tech",
       "kind": "Company",
       "source": "Ars Technica",
-      "published": "2026-10-07T01:21:14+00:00",
+      "published": "2026-10-06T19:21:14+00:00",
       "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
       "summary": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
       "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/"
@@ -242,20 +252,10 @@
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-07T00:52:38+00:00",
+      "published": "2026-10-06T18:52:38+00:00",
       "title": "Doom on the Vectrex turns the classic shooter into Tron-like vector art",
       "summary": "With some processing caveats of course.",
       "url": "https://www.engadget.com/2279239/doom-on-the-vectrex-turns-the-classic-shooter-into-tron-like-vector-art/"
-    },
-    {
-      "id": "8d79d2b44c",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-07T00:31:46+00:00",
-      "title": "Skydance will combine HBO Max and Paramount+ into a single streaming service",
-      "summary": "Please don't name it ParaMax.",
-      "url": "https://www.engadget.com/2279192/skydance-will-combine-hbo-max-and-paramount-into-a-single-streaming-service/"
     }
   ],
   "rumors": [
