@@ -1,0 +1,474 @@
+{
+  "weekOf": "2026-10-05",
+  "updated": "2026-10-07T04:17:54+00:00",
+  "summary": [
+    "Tech leads the news with 13 of 25 stories. Top headline: How to help stop spam calls on iPhone and Android",
+    "Earnings this week from ASML.",
+    "Strongest rumor: The Emmy Awards are moving to Prime Video in 2027"
+  ],
+  "stories": [
+    {
+      "id": "21226a834c",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-07T05:30:00+00:00",
+      "title": "How to help stop spam calls on iPhone and Android",
+      "summary": "Spam calls don't have to grab your attention and waste your time. Use these built-in options to silence and block them without having to pay.",
+      "url": "https://www.engadget.com/2277629/how-to-stop-spam-calls-iphone-android/"
+    },
+    {
+      "id": "a6766b7925",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-07T05:26:38+00:00",
+      "title": "OpenAI drops another batch of mathematical breakthroughs",
+      "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github"
+    },
+    {
+      "id": "b70fad49ec",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-07T05:00:00+00:00",
+      "title": "Why do some PCs have two Ethernet ports?",
+      "summary": "Dual Ethernet ports don't automatically provide faster speed, but they increase your networking options.",
+      "url": "https://www.engadget.com/2277504/why-come-pc-come-with-second-ethernet-port/"
+    },
+    {
+      "id": "6f2b2be4f1",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-07T04:55:39+00:00",
+      "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
+      "summary": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads.",
+      "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/"
+    },
+    {
+      "id": "bf36372fc2",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-07T04:34:03+00:00",
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/"
+    },
+    {
+      "id": "ae5cd42409",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-07T04:30:00+00:00",
+      "title": "Kindle Click vs Kobo Remote: How much of a difference is there?",
+      "summary": "Of course you're going to get the one that works with your ereader, but which of these page-turning gadgets is actually better?",
+      "url": "https://www.engadget.com/2277467/kindle-click-vs-kobo-remote-differences/"
+    },
+    {
+      "id": "65b49d5760",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-07T04:17:21+00:00",
+      "title": "Sharing AI progress in mathematics",
+      "summary": "https://github.com/openai/math https://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 583 # Comments: 522",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
+    },
+    {
+      "id": "0edb413dd4",
+      "topic": "Tech",
+      "kind": "Founder",
+      "source": "The Verge",
+      "published": "2026-10-07T04:12:27+00:00",
+      "title": "Xbox has secured exclusive GTA 6 streaming rights",
+      "summary": "Xbox CEO Asha Sharma told employees that Microsoft is getting ready to do something around Grand Theft Auto VI that \"no other platform holder is doing\" during an employee all-hands this morning. According to sources familiar with Microsoft's plans, Sharma's brief teaser was…",
+      "url": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights"
+    },
+    {
+      "id": "0592c53ff4",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-07T04:00:00+00:00",
+      "title": "The best robot vacuum and mop deals during October Prime Day",
+      "summary": "Spending too much time constantly sweeping and mopping? If you have the money to delegate those chores to a robot cleaner, you could save a lot of personal time. Thankfully, it’s cheaper than usual to buy a robot vacuum / mop hybrid during Amazon’s Prime Big Deal Days, and some…",
+      "url": "https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale"
+    },
+    {
+      "id": "e234090307",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-07T04:00:00+00:00",
+      "title": "Remember MapQuest? You can now use it with Android Auto",
+      "summary": "If you use Android Auto, you can try out the beta mapping service today.",
+      "url": "https://www.engadget.com/2277445/use-mapquest-with-android-auto/"
+    },
+    {
+      "id": "14688b3961",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-07T03:39:53+00:00",
+      "title": "Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat",
+      "summary": "Apple is collaborating with LG on a new lineup of smart home devices, including a video doorbell, thermostat, indoor camera, and more, according to a report from Bloomberg. The products will reportedly feature LG branding but integrate with the company's rumored smart home hub…",
+      "url": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc"
+    },
+    {
+      "id": "14fc5726a6",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-07T03:10:13+00:00",
+      "title": "Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say",
+      "summary": "Comedian Sebastian Maniscalco is facing backlash from fellow comics who claim his takeover of SiriusXM's Raw Comedy channel is harming up-and-coming talent, as reported earlier by Deadline. Many established comics, including Patton Oswalt and Margaret Cho, have posted videos…",
+      "url": "https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy"
+    },
+    {
+      "id": "f059cb30a1",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-07T02:57:25+00:00",
+      "title": "Decisions API is in public beta",
+      "summary": "Article URL: https://developers.openai.com/api/docs/guides/decisions Comments URL: https://news.ycombinator.com/item?id=49984025 Points: 186 # Comments: 82",
+      "url": "https://developers.openai.com/api/docs/guides/decisions"
+    },
+    {
+      "id": "41d50e6a28",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "TechCrunch",
+      "published": "2026-10-07T02:47:01+00:00",
+      "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+      "summary": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
+      "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/"
+    },
+    {
+      "id": "74bb9f2172",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-07T02:37:54+00:00",
+      "title": "Tesla’s Model 3 and Model Y can be a backup battery for your house",
+      "summary": "Some Tesla Model 3 and Model Y owners can use their EV battery to keep the lights on longer during a power outage, now that Tesla's expanding the Powershare Home Backup feature. It was previously only available on the Cybertruck, and also requires owning Tesla's Powerwall 3.…",
+      "url": "https://www.theverge.com/transportation/1006193/tesla-model-3-model-y-powershare-home-backup"
+    },
+    {
+      "id": "5120001516",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "TechCrunch",
+      "published": "2026-10-07T02:35:20+00:00",
+      "title": "How AI decision models could change content moderation",
+      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/"
+    },
+    {
+      "id": "2c2c576b65",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-07T02:33:47+00:00",
+      "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/ Comments URL: https://news.ycombinator.com/item?id=49983703 Points: 201 # Comments: 328",
+      "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/"
+    },
+    {
+      "id": "f35ab5ace4",
+      "topic": "Cloud",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-10-07T02:32:10+00:00",
+      "title": "Google’s power-hungry data centers crave nuclear energy",
+      "summary": "Google announced a new agreement to update six nuclear power plant sites across the US as the tech giant seeks to generate more electricity for its power-hungry data centers. Google signed the 20-year deal with Constellation, the leading nuclear power plant operator in the US.…",
+      "url": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation"
+    },
+    {
+      "id": "ab70d19f83",
+      "topic": "Startups",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-10-07T02:00:30+00:00",
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
+    },
+    {
+      "id": "c69bf55e41",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-07T02:00:00+00:00",
+      "title": "Amazon’s last-gen Kindle Paperwhite is 30 percent off",
+      "summary": "Calling something “last-gen” usually means it comes with big compromises compared to the latest version. That’s not as true for the last-gen Kindle Paperwhite as it is with some other tech. The newer version can open books 30 percent faster (not the same as page-turning speed)…",
+      "url": "https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale"
+    },
+    {
+      "id": "b50cae8bfd",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-07T01:56:50+00:00",
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/"
+    },
+    {
+      "id": "8a0191e22f",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-07T01:30:00+00:00",
+      "title": "Save on MacBooks, iPads and Apple Watches during October Prime Day",
+      "summary": "Amazon’s October Big Deal Days are underway (lasting through tomorrow night), and we spotted a ton of Apple products and accessories in the sale, ranging from laptops and headphones to desktops and more. Some of the deals are only for Prime members, but other retailers are often…",
+      "url": "https://www.theverge.com/gadgets/1005662/apple-ipad-macbook-airpod-prime-day-deal-sale"
+    },
+    {
+      "id": "3b7ef17bf2",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Ars Technica",
+      "published": "2026-10-07T01:21:14+00:00",
+      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "summary": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
+      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/"
+    },
+    {
+      "id": "b1b56bb06a",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-07T00:52:38+00:00",
+      "title": "Doom on the Vectrex turns the classic shooter into Tron-like vector art",
+      "summary": "With some processing caveats of course.",
+      "url": "https://www.engadget.com/2279239/doom-on-the-vectrex-turns-the-classic-shooter-into-tron-like-vector-art/"
+    },
+    {
+      "id": "8d79d2b44c",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-07T00:31:46+00:00",
+      "title": "Skydance will combine HBO Max and Paramount+ into a single streaming service",
+      "summary": "Please don't name it ParaMax.",
+      "url": "https://www.engadget.com/2279192/skydance-will-combine-hbo-max-and-paramount-into-a-single-streaming-service/"
+    }
+  ],
+  "rumors": [
+    {
+      "id": "172d5e9ad7",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "The Emmy Awards are moving to Prime Video in 2027",
+      "detail": "Amazon is reportedly paying up to $25 million a year for exclusive global rights to the ceremony.",
+      "url": "https://www.engadget.com/2278708/the-emmy-awards-are-moving-to-prime-video-in-2027/",
+      "sources": 1,
+      "mentions": 2,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 18
+    },
+    {
+      "id": "6c2c993a1c",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "Apple reportedly worked with LG on gadgets for its upcoming smart home push",
+      "detail": "The doorbell, security cameras, thermostats and more could be announced next week.",
+      "url": "https://www.engadget.com/2279541/apple-reportedly-worked-with-lg-on-gadgets-for-its-upcoming-smart-home-push/",
+      "sources": 1,
+      "mentions": 2,
+      "credible": 1,
+      "days": 0,
+      "tickers": [
+        "AAPL"
+      ],
+      "score": 18
+    },
+    {
+      "id": "0611f088eb",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
+      "detail": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner.",
+      "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
+      "sources": 1,
+      "mentions": 2,
+      "credible": 1,
+      "days": 0,
+      "tickers": [
+        "AAPL"
+      ],
+      "score": 18
+    },
+    {
+      "id": "924fa0f5a0",
+      "topic": "Tech",
+      "status": "Unconfirmed",
+      "title": "Cloudflare plans to issue quantum-safe TLS certificates",
+      "detail": "The move will be part of a major overhaul of the ecosystem for website authentication.",
+      "url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 6,
+      "tickers": [
+        "NET"
+      ],
+      "score": 15
+    },
+    {
+      "id": "bb4c5cf8a0",
+      "topic": "AI",
+      "status": "Just surfaced",
+      "title": "LibreOffice says ‘no AI’ is now a software feature",
+      "detail": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 15
+    },
+    {
+      "id": "e5bb4ab48b",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "Two mystery PlayStation products have leaked — one might be a PlayStation Portal OLED",
+      "detail": "Is Sony about to announce a new PlayStation Portal game streaming handheld? The Wi-Fi Alliance recently certified two unannounced PlayStation products of some kind, and the certification documents indicate that they could be updates to the PlayStation Portal, which might mean…",
+      "url": "https://www.theverge.com/games/1006092/playstation-portal-oled-wi-fi-alliance-certifications",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 15
+    },
+    {
+      "id": "d564901a6d",
+      "topic": "AI",
+      "status": "Just surfaced",
+      "title": "It’s ‘more likely than not’ humanity loses control: Former AI insiders testify safety fixes may be ‘duct tape that will fall off later’",
+      "detail": "submitted by /u/AxomaticallyExtinct [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1wz183d/its_more_likely_than_not_humanity_loses_control/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 0,
+      "days": 0,
+      "tickers": [],
+      "score": 8
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "ASML",
+      "name": "ASML",
+      "price": 1834.1,
+      "changePct": -0.0,
+      "catalyst": "Earnings report",
+      "when": "Wed",
+      "signals": [
+        "Earnings"
+      ],
+      "spark": [
+        1771.41,
+        1834.39,
+        1811.67,
+        1808.49,
+        1867.31,
+        1859.86,
+        1834.1
+      ],
+      "score": 41.0
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "price": 333.63,
+      "changePct": 1.3,
+      "catalyst": "How to help stop spam calls on iPhone and Android",
+      "when": "In the news",
+      "signals": [
+        "7 headlines"
+      ],
+      "spark": [
+        338.4,
+        329.4,
+        333.02,
+        330.32,
+        333.69,
+        332.89,
+        333.63
+      ],
+      "score": 32.6
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "price": 347.68,
+      "changePct": 2.0,
+      "catalyst": "Google’s power-hungry data centers crave nuclear energy",
+      "when": "In the news",
+      "signals": [
+        "5 headlines"
+      ],
+      "spark": [
+        342.75,
+        340.92,
+        344.08,
+        338.24,
+        343.5,
+        346.47,
+        347.68
+      ],
+      "score": 29.0
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "price": 256.29,
+      "changePct": 3.9,
+      "catalyst": "How to find out if Amazon thinks you have ‘flat buttocks’",
+      "when": "In the news",
+      "signals": [
+        "3 headlines"
+      ],
+      "spark": [
+        246.15,
+        246.67,
+        249.15,
+        248.23,
+        251.52,
+        251.4,
+        256.29
+      ],
+      "score": 22.8
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "price": 380.68,
+      "changePct": 7.9,
+      "catalyst": "Tesla’s Model 3 and Model Y can be a backup battery for your house",
+      "when": "In the news",
+      "signals": [
+        "Big price move"
+      ],
+      "spark": [
+        357.45,
+        352.84,
+        354.81,
+        354.11,
+        370.59,
+        378.73,
+        380.68
+      ],
+      "score": 20.8
+    }
+  ]
+}

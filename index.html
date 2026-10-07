@@ -1,0 +1,439 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#f3f5f8" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0d1118" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<link rel="icon" type="image/png" href="icons/icon-192.png">
+<style>
+:root { color-scheme: light; padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px); }
+body { margin: 0; }
+img { max-width: 100%; }
+[hidden] { display: none !important; }
+</style>
+<title>Tech Pulse</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Tech Pulse">
+<style>
+/* Layout: phone-first app shell — sticky header, scrolling feed, fixed bottom tab bar */
+:root {
+  --bg: #f3f5f8;
+  --surface: #ffffff;
+  --ink: #141a24;
+  --muted: #5d6879;
+  --line: #dde2ea;
+  --accent: #1f5bd8;
+  --accent-soft: #e4ecfc;
+  --up: #12804a;
+  --down: #c2362b;
+  --warn: #a8670a;
+  --heat-hi: #d2451e;
+  --heat-mid: #c27a0e;
+  --heat-lo: #5b78b8;
+  --font-display: "Bricolage Grotesque", "Avenir Next", system-ui, sans-serif;
+  --font-body: "IBM Plex Sans", -apple-system, "Segoe UI", sans-serif;
+  --font-data: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+  --tabbar-h: 62px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0d1118; --surface: #161c26; --ink: #e8ecf3; --muted: #93a0b4; --line: #263042;
+    --accent: #6f9bff; --accent-soft: #1c2a47; --up: #3fcf86; --down: #ff7a6e; --warn: #f0b04a; --heat-hi: #ff7a50; --heat-mid: #f0b04a; --heat-lo: #8aa6e8;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0d1118; --surface: #161c26; --ink: #e8ecf3; --muted: #93a0b4; --line: #263042;
+  --accent: #6f9bff; --accent-soft: #1c2a47; --up: #3fcf86; --down: #ff7a6e; --warn: #f0b04a; --heat-hi: #ff7a50; --heat-mid: #f0b04a; --heat-lo: #8aa6e8;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--ink);
+  font-family: var(--font-body); font-size: 15px; line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; }
+button:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 6px; }
+
+.app { max-width: 560px; margin: 0 auto; padding-inline: 16px; padding-bottom: calc(var(--tabbar-h) + 24px + env(safe-area-inset-bottom, 0px)); }
+
+/* Header */
+.top {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5;
+  background: var(--bg); padding-block: 14px 10px;
+  display: flex; align-items: flex-end; justify-content: space-between; gap: 12px;
+  border-bottom: 1px solid var(--line);
+}
+.brand { font-family: var(--font-display); font-weight: 800; font-size: 26px; letter-spacing: -0.02em; line-height: 1; }
+.brand span { color: var(--accent); }
+.stamp { font-family: var(--font-data); font-size: 11px; color: var(--muted); text-align: right; line-height: 1.4; }
+.sample {
+  display: inline-block; font-family: var(--font-data); font-size: 10px; letter-spacing: 0.08em;
+  text-transform: uppercase; color: var(--warn); border: 1px solid currentColor; border-radius: 4px; padding: 1px 5px;
+}
+
+h2 { font-family: var(--font-display); font-weight: 600; font-size: 20px; letter-spacing: -0.01em; margin: 0; text-wrap: balance; }
+.eyebrow { font-size: 11px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+.view { display: flex; flex-direction: column; gap: 22px; padding-top: 18px; }
+.section { display: flex; flex-direction: column; gap: 10px; }
+.section-head { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; }
+
+/* Brief */
+.brief { background: var(--accent-soft); border-radius: 14px; padding: 16px; display: flex; flex-direction: column; gap: 10px; }
+.brief ul { margin: 0; padding-left: 18px; display: flex; flex-direction: column; gap: 6px; }
+.brief li::marker { color: var(--accent); }
+
+/* Ticker strip */
+.strip { display: flex; gap: 8px; overflow-x: auto; scrollbar-width: none; margin-inline: -16px; padding-inline: 16px; }
+.strip::-webkit-scrollbar { display: none; }
+.chip-tick {
+  flex: 0 0 auto; background: var(--surface); border: 1px solid var(--line); border-radius: 10px;
+  padding: 8px 12px; font-family: var(--font-data); font-size: 13px; display: flex; gap: 8px; align-items: baseline;
+}
+.chip-tick b { font-weight: 500; }
+.up { color: var(--up); } .down { color: var(--down); }
+.num { font-variant-numeric: tabular-nums; }
+
+/* Stories */
+.list { display: flex; flex-direction: column; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; }
+.story { display: grid; grid-template-columns: 1fr auto; gap: 4px 10px; padding: 14px; border-top: 1px solid var(--line); }
+.story:first-child { border-top: 0; }
+.story-main { min-width: 0; text-align: left; display: flex; flex-direction: column; gap: 4px; }
+.meta { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; font-size: 12px; color: var(--muted); }
+.tag { font-size: 11px; font-weight: 600; padding: 1px 7px; border-radius: 99px; background: var(--accent-soft); color: var(--accent); }
+.tag.kind { background: transparent; border: 1px solid var(--line); color: var(--muted); }
+.title { font-weight: 600; font-size: 15.5px; line-height: 1.35; }
+.detail { grid-column: 1 / -1; color: var(--muted); font-size: 14px; display: flex; flex-direction: column; gap: 8px; }
+.detail a { color: var(--accent); font-weight: 500; text-decoration: none; }
+.star { width: 36px; height: 36px; display: grid; place-items: center; border-radius: 8px; color: var(--muted); align-self: start; }
+.star[aria-pressed="true"] { color: var(--warn); }
+.star svg { width: 20px; height: 20px; }
+
+/* Filters */
+.filters { display: flex; gap: 8px; overflow-x: auto; scrollbar-width: none; margin-inline: -16px; padding-inline: 16px; }
+.filters::-webkit-scrollbar { display: none; }
+.filter { flex: 0 0 auto; padding: 7px 14px; border-radius: 99px; border: 1px solid var(--line); background: var(--surface); font-size: 13px; font-weight: 500; }
+.filter[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+
+/* Watchlist */
+.watch { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 14px; display: flex; flex-direction: column; gap: 10px; text-align: left; width: 100%; }
+.watch-row { display: grid; grid-template-columns: auto 1fr auto; gap: 12px; align-items: center; }
+.rank { font-family: var(--font-data); font-size: 12px; color: var(--muted); width: 18px; }
+.tk { font-family: var(--font-data); font-weight: 500; font-size: 17px; }
+.co { font-size: 12px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.price { text-align: right; font-family: var(--font-data); font-size: 14px; }
+.price small { display: block; font-size: 12px; }
+.catalyst { display: flex; gap: 8px; align-items: center; font-size: 13.5px; }
+.when { font-family: var(--font-data); font-size: 11px; background: var(--accent-soft); color: var(--accent); padding: 2px 7px; border-radius: 5px; flex: 0 0 auto; }
+.spark { width: 100%; height: 44px; display: block; }
+.signals { display: flex; flex-wrap: wrap; gap: 6px; }
+.signal { font-size: 11.5px; padding: 2px 8px; border-radius: 6px; border: 1px solid var(--line); color: var(--muted); }
+.note { font-size: 12px; color: var(--muted); line-height: 1.45; }
+
+/* Rumors */
+.rumor { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 14px; display: flex; flex-direction: column; gap: 10px; }
+.rumor-hit { display: flex; flex-direction: column; gap: 10px; text-align: left; width: 100%; }
+.rumor-top { display: grid; grid-template-columns: auto 1fr auto; gap: 12px; align-items: start; }
+.rumor-body { min-width: 0; display: flex; flex-direction: column; gap: 4px; }
+.score { text-align: right; display: flex; flex-direction: column; align-items: flex-end; line-height: 1.1; }
+.score b { font-family: var(--font-data); font-weight: 500; font-size: 22px; }
+.score small { font-size: 11px; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; }
+.meter { height: 6px; border-radius: 99px; background: var(--line); overflow: hidden; }
+.meter i { display: block; height: 100%; border-radius: inherit; background: currentColor; }
+.hi { color: var(--heat-hi); } .mid { color: var(--heat-mid); } .lo { color: var(--heat-lo); } .faint { color: var(--muted); }
+.evidence { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 13px; color: var(--ink); }
+.evidence b { font-family: var(--font-data); font-weight: 500; }
+
+.empty { text-align: center; padding: 36px 16px; color: var(--muted); background: var(--surface); border: 1px dashed var(--line); border-radius: 14px; }
+
+/* Tab bar */
+.tabbar {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 10;
+  background: var(--surface); border-top: 1px solid var(--line);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+.tabbar-inner { max-width: 560px; margin: 0 auto; display: grid; grid-template-columns: repeat(5, 1fr); height: var(--tabbar-h); }
+.tab { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 3px; font-size: 11px; font-weight: 500; color: var(--muted); }
+.tab svg { width: 22px; height: 22px; }
+.tab[aria-selected="true"] { color: var(--accent); }
+
+@media (prefers-reduced-motion: no-preference) {
+  .view { animation: rise .25s ease-out; }
+  @keyframes rise { from { transform: translateY(6px); opacity: .6; } to { transform: none; opacity: 1; } }
+}
+</style>
+
+</head>
+<body>
+<div class="app">
+  <header class="top">
+    <div>
+      <div class="brand">Tech<span>Pulse</span></div>
+    </div>
+    <div class="stamp">
+      <span class="sample" id="sample-badge">Sample data</span><br>
+      <span id="stamp"></span>
+    </div>
+  </header>
+  <main id="view"></main>
+</div>
+
+<nav class="tabbar" aria-label="Sections">
+  <div class="tabbar-inner" role="tablist" id="tabs"></div>
+</nav>
+
+<script>
+/* ---------- DATA ----------
+   On load the app fetches data/briefing.json, which the Python pipeline writes.
+   If that file can't be reached, it shows this SAMPLE content instead — not real news or prices. */
+const SAMPLE = {
+  weekOf: "2026-10-05",
+  updated: "2026-10-06T07:00:00-05:00",
+  summary: [
+    "AI chip demand stays the main story, with two new accelerator announcements this week.",
+    "Earnings season starts: three watchlist companies report between Tuesday and Friday.",
+    "Startup funding is concentrated in AI agents and robotics; one founder exit made headlines."
+  ],
+  stories: [
+    { id: "s1", topic: "Chips", kind: "Launch", source: "Sample Wire", time: "2h", title: "Chipmaker unveils next-gen AI accelerator with 2x memory bandwidth", summary: "The new part targets data-center training clusters and ships to cloud partners first. Analysts expect it to pressure rivals' pricing next year.", url: "#" },
+    { id: "s2", topic: "AI", kind: "Founder", source: "Sample Daily", time: "4h", title: "Robotics founder raises $120M Series B to scale warehouse arms", summary: "The two-year-old startup says its robots now handle mixed-item picking. The round was led by a growth fund and values the company near $1B.", url: "#" },
+    { id: "s3", topic: "Cloud", kind: "Company", source: "Sample Wire", time: "6h", title: "Big cloud provider cuts GPU instance prices ahead of earnings", summary: "Price cuts of up to 30% on older GPU instances suggest new capacity is coming online. Margins will be a key question on the earnings call.", url: "#" },
+    { id: "s4", topic: "AI", kind: "Launch", source: "Sample Tech", time: "9h", title: "Open-source model release tops coding benchmarks", summary: "A research lab released model weights under a permissive license. Developers are testing it as a cheaper option for in-house tools.", url: "#" },
+    { id: "s5", topic: "Startups", kind: "Founder", source: "Sample Daily", time: "1d", title: "Fintech founder steps down after acquisition closes", summary: "The founder will stay on as an advisor. The deal is one of the larger fintech exits this year.", url: "#" },
+    { id: "s6", topic: "Devices", kind: "Launch", source: "Sample Tech", time: "1d", title: "New AR glasses ship with on-device AI assistant", summary: "Early reviews praise the display but note two-hour battery life. Preorders open next week.", url: "#" },
+    { id: "s7", topic: "Chips", kind: "Company", source: "Sample Wire", time: "2d", title: "Foundry reports record utilization at advanced nodes", summary: "Monthly sales rose on AI demand. Management raised its capital spending plan for next year.", url: "#" }
+  ],
+  /* Rumors: the pipeline only supplies counts; the app turns them into a strength score.
+     sources = distinct outlets/accounts reporting it, mentions = total posts/articles,
+     credible = how many of the sources are established outlets, days = days since first seen */
+  rumors: [
+    { id: "r1", topic: "Devices", status: "Gaining traction", title: "A major phone maker is testing a foldable for next fall", detail: "Supply-chain reports say hinge parts were ordered in volume. No company comment.", sources: 9, mentions: 34, credible: 4, days: 6, tickers: ["AAPL"] },
+    { id: "r2", topic: "AI", status: "Unconfirmed", title: "A top AI lab is in talks to buy a chip startup", detail: "Several posts cite unnamed people familiar with the talks. Price talk ranges widely.", sources: 6, mentions: 45, credible: 2, days: 2, tickers: [] },
+    { id: "r3", topic: "Cloud", status: "Gaining traction", title: "Big cloud provider plans a new data-center region in Texas", detail: "Local permit filings and job postings line up with the reports.", sources: 7, mentions: 14, credible: 3, days: 9, tickers: ["AMZN"] },
+    { id: "r4", topic: "Startups", status: "Unconfirmed", title: "Hot robotics startup said to be raising at a $5B valuation", detail: "One newsletter report, picked up by social accounts. No filings yet.", sources: 3, mentions: 21, credible: 1, days: 1, tickers: [] },
+    { id: "r5", topic: "Chips", status: "Just surfaced", title: "Chip shortage rumored for a popular gaming GPU", detail: "Retailer chatter and a few forum posts. Thin evidence so far.", sources: 2, mentions: 6, credible: 0, days: 1, tickers: ["NVDA"] }
+  ],
+  watchlist: [
+    { ticker: "NVDA", name: "NVIDIA", price: 182.40, changePct: 3.1, catalyst: "New accelerator launch + analyst day", when: "Thu", signals: ["Product launch", "News spike"], spark: [170,172,171,175,174,178,182] },
+    { ticker: "TSM", name: "Taiwan Semiconductor", price: 214.75, changePct: 1.8, catalyst: "Monthly sales report", when: "Fri", signals: ["Earnings-related", "Volume up"], spark: [205,207,206,209,211,212,215] },
+    { ticker: "AMZN", name: "Amazon", price: 221.10, changePct: -0.9, catalyst: "Cloud price cuts ahead of earnings", when: "Wed", signals: ["News spike"], spark: [226,224,225,223,222,223,221] },
+    { ticker: "MSFT", name: "Microsoft", price: 512.30, changePct: 0.6, catalyst: "Developer conference keynote", when: "Tue", signals: ["Event"], spark: [505,507,506,508,509,511,512] },
+    { ticker: "AMD", name: "Advanced Micro Devices", price: 164.85, changePct: -2.2, catalyst: "Competitor launch pressure", when: "All week", signals: ["Price move", "News spike"], spark: [172,171,169,168,167,166,165] }
+  ]
+};
+let BRIEFING = SAMPLE;
+let isSample = true;
+
+/* ---------- STATE ---------- */
+const store = {
+  get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch { return d; } },
+  set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} }
+};
+let saved = new Set(store.get("tp-saved", []));
+let tab = store.get("tp-tab", "today");
+let topic = "All";
+let open = null;
+
+const ICONS = {
+  today: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M4 6h16M4 12h16M4 18h10"/></svg>',
+  watch: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 17l6-6 4 4 8-8"/><path d="M15 7h6v6"/></svg>',
+  topics: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="4" y="4" width="7" height="7" rx="2"/><rect x="13" y="4" width="7" height="7" rx="2"/><rect x="4" y="13" width="7" height="7" rx="2"/><rect x="13" y="13" width="7" height="7" rx="2"/></svg>',
+  saved: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"><path d="M6 4h12v16l-6-4-6 4z"/></svg>',
+  starOff: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"><path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg>',
+  starOn: '<svg viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"><path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg>'
+};
+ICONS.street = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v10H9l-5 4z"/><path d="M8 9h8M8 12h5"/></svg>';
+const TABS = [["today","Today"],["watch","Watchlist"],["street","Street"],["topics","Topics"],["saved","Saved"]];
+
+/* Rumor strength, 0–100: more independent sources, more credible outlets
+   and more chatter all raise it. Mentions are log-scaled so hype alone can't win. */
+function rumorScore(r) {
+  const src = Math.min(r.sources, 10) / 10 * 40;
+  const cred = Math.min(r.credible, 5) / 5 * 35;
+  const buzz = Math.min(Math.log10(r.mentions + 1) / Math.log10(51), 1) * 25;
+  return Math.round(src + cred + buzz);
+}
+function rumorLevel(s) {
+  return s >= 75 ? ["Strong", "hi"] : s >= 50 ? ["Moderate", "mid"] : s >= 30 ? ["Weak", "lo"] : ["Faint", "faint"];
+}
+function rumorHTML(r, rank) {
+  const s = rumorScore(r), [label, cls] = rumorLevel(s), isOpen = open === r.id;
+  return `<div class="rumor"><button class="rumor-hit" data-open="${r.id}" aria-expanded="${isOpen}">
+    <div class="rumor-top">
+      <span class="rank">${rank}</span>
+      <div class="rumor-body">
+        <span class="meta"><span class="tag">${esc(r.topic)}</span><span>${esc(r.status)} · first seen ${r.days}d ago</span></span>
+        <span class="title">${esc(r.title)}</span>
+      </div>
+      <div class="score ${cls}"><b class="num">${s}</b><small>${label}</small></div>
+    </div>
+    <div class="meter ${cls}" role="img" aria-label="Strength ${s} of 100"><i style="width:${s}%"></i></div>
+    </button>
+    ${isOpen ? `<div class="detail">
+      <span>${esc(r.detail)}</span>
+      <div class="evidence">
+        <span><b class="num">${r.sources}</b> sources</span>
+        <span><b class="num">${r.credible}</b> established outlets</span>
+        <span><b class="num">${r.mentions}</b> mentions</span>
+      </div>
+      ${r.tickers.length ? `<div class="signals">${r.tickers.map(t => `<span class="signal">${esc(t)}</span>`).join("")}</div>` : ""}
+      ${linkHTML(r.url, "Read the report →")}
+    </div>` : ""}
+  </div>`;
+}
+const rankedRumors = () => [...BRIEFING.rumors].sort((a, b) => rumorScore(b) - rumorScore(a));
+
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const pct = n => (n > 0 ? "+" : "") + n.toFixed(1) + "%";
+
+/* ---------- RENDER PIECES ---------- */
+function storyHTML(s) {
+  const isOpen = open === s.id, isSaved = saved.has(s.id);
+  return `<div class="story">
+    <button class="story-main" data-open="${s.id}" aria-expanded="${isOpen}">
+      <span class="meta"><span class="tag">${esc(s.topic)}</span><span class="tag kind">${esc(s.kind)}</span><span>${esc(s.source)} · ${esc(s.published ? ago(s.published) : s.time)}</span></span>
+      <span class="title">${esc(s.title)}</span>
+    </button>
+    <button class="star" data-save="${s.id}" aria-pressed="${isSaved}" aria-label="${isSaved ? "Remove from saved" : "Save story"}">${isSaved ? ICONS.starOn : ICONS.starOff}</button>
+    ${isOpen ? `<div class="detail"><span>${esc(s.summary)}</span>${linkHTML(s.url, "Read the full story →")}</div>` : ""}
+  </div>`;
+}
+const listHTML = items => items.length ? `<div class="list">${items.map(storyHTML).join("")}</div>` : `<div class="empty">No stories in this update yet.</div>`;
+const linkHTML = (url, label) => url && url !== "#" ? `<a href="${esc(url)}" target="_blank" rel="noopener">${label}</a>` : "";
+function ago(iso) {
+  const mins = Math.max(0, (Date.now() - new Date(iso).getTime()) / 60000);
+  if (mins < 60) return Math.round(mins) + "m";
+  if (mins < 1440) return Math.round(mins / 60) + "h";
+  return Math.round(mins / 1440) + "d";
+}
+
+function spark(values, up) {
+  const w = 300, h = 44, p = 4, min = Math.min(...values), max = Math.max(...values), r = max - min || 1;
+  const pts = values.map((v, i) => [p + i * (w - 2 * p) / (values.length - 1), h - p - (v - min) / r * (h - 2 * p)]);
+  const d = pts.map((q, i) => (i ? "L" : "M") + q[0].toFixed(1) + " " + q[1].toFixed(1)).join(" ");
+  const color = up ? "var(--up)" : "var(--down)", last = pts[pts.length - 1];
+  return `<svg class="spark" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" aria-hidden="true">
+    <path d="${d} L${last[0]} ${h} L${p} ${h} Z" fill="${color}" opacity="0.1"/>
+    <path d="${d}" fill="none" stroke="${color}" stroke-width="2" vector-effect="non-scaling-stroke"/>
+    <circle cx="${last[0]}" cy="${last[1]}" r="3" fill="${color}"/>
+  </svg>`;
+}
+
+function watchHTML(w, i) {
+  const up = w.changePct >= 0;
+  return `<div class="watch">
+    <div class="watch-row">
+      <span class="rank">${i + 1}</span>
+      <div style="min-width:0"><div class="tk">${esc(w.ticker)}</div><div class="co">${esc(w.name)}</div></div>
+      <div class="price num">$${w.price.toFixed(2)}<small class="${up ? "up" : "down"}">${pct(w.changePct)} wk</small></div>
+    </div>
+    ${spark(w.spark, up)}
+    <div class="catalyst"><span class="when">${esc(w.when)}</span><span>${esc(w.catalyst)}</span></div>
+    <div class="signals">${w.signals.map(x => `<span class="signal">${esc(x)}</span>`).join("")}</div>
+  </div>`;
+}
+
+/* ---------- VIEWS ---------- */
+const VIEWS = {
+  today() {
+    const strip = BRIEFING.watchlist.map(w => `<span class="chip-tick"><b>${w.ticker}</b><span class="num ${w.changePct >= 0 ? "up" : "down"}">${pct(w.changePct)}</span></span>`).join("");
+    return `
+      <section class="brief" aria-label="This week in 30 seconds">
+        <span class="eyebrow">This week in 30 seconds</span>
+        <ul>${BRIEFING.summary.map(x => `<li>${esc(x)}</li>`).join("")}</ul>
+      </section>
+      <section class="section"><div class="section-head"><h2>On the watchlist</h2><button class="eyebrow" data-tab="watch">See all →</button></div>
+        <div class="strip">${strip}</div></section>
+      <section class="section"><div class="section-head"><h2>Word on the street</h2><button class="eyebrow" data-tab="street">All rumors →</button></div>
+        ${rankedRumors().slice(0, 2).map((r, i) => rumorHTML(r, i + 1)).join("")}</section>
+      <section class="section"><div class="section-head"><h2>Headlines</h2><span class="eyebrow">${BRIEFING.stories.length} stories</span></div>
+        ${listHTML(BRIEFING.stories)}</section>`;
+  },
+  street() {
+    return `<section class="section"><div class="section-head"><h2>Word on the street</h2><span class="eyebrow">${BRIEFING.rumors.length} rumors</span></div>
+      <p class="note">Unconfirmed reports, ranked by how much evidence backs them: independent sources, established outlets and overall chatter. A high score means widely reported, not confirmed. Tap one to see the evidence.</p>
+      ${BRIEFING.rumors.length ? rankedRumors().map((r, i) => rumorHTML(r, i + 1)).join("") : `<div class="empty">No rumors making the rounds right now.</div>`}</section>`;
+  },
+  watch() {
+    return `<section class="section"><div class="section-head"><h2>5 to watch this week</h2></div>
+      <p class="note">Ranked by catalysts happening this week: earnings, launches, news volume and price moves. A watchlist, not buy or sell advice.</p>
+      ${BRIEFING.watchlist.length ? BRIEFING.watchlist.map(watchHTML).join("") : `<div class="empty">No market data in this update. It will return on the next run.</div>`}</section>`;
+  },
+  topics() {
+    const topics = ["All", ...new Set(BRIEFING.stories.map(s => s.topic))];
+    const items = BRIEFING.stories.filter(s => topic === "All" || s.topic === topic);
+    return `<section class="section"><h2>Browse by topic</h2>
+      <div class="filters" role="group" aria-label="Topic">${topics.map(t => `<button class="filter" data-topic="${esc(t)}" aria-pressed="${t === topic}">${esc(t)}</button>`).join("")}</div>
+      ${listHTML(items)}</section>`;
+  },
+  saved() {
+    const items = BRIEFING.stories.filter(s => saved.has(s.id));
+    return `<section class="section"><h2>Saved stories</h2>
+      ${items.length ? listHTML(items) : `<div class="empty">Tap the star on any headline to keep it here for later.</div>`}</section>`;
+  }
+};
+
+function render() {
+  document.getElementById("tabs").innerHTML = TABS.map(([k, label]) =>
+    `<button class="tab" role="tab" data-tab="${k}" aria-selected="${tab === k}">${ICONS[k]}<span>${label}</span></button>`).join("");
+  const v = document.getElementById("view");
+  v.innerHTML = `<div class="view">${VIEWS[tab]()}</div>`;
+}
+
+document.addEventListener("click", e => {
+  const t = e.target.closest("[data-tab],[data-open],[data-save],[data-topic]");
+  if (!t) return;
+  if (t.dataset.tab) { tab = t.dataset.tab; open = null; store.set("tp-tab", tab); render(); window.scrollTo(0, 0); return; }
+  if (t.dataset.open) { open = open === t.dataset.open ? null : t.dataset.open; render(); return; }
+  if (t.dataset.save) { const id = t.dataset.save; saved.has(id) ? saved.delete(id) : saved.add(id); store.set("tp-saved", [...saved]); render(); return; }
+  if (t.dataset.topic) { topic = t.dataset.topic; render(); }
+});
+
+function setStamp() {
+  const badge = document.getElementById("sample-badge");
+  badge.hidden = !isSample;
+  const stamp = document.getElementById("stamp");
+  if (isSample) {
+    const d = new Date(BRIEFING.weekOf + "T12:00:00");
+    stamp.textContent = "Week of " + d.toLocaleDateString("en-US", { month: "short", day: "numeric" });
+  } else {
+    const u = new Date(BRIEFING.updated);
+    stamp.textContent = "Updated " + u.toLocaleDateString("en-US", { weekday: "short" }) + " " +
+      u.toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit" });
+  }
+}
+
+async function loadBriefing() {
+  try {
+    const res = await fetch("data/briefing.json", { cache: "no-store" });
+    if (!res.ok) throw new Error(res.status);
+    const data = await res.json();
+    if (!Array.isArray(data.stories)) throw new Error("bad data");
+    BRIEFING = { summary: [], stories: [], rumors: [], watchlist: [], ...data };
+    isSample = false;
+    setStamp();
+    render();
+  } catch { /* keep showing the sample */ }
+}
+
+setStamp();
+render();
+loadBriefing();
+// Pick up a fresh briefing when you come back to the app.
+document.addEventListener("visibilitychange", () => { if (!document.hidden) loadBriefing(); });
+</script>
+<script>
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
+}
+</script>
+</body>
+</html>
