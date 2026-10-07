@@ -1,296 +1,264 @@
 {
   "weekOf": "2026-10-05",
-  "updated": "2026-10-07T11:29:10+00:00",
+  "updated": "2026-10-07T22:27:11+00:00",
   "summary": [
-    "Tech leads the news with 16 of 25 stories. Top headline: Ultrahuman now offers on-demand heart rhythm scans",
+    "AI leads the news with 13 of 25 stories. Top headline: BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
     "Earnings this week from ASML.",
-    "Strongest rumor: Apple reportedly worked with LG on gadgets for its upcoming smart home push"
+    "Strongest rumor: Cloudflare plans to issue quantum-safe TLS certificates"
   ],
   "stories": [
     {
-      "id": "017406967e",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-07T11:00:00+00:00",
-      "title": "Ultrahuman now offers on-demand heart rhythm scans",
-      "summary": "Ultrahuman is now offering on-demand heart rhythm scans to help you check for signs of Afib in real-time.",
-      "url": "https://www.engadget.com/2278463/ultrahuman-on-demand-afib-heart-rhythm-scan/"
-    },
-    {
-      "id": "361d53ba6f",
-      "topic": "Chips",
-      "kind": "Founder",
-      "source": "Engadget",
-      "published": "2026-10-07T11:00:00+00:00",
-      "title": "How to watch the Microsoft Windows and Surface event",
-      "summary": "Microsoft CEO Satya Nadella and NVIDIA CEO Jensen Huang join Windows and Devices chief Pavan Davuluri at the company's San Francisco event today.",
-      "url": "https://www.engadget.com/2279620/how-to-watch-microsoft-windows-surface-event/"
-    },
-    {
-      "id": "44f772d580",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-07T10:27:44+00:00",
-      "title": "Jaguar's controversial Type 01 EV looks like a '40s gangster car built for the modern electric era",
-      "summary": "Jaguar's Type 01 EV is designed to attract affluent young buyers with its deliberately polarizing design.",
-      "url": "https://www.engadget.com/2279734/jaguars-controversial-type-01-ev-looks-like-a-40s-gangster-car-built-for-the-modern-electric-era/"
-    },
-    {
-      "id": "d97d1b2869",
+      "id": "ee3807a1a6",
       "topic": "Tech",
       "kind": "Company",
       "source": "The Verge",
-      "published": "2026-10-07T10:03:46+00:00",
-      "title": "Jaguar’s first EV looks just like its divisive concept car",
-      "summary": "The Type 01, Jaguar's most important and divisive car in years, has arrived. The production follow-up to the polarising Type 00 concept, Jaguar says the electric, four-door grand tourer is its most powerful road car ever. Even though the Type 00's design chief was reportedly…",
-      "url": "https://www.theverge.com/transportation/1006536/jaguar-type-01-design-specs-price-reveal"
+      "published": "2026-10-07T22:01:00+00:00",
+      "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
+      "summary": "While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress in both drive quality and price. The latest is the BMW iX4, a coupe-shaped SUV…",
+      "url": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china"
     },
     {
-      "id": "997dbed661",
+      "id": "69e43e87f8",
+      "topic": "Policy",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-07T21:32:33+00:00",
+      "title": "The FCC proposes new mid-band spectrum auction and unlocking 800MHz for drones",
+      "summary": "The agency is doubling down on direct-to-device service.",
+      "url": "https://www.engadget.com/2280708/the-fcc-proposes-new-mid-band-spectrum-auction-and-unlocking-800mhz-for-drones/"
+    },
+    {
+      "id": "741e2ad2c5",
+      "topic": "Tech",
+      "kind": "Founder",
+      "source": "The Verge",
+      "published": "2026-10-07T21:19:54+00:00",
+      "title": "Teenage Engineering’s CEO says it’ll stop making synths",
+      "summary": "Teenage Engineering founder and CEO Jesper Kouthoofd told Highsnobiety that it plans to stop making synths. And yes, that includes the iconic OP-1, which put the company on the map. TE isn't just a music gear maker; it's also a sought-after design firm. It's collaborated with…",
+      "url": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths"
+    },
+    {
+      "id": "d46ad0e2d4",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "TechCrunch",
+      "published": "2026-10-07T20:48:45+00:00",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
+    },
+    {
+      "id": "ac00d3eca4",
+      "topic": "Devices",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-10-07T20:44:34+00:00",
+      "title": "Android’s physical navigation buttons are back on Googlebooks, but not the way you think",
+      "summary": "A common misconception I've seen with Googlebooks is that the Quick Insert and Google logo keys are new. They're not, as they first debuted a couple of years ago on some Chromebooks. But there is something new for Googlebooks that's ripped straight from Android phones circa…",
+      "url": "https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think"
+    },
+    {
+      "id": "bf0986171b",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-07T20:30:00+00:00",
+      "title": "We found some great October Prime Day deals under $50",
+      "summary": "Getting in on the Prime Day action doesn’t have to result in an empty wallet. Just as we found a couple handfuls of goodies that are under $25, there are plenty of deals during Amazon’s October sale that are $50 or less, many of which offer a lot of practical value. Everything…",
+      "url": "https://www.theverge.com/gadgets/1007110/october-prime-day-budget-deals-under-50"
+    },
+    {
+      "id": "46088d4ed4",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "TechCrunch",
+      "published": "2026-10-07T20:22:37+00:00",
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
+    },
+    {
+      "id": "0fa1f7fb48",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-07T19:59:32+00:00",
+      "title": "Here's what the $6,000 Surface RTX Spark Dev Box looks like",
+      "summary": "Honestly, a bit like an oversized Lego brick.",
+      "url": "https://www.engadget.com/2280568/heres-what-the-dollar6000-surface-rtx-spark-dev-box-looks-like/"
+    },
+    {
+      "id": "a1d86f78ca",
+      "topic": "Tech",
+      "kind": "Founder",
+      "source": "The Verge",
+      "published": "2026-10-07T19:27:39+00:00",
+      "title": "Roku’s OLED TVs are up to $400 off during Prime Day, starting at $700",
+      "summary": "Just over a week ago, we covered a deal at Amazon that knocked around 30 percent off Roku’s new (and first-ever) OLED TVs. The deal expired, but has returned for the final day of October Prime Day. The 55-inch Pro Series OLED is $699.99 at Amazon, which is 30 percent off its…",
+      "url": "https://www.theverge.com/gadgets/1007149/roku-oled-tv-pro-prime-day-deal-sale"
+    },
+    {
+      "id": "4c57b12cef",
       "topic": "AI",
       "kind": "Launch",
       "source": "The Verge",
-      "published": "2026-10-07T09:00:00+00:00",
-      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
-      "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media"
+      "published": "2026-10-07T19:10:42+00:00",
+      "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+      "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6"
     },
     {
-      "id": "dc31efd0e4",
-      "topic": "Tech",
+      "id": "bca98fb756",
+      "topic": "Devices",
       "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-07T08:58:55+00:00",
-      "title": "Apple TV's F1 coverage will now support Dolby Atmos",
-      "summary": "Apple TV's F1 coverage will feature Dolby Atmos support, starting with the US Grand Prix in Texas later this month.",
-      "url": "https://www.engadget.com/2279712/apple-tv-dolby-atmos-support-formula-1/"
+      "source": "The Verge",
+      "published": "2026-10-07T19:05:52+00:00",
+      "title": "The first Nvidia RTX Spark laptops cost up to $7,000",
+      "summary": "The first array of laptops powered by Nvidia's new RTX Spark chip are designed to compete with high-end MacBook Pros - and they've got some high-end prices to match. The flagship Surface Laptop Ultra and RTX Spark laptops from Dell, Lenovo, MSI, HP, and Asus start as low as…",
+      "url": "https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000"
     },
     {
-      "id": "2417355b97",
+      "id": "1a22e00951",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-07T18:49:40+00:00",
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 192 # Comments: 202",
+      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/"
+    },
+    {
+      "id": "6a47c5a45f",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-07T18:46:16+00:00",
+      "title": "It appears .agent and .agi are about to be the hot new domains",
+      "summary": "For the first time in years, the Internet Corporation for Assigned Names and Numbers - better known as ICANN - is accepting applications for new top-level domains. These are the suffixes at the end of all URLs, and you may know them as things like .com, .org, and .pizza. ICANN…",
+      "url": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi"
+    },
+    {
+      "id": "9a38ebc783",
       "topic": "AI",
       "kind": "Company",
       "source": "Wired",
-      "published": "2026-10-07T08:30:00+00:00",
-      "title": "Your Next Great Read Might Be Certified ‘Organic’",
-      "summary": "Amid a sea of AI writing slop, a new stamp for “organic literature” will help readers to pick out books authored by real, corn-fed, free-range humans.",
-      "url": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/"
+      "published": "2026-10-07T18:45:00+00:00",
+      "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+      "summary": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
+      "url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/"
     },
     {
-      "id": "6ce0f88cff",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-07T07:00:00+00:00",
-      "title": "Spotify expands audiobooks to over 180 markets",
-      "summary": "Spotify will make 350,000 titles available in over 120 languages for this expansion",
-      "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/"
-    },
-    {
-      "id": "9070993546",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-07T02:02:11+00:00",
-      "title": "Strands Decider 2B: a small, open-source, decision model",
-      "summary": "Article URL: https://strandsagents.com/blog/introducing-strands-decider/ Comments URL: https://news.ycombinator.com/item?id=49987076 Points: 195 # Comments: 48",
-      "url": "https://strandsagents.com/blog/introducing-strands-decider/"
-    },
-    {
-      "id": "a3e4d04439",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-07T00:00:00+00:00",
-      "title": "How long have wireless gaming controllers been around for?",
-      "summary": "Game controllers have experimented with losing the cords for longer than you'd think, but early attempts didn't have much success.",
-      "url": "https://www.engadget.com/2278016/how-long-wireless-gaming-controllers-been-around/"
-    },
-    {
-      "id": "21226a834c",
+      "id": "a49352ef75",
       "topic": "Devices",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-06T23:30:00+00:00",
-      "title": "How to help stop spam calls on iPhone and Android",
-      "summary": "Spam calls don't have to grab your attention and waste your time. Use these built-in options to silence and block them without having to pay.",
-      "url": "https://www.engadget.com/2277629/how-to-stop-spam-calls-iphone-android/"
+      "published": "2026-10-07T18:43:19+00:00",
+      "title": "Surface Laptop Ultra hands-on: A beautiful beast powered by NVIDIA's RTX Spark",
+      "summary": "Yes, it's just a premium laptop. But it sure looks pretty.",
+      "url": "https://www.engadget.com/2280417/surface-laptop-ultra-hands-on-a-beautiful-beast-powered-by-nvidias-rtx-spark/"
     },
     {
-      "id": "df4368d830",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-06T23:28:08+00:00",
-      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
-      "summary": "Article URL: https://github.com/boykopovar/AnyPS5 Comments URL: https://news.ycombinator.com/item?id=49985664 Points: 286 # Comments: 234",
-      "url": "https://github.com/boykopovar/AnyPS5"
-    },
-    {
-      "id": "a6766b7925",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-06T23:26:38+00:00",
-      "title": "OpenAI drops another batch of mathematical breakthroughs",
-      "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github"
-    },
-    {
-      "id": "cc69cecac5",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-06T23:26:30+00:00",
-      "title": "State of Devs 2026",
-      "summary": "Article URL: https://2026.stateofdevs.com/en-US/ Comments URL: https://news.ycombinator.com/item?id=49985643 Points: 185 # Comments: 94",
-      "url": "https://2026.stateofdevs.com/en-US/"
-    },
-    {
-      "id": "b70fad49ec",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-06T23:00:00+00:00",
-      "title": "Why do some PCs have two Ethernet ports?",
-      "summary": "Dual Ethernet ports don't automatically provide faster speed, but they increase your networking options.",
-      "url": "https://www.engadget.com/2277504/why-come-pc-come-with-second-ethernet-port/"
-    },
-    {
-      "id": "6f2b2be4f1",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-06T22:55:39+00:00",
-      "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
-      "summary": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads.",
-      "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/"
-    },
-    {
-      "id": "bf36372fc2",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-06T22:34:03+00:00",
-      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-      "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
-      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/"
-    },
-    {
-      "id": "ae5cd42409",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-06T22:30:00+00:00",
-      "title": "Kindle Click vs Kobo Remote: How much of a difference is there?",
-      "summary": "Of course you're going to get the one that works with your ereader, but which of these page-turning gadgets is actually better?",
-      "url": "https://www.engadget.com/2277467/kindle-click-vs-kobo-remote-differences/"
-    },
-    {
-      "id": "65b49d5760",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-06T22:17:21+00:00",
-      "title": "Sharing AI progress in mathematics",
-      "summary": "https://github.com/openai/math https://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 957 # Comments: 920",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
-    },
-    {
-      "id": "2614c5ba95",
-      "topic": "Tech",
-      "kind": "Founder",
-      "source": "The Verge",
-      "published": "2026-10-06T22:12:27+00:00",
-      "title": "Xbox has secured GTA 6 streaming rights",
-      "summary": "Xbox CEO Asha Sharma told employees that Microsoft is getting ready to do something around Grand Theft Auto VI that \"no other platform holder is doing\" during an employee all-hands this morning. According to sources familiar with Microsoft's plans, Sharma's brief teaser was…",
-      "url": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights"
-    },
-    {
-      "id": "0592c53ff4",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-06T22:00:00+00:00",
-      "title": "The best robot vacuum and mop deals during October Prime Day",
-      "summary": "Spending too much time constantly sweeping and mopping? If you have the money to delegate those chores to a robot cleaner, you could save a lot of personal time. Thankfully, it’s cheaper than usual to buy a robot vacuum / mop hybrid during Amazon’s Prime Big Deal Days, and some…",
-      "url": "https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale"
-    },
-    {
-      "id": "e234090307",
+      "id": "2ac2e78c90",
       "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-06T22:00:00+00:00",
-      "title": "Remember MapQuest? You can now use it with Android Auto",
-      "summary": "If you use Android Auto, you can try out the beta mapping service today.",
-      "url": "https://www.engadget.com/2277445/use-mapquest-with-android-auto/"
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-10-07T18:42:22+00:00",
+      "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
+      "summary": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RTX Spark Arm-based chip. The machine will start at $2,599…",
+      "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced"
     },
     {
-      "id": "57ba261a57",
+      "id": "17bc094b0f",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "TechCrunch",
+      "published": "2026-10-07T18:30:57+00:00",
+      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/"
+    },
+    {
+      "id": "6be0863b2c",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-07T18:15:28+00:00",
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/"
+    },
+    {
+      "id": "fc88e15246",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-07T18:10:00+00:00",
+      "title": "X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB",
+      "summary": "X is turning its NFL-focused Gametime feature into a year-round sports destination, starting with MLB and with other professional leagues to follow.",
+      "url": "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/"
+    },
+    {
+      "id": "a117273fff",
       "topic": "AI",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-10-06T21:59:43+00:00",
-      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-      "summary": "Article URL: https://penguin-mail.com/ Comments URL: https://news.ycombinator.com/item?id=49984716 Points: 197 # Comments: 128",
-      "url": "https://penguin-mail.com/"
+      "published": "2026-10-07T18:01:32+00:00",
+      "title": "Claude Haiku 5.5",
+      "summary": "Article URL: https://www.anthropic.com/claude-haiku-5-5 Comments URL: https://news.ycombinator.com/item?id=49996437 Points: 540 # Comments: 251",
+      "url": "https://www.anthropic.com/claude-haiku-5-5"
     },
     {
-      "id": "14688b3961",
-      "topic": "Tech",
+      "id": "f6b50b6204",
+      "topic": "AI",
       "kind": "Company",
       "source": "The Verge",
-      "published": "2026-10-06T21:39:53+00:00",
-      "title": "Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat",
-      "summary": "Apple is collaborating with LG on a new lineup of smart home devices, including a video doorbell, thermostat, indoor camera, and more, according to a report from Bloomberg. The products will reportedly feature LG branding but integrate with the company's rumored smart home hub…",
-      "url": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc"
+      "published": "2026-10-07T18:01:20+00:00",
+      "title": "Microsoft is giving Copilot more control over Windows and your files",
+      "summary": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools…",
+      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence"
     },
     {
-      "id": "14fc5726a6",
+      "id": "69b6fc7094",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-07T18:00:58+00:00",
+      "title": "GPT‑6 and Intelligent UI for everyone",
+      "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 388 # Comments: 186",
+      "url": "https://openai.com/index/gpt-6-for-everyone/"
+    },
+    {
+      "id": "7b3323c3e1",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "TechCrunch",
+      "published": "2026-10-07T18:00:19+00:00",
+      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/"
+    },
+    {
+      "id": "ee34c19b91",
       "topic": "Tech",
       "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-06T21:10:13+00:00",
-      "title": "Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say",
-      "summary": "Comedian Sebastian Maniscalco is facing backlash from fellow comics who claim his takeover of SiriusXM's Raw Comedy channel is harming up-and-coming talent, as reported earlier by Deadline. Many established comics, including Patton Oswalt and Margaret Cho, have posted videos…",
-      "url": "https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy"
+      "source": "Engadget",
+      "published": "2026-10-07T17:52:55+00:00",
+      "title": "Disney+ will stream the Super Bowl, along with some Monday Night Football games",
+      "summary": "The big event will also air on ABC and ESPN.",
+      "url": "https://www.engadget.com/2280319/disney-will-stream-the-super-bowl-along-with-some-monday-night-football-games/"
+    },
+    {
+      "id": "1f34566b9a",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-07T17:47:14+00:00",
+      "title": "Microsoft may have finally fixed Windows search by turning it into a chatbot",
+      "summary": "Microsoft's Copilot search redesign arrives this fall.",
+      "url": "https://www.engadget.com/2280310/microsoft-may-have-finally-fixed-windows-search-by-turning-it-into-a-chatbot/"
     }
   ],
   "rumors": [
-    {
-      "id": "6c2c993a1c",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Apple reportedly worked with LG on gadgets for its upcoming smart home push",
-      "detail": "The doorbell, security cameras, thermostats and more could be announced next week.",
-      "url": "https://www.engadget.com/2279541/apple-reportedly-worked-with-lg-on-gadgets-for-its-upcoming-smart-home-push/",
-      "sources": 1,
-      "mentions": 2,
-      "credible": 1,
-      "days": 0,
-      "tickers": [
-        "AAPL"
-      ],
-      "score": 18
-    },
-    {
-      "id": "0611f088eb",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
-      "detail": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner.",
-      "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
-      "sources": 1,
-      "mentions": 2,
-      "credible": 1,
-      "days": 0,
-      "tickers": [
-        "AAPL"
-      ],
-      "score": 18
-    },
     {
       "id": "924fa0f5a0",
       "topic": "Tech",
@@ -308,12 +276,28 @@
       "score": 15
     },
     {
-      "id": "bb4c5cf8a0",
-      "topic": "AI",
+      "id": "cfd4901275",
+      "topic": "Tech",
       "status": "Just surfaced",
-      "title": "LibreOffice says ‘no AI’ is now a software feature",
-      "detail": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
-      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "title": "We now have images of the smart home products that Apple and LG are reportedly cooking up",
+      "detail": "These include a lock, a thermostat and a temperature sensor.",
+      "url": "https://www.engadget.com/2280076/we-now-have-images-of-the-smart-home-products-that-apple-and-lg-are-reportedly-cooking-up/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [
+        "AAPL"
+      ],
+      "score": 15
+    },
+    {
+      "id": "741e2ad2c5",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "Teenage Engineering’s CEO says it’ll stop making synths",
+      "detail": "Teenage Engineering founder and CEO Jesper Kouthoofd told Highsnobiety that it plans to stop making synths. And yes, that includes the iconic OP-1, which put the company on the map. TE isn't just a music gear maker; it's also a sought-after design firm. It's collaborated with…",
+      "url": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
       "sources": 1,
       "mentions": 1,
       "credible": 1,
@@ -322,17 +306,19 @@
       "score": 15
     },
     {
-      "id": "d564901a6d",
-      "topic": "AI",
+      "id": "e976bd8a43",
+      "topic": "Tech",
       "status": "Just surfaced",
-      "title": "It’s ‘more likely than not’ humanity loses control: Former AI insiders testify safety fixes may be ‘duct tape that will fall off later’",
-      "detail": "submitted by /u/AxomaticallyExtinct [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1wz183d/its_more_likely_than_not_humanity_loses_control/",
+      "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
+      "detail": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1wzhl6x/apple_is_reportedly_partnering_with_lg_to_launch/",
       "sources": 1,
       "mentions": 1,
       "credible": 0,
       "days": 0,
-      "tickers": [],
+      "tickers": [
+        "AAPL"
+      ],
       "score": 8
     },
     {
@@ -350,113 +336,129 @@
         "NVDA"
       ],
       "score": 8
+    },
+    {
+      "id": "09b06f5fba",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "Hope you like RCS, because Google Messages plans to remove this easy way to turn it off",
+      "detail": "submitted by /u/thesonoftheson [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1wzrivx/hope_you_like_rcs_because_google_messages_plans/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 0,
+      "days": 0,
+      "tickers": [
+        "GOOGL"
+      ],
+      "score": 8
     }
   ],
   "watchlist": [
     {
       "ticker": "ASML",
       "name": "ASML",
-      "price": 1834.1,
-      "changePct": -0.0,
+      "price": 1804.96,
+      "changePct": -0.4,
       "catalyst": "Earnings report",
       "when": "Wed",
       "signals": [
         "Earnings"
       ],
       "spark": [
-        1771.41,
         1834.39,
         1811.67,
         1808.49,
         1867.31,
         1859.86,
-        1834.1
+        1834.1,
+        1804.96
       ],
-      "score": 41.0
+      "score": 40.7
     },
     {
-      "ticker": "GOOGL",
-      "name": "Alphabet",
-      "price": 347.68,
-      "changePct": 2.0,
-      "catalyst": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "price": 237.47,
+      "changePct": 4.0,
+      "catalyst": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
       "when": "In the news",
       "signals": [
         "6 headlines"
       ],
       "spark": [
-        342.75,
+        227.21,
+        228.38,
+        230.86,
+        233.95,
+        238.9,
+        239.24,
+        237.47
+      ],
+      "score": 38.0
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "price": 529.76,
+      "changePct": 3.3,
+      "catalyst": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "when": "In the news",
+      "signals": [
+        "12 headlines"
+      ],
+      "spark": [
+        508.96,
+        512.9,
+        512.8,
+        517.53,
+        525.18,
+        529.3,
+        529.76
+      ],
+      "score": 36.6
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "price": 350.5,
+      "changePct": 1.9,
+      "catalyst": "Google told to halt work on datacentres in Finland over environmental concerns",
+      "when": "In the news",
+      "signals": [
+        "10 headlines"
+      ],
+      "spark": [
         340.92,
         344.08,
         338.24,
         343.5,
         346.47,
-        347.68
+        347.68,
+        350.5
       ],
-      "score": 34.0
+      "score": 33.7
     },
     {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "price": 333.63,
-      "changePct": 1.3,
-      "catalyst": "Apple TV's F1 coverage will now support Dolby Atmos",
-      "when": "In the news",
-      "signals": [
-        "6 headlines"
-      ],
-      "spark": [
-        338.4,
-        329.4,
-        333.02,
-        330.32,
-        333.69,
-        332.89,
-        333.63
-      ],
-      "score": 32.6
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "price": 256.29,
-      "changePct": 3.9,
-      "catalyst": "How to find out if Amazon thinks you have ‘flat buttocks’",
-      "when": "In the news",
-      "signals": [
-        "3 headlines"
-      ],
-      "spark": [
-        246.15,
-        246.67,
-        249.15,
-        248.23,
-        251.52,
-        251.4,
-        256.29
-      ],
-      "score": 22.8
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla",
-      "price": 380.68,
-      "changePct": 7.9,
-      "catalyst": "Tesla’s Model 3 and Model Y can be a backup battery for your house",
-      "when": "In the news",
+      "ticker": "SHOP",
+      "name": "Shopify",
+      "price": 166.03,
+      "changePct": 12.0,
+      "catalyst": "Up 12% this week",
+      "when": "Price",
       "signals": [
         "Big price move"
       ],
       "spark": [
-        357.45,
-        352.84,
-        354.81,
-        354.11,
-        370.59,
-        378.73,
-        380.68
+        148.26,
+        148.3,
+        149.09,
+        151.39,
+        160.11,
+        164.44,
+        166.03
       ],
-      "score": 20.8
+      "score": 20.0
     }
   ]
 }
