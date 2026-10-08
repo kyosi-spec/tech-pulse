@@ -1,12 +1,122 @@
 {
   "weekOf": "2026-10-05",
-  "updated": "2026-10-07T22:27:11+00:00",
+  "updated": "2026-10-08T11:30:22+00:00",
   "summary": [
-    "AI leads the news with 13 of 25 stories. Top headline: BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
-    "Earnings this week from ASML.",
-    "Strongest rumor: Cloudflare plans to issue quantum-safe TLS certificates"
+    "Tech leads the news with 14 of 25 stories. Top headline: Cupertino might be made for your mom, but it’s a good take on tech",
+    "Earnings this week from TSM, ASML.",
+    "Strongest rumor: Teenage Engineering’s CEO says it’ll stop making synths"
   ],
   "stories": [
+    {
+      "id": "4164f913be",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-08T11:30:00+00:00",
+      "title": "Cupertino might be made for your mom, but it’s a good take on tech",
+      "summary": "Cupertino brings the tech backlash to the CBS procedural - an initially awkward combination, but with rewarding results. The show starts off just slightly unsure, but quickly figures out what to do with these strange times, creating fictionalized dupes of the Zizians…",
+      "url": "https://www.theverge.com/entertainment/1007492/cupertino-cbs-tv-review"
+    },
+    {
+      "id": "6a8402978e",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Wired",
+      "published": "2026-10-08T11:00:00+00:00",
+      "title": "Spend Elon Musk’s Money",
+      "summary": "What’s it like to be the richest man in the world? Find out for yourself.",
+      "url": "https://www.wired.com/story/spend-elon-musk-money/"
+    },
+    {
+      "id": "33b6aa8400",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-08T10:49:54+00:00",
+      "title": "Teenage Engineering will stop making synths to focus on... whatever it feels like",
+      "summary": "Teenage Engineering, the company famous for its synths, is going to stop making... synths.",
+      "url": "https://www.engadget.com/2280912/teenage-engineering-will-stop-making-synths-to-focus-on-whatever-else-it-wants-to-do/"
+    },
+    {
+      "id": "b0b40d035d",
+      "topic": "Tech",
+      "kind": "Founder",
+      "source": "Wired",
+      "published": "2026-10-08T09:30:00+00:00",
+      "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
+      "summary": "The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have simmered for years, sources tell WIRED.",
+      "url": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/"
+    },
+    {
+      "id": "74cd90393e",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-08T08:45:55+00:00",
+      "title": "The new BMW iX4 is the X4 reborn as an EV",
+      "summary": "BMW has brought the X4 design to its third Neue Klasse EV with an electric version called the iX4.",
+      "url": "https://www.engadget.com/2280880/bmw-ix4-is-the-x4-reborn-as-an-ev/"
+    },
+    {
+      "id": "f5ffbbec3e",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-08T08:45:16+00:00",
+      "title": "GPT-6 is coming to all tiers of ChatGPT",
+      "summary": "OpenAI is rolling out GPT-6 to ChatGPT, and it will come with the capability to build more visual responses.",
+      "url": "https://www.engadget.com/2280879/gpt-6-coming-all-tiers-chatgpt/"
+    },
+    {
+      "id": "41b92e8bdf",
+      "topic": "Security",
+      "kind": "Launch",
+      "source": "TechCrunch",
+      "published": "2026-10-08T06:14:11+00:00",
+      "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
+      "summary": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.",
+      "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/"
+    },
+    {
+      "id": "ce1ddaca88",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-08T05:14:14+00:00",
+      "title": "“Math 2.0” will need to value mathematical progress more holistically",
+      "summary": "Article URL: https://mathstodon.xyz/@tao/117395269325940185 Comments URL: https://news.ycombinator.com/item?id=50002008 Points: 343 # Comments: 322",
+      "url": "https://mathstodon.xyz/@tao/117395269325940185"
+    },
+    {
+      "id": "325dca5e00",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-10-07T23:36:57+00:00",
+      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+      "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
+      "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/"
+    },
+    {
+      "id": "15bfdf97b5",
+      "topic": "Startups",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-10-07T22:59:16+00:00",
+      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
+      "summary": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
+      "url": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/"
+    },
+    {
+      "id": "21c46ccc9b",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-07T22:51:07+00:00",
+      "title": "Rivian R2 owners can now put a live pet cam on their phone's lockscreen",
+      "summary": "Keep an eye on your furry, feathered or scaly friends when you leave the car.",
+      "url": "https://www.engadget.com/2280753/rivian-r2-owners-can-now-put-a-live-pet-cam-on-their-phones-lockscreen/"
+    },
     {
       "id": "ee3807a1a6",
       "topic": "Tech",
@@ -28,14 +138,14 @@
       "url": "https://www.engadget.com/2280708/the-fcc-proposes-new-mid-band-spectrum-auction-and-unlocking-800mhz-for-drones/"
     },
     {
-      "id": "741e2ad2c5",
+      "id": "3dea90bb5f",
       "topic": "Tech",
-      "kind": "Founder",
-      "source": "The Verge",
-      "published": "2026-10-07T21:19:54+00:00",
-      "title": "Teenage Engineering’s CEO says it’ll stop making synths",
-      "summary": "Teenage Engineering founder and CEO Jesper Kouthoofd told Highsnobiety that it plans to stop making synths. And yes, that includes the iconic OP-1, which put the company on the map. TE isn't just a music gear maker; it's also a sought-after design firm. It's collaborated with…",
-      "url": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths"
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-07T21:16:18+00:00",
+      "title": "Margaret Hamilton has died",
+      "summary": "Article URL: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007 Comments URL: https://news.ycombinator.com/item?id=49998895 Points: 1636 # Comments: 177",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007"
     },
     {
       "id": "d46ad0e2d4",
@@ -78,6 +188,16 @@
       "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
     },
     {
+      "id": "88850fb63b",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-07T20:01:37+00:00",
+      "title": "'Jonathan' is the oldest land animal on Earth",
+      "summary": "Article URL: https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/ Comments URL: https://news.ycombinator.com/item?id=49998066 Points: 175 # Comments: 90",
+      "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/"
+    },
+    {
       "id": "0fa1f7fb48",
       "topic": "Tech",
       "kind": "Company",
@@ -86,6 +206,16 @@
       "title": "Here's what the $6,000 Surface RTX Spark Dev Box looks like",
       "summary": "Honestly, a bit like an oversized Lego brick.",
       "url": "https://www.engadget.com/2280568/heres-what-the-dollar6000-surface-rtx-spark-dev-box-looks-like/"
+    },
+    {
+      "id": "800ecae9ee",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-07T19:33:40+00:00",
+      "title": "The Mathocalypse",
+      "summary": "Article URL: https://scottaaronson.blog/?p=10169 Comments URL: https://news.ycombinator.com/item?id=49997718 Points: 269 # Comments: 287",
+      "url": "https://scottaaronson.blog/?p=10169"
     },
     {
       "id": "a1d86f78ca",
@@ -118,16 +248,6 @@
       "url": "https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000"
     },
     {
-      "id": "1a22e00951",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-07T18:49:40+00:00",
-      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-      "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 192 # Comments: 202",
-      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/"
-    },
-    {
       "id": "6a47c5a45f",
       "topic": "AI",
       "kind": "Company",
@@ -136,129 +256,23 @@
       "title": "It appears .agent and .agi are about to be the hot new domains",
       "summary": "For the first time in years, the Internet Corporation for Assigned Names and Numbers - better known as ICANN - is accepting applications for new top-level domains. These are the suffixes at the end of all URLs, and you may know them as things like .com, .org, and .pizza. ICANN…",
       "url": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi"
-    },
-    {
-      "id": "9a38ebc783",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Wired",
-      "published": "2026-10-07T18:45:00+00:00",
-      "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
-      "summary": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
-      "url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/"
-    },
-    {
-      "id": "a49352ef75",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-07T18:43:19+00:00",
-      "title": "Surface Laptop Ultra hands-on: A beautiful beast powered by NVIDIA's RTX Spark",
-      "summary": "Yes, it's just a premium laptop. But it sure looks pretty.",
-      "url": "https://www.engadget.com/2280417/surface-laptop-ultra-hands-on-a-beautiful-beast-powered-by-nvidias-rtx-spark/"
-    },
-    {
-      "id": "2ac2e78c90",
-      "topic": "Devices",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-10-07T18:42:22+00:00",
-      "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
-      "summary": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RTX Spark Arm-based chip. The machine will start at $2,599…",
-      "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced"
-    },
-    {
-      "id": "17bc094b0f",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-10-07T18:30:57+00:00",
-      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
-      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/"
-    },
-    {
-      "id": "6be0863b2c",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-07T18:15:28+00:00",
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
-      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/"
-    },
-    {
-      "id": "fc88e15246",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-07T18:10:00+00:00",
-      "title": "X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB",
-      "summary": "X is turning its NFL-focused Gametime feature into a year-round sports destination, starting with MLB and with other professional leagues to follow.",
-      "url": "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/"
-    },
-    {
-      "id": "a117273fff",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-07T18:01:32+00:00",
-      "title": "Claude Haiku 5.5",
-      "summary": "Article URL: https://www.anthropic.com/claude-haiku-5-5 Comments URL: https://news.ycombinator.com/item?id=49996437 Points: 540 # Comments: 251",
-      "url": "https://www.anthropic.com/claude-haiku-5-5"
-    },
-    {
-      "id": "f6b50b6204",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-07T18:01:20+00:00",
-      "title": "Microsoft is giving Copilot more control over Windows and your files",
-      "summary": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools…",
-      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence"
-    },
-    {
-      "id": "69b6fc7094",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-07T18:00:58+00:00",
-      "title": "GPT‑6 and Intelligent UI for everyone",
-      "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 388 # Comments: 186",
-      "url": "https://openai.com/index/gpt-6-for-everyone/"
-    },
-    {
-      "id": "7b3323c3e1",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-10-07T18:00:19+00:00",
-      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-      "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
-      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/"
-    },
-    {
-      "id": "ee34c19b91",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-07T17:52:55+00:00",
-      "title": "Disney+ will stream the Super Bowl, along with some Monday Night Football games",
-      "summary": "The big event will also air on ABC and ESPN.",
-      "url": "https://www.engadget.com/2280319/disney-will-stream-the-super-bowl-along-with-some-monday-night-football-games/"
-    },
-    {
-      "id": "1f34566b9a",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-07T17:47:14+00:00",
-      "title": "Microsoft may have finally fixed Windows search by turning it into a chatbot",
-      "summary": "Microsoft's Copilot search redesign arrives this fall.",
-      "url": "https://www.engadget.com/2280310/microsoft-may-have-finally-fixed-windows-search-by-turning-it-into-a-chatbot/"
     }
   ],
   "rumors": [
+    {
+      "id": "741e2ad2c5",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "Teenage Engineering’s CEO says it’ll stop making synths",
+      "detail": "Teenage Engineering founder and CEO Jesper Kouthoofd told Highsnobiety that it plans to stop making synths. And yes, that includes the iconic OP-1, which put the company on the map. TE isn't just a music gear maker; it's also a sought-after design firm. It's collaborated with…",
+      "url": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
+      "sources": 1,
+      "mentions": 2,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 18
+    },
     {
       "id": "924fa0f5a0",
       "topic": "Tech",
@@ -269,7 +283,7 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 7,
+      "days": 8,
       "tickers": [
         "NET"
       ],
@@ -292,69 +306,60 @@
       "score": 15
     },
     {
-      "id": "741e2ad2c5",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Teenage Engineering’s CEO says it’ll stop making synths",
-      "detail": "Teenage Engineering founder and CEO Jesper Kouthoofd told Highsnobiety that it plans to stop making synths. And yes, that includes the iconic OP-1, which put the company on the map. TE isn't just a music gear maker; it's also a sought-after design firm. It's collaborated with…",
-      "url": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "e976bd8a43",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
-      "detail": "submitted by /u/Logical_Welder3467 [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1wzhl6x/apple_is_reportedly_partnering_with_lg_to_launch/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 0,
-      "days": 0,
-      "tickers": [
-        "AAPL"
-      ],
-      "score": 8
-    },
-    {
-      "id": "65bbb49f3b",
+      "id": "5349f9590a",
       "topic": "Chips",
       "status": "Just surfaced",
-      "title": "SpaceX in Talks to Borrow $40 Billion to Buy Nvidia Chips",
-      "detail": "submitted by /u/esporx [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1wznljn/spacex_in_talks_to_borrow_40_billion_to_buy/",
+      "title": "Nvidia RTX Spark for $2,999.99: HP leak reveals RTX Spark laptop pricing ahead of launch",
+      "detail": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1wzyfqz/nvidia_rtx_spark_for_299999_hp_leak_reveals_rtx/",
       "sources": 1,
-      "mentions": 1,
+      "mentions": 3,
       "credible": 0,
       "days": 0,
       "tickers": [
         "NVDA"
       ],
-      "score": 8
+      "score": 13
     },
     {
-      "id": "09b06f5fba",
+      "id": "0c49dcaab2",
       "topic": "Tech",
       "status": "Just surfaced",
-      "title": "Hope you like RCS, because Google Messages plans to remove this easy way to turn it off",
-      "detail": "submitted by /u/thesonoftheson [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1wzrivx/hope_you_like_rcs_because_google_messages_plans/",
+      "title": "FCC to vote on auctioning 25MHz of 'prime spectrum' in move that could benefit Amazon, SpaceX",
+      "detail": "submitted by /u/DoremusJessup [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1x0a7zd/fcc_to_vote_on_auctioning_25mhz_of_prime_spectrum/",
       "sources": 1,
       "mentions": 1,
       "credible": 0,
       "days": 0,
       "tickers": [
-        "GOOGL"
+        "AMZN"
       ],
       "score": 8
     }
   ],
   "watchlist": [
+    {
+      "ticker": "TSM",
+      "name": "TSMC",
+      "price": 472.2,
+      "changePct": 3.5,
+      "catalyst": "Earnings report",
+      "when": "Thu",
+      "signals": [
+        "Earnings"
+      ],
+      "spark": [
+        456.94,
+        456.19,
+        459.2,
+        472.78,
+        485.8,
+        482.3,
+        472.2
+      ],
+      "score": 47.0
+    },
     {
       "ticker": "ASML",
       "name": "ASML",
@@ -377,27 +382,6 @@
       "score": 40.7
     },
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA",
-      "price": 237.47,
-      "changePct": 4.0,
-      "catalyst": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "when": "In the news",
-      "signals": [
-        "6 headlines"
-      ],
-      "spark": [
-        227.21,
-        228.38,
-        230.86,
-        233.95,
-        238.9,
-        239.24,
-        237.47
-      ],
-      "score": 38.0
-    },
-    {
       "ticker": "MSFT",
       "name": "Microsoft",
       "price": 529.76,
@@ -405,7 +389,7 @@
       "catalyst": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
       "when": "In the news",
       "signals": [
-        "12 headlines"
+        "8 headlines"
       ],
       "spark": [
         508.96,
@@ -423,10 +407,10 @@
       "name": "Alphabet",
       "price": 350.5,
       "changePct": 1.9,
-      "catalyst": "Google told to halt work on datacentres in Finland over environmental concerns",
+      "catalyst": "Finland Orders Google to Halt Data Centre Work Over Missing Environmental Reviews",
       "when": "In the news",
       "signals": [
-        "10 headlines"
+        "9 headlines"
       ],
       "spark": [
         340.92,
@@ -440,25 +424,25 @@
       "score": 33.7
     },
     {
-      "ticker": "SHOP",
-      "name": "Shopify",
-      "price": 166.03,
-      "changePct": 12.0,
-      "catalyst": "Up 12% this week",
-      "when": "Price",
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "price": 259.92,
+      "changePct": 4.3,
+      "catalyst": "Amazon employees hit by fresh job cuts across several teams",
+      "when": "In the news",
       "signals": [
-        "Big price move"
+        "4 headlines"
       ],
       "spark": [
-        148.26,
-        148.3,
-        149.09,
-        151.39,
-        160.11,
-        164.44,
-        166.03
+        246.67,
+        249.15,
+        248.23,
+        251.52,
+        251.4,
+        256.29,
+        259.92
       ],
-      "score": 20.0
+      "score": 28.7
     }
   ]
 }
