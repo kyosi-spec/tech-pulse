@@ -1,271 +1,271 @@
 {
   "weekOf": "2026-10-05",
-  "updated": "2026-10-08T11:30:22+00:00",
+  "updated": "2026-10-08T22:29:33+00:00",
   "summary": [
-    "Tech leads the news with 14 of 25 stories. Top headline: Cupertino might be made for your mom, but it’s a good take on tech",
-    "Earnings this week from TSM, ASML.",
-    "Strongest rumor: Teenage Engineering’s CEO says it’ll stop making synths"
+    "Tech leads the news with 12 of 25 stories. Top headline: Anthropic launches free AI security scans for open-source projects",
+    "Earnings this week from ASML, TSM.",
+    "Strongest rumor: OpenAI’s revenue is reportedly $20 billion less than previously projected"
   ],
   "stories": [
     {
-      "id": "4164f913be",
+      "id": "fac8860cc4",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-10-08T21:53:51+00:00",
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner"
+    },
+    {
+      "id": "bffe987146",
       "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-08T21:50:20+00:00",
+      "title": "IDC: Worldwide PC shipments in Q3 fell 20 percent from last year",
+      "summary": "\"With macro conditions worsening, the risk is that the outlook for the next few quarters gets worse before it gets better.\"",
+      "url": "https://www.engadget.com/2281788/idc-worldwide-pc-shipments-in-q3-fell-20-percent-from-last-year/"
+    },
+    {
+      "id": "671d953f41",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-08T21:40:59+00:00",
+      "title": "Alexa Tablet vs iPad Pro: How Amazon is keeping up with Apple",
+      "summary": "Amazon's latest and greatest tablet shares some key similarities to Apple's high-end iPads, but the devil is in the details.",
+      "url": "https://www.engadget.com/2281782/alexa-tablet-vs-ipad-pro-amazon-apple-tablet-comparison/"
+    },
+    {
+      "id": "7ae9742135",
+      "topic": "Startups",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-10-08T21:23:31+00:00",
+      "title": "SpaceX announces plan to become a ‘major mobile carrier’",
+      "summary": "SpaceX has acquired a portfolio of low-band spectrum licenses - a move the company says \"will pave the way\" for its Starlink Mobile service to become a \"major\" US carrier. When the Federal Communications Commission signs off on the deal, SpaceX says it will deploy its new…",
+      "url": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier"
+    },
+    {
+      "id": "4e1569459a",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-08T21:17:24+00:00",
+      "title": "Anthropic bans 'sustained and needless abusive or cruel behavior' toward its AI models",
+      "summary": "The company is also tightening its election policy ahead of the midterms.",
+      "url": "https://www.engadget.com/2281765/anthropic-bans-sustained-and-needless-abusive-or-cruel-behavior-toward-its-ai-models/"
+    },
+    {
+      "id": "49c968fc61",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Wired",
+      "published": "2026-10-08T21:14:12+00:00",
+      "title": "Inside Elon Musk’s Midterm Spending Spree",
+      "summary": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/"
+    },
+    {
+      "id": "49e3637198",
+      "topic": "Chips",
       "kind": "Company",
       "source": "The Verge",
-      "published": "2026-10-08T11:30:00+00:00",
-      "title": "Cupertino might be made for your mom, but it’s a good take on tech",
-      "summary": "Cupertino brings the tech backlash to the CBS procedural - an initially awkward combination, but with rewarding results. The show starts off just slightly unsure, but quickly figures out what to do with these strange times, creating fictionalized dupes of the Zizians…",
-      "url": "https://www.theverge.com/entertainment/1007492/cupertino-cbs-tv-review"
+      "published": "2026-10-08T21:01:18+00:00",
+      "title": "AMD will bring FSR 4 to handhelds by the end of 2026",
+      "summary": "It's already possible to get AMD's framerate-enhancing FSR 4 boost on handhelds as old as the Steam Deck - but in June, AMD reserved the right to disappoint handheld gamers by not officially bringing FSR 4 to older handhelds. Now, AMD consumer chip boss Jack Huynh says he will…",
+      "url": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026"
     },
     {
-      "id": "6a8402978e",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Wired",
-      "published": "2026-10-08T11:00:00+00:00",
-      "title": "Spend Elon Musk’s Money",
-      "summary": "What’s it like to be the richest man in the world? Find out for yourself.",
-      "url": "https://www.wired.com/story/spend-elon-musk-money/"
-    },
-    {
-      "id": "33b6aa8400",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-08T10:49:54+00:00",
-      "title": "Teenage Engineering will stop making synths to focus on... whatever it feels like",
-      "summary": "Teenage Engineering, the company famous for its synths, is going to stop making... synths.",
-      "url": "https://www.engadget.com/2280912/teenage-engineering-will-stop-making-synths-to-focus-on-whatever-else-it-wants-to-do/"
-    },
-    {
-      "id": "b0b40d035d",
+      "id": "4c92620a1d",
       "topic": "Tech",
       "kind": "Founder",
-      "source": "Wired",
-      "published": "2026-10-08T09:30:00+00:00",
-      "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
-      "summary": "The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have simmered for years, sources tell WIRED.",
-      "url": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/"
+      "source": "TechCrunch",
+      "published": "2026-10-08T21:00:00+00:00",
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/"
     },
     {
-      "id": "74cd90393e",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-08T08:45:55+00:00",
-      "title": "The new BMW iX4 is the X4 reborn as an EV",
-      "summary": "BMW has brought the X4 design to its third Neue Klasse EV with an electric version called the iX4.",
-      "url": "https://www.engadget.com/2280880/bmw-ix4-is-the-x4-reborn-as-an-ev/"
-    },
-    {
-      "id": "f5ffbbec3e",
+      "id": "52874a96aa",
       "topic": "AI",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-08T08:45:16+00:00",
-      "title": "GPT-6 is coming to all tiers of ChatGPT",
-      "summary": "OpenAI is rolling out GPT-6 to ChatGPT, and it will come with the capability to build more visual responses.",
-      "url": "https://www.engadget.com/2280879/gpt-6-coming-all-tiers-chatgpt/"
+      "published": "2026-10-08T20:36:46+00:00",
+      "title": "Child safety group calls ChatGPT for Teens an unacceptable risk",
+      "summary": "After extensive testing, Common Sense Media found the chatbot failed in five key areas.",
+      "url": "https://www.engadget.com/2281719/child-safety-group-calls-chatgpt-for-teens-an-unacceptable-risk/"
     },
     {
-      "id": "41b92e8bdf",
-      "topic": "Security",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-10-08T06:14:11+00:00",
-      "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
-      "summary": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.",
-      "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/"
-    },
-    {
-      "id": "ce1ddaca88",
+      "id": "f511e0555e",
       "topic": "Tech",
       "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-08T05:14:14+00:00",
-      "title": "“Math 2.0” will need to value mathematical progress more holistically",
-      "summary": "Article URL: https://mathstodon.xyz/@tao/117395269325940185 Comments URL: https://news.ycombinator.com/item?id=50002008 Points: 343 # Comments: 322",
-      "url": "https://mathstodon.xyz/@tao/117395269325940185"
+      "source": "Engadget",
+      "published": "2026-10-08T20:30:26+00:00",
+      "title": "Cyberpunk 2077 is the latest video game to get the movie treatment",
+      "summary": "Paramount Pictures will develop the film and CD Projekt Red will produce.",
+      "url": "https://www.engadget.com/2281714/cyberpunk-2077-is-the-latest-video-game-to-get-the-movie-treatment/"
     },
     {
-      "id": "325dca5e00",
-      "topic": "AI",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-07T23:36:57+00:00",
-      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
-      "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
-      "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/"
+      "id": "1524b17641",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-08T20:08:45+00:00",
+      "title": "Forza Horizon 6 is coming to PS5 on January 26",
+      "summary": "The racing game's first expansion will also be available early next year.",
+      "url": "https://www.engadget.com/2281683/forza-horizon-6-is-coming-to-ps5-on-january-26/"
     },
     {
-      "id": "15bfdf97b5",
+      "id": "abed258d31",
       "topic": "Startups",
       "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-07T22:59:16+00:00",
-      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
-      "summary": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
-      "url": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/"
+      "source": "The Verge",
+      "published": "2026-10-08T20:06:56+00:00",
+      "title": "California is trying to shut down robot vs. human cage matches",
+      "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid…",
+      "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human"
     },
     {
-      "id": "21c46ccc9b",
-      "topic": "Tech",
+      "id": "e173082eaf",
+      "topic": "AI",
       "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-07T22:51:07+00:00",
-      "title": "Rivian R2 owners can now put a live pet cam on their phone's lockscreen",
-      "summary": "Keep an eye on your furry, feathered or scaly friends when you leave the car.",
-      "url": "https://www.engadget.com/2280753/rivian-r2-owners-can-now-put-a-live-pet-cam-on-their-phones-lockscreen/"
+      "source": "TechCrunch",
+      "published": "2026-10-08T20:04:26+00:00",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
     },
     {
-      "id": "ee3807a1a6",
+      "id": "91ec99085b",
       "topic": "Tech",
       "kind": "Company",
       "source": "The Verge",
-      "published": "2026-10-07T22:01:00+00:00",
-      "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
-      "summary": "While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress in both drive quality and price. The latest is the BMW iX4, a coupe-shaped SUV…",
-      "url": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china"
+      "published": "2026-10-08T19:45:00+00:00",
+      "title": "ICE detainees in Georgia used the facility’s video calling software to expose the conditions inside",
+      "summary": "Four men detained at an ICE detention center in rural Georgia used the facility's video conferencing software to expose both the conditions inside and President Donald Trump's hostile takeover of the immigration courts. In the five-minute video, the men describe an intentionally…",
+      "url": "https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video"
     },
     {
-      "id": "69e43e87f8",
-      "topic": "Policy",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-07T21:32:33+00:00",
-      "title": "The FCC proposes new mid-band spectrum auction and unlocking 800MHz for drones",
-      "summary": "The agency is doubling down on direct-to-device service.",
-      "url": "https://www.engadget.com/2280708/the-fcc-proposes-new-mid-band-spectrum-auction-and-unlocking-800mhz-for-drones/"
-    },
-    {
-      "id": "3dea90bb5f",
+      "id": "6d3aa9096c",
       "topic": "Tech",
       "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-07T21:16:18+00:00",
-      "title": "Margaret Hamilton has died",
-      "summary": "Article URL: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007 Comments URL: https://news.ycombinator.com/item?id=49998895 Points: 1636 # Comments: 177",
-      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007"
+      "source": "The Verge",
+      "published": "2026-10-08T19:30:21+00:00",
+      "title": "Microsoft’s new Windows Search is exactly what Windows 11 needs",
+      "summary": "Windows Search has been one of the most frustrating parts of Windows 11, and now Microsoft is addressing this with a significant overhaul. A new redesigned Windows Search is now in testing that is much faster, more capable, and a lot more modern. \"This new Windows Search…",
+      "url": "https://www.theverge.com/news/1008320/microsoft-windows-search-overhaul-windows-11"
     },
     {
-      "id": "d46ad0e2d4",
+      "id": "84d2dccd7d",
       "topic": "AI",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-10-07T20:48:45+00:00",
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
-      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
+      "kind": "Company",
+      "source": "Wired",
+      "published": "2026-10-08T19:30:00+00:00",
+      "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
+      "summary": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
+      "url": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/"
     },
     {
-      "id": "ac00d3eca4",
+      "id": "9e1628ab71",
       "topic": "Devices",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-10-07T20:44:34+00:00",
-      "title": "Android’s physical navigation buttons are back on Googlebooks, but not the way you think",
-      "summary": "A common misconception I've seen with Googlebooks is that the Quick Insert and Google logo keys are new. They're not, as they first debuted a couple of years ago on some Chromebooks. But there is something new for Googlebooks that's ripped straight from Android phones circa…",
-      "url": "https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think"
-    },
-    {
-      "id": "bf0986171b",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-07T20:30:00+00:00",
-      "title": "We found some great October Prime Day deals under $50",
-      "summary": "Getting in on the Prime Day action doesn’t have to result in an empty wallet. Just as we found a couple handfuls of goodies that are under $25, there are plenty of deals during Amazon’s October sale that are $50 or less, many of which offer a lot of practical value. Everything…",
-      "url": "https://www.theverge.com/gadgets/1007110/october-prime-day-budget-deals-under-50"
-    },
-    {
-      "id": "46088d4ed4",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-10-07T20:22:37+00:00",
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
-    },
-    {
-      "id": "88850fb63b",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-07T20:01:37+00:00",
-      "title": "'Jonathan' is the oldest land animal on Earth",
-      "summary": "Article URL: https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/ Comments URL: https://news.ycombinator.com/item?id=49998066 Points: 175 # Comments: 90",
-      "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/"
-    },
-    {
-      "id": "0fa1f7fb48",
-      "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-07T19:59:32+00:00",
-      "title": "Here's what the $6,000 Surface RTX Spark Dev Box looks like",
-      "summary": "Honestly, a bit like an oversized Lego brick.",
-      "url": "https://www.engadget.com/2280568/heres-what-the-dollar6000-surface-rtx-spark-dev-box-looks-like/"
+      "published": "2026-10-08T19:16:12+00:00",
+      "title": "Google is doing away with Safety Signal on Pixel Watch",
+      "summary": "Access to the emergency feature for LTE-connected wearables will end by December.",
+      "url": "https://www.engadget.com/2281591/google-is-doing-away-with-safety-signal-on-pixel-watch/"
     },
     {
-      "id": "800ecae9ee",
+      "id": "dc67595f10",
       "topic": "Tech",
       "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-07T19:33:40+00:00",
-      "title": "The Mathocalypse",
-      "summary": "Article URL: https://scottaaronson.blog/?p=10169 Comments URL: https://news.ycombinator.com/item?id=49997718 Points: 269 # Comments: 287",
-      "url": "https://scottaaronson.blog/?p=10169"
+      "source": "The Verge",
+      "published": "2026-10-08T19:14:03+00:00",
+      "title": "Paramount is making a Cyberpunk 2077 film",
+      "summary": "Cyberpunk 2077 is heading to the big screen. Deadline reports that CD Projekt Red's popular sci-fi video game franchise is being adapted into a live-action film by Paramount Pictures. There's no details just yet on when the film might premiere. But Deadline says that Lorenzo di…",
+      "url": "https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie"
     },
     {
-      "id": "a1d86f78ca",
+      "id": "ed5e56bea0",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Wired",
+      "published": "2026-10-08T19:11:45+00:00",
+      "title": "Trump Administration Cuts Off Access to a Major Immigration Program for Workers at Microsoft and Adobe",
+      "summary": "“There has been no company in the United States, unfortunately, that has abused this system more than Microsoft,” Vice President JD Vance said on Thursday.",
+      "url": "https://www.wired.com/story/trump-administration-crackdown-microsoft-adobe-immigration/"
+    },
+    {
+      "id": "dd1ff1b42e",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-08T18:51:28+00:00",
+      "title": "The Atari 800XL hybrid gaming console is back after decades in obscurity",
+      "summary": "This updated version connects via HDMI and comes with 25 built-in games.",
+      "url": "https://www.engadget.com/2281551/the-atari-800xl-hybrid-gaming-console-is-back-after-decades-in-obscurity/"
+    },
+    {
+      "id": "89e5ccef63",
       "topic": "Tech",
       "kind": "Founder",
       "source": "The Verge",
-      "published": "2026-10-07T19:27:39+00:00",
-      "title": "Roku’s OLED TVs are up to $400 off during Prime Day, starting at $700",
-      "summary": "Just over a week ago, we covered a deal at Amazon that knocked around 30 percent off Roku’s new (and first-ever) OLED TVs. The deal expired, but has returned for the final day of October Prime Day. The 55-inch Pro Series OLED is $699.99 at Amazon, which is 30 percent off its…",
-      "url": "https://www.theverge.com/gadgets/1007149/roku-oled-tv-pro-prime-day-deal-sale"
+      "published": "2026-10-08T18:48:36+00:00",
+      "title": "Tim Cook says ‘I’m not meddling’ in the new Apple CEO’s business",
+      "summary": "Tim Cook stepped down as Apple CEO in September, handing over the top job to former hardware chief John Ternus and taking an executive chairman role. Cook's still a visible representative of the company, having been recently photographed attending a state dinner at the White…",
+      "url": "https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo"
     },
     {
-      "id": "4c57b12cef",
-      "topic": "AI",
-      "kind": "Launch",
+      "id": "e6c7e01e27",
+      "topic": "Tech",
+      "kind": "Company",
       "source": "The Verge",
-      "published": "2026-10-07T19:10:42+00:00",
-      "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
-      "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6"
+      "published": "2026-10-08T18:48:11+00:00",
+      "title": "I only bought Pokémon Legends: Z-A during Prime Day, and it’s still on sale",
+      "summary": "After covering Amazon’s October sale for the last few days, only one item found its way into my shopping cart, and, lucky for you, it’s still on sale after the event’s conclusion. Pokémon Legends: Z-A for the Nintendo Switch or Switch 2 is $39.88 (usually $59.99 for Switch or…",
+      "url": "https://www.theverge.com/gadgets/1008212/pokemon-legends-z-a-switch-deal-sale"
     },
     {
-      "id": "bca98fb756",
+      "id": "d4998e5dc1",
       "topic": "Devices",
       "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-07T19:05:52+00:00",
-      "title": "The first Nvidia RTX Spark laptops cost up to $7,000",
-      "summary": "The first array of laptops powered by Nvidia's new RTX Spark chip are designed to compete with high-end MacBook Pros - and they've got some high-end prices to match. The flagship Surface Laptop Ultra and RTX Spark laptops from Dell, Lenovo, MSI, HP, and Asus start as low as…",
-      "url": "https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000"
+      "source": "TechCrunch",
+      "published": "2026-10-08T18:30:00+00:00",
+      "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
+      "summary": "A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19.",
+      "url": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/"
     },
     {
-      "id": "6a47c5a45f",
-      "topic": "AI",
+      "id": "099d626505",
+      "topic": "Tech",
       "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-07T18:46:16+00:00",
-      "title": "It appears .agent and .agi are about to be the hot new domains",
-      "summary": "For the first time in years, the Internet Corporation for Assigned Names and Numbers - better known as ICANN - is accepting applications for new top-level domains. These are the suffixes at the end of all URLs, and you may know them as things like .com, .org, and .pizza. ICANN…",
-      "url": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi"
+      "source": "Engadget",
+      "published": "2026-10-08T18:23:00+00:00",
+      "title": "US suspends permanent residency program for Microsoft, Adobe and other tech companies",
+      "summary": "Seven companies have been accused of fraud regarding the H-1B worker visas.",
+      "url": "https://www.engadget.com/2281503/us-suspends-permanent-residency-program-for-microsoft-adobe-and-other-tech-companies/"
+    },
+    {
+      "id": "24ade8ad30",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-10-08T18:20:32+00:00",
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/"
     }
   ],
   "rumors": [
     {
-      "id": "741e2ad2c5",
-      "topic": "Tech",
+      "id": "517615f483",
+      "topic": "AI",
       "status": "Just surfaced",
-      "title": "Teenage Engineering’s CEO says it’ll stop making synths",
-      "detail": "Teenage Engineering founder and CEO Jesper Kouthoofd told Highsnobiety that it plans to stop making synths. And yes, that includes the iconic OP-1, which put the company on the map. TE isn't just a music gear maker; it's also a sought-after design firm. It's collaborated with…",
-      "url": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
+      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+      "detail": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
       "sources": 1,
       "mentions": 2,
       "credible": 1,
@@ -290,12 +290,26 @@
       "score": 15
     },
     {
-      "id": "cfd4901275",
+      "id": "0d4d7cd878",
       "topic": "Tech",
       "status": "Just surfaced",
-      "title": "We now have images of the smart home products that Apple and LG are reportedly cooking up",
-      "detail": "These include a lock, a thermostat and a temperature sensor.",
-      "url": "https://www.engadget.com/2280076/we-now-have-images-of-the-smart-home-products-that-apple-and-lg-are-reportedly-cooking-up/",
+      "title": "Careful out there: latest GTA 6 leak has major story spoilers",
+      "detail": "If you can't help yourself, maybe don't watch it at work...",
+      "url": "https://www.engadget.com/2281188/careful-out-there-latest-gta-6-leak-has-major-story-spoilers/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 15
+    },
+    {
+      "id": "1f7f17f118",
+      "topic": "Devices",
+      "status": "Just surfaced",
+      "title": "Apple will reportedly debut its first touchscreen MacBook in three weeks",
+      "detail": "Apple is set to introduce a new MacBook Pro with a touchscreen and an updated iPad Mini \"on or around\" October 27th, Bloomberg reports. If true, that would put the event just two weeks after the October 13th event Apple announced today, which is rumored to focus on smart home…",
+      "url": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor",
       "sources": 1,
       "mentions": 1,
       "credible": 1,
@@ -304,145 +318,113 @@
         "AAPL"
       ],
       "score": 15
-    },
-    {
-      "id": "5349f9590a",
-      "topic": "Chips",
-      "status": "Just surfaced",
-      "title": "Nvidia RTX Spark for $2,999.99: HP leak reveals RTX Spark laptop pricing ahead of launch",
-      "detail": "submitted by /u/Logical_Welder3467 [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1wzyfqz/nvidia_rtx_spark_for_299999_hp_leak_reveals_rtx/",
-      "sources": 1,
-      "mentions": 3,
-      "credible": 0,
-      "days": 0,
-      "tickers": [
-        "NVDA"
-      ],
-      "score": 13
-    },
-    {
-      "id": "0c49dcaab2",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "FCC to vote on auctioning 25MHz of 'prime spectrum' in move that could benefit Amazon, SpaceX",
-      "detail": "submitted by /u/DoremusJessup [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1x0a7zd/fcc_to_vote_on_auctioning_25mhz_of_prime_spectrum/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 0,
-      "days": 0,
-      "tickers": [
-        "AMZN"
-      ],
-      "score": 8
     }
   ],
   "watchlist": [
     {
-      "ticker": "TSM",
-      "name": "TSMC",
-      "price": 472.2,
-      "changePct": 3.5,
-      "catalyst": "Earnings report",
-      "when": "Thu",
-      "signals": [
-        "Earnings"
-      ],
-      "spark": [
-        456.94,
-        456.19,
-        459.2,
-        472.78,
-        485.8,
-        482.3,
-        472.2
-      ],
-      "score": 47.0
-    },
-    {
       "ticker": "ASML",
       "name": "ASML",
-      "price": 1804.96,
-      "changePct": -0.4,
+      "price": 1769.79,
+      "changePct": -2.1,
       "catalyst": "Earnings report",
       "when": "Wed",
       "signals": [
         "Earnings"
       ],
       "spark": [
-        1834.39,
         1811.67,
         1808.49,
         1867.31,
         1859.86,
         1834.1,
-        1804.96
+        1804.96,
+        1769.79
       ],
-      "score": 40.7
+      "score": 46.2
     },
     {
-      "ticker": "MSFT",
-      "name": "Microsoft",
-      "price": 529.76,
-      "changePct": 3.3,
-      "catalyst": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "when": "In the news",
+      "ticker": "TSM",
+      "name": "TSMC",
+      "price": 457.99,
+      "changePct": -0.3,
+      "catalyst": "Earnings report",
+      "when": "Thu",
       "signals": [
-        "8 headlines"
+        "Earnings"
       ],
       "spark": [
-        508.96,
-        512.9,
-        512.8,
-        517.53,
-        525.18,
-        529.3,
-        529.76
+        456.19,
+        459.2,
+        472.78,
+        485.8,
+        482.3,
+        472.2,
+        457.99
       ],
-      "score": 36.6
+      "score": 42.3
     },
     {
       "ticker": "GOOGL",
       "name": "Alphabet",
-      "price": 350.5,
-      "changePct": 1.9,
-      "catalyst": "Finland Orders Google to Halt Data Centre Work Over Missing Environmental Reviews",
+      "price": 348.29,
+      "changePct": 3.0,
+      "catalyst": "Google is doing away with Safety Signal on Pixel Watch",
       "when": "In the news",
       "signals": [
-        "9 headlines"
+        "6 headlines"
       ],
       "spark": [
-        340.92,
         344.08,
         338.24,
         343.5,
         346.47,
         347.68,
-        350.5
+        350.5,
+        348.29
       ],
-      "score": 33.7
+      "score": 35.9
     },
     {
       "ticker": "AMZN",
       "name": "Amazon",
-      "price": 259.92,
-      "changePct": 4.3,
-      "catalyst": "Amazon employees hit by fresh job cuts across several teams",
+      "price": 254.06,
+      "changePct": 2.3,
+      "catalyst": "Alexa Tablet vs iPad Pro: How Amazon is keeping up with Apple",
       "when": "In the news",
       "signals": [
-        "4 headlines"
+        "9 headlines"
       ],
       "spark": [
-        246.67,
         249.15,
         248.23,
         251.52,
         251.4,
         256.29,
-        259.92
+        259.92,
+        254.06
       ],
-      "score": 28.7
+      "score": 34.8
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "price": 522.61,
+      "changePct": 1.9,
+      "catalyst": "Microsoft’s new Windows Search is exactly what Windows 11 needs",
+      "when": "In the news",
+      "signals": [
+        "10 headlines"
+      ],
+      "spark": [
+        512.9,
+        512.8,
+        517.53,
+        525.18,
+        529.3,
+        529.76,
+        522.61
+      ],
+      "score": 33.8
     }
   ]
 }
