@@ -1,12 +1,126 @@
 {
   "weekOf": "2026-10-05",
-  "updated": "2026-10-09T02:07:57+00:00",
+  "updated": "2026-10-09T11:28:33+00:00",
   "summary": [
-    "Tech leads the news with 13 of 25 stories. Top headline: President Trump awards Big Tech donors with nation’s highest science prizes",
+    "Tech leads the news with 12 of 25 stories. Top headline: Anthropic now offers a free vulnerability-finding service for open-source software",
     "Earnings this week from ASML, TSM.",
     "Strongest rumor: Apple will reportedly debut its first touchscreen MacBook in three weeks"
   ],
   "stories": [
+    {
+      "id": "7574ff8928",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-09T11:24:27+00:00",
+      "title": "Anthropic now offers a free vulnerability-finding service for open-source software",
+      "summary": "Anthropic is offering open-source projects a new way to check for vulnerabilities with its OSS Scanner.",
+      "url": "https://www.engadget.com/2282005/anthropic-offers-open-source-software-free-ai-security-checks/",
+      "tickers": []
+    },
+    {
+      "id": "1f1ed53642",
+      "topic": "Devices",
+      "kind": "Launch",
+      "source": "Engadget",
+      "published": "2026-10-09T10:54:19+00:00",
+      "title": "Netflix releases trailer for its miniseries about Sam Bankman-Fried's scandal-ridden crypto exchange",
+      "summary": "Watch the trailer for Netflix's The Altruists, a mini-series about the rise and fall of cryptocurrency exchange FTX.",
+      "url": "https://www.engadget.com/2281997/netflix-the-altruists-sam-bankman-fried-trailer/",
+      "tickers": [
+        "NFLX"
+      ]
+    },
+    {
+      "id": "83017de86f",
+      "topic": "Policy",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-09T09:54:24+00:00",
+      "title": "Meta bans TikTok ads from its platforms in tit-for-tat row",
+      "summary": "Meta has placed a complete ban on ads and marketing from TikTok's US minority owner, ByteDance.",
+      "url": "https://www.engadget.com/2281983/meta-bans-tiktok-ads/",
+      "tickers": []
+    },
+    {
+      "id": "41356ff011",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-09T09:48:26+00:00",
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating \"clear…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "tickers": []
+    },
+    {
+      "id": "7154398e7b",
+      "topic": "Startups",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-09T08:30:18+00:00",
+      "title": "SpaceX wants to become a 'major mobile carrier' with low-band spectrum acquisition",
+      "summary": "SpaceX has revealed its plans to become a major mobile carrier.",
+      "url": "https://www.engadget.com/2281967/spacex-major-mobile-carrier-low-band-spectrum-acquisition/",
+      "tickers": []
+    },
+    {
+      "id": "03408f8ad6",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-09T08:25:18+00:00",
+      "title": "Fired OpenAI safety researchers dispute their dismissals in open letter",
+      "summary": "Three OpenAI researchers said their firings may have a 'chilling' effect on employees.",
+      "url": "https://www.engadget.com/2281966/fired-openai-safety-researchers-dispute-their-dismissals-in-open-letter/",
+      "tickers": []
+    },
+    {
+      "id": "f5b604ab14",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-09T07:14:32+00:00",
+      "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
+      "summary": "Microsoft bundled its AI-powered Office features into Microsoft 365 Personal and Family subscriptions last year, but it only allowed the primary account holder to access the AI benefits. Now, Microsoft is about to let Microsoft 365 Family and Premium subscribers share Copilot…",
+      "url": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
+      "tickers": [
+        "MSFT"
+      ]
+    },
+    {
+      "id": "d76175ae98",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-09T05:22:58+00:00",
+      "title": "Show HN: Quake ported to safe Rust, playable in browser",
+      "summary": "Article URL: https://quake-srp.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50016312 Points: 174 # Comments: 138",
+      "url": "https://quake-srp.pages.dev/",
+      "tickers": []
+    },
+    {
+      "id": "d4e70806db",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-09T03:08:05+00:00",
+      "title": "Keyboard differences between Windows and Macs",
+      "summary": "Article URL: https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/ Comments URL: https://news.ycombinator.com/item?id=50015515 Points: 171 # Comments: 149",
+      "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+      "tickers": []
+    },
+    {
+      "id": "92570a5058",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-08T22:57:50+00:00",
+      "title": "Bevy 0.20",
+      "summary": "Article URL: https://bevy.org/news/bevy-0-20/ Comments URL: https://news.ycombinator.com/item?id=50013610 Points: 188 # Comments: 38",
+      "url": "https://bevy.org/news/bevy-0-20/",
+      "tickers": []
+    },
     {
       "id": "ae2ab241fc",
       "topic": "Tech",
@@ -66,17 +180,6 @@
       ]
     },
     {
-      "id": "7ae9742135",
-      "topic": "Startups",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-10-08T21:23:31+00:00",
-      "title": "SpaceX announces plan to become a ‘major mobile carrier’",
-      "summary": "SpaceX has acquired a portfolio of low-band spectrum licenses - a move the company says \"will pave the way\" for its Starlink Mobile service to become a \"major\" US carrier. When the Federal Communications Commission signs off on the deal, SpaceX says it will deploy its new…",
-      "url": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
-      "tickers": []
-    },
-    {
       "id": "4e1569459a",
       "topic": "AI",
       "kind": "Company",
@@ -129,7 +232,7 @@
       "source": "Hacker News",
       "published": "2026-10-08T20:42:16+00:00",
       "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
-      "summary": "Article URL: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full Comments URL: https://news.ycombinator.com/item?id=50011928 Points: 166 # Comments: 125",
+      "summary": "Article URL: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full Comments URL: https://news.ycombinator.com/item?id=50011928 Points: 317 # Comments: 206",
       "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
       "tickers": []
     },
@@ -178,17 +281,6 @@
       "tickers": []
     },
     {
-      "id": "e173082eaf",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-08T20:04:26+00:00",
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "tickers": []
-    },
-    {
       "id": "91ec99085b",
       "topic": "Tech",
       "kind": "Company",
@@ -198,105 +290,6 @@
       "summary": "Four men detained at an ICE detention center in rural Georgia used the facility's video conferencing software to expose both the conditions inside and President Donald Trump's hostile takeover of the immigration courts. In the five-minute video, the men describe an intentionally…",
       "url": "https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video",
       "tickers": []
-    },
-    {
-      "id": "6d3aa9096c",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-08T19:30:21+00:00",
-      "title": "Microsoft’s new Windows Search is exactly what Windows 11 needs",
-      "summary": "Windows Search has been one of the most frustrating parts of Windows 11, and now Microsoft is addressing this with a significant overhaul. A new redesigned Windows Search is now in testing that is much faster, more capable, and a lot more modern. \"This new Windows Search…",
-      "url": "https://www.theverge.com/news/1008320/microsoft-windows-search-overhaul-windows-11",
-      "tickers": [
-        "MSFT"
-      ]
-    },
-    {
-      "id": "84d2dccd7d",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Wired",
-      "published": "2026-10-08T19:30:00+00:00",
-      "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
-      "summary": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
-      "url": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
-      "tickers": []
-    },
-    {
-      "id": "9e1628ab71",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-08T19:16:12+00:00",
-      "title": "Google is doing away with Safety Signal on Pixel Watch",
-      "summary": "Access to the emergency feature for LTE-connected wearables will end by December.",
-      "url": "https://www.engadget.com/2281591/google-is-doing-away-with-safety-signal-on-pixel-watch/",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "dc67595f10",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-08T19:14:03+00:00",
-      "title": "Paramount is making a Cyberpunk 2077 film",
-      "summary": "Cyberpunk 2077 is heading to the big screen. Deadline reports that CD Projekt Red's popular sci-fi video game franchise is being adapted into a live-action film by Paramount Pictures. There's no details just yet on when the film might premiere. But Deadline says that Lorenzo di…",
-      "url": "https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie",
-      "tickers": []
-    },
-    {
-      "id": "ed5e56bea0",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Wired",
-      "published": "2026-10-08T19:11:45+00:00",
-      "title": "Trump Administration Cuts Off Access to a Major Immigration Program for Workers at Microsoft and Adobe",
-      "summary": "“There has been no company in the United States, unfortunately, that has abused this system more than Microsoft,” Vice President JD Vance said on Thursday.",
-      "url": "https://www.wired.com/story/trump-administration-crackdown-microsoft-adobe-immigration/",
-      "tickers": [
-        "MSFT",
-        "ADBE"
-      ]
-    },
-    {
-      "id": "dd1ff1b42e",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-08T18:51:28+00:00",
-      "title": "The Atari 800XL hybrid gaming console is back after decades in obscurity",
-      "summary": "This updated version connects via HDMI and comes with 25 built-in games.",
-      "url": "https://www.engadget.com/2281551/the-atari-800xl-hybrid-gaming-console-is-back-after-decades-in-obscurity/",
-      "tickers": []
-    },
-    {
-      "id": "89e5ccef63",
-      "topic": "Tech",
-      "kind": "Founder",
-      "source": "The Verge",
-      "published": "2026-10-08T18:48:36+00:00",
-      "title": "Tim Cook says ‘I’m not meddling’ in the new Apple CEO’s business",
-      "summary": "Tim Cook stepped down as Apple CEO in September, handing over the top job to former hardware chief John Ternus and taking an executive chairman role. Cook's still a visible representative of the company, having been recently photographed attending a state dinner at the White…",
-      "url": "https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "d4998e5dc1",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-08T18:30:00+00:00",
-      "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
-      "summary": "A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19.",
-      "url": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
-      "tickers": [
-        "NFLX"
-      ]
     }
   ],
   "rumors": [
@@ -324,11 +317,25 @@
       "detail": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
       "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
       "sources": 1,
-      "mentions": 3,
+      "mentions": 2,
       "credible": 1,
       "days": 0,
       "tickers": [],
-      "score": 20
+      "score": 18
+    },
+    {
+      "id": "7154398e7b",
+      "topic": "Startups",
+      "status": "Just surfaced",
+      "title": "SpaceX wants to become a 'major mobile carrier' with low-band spectrum acquisition",
+      "detail": "SpaceX has revealed its plans to become a major mobile carrier.",
+      "url": "https://www.engadget.com/2281967/spacex-major-mobile-carrier-low-band-spectrum-acquisition/",
+      "sources": 1,
+      "mentions": 2,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 18
     },
     {
       "id": "924fa0f5a0",
@@ -340,7 +347,7 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 8,
+      "days": 9,
       "tickers": [
         "NET"
       ],
@@ -603,6 +610,157 @@
       }
     },
     {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "price": 522.61,
+      "changePct": 1.9,
+      "monthChangePct": 6.3,
+      "catalyst": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
+      "when": "In the news",
+      "signals": [
+        "9 headlines"
+      ],
+      "spark": [
+        512.9,
+        512.8,
+        517.53,
+        525.18,
+        529.3,
+        529.76,
+        522.61
+      ],
+      "history": [
+        {
+          "d": "2026-09-09",
+          "c": 491.65
+        },
+        {
+          "d": "2026-09-10",
+          "c": 492.44
+        },
+        {
+          "d": "2026-09-11",
+          "c": 495.63
+        },
+        {
+          "d": "2026-09-14",
+          "c": 505.41
+        },
+        {
+          "d": "2026-09-15",
+          "c": 497.12
+        },
+        {
+          "d": "2026-09-16",
+          "c": 490.3
+        },
+        {
+          "d": "2026-09-17",
+          "c": 497.75
+        },
+        {
+          "d": "2026-09-18",
+          "c": 493.78
+        },
+        {
+          "d": "2026-09-21",
+          "c": 501.61
+        },
+        {
+          "d": "2026-09-22",
+          "c": 498.0
+        },
+        {
+          "d": "2026-09-23",
+          "c": 500.59
+        },
+        {
+          "d": "2026-09-24",
+          "c": 497.93
+        },
+        {
+          "d": "2026-09-25",
+          "c": 516.17
+        },
+        {
+          "d": "2026-09-28",
+          "c": 509.22
+        },
+        {
+          "d": "2026-09-29",
+          "c": 508.96
+        },
+        {
+          "d": "2026-09-30",
+          "c": 512.9
+        },
+        {
+          "d": "2026-10-01",
+          "c": 512.8
+        },
+        {
+          "d": "2026-10-02",
+          "c": 517.53
+        },
+        {
+          "d": "2026-10-05",
+          "c": 525.18
+        },
+        {
+          "d": "2026-10-06",
+          "c": 529.3
+        },
+        {
+          "d": "2026-10-07",
+          "c": 529.76
+        },
+        {
+          "d": "2026-10-08",
+          "c": 522.61
+        }
+      ],
+      "earnings": "2026-10-28",
+      "headlines": [
+        {
+          "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
+          "published": "2026-10-09T07:14:32+00:00"
+        },
+        {
+          "title": "Microsoft’s new Windows Search is exactly what Windows 11 needs",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/1008320/microsoft-windows-search-overhaul-windows-11",
+          "published": "2026-10-08T19:30:21+00:00"
+        },
+        {
+          "title": "Trump Administration Cuts Off Access to a Major Immigration Program for Workers at Microsoft and Adobe",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/trump-administration-crackdown-microsoft-adobe-immigration/",
+          "published": "2026-10-08T19:11:45+00:00"
+        },
+        {
+          "title": "US suspends permanent residency program for Microsoft, Adobe and other tech companies",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2281503/us-suspends-permanent-residency-program-for-microsoft-adobe-and-other-tech-companies/",
+          "published": "2026-10-08T18:23:00+00:00"
+        },
+        {
+          "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/",
+          "published": "2026-10-08T15:42:26+00:00"
+        }
+      ],
+      "score": 33.8,
+      "brief": {
+        "what": "5 recent headlines mention Microsoft. Latest: Microsoft 365 Family subscribers will finally be able to share AI benefits",
+        "why": "Signals: 9 headlines. The stock is up 1.9% this week and up 6.3% over the month.",
+        "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
       "ticker": "AAPL",
       "name": "Apple",
       "price": 340.42,
@@ -611,7 +769,7 @@
       "catalyst": "Apple reportedly plans touchscreen MacBook and iPad Mini launch for this month",
       "when": "In the news",
       "signals": [
-        "6 headlines"
+        "5 headlines"
       ],
       "spark": [
         333.02,
@@ -721,12 +879,6 @@
           "published": "2026-10-08T21:40:59+00:00"
         },
         {
-          "title": "Tim Cook says ‘I’m not meddling’ in the new Apple CEO’s business",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo",
-          "published": "2026-10-08T18:48:36+00:00"
-        },
-        {
           "title": "Apple is set to show off new smart home devices at an October 13 event",
           "source": "Engadget",
           "url": "https://www.engadget.com/2281263/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/",
@@ -739,10 +891,10 @@
           "published": "2026-10-02T23:03:16+00:00"
         }
       ],
-      "score": 36.1,
+      "score": 31.1,
       "brief": {
-        "what": "4 recent headlines mention Apple. Latest: Alexa Tablet vs iPad Pro: How Amazon is keeping up with Apple There is also a rumor making the rounds: Apple will reportedly debut its first touchscreen MacBook in three weeks",
-        "why": "Signals: 6 headlines. The stock is up 3.1% this week and up 8.0% over the month.",
+        "what": "3 recent headlines mention Apple. Latest: Alexa Tablet vs iPad Pro: How Amazon is keeping up with Apple There is also a rumor making the rounds: Apple will reportedly debut its first touchscreen MacBook in three weeks",
+        "why": "Signals: 5 headlines. The stock is up 3.1% this week and up 8.0% over the month.",
         "watch": "Next earnings expected Mon Nov 2. Results and guidance usually move the stock most.",
         "ai": false
       }
@@ -756,7 +908,7 @@
       "catalyst": "Google is doing away with Safety Signal on Pixel Watch",
       "when": "In the news",
       "signals": [
-        "6 headlines"
+        "5 headlines"
       ],
       "spark": [
         344.08,
@@ -884,156 +1036,11 @@
           "published": "2026-09-25T19:38:59+00:00"
         }
       ],
-      "score": 35.9,
+      "score": 30.9,
       "brief": {
         "what": "4 recent headlines mention Alphabet. Latest: Google is doing away with Safety Signal on Pixel Watch",
-        "why": "Signals: 6 headlines. The stock is up 3.0% this week and up 5.3% over the month.",
+        "why": "Signals: 5 headlines. The stock is up 3.0% this week and up 5.3% over the month.",
         "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "price": 254.06,
-      "changePct": 2.3,
-      "monthChangePct": 0.7,
-      "catalyst": "Amazon warns local communities to stop defying its massive AI data centers",
-      "when": "In the news",
-      "signals": [
-        "7 headlines"
-      ],
-      "spark": [
-        249.15,
-        248.23,
-        251.52,
-        251.4,
-        256.29,
-        259.92,
-        254.06
-      ],
-      "history": [
-        {
-          "d": "2026-09-09",
-          "c": 252.4
-        },
-        {
-          "d": "2026-09-10",
-          "c": 251.89
-        },
-        {
-          "d": "2026-09-11",
-          "c": 256.78
-        },
-        {
-          "d": "2026-09-14",
-          "c": 253.54
-        },
-        {
-          "d": "2026-09-15",
-          "c": 248.42
-        },
-        {
-          "d": "2026-09-16",
-          "c": 245.96
-        },
-        {
-          "d": "2026-09-17",
-          "c": 251.19
-        },
-        {
-          "d": "2026-09-18",
-          "c": 253.71
-        },
-        {
-          "d": "2026-09-21",
-          "c": 258.45
-        },
-        {
-          "d": "2026-09-22",
-          "c": 254.98
-        },
-        {
-          "d": "2026-09-23",
-          "c": 249.27
-        },
-        {
-          "d": "2026-09-24",
-          "c": 249.38
-        },
-        {
-          "d": "2026-09-25",
-          "c": 249.67
-        },
-        {
-          "d": "2026-09-28",
-          "c": 246.15
-        },
-        {
-          "d": "2026-09-29",
-          "c": 246.67
-        },
-        {
-          "d": "2026-09-30",
-          "c": 249.15
-        },
-        {
-          "d": "2026-10-01",
-          "c": 248.23
-        },
-        {
-          "d": "2026-10-02",
-          "c": 251.52
-        },
-        {
-          "d": "2026-10-05",
-          "c": 251.4
-        },
-        {
-          "d": "2026-10-06",
-          "c": 256.29
-        },
-        {
-          "d": "2026-10-07",
-          "c": 259.92
-        },
-        {
-          "d": "2026-10-08",
-          "c": 254.06
-        }
-      ],
-      "earnings": "2026-10-29",
-      "headlines": [
-        {
-          "title": "Alexa Tablet vs iPad Pro: How Amazon is keeping up with Apple",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2281782/alexa-tablet-vs-ipad-pro-amazon-apple-tablet-comparison/",
-          "published": "2026-10-08T21:40:59+00:00"
-        },
-        {
-          "title": "Everything Amazon has announced so far in October 2026",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2281378/everything-amazon-announced-october-2026-alexa-tablet-kindle-fire-tv-ring-lock/",
-          "published": "2026-10-08T17:30:00+00:00"
-        },
-        {
-          "title": "Amazon's Panos Panay teases more Alexa-branded devices and a new design language",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2280951/panos-panay-tease-neo-design-language-and-alexa-interface/",
-          "published": "2026-10-08T13:00:00+00:00"
-        },
-        {
-          "title": "Amazon Says It’s No Longer Using NDAs for Data Centers",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/",
-          "published": "2026-10-02T11:47:58+00:00"
-        }
-      ],
-      "score": 35.1,
-      "brief": {
-        "what": "4 recent headlines mention Amazon. Latest: Alexa Tablet vs iPad Pro: How Amazon is keeping up with Apple",
-        "why": "Signals: 7 headlines. The stock is up 2.3% this week and up 0.7% over the month.",
-        "watch": "Next earnings expected Thu Oct 29. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
