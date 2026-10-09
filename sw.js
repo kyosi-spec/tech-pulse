@@ -1,6 +1,6 @@
 // Service worker: lets the app open instantly and work offline with the last briefing.
 // Bump VERSION whenever you change index.html so phones pick up the new app.
-const VERSION = "tech-pulse-v1";
+const VERSION = "tech-pulse-v2";
 const SHELL = ["./", "index.html", "manifest.webmanifest", "icons/icon-180.png", "icons/icon-192.png"];
 
 self.addEventListener("install", e => {

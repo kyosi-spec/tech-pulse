@@ -125,7 +125,7 @@ h2 { font-family: var(--font-display); font-weight: 600; font-size: 20px; letter
 
 /* Watchlist */
 .watch { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 14px; display: flex; flex-direction: column; gap: 10px; text-align: left; width: 100%; }
-.watch-row { display: grid; grid-template-columns: auto 1fr auto; gap: 12px; align-items: center; }
+.watch-row { display: grid; grid-template-columns: auto 1fr auto auto; gap: 12px; align-items: center; }
 .rank { font-family: var(--font-data); font-size: 12px; color: var(--muted); width: 18px; }
 .tk { font-family: var(--font-data); font-weight: 500; font-size: 17px; }
 .co { font-size: 12px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
@@ -151,6 +151,44 @@ h2 { font-family: var(--font-display); font-weight: 600; font-size: 20px; letter
 .hi { color: var(--heat-hi); } .mid { color: var(--heat-mid); } .lo { color: var(--heat-lo); } .faint { color: var(--muted); }
 .evidence { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 13px; color: var(--ink); }
 .evidence b { font-family: var(--font-data); font-weight: 500; }
+
+/* Ticker detail */
+.watch { cursor: pointer; }
+.watch:active, .chip-tick:active { transform: scale(0.99); }
+.chev { color: var(--muted); font-size: 20px; line-height: 1; }
+.back { display: inline-flex; align-items: center; gap: 4px; color: var(--accent); font-weight: 500; font-size: 15px; padding: 4px 0; align-self: flex-start; }
+.back svg { width: 18px; height: 18px; }
+.d-head { display: grid; grid-template-columns: 1fr auto; gap: 4px 12px; align-items: end; }
+.d-tk { font-family: var(--font-display); font-weight: 800; font-size: 34px; letter-spacing: -0.02em; line-height: 1; }
+.d-name { color: var(--muted); font-size: 14px; }
+.d-price { font-family: var(--font-data); font-size: 24px; text-align: right; line-height: 1.1; }
+.d-chg { font-family: var(--font-data); font-size: 13px; text-align: right; }
+.chart-card { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 14px 14px 10px; display: flex; flex-direction: column; gap: 8px; }
+.readout { display: flex; justify-content: space-between; gap: 8px; font-size: 13px; color: var(--muted); min-height: 20px; }
+.readout b { font-family: var(--font-data); font-weight: 500; color: var(--ink); }
+.readout .up { color: var(--up); } .readout .down { color: var(--down); }
+.chart { width: 100%; height: 190px; display: block; touch-action: pan-y; }
+.chart text { font-family: var(--font-data); font-size: 10.5px; fill: var(--muted); }
+.stats { display: grid; grid-template-columns: repeat(3, 1fr); border-top: 1px solid var(--line); padding-top: 10px; }
+.stat { display: flex; flex-direction: column; gap: 2px; }
+.stat + .stat { padding-left: 12px; border-left: 1px solid var(--line); }
+.stat span { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; font-weight: 600; }
+.stat b { font-family: var(--font-data); font-weight: 500; font-size: 14px; }
+.earn { display: flex; align-items: center; gap: 12px; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 12px 14px; }
+.earn-cal { flex: 0 0 auto; width: 46px; border-radius: 8px; overflow: hidden; text-align: center; border: 1px solid var(--line); }
+.earn-cal i { display: block; font-style: normal; font-size: 10px; font-weight: 600; letter-spacing: 0.08em; background: var(--accent); color: var(--surface); padding: 2px 0; text-transform: uppercase; }
+.earn-cal b { display: block; font-family: var(--font-display); font-size: 20px; padding: 2px 0 3px; }
+.earn-txt { display: flex; flex-direction: column; font-size: 14px; }
+.earn-txt small { color: var(--muted); font-size: 12.5px; }
+.ai-card { background: var(--accent-soft); border-radius: 14px; padding: 16px; display: flex; flex-direction: column; gap: 12px; }
+.ai-row { display: flex; flex-direction: column; gap: 2px; }
+.ai-row span { font-size: 11px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); }
+.ai-row p { margin: 0; }
+.ai-foot { font-size: 11.5px; color: var(--muted); }
+.hl { display: flex; flex-direction: column; gap: 3px; padding: 12px 14px; border-top: 1px solid var(--line); color: var(--ink); text-decoration: none; }
+.hl:first-child { border-top: 0; }
+.hl .title { font-size: 15px; }
+button.signal { cursor: pointer; color: var(--accent); border-color: var(--accent); }
 
 .empty { text-align: center; padding: 36px 16px; color: var(--muted); background: var(--surface); border: 1px dashed var(--line); border-radius: 14px; }
 
@@ -229,6 +267,36 @@ const SAMPLE = {
     { ticker: "AMD", name: "Advanced Micro Devices", price: 164.85, changePct: -2.2, catalyst: "Competitor launch pressure", when: "All week", signals: ["Price move", "News spike"], spark: [172,171,169,168,167,166,165] }
   ]
 };
+/* Sample detail data: a month of made-up prices, plus headlines and summaries. */
+(function fillSample() {
+  const extra = {
+    NVDA: { month: 9.6, earnings: 21, heads: [["Chipmaker unveils next-gen AI accelerator with 2x memory bandwidth", "Sample Wire", 2], ["Analysts raise targets ahead of the company's analyst day", "Sample Daily", 20]],
+      brief: { what: "The company unveiled a new data-center accelerator with double the memory bandwidth, and holds an analyst day on Thursday. Coverage this week centers on how fast cloud customers adopt it.", why: "A product launch plus an investor event in the same week, with the stock up about 10% over the month.", watch: "Thursday's analyst day for shipping dates and pricing of the new chip.", ai: true } },
+    TSM: { month: 4.1, earnings: 8, heads: [["Foundry reports record utilization at advanced nodes", "Sample Wire", 48]],
+      brief: { what: "Monthly sales rose on AI chip demand and management raised its spending plan. Advanced factories are running near full capacity.", why: "Earnings are a week away and monthly sales are a preview of the quarter.", watch: "Friday's monthly sales report and any comment on next year's capacity.", ai: true } },
+    AMZN: { month: -2.7, earnings: 15, heads: [["Big cloud provider cuts GPU instance prices ahead of earnings", "Sample Wire", 6]],
+      brief: { what: "Its cloud unit cut prices on older GPU instances by up to 30%, which suggests new capacity is coming online. A data-center rumor in Texas is gaining traction.", why: "Price cuts shortly before earnings raise questions about cloud margins.", watch: "How management explains the price cuts on the next earnings call.", ai: true } },
+    MSFT: { month: 1.4, earnings: null, heads: [],
+      brief: { what: "The developer conference keynote is Tuesday. There are no major headlines yet this week.", why: "Big product announcements usually come at the keynote.", watch: "AI tooling and pricing announcements at Tuesday's keynote.", ai: true } },
+    AMD: { month: -5.2, earnings: 26, heads: [["Rival's new accelerator puts pressure on chip pricing", "Sample Tech", 10]],
+      brief: { what: "A competitor's new AI accelerator is drawing attention away from the company's own lineup. The stock has drifted lower all month.", why: "Down about 5% over the month on competitive pressure, with heavy news coverage.", watch: "Any pricing response or new customer wins before earnings.", ai: true } }
+  };
+  const end = new Date(SAMPLE.weekOf + "T12:00:00"); end.setDate(end.getDate() + 1);
+  const days = [];
+  for (const d = new Date(end); days.length < 22; d.setDate(d.getDate() - 1)) if (d.getDay() % 6) days.unshift(d.toISOString().slice(0, 10));
+  const iso = n => { const d = new Date(); d.setDate(d.getDate() + n); return d.toISOString().slice(0, 10); };
+  SAMPLE.watchlist.forEach((w, k) => {
+    const e = extra[w.ticker], start = w.price / (1 + e.month / 100);
+    w.history = days.map((d, i) => {
+      const t = i / 21, wobble = Math.sin(i * 1.7 + k) * 0.012 + Math.sin(i * 0.6 + k * 2) * 0.018;
+      return { d, c: +(i === 21 ? w.price : (start + (w.price - start) * t) * (1 + wobble)).toFixed(2) };
+    });
+    w.monthChangePct = e.month;
+    w.earnings = e.earnings == null ? null : iso(e.earnings);
+    w.headlines = e.heads.map(([title, source, h]) => ({ title, source, url: "#", published: new Date(Date.now() - h * 3600000).toISOString() }));
+    w.brief = e.brief;
+  });
+})();
 let BRIEFING = SAMPLE;
 let isSample = true;
 
@@ -241,6 +309,8 @@ let saved = new Set(store.get("tp-saved", []));
 let tab = store.get("tp-tab", "today");
 let topic = "All";
 let open = null;
+let detail = null;      // ticker shown on the detail screen, or null
+let listScroll = 0;     // where the list was, so Back returns to the same spot
 
 const ICONS = {
   today: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M4 6h16M4 12h16M4 18h10"/></svg>',
@@ -284,7 +354,7 @@ function rumorHTML(r, rank) {
         <span><b class="num">${r.credible}</b> established outlets</span>
         <span><b class="num">${r.mentions}</b> mentions</span>
       </div>
-      ${r.tickers.length ? `<div class="signals">${r.tickers.map(t => `<span class="signal">${esc(t)}</span>`).join("")}</div>` : ""}
+      ${r.tickers.length ? `<div class="signals">${r.tickers.map(t => findTicker(t) && detail !== t ? `<button class="signal" data-ticker="${esc(t)}">${esc(t)} ›</button>` : `<span class="signal">${esc(t)}</span>`).join("")}</div>` : ""}
       ${linkHTML(r.url, "Read the report →")}
     </div>` : ""}
   </div>`;
@@ -327,13 +397,144 @@ function spark(values, up) {
   </svg>`;
 }
 
+/* ---------- TICKER DETAIL ---------- */
+const findTicker = t => BRIEFING.watchlist.find(w => w.ticker === t);
+// Older briefings only have a 7-day spark line; fall back to it.
+const historyOf = w => (w.history && w.history.length > 1) ? w.history : (w.spark || []).map(c => ({ d: null, c }));
+const money = n => "$" + n.toLocaleString("en-US", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+const fmtDay = (iso, opts = { month: "short", day: "numeric" }) => iso ? new Date(iso + "T12:00:00").toLocaleDateString("en-US", opts) : "";
+
+function niceTicks(lo, hi, count) {
+  const raw = (hi - lo) / count, mag = Math.pow(10, Math.floor(Math.log10(raw)));
+  const step = [1, 2, 2.5, 5, 10].map(m => m * mag).find(s => s >= raw) || raw;
+  const ticks = [];
+  for (let v = Math.ceil(lo / step) * step; v <= hi + 1e-9; v += step) ticks.push(+v.toFixed(6));
+  return ticks;
+}
+
+function drawChart(el, w) {
+  const hist = historyOf(w);
+  if (hist.length < 2) { el.innerHTML = ""; return; }
+  const W = Math.max(el.clientWidth, 200), H = 190, padL = 4, padR = 44, padT = 10, padB = 22;
+  const vals = hist.map(h => h.c), min = Math.min(...vals), max = Math.max(...vals);
+  const span = (max - min) || max * 0.02 || 1, lo = min - span * 0.08, hi = max + span * 0.08;
+  const x = i => padL + i * (W - padL - padR) / (hist.length - 1);
+  const y = v => padT + (hi - v) / (hi - lo) * (H - padT - padB);
+  const up = vals[vals.length - 1] >= vals[0], color = up ? "var(--up)" : "var(--down)";
+  const line = hist.map((h, i) => (i ? "L" : "M") + x(i).toFixed(1) + " " + y(h.c).toFixed(1)).join(" ");
+  const grid = niceTicks(lo, hi, 3).map(v => `<line x1="${padL}" x2="${W - padR}" y1="${y(v)}" y2="${y(v)}" stroke="var(--line)" stroke-width="1"/>
+      <text x="${W - padR + 6}" y="${y(v) + 3.5}">${v >= 1000 ? Math.round(v).toLocaleString("en-US") : v.toFixed(v < 10 ? 2 : 0)}</text>`).join("");
+  const xi = [0, Math.floor((hist.length - 1) / 2), hist.length - 1];
+  const xl = hist[0].d ? xi.map((i, k) => `<text x="${x(i)}" y="${H - 6}" text-anchor="${["start", "middle", "end"][k]}">${fmtDay(hist[i].d)}</text>`).join("") : "";
+  const last = hist.length - 1;
+  el.innerHTML = `<svg class="chart" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img"
+      aria-label="${esc(w.ticker)} closing price over the past ${hist.length} trading days, from ${money(vals[0])} to ${money(vals[last])}">
+    ${grid}
+    <path d="${line} L${x(last)} ${H - padB} L${x(0)} ${H - padB} Z" fill="${color}" opacity="0.08"/>
+    <path d="${line}" fill="none" stroke="${color}" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+    <line class="xh" x1="0" x2="0" y1="${padT}" y2="${H - padB}" stroke="var(--muted)" stroke-width="1" stroke-dasharray="3 3" visibility="hidden"/>
+    <circle class="dot" cx="${x(last)}" cy="${y(vals[last])}" r="4.5" fill="${color}" stroke="var(--surface)" stroke-width="2"/>
+    ${xl}
+    <rect class="hit" x="0" y="0" width="${W}" height="${H}" fill="transparent"/>
+  </svg>`;
+  const svg = el.querySelector("svg"), xh = svg.querySelector(".xh"), dot = svg.querySelector(".dot");
+  const readout = document.getElementById("readout");
+  const resting = readout.innerHTML;
+  const show = i => {
+    const h = hist[i], chg = (h.c - vals[0]) / vals[0] * 100;
+    xh.setAttribute("x1", x(i)); xh.setAttribute("x2", x(i)); xh.setAttribute("visibility", "visible");
+    dot.setAttribute("cx", x(i)); dot.setAttribute("cy", y(h.c));
+    readout.innerHTML = `<span>${h.d ? fmtDay(h.d, { weekday: "short", month: "short", day: "numeric" }) : "Day " + (i + 1)}</span>
+      <span><b>${money(h.c)}</b> <span class="${chg >= 0 ? "up" : "down"} num">${pct(chg)}</span></span>`;
+  };
+  const reset = () => {
+    xh.setAttribute("visibility", "hidden"); dot.setAttribute("cx", x(last)); dot.setAttribute("cy", y(vals[last]));
+    readout.innerHTML = resting;
+  };
+  const pick = e => {
+    const r = svg.getBoundingClientRect();
+    const i = Math.round((e.clientX - r.left - padL) / (W - padL - padR) * (hist.length - 1));
+    show(Math.max(0, Math.min(last, i)));
+  };
+  svg.addEventListener("pointermove", pick);
+  svg.addEventListener("pointerdown", pick);
+  svg.addEventListener("pointerleave", reset);
+  svg.addEventListener("pointerup", e => { if (e.pointerType !== "mouse") setTimeout(reset, 1200); });
+}
+
+function earningsHTML(w) {
+  if (!w.earnings) return `<div class="earn"><div class="earn-txt"><b>No earnings date announced</b><small>It will appear here once the company sets one.</small></div></div>`;
+  const d = new Date(w.earnings + "T12:00:00");
+  const today = new Date(); today.setHours(12, 0, 0, 0);
+  const days = Math.round((d - today) / 86400000);
+  const when = days <= 0 ? "Today" : days === 1 ? "Tomorrow" : `In ${days} days`;
+  return `<div class="earn">
+    <div class="earn-cal" aria-hidden="true"><i>${d.toLocaleDateString("en-US", { month: "short" })}</i><b>${d.getDate()}</b></div>
+    <div class="earn-txt"><b>Earnings ${d.toLocaleDateString("en-US", { weekday: "long" })}</b><small>${when} · ${d.toLocaleDateString("en-US", { month: "long", day: "numeric" })}</small></div>
+  </div>`;
+}
+
+function briefHTML(w) {
+  const b = w.brief;
+  if (!b) return "";
+  const rows = [["What's happening", b.what], ["Why it's on the list", b.why], ["What to watch", b.watch]]
+    .filter(r => r[1]).map(([k, v]) => `<div class="ai-row"><span>${k}</span><p>${esc(v)}</p></div>`).join("");
+  return `<section class="ai-card" aria-label="Summary">${rows}
+    <div class="ai-foot">${b.ai ? "Written by Claude from this week's headlines and price data." : "Automatic summary. Add an Anthropic API key for an AI-written one."} Not investment advice.</div>
+  </section>`;
+}
+
+function detailHTML(w) {
+  const hist = historyOf(w), vals = hist.map(h => h.c);
+  const monthChg = w.monthChangePct ?? (vals[vals.length - 1] - vals[0]) / vals[0] * 100;
+  const heads = w.headlines || BRIEFING.stories.filter(s => (s.tickers || []).includes(w.ticker));
+  const rumors = rankedRumors().filter(r => (r.tickers || []).includes(w.ticker));
+  const span = hist[0] && hist[0].d ? `Since ${fmtDay(hist[0].d)}` : `Past ${hist.length} days`;
+  return `
+    <button class="back" data-back>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 5l-7 7 7 7"/></svg>Watchlist
+    </button>
+    <div class="d-head">
+      <div style="min-width:0"><div class="d-tk">${esc(w.ticker)}</div><div class="d-name">${esc(w.name)}</div></div>
+      <div><div class="d-price num">${money(w.price)}</div><div class="d-chg ${w.changePct >= 0 ? "up" : "down"}">${pct(w.changePct)} this week</div></div>
+    </div>
+    <section class="chart-card">
+      <div class="readout" id="readout"><span>${span}</span><span><b class="${monthChg >= 0 ? "up" : "down"}">${pct(monthChg)}</b> past month</span></div>
+      <div id="chart"></div>
+      <div class="stats">
+        <div class="stat"><span>High</span><b class="num">${money(Math.max(...vals))}</b></div>
+        <div class="stat"><span>Low</span><b class="num">${money(Math.min(...vals))}</b></div>
+        <div class="stat"><span>Start</span><b class="num">${money(vals[0])}</b></div>
+      </div>
+    </section>
+    ${earningsHTML(w)}
+    ${briefHTML(w)}
+    <section class="section">
+      <div class="section-head"><h2>Why it's on the list</h2></div>
+      <div class="catalyst"><span class="when">${esc(w.when)}</span><span>${esc(w.catalyst)}</span></div>
+      <div class="signals">${w.signals.map(x => `<span class="signal">${esc(x)}</span>`).join("")}</div>
+    </section>
+    <section class="section">
+      <div class="section-head"><h2>Headlines</h2><span class="eyebrow">${heads.length}</span></div>
+      ${heads.length ? `<div class="list">${heads.map(h => {
+        const inner = `<span class="meta"><span>${esc(h.source)}${h.published ? " · " + ago(h.published) : ""}</span></span><span class="title">${esc(h.title)}</span>`;
+        return h.url && h.url !== "#" ? `<a class="hl" href="${esc(h.url)}" target="_blank" rel="noopener">${inner}</a>` : `<div class="hl">${inner}</div>`;
+      }).join("")}</div>` : `<div class="empty">No headlines about ${esc(w.name)} in the last two weeks.</div>`}
+    </section>
+    <section class="section">
+      <div class="section-head"><h2>Rumors</h2><span class="eyebrow">${rumors.length}</span></div>
+      ${rumors.length ? rumors.map((r, i) => rumorHTML(r, i + 1)).join("") : `<div class="empty">No rumors about ${esc(w.name)} right now.</div>`}
+    </section>`;
+}
+
 function watchHTML(w, i) {
   const up = w.changePct >= 0;
-  return `<div class="watch">
+  return `<div class="watch" data-ticker="${esc(w.ticker)}" role="button" tabindex="0" aria-label="Open ${esc(w.name)} details">
     <div class="watch-row">
       <span class="rank">${i + 1}</span>
       <div style="min-width:0"><div class="tk">${esc(w.ticker)}</div><div class="co">${esc(w.name)}</div></div>
       <div class="price num">$${w.price.toFixed(2)}<small class="${up ? "up" : "down"}">${pct(w.changePct)} wk</small></div>
+      <span class="chev" aria-hidden="true">›</span>
     </div>
     ${spark(w.spark, up)}
     <div class="catalyst"><span class="when">${esc(w.when)}</span><span>${esc(w.catalyst)}</span></div>
@@ -344,7 +545,7 @@ function watchHTML(w, i) {
 /* ---------- VIEWS ---------- */
 const VIEWS = {
   today() {
-    const strip = BRIEFING.watchlist.map(w => `<span class="chip-tick"><b>${w.ticker}</b><span class="num ${w.changePct >= 0 ? "up" : "down"}">${pct(w.changePct)}</span></span>`).join("");
+    const strip = BRIEFING.watchlist.map(w => `<button class="chip-tick" data-ticker="${esc(w.ticker)}"><b>${w.ticker}</b><span class="num ${w.changePct >= 0 ? "up" : "down"}">${pct(w.changePct)}</span></button>`).join("");
     return `
       <section class="brief" aria-label="This week in 30 seconds">
         <span class="eyebrow">This week in 30 seconds</span>
@@ -364,7 +565,7 @@ const VIEWS = {
   },
   watch() {
     return `<section class="section"><div class="section-head"><h2>5 to watch this week</h2></div>
-      <p class="note">Ranked by catalysts happening this week: earnings, launches, news volume and price moves. A watchlist, not buy or sell advice.</p>
+      <p class="note">Ranked by catalysts happening this week: earnings, launches, news volume and price moves. Tap a company for its chart, headlines and summary. A watchlist, not buy or sell advice.</p>
       ${BRIEFING.watchlist.length ? BRIEFING.watchlist.map(watchHTML).join("") : `<div class="empty">No market data in this update. It will return on the next run.</div>`}</section>`;
   },
   topics() {
@@ -385,13 +586,47 @@ function render() {
   document.getElementById("tabs").innerHTML = TABS.map(([k, label]) =>
     `<button class="tab" role="tab" data-tab="${k}" aria-selected="${tab === k}">${ICONS[k]}<span>${label}</span></button>`).join("");
   const v = document.getElementById("view");
-  v.innerHTML = `<div class="view">${VIEWS[tab]()}</div>`;
+  const w = detail && findTicker(detail);
+  if (detail && !w) detail = null;   // ticker dropped off the list after a refresh
+  v.innerHTML = `<div class="view">${w ? detailHTML(w) : VIEWS[tab]()}</div>`;
+  if (w) drawChart(document.getElementById("chart"), w);
 }
 
+function openDetail(t) {
+  listScroll = window.scrollY;
+  detail = t; open = null;
+  try { history.pushState({ ticker: t }, ""); } catch {}
+  render(); window.scrollTo(0, 0);
+}
+function closeDetail(fromHistory) {
+  if (!detail) return;
+  if (!fromHistory && history.state && history.state.ticker) { history.back(); return; }
+  detail = null; open = null;
+  render(); window.scrollTo(0, listScroll);
+}
+window.addEventListener("popstate", e => {
+  const t = e.state && e.state.ticker;
+  if (t && findTicker(t)) { detail = t; render(); window.scrollTo(0, 0); } else closeDetail(true);
+});
+let resizeTimer;
+window.addEventListener("resize", () => {
+  clearTimeout(resizeTimer);
+  resizeTimer = setTimeout(() => { if (detail && findTicker(detail)) drawChart(document.getElementById("chart"), findTicker(detail)); }, 150);
+});
+document.addEventListener("keydown", e => {
+  if ((e.key === "Enter" || e.key === " ") && e.target.matches(".watch[data-ticker]")) { e.preventDefault(); openDetail(e.target.dataset.ticker); }
+  if (e.key === "Escape" && detail) closeDetail();
+});
+
 document.addEventListener("click", e => {
-  const t = e.target.closest("[data-tab],[data-open],[data-save],[data-topic]");
+  const t = e.target.closest("[data-tab],[data-open],[data-save],[data-topic],[data-ticker],[data-back]");
   if (!t) return;
-  if (t.dataset.tab) { tab = t.dataset.tab; open = null; store.set("tp-tab", tab); render(); window.scrollTo(0, 0); return; }
+  if (t.hasAttribute("data-back")) { closeDetail(); return; }
+  if (t.dataset.ticker) { openDetail(t.dataset.ticker); return; }
+  if (t.dataset.tab) {
+    if (detail) { detail = null; try { history.replaceState(null, ""); } catch {} }
+    tab = t.dataset.tab; open = null; store.set("tp-tab", tab); render(); window.scrollTo(0, 0); return;
+  }
   if (t.dataset.open) { open = open === t.dataset.open ? null : t.dataset.open; render(); return; }
   if (t.dataset.save) { const id = t.dataset.save; saved.has(id) ? saved.delete(id) : saved.add(id); store.set("tp-saved", [...saved]); render(); return; }
   if (t.dataset.topic) { topic = t.dataset.topic; render(); }

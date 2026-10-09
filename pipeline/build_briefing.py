@@ -169,6 +169,7 @@ def build_stories(news: list[dict]) -> list[dict]:
             "title": item["title"],
             "summary": item["summary"] or "No summary in the feed. Tap through to read the story.",
             "url": item["url"],
+            "tickers": companies_in(text),
         })
     return stories
 
@@ -258,7 +259,9 @@ def fetch_market(tickers: list[str]) -> dict:
             if len(frame) < 6:
                 continue
             market[t] = {"closes": [float(x) for x in frame["Close"]],
-                         "volumes": [float(x) for x in frame["Volume"]], "earnings": None}
+                         "volumes": [float(x) for x in frame["Volume"]],
+                         "dates": [d.strftime("%Y-%m-%d") for d in frame.index],
+                         "earnings": None}
         except Exception:
             continue
         try:
@@ -275,7 +278,19 @@ def fetch_market(tickers: list[str]) -> dict:
     return market
 
 
-def build_watchlist(market: dict, news: list[dict]) -> list[dict]:
+def company_headlines(ticker: str, news: list[dict], limit: int = 10) -> list[dict]:
+    """Recent confirmed (non-rumor) headlines that mention this company, newest first, duplicates removed."""
+    rx = COMPANY_RX[ticker]
+    cutoff = NOW - timedelta(days=14)
+    items = [n for n in news if n["published"] >= cutoff and rx.search(n["title"]) and not is_rumor(n["title"])]
+    return [{"title": n["title"], "source": n["source"], "url": n["url"],
+             "published": n["published"].isoformat()} for n in dedupe(items)[:limit]]
+
+
+def build_watchlist(market: dict, news: list[dict], headline_feed: list[dict] | None = None) -> list[dict]:
+    """Score every ticker and keep the top few. `news` (news + chatter) drives the
+    headline-count signal; `headline_feed` (news only) fills each ticker's detail page."""
+    headline_feed = news if headline_feed is None else headline_feed
     today = NOW.date()
     rows = []
     for ticker, m in market.items():
@@ -315,15 +330,24 @@ def build_watchlist(market: dict, news: list[dict]) -> list[dict]:
         else:
             catalyst, when = "No major catalyst yet", "Quiet"
 
+        month = closes[-22:]
+        dates = m.get("dates") or []
+        history = [{"d": d, "c": round(c, 2)} for d, c in zip(dates[-len(month):], month)] if len(dates) >= len(month) \
+            else [{"d": None, "c": round(c, 2)} for c in month]
+
         rows.append({
             "ticker": ticker,
             "name": config.NAMES.get(ticker, ticker),
             "price": round(price, 2),
             "changePct": round(change, 1),
+            "monthChangePct": round((price - month[0]) / month[0] * 100, 1),
             "catalyst": catalyst,
             "when": when,
             "signals": signals or ["Steady"],
             "spark": [round(c, 2) for c in closes[-7:]],
+            "history": history,
+            "earnings": earnings.isoformat() if earnings and earnings >= today else None,
+            "headlines": company_headlines(ticker, headline_feed),
             "score": round(score, 1),
         })
     rows.sort(key=lambda r: r["score"], reverse=True)
@@ -384,11 +408,80 @@ def ai_summary(key, stories, rumors, watch) -> list[str]:
     return lines[:3]
 
 
+# ---------------------------------------------------------------- 6. ticker briefs
+def add_ticker_briefs(watch: list[dict], rumors: list[dict]) -> None:
+    """Give each watchlist company a short brief: what's happening, why it's on the list, what to watch."""
+    key = os.environ.get("ANTHROPIC_API_KEY")
+    for w in watch:
+        related = [r for r in rumors if w["ticker"] in r["tickers"]]
+        brief = None
+        if key:
+            try:
+                brief = ai_ticker_brief(key, w, related)
+            except Exception as exc:
+                log(f"  ! AI brief for {w['ticker']} failed, using basic brief: {exc}")
+        w["brief"] = brief or basic_ticker_brief(w, related)
+
+
+def basic_ticker_brief(w: dict, related: list[dict]) -> dict:
+    heads = w.get("headlines", [])
+    if heads:
+        what = (f"1 recent headline mentions {w['name']}" if len(heads) == 1
+                else f"{len(heads)} recent headlines mention {w['name']}") + f". Latest: {heads[0]['title']}"
+    else:
+        what = f"No major headlines about {w['name']} in the last two weeks."
+    if related:
+        what += f" There is also a rumor making the rounds: {related[0]['title']}"
+    def moved(pct: float) -> str:
+        return "flat" if abs(pct) < 0.05 else f"{'up' if pct > 0 else 'down'} {abs(pct):.1f}%"
+    move = f"{moved(w['changePct'])} this week and {moved(w['monthChangePct'])} over the month"
+    why = f"Signals: {', '.join(w['signals']).lower()}. The stock is {move}."
+    if w.get("earnings"):
+        d = datetime.fromisoformat(w["earnings"])
+        watch = f"Next earnings expected {d.strftime('%a %b')} {d.day}. Results and guidance usually move the stock most."
+    else:
+        watch = "No earnings date announced yet. Watch for follow-up coverage of the stories above."
+    return {"what": what, "why": why, "watch": watch, "ai": False}
+
+
+def ai_ticker_brief(key: str, w: dict, related: list[dict]) -> dict:
+    import requests
+
+    facts = [
+        f"Company: {w['name']} ({w['ticker']})",
+        f"Price ${w['price']}, {w['changePct']:+}% this week, {w['monthChangePct']:+}% over the past month",
+        f"Why it made the watchlist: {', '.join(w['signals'])}; main catalyst: {w['catalyst']}",
+        f"Next earnings date: {w['earnings'] or 'none in the next few weeks'}",
+        "Recent headlines:", *[f"- {h['title']} ({h['source']})" for h in w.get("headlines", [])[:8]],
+        "Rumors (unconfirmed):", *[f"- {r['title']} (strength {r['score']}/100)" for r in related[:3]],
+    ]
+    prompt = ("You write a short briefing about one company for a reader checking a tech news app on their phone. "
+              "Use only the facts below. Plain language, no hype. Do not give investment advice or say buy, sell or hold. "
+              "Label rumors as unconfirmed. Reply with JSON only, in this shape: "
+              '{"what": "2 sentences on what is happening with the company", '
+              '"why": "1 sentence on why it is worth watching this week", '
+              '"watch": "1 sentence on the next thing to look out for"}\n\n' + "\n".join(facts))
+    resp = requests.post(
+        "https://api.anthropic.com/v1/messages",
+        headers={"x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json"},
+        json={"model": os.environ.get("TECH_PULSE_MODEL", "claude-haiku-4-5-20251001"), "max_tokens": 400,
+              "messages": [{"role": "user", "content": prompt}]},
+        timeout=60,
+    )
+    resp.raise_for_status()
+    text = "".join(b.get("text", "") for b in resp.json()["content"])
+    data = json.loads(text[text.index("{"): text.rindex("}") + 1])
+    brief = {k: str(data[k]).strip() for k in ("what", "why", "watch")}
+    brief["ai"] = True
+    return brief
+
+
 # ---------------------------------------------------------------- main
 def build(news: list[dict], chatter: list[dict], market: dict) -> dict:
     stories = build_stories(news)
     rumors = build_rumors(news, chatter)
-    watch = build_watchlist(market, news + chatter)
+    watch = build_watchlist(market, news + chatter, news)
+    add_ticker_briefs(watch, rumors)
     monday = (NOW - timedelta(days=NOW.weekday())).date()
     return {
         "weekOf": monday.isoformat(),

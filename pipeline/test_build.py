@@ -38,11 +38,17 @@ chatter = [
 
 closes_up = [100, 101, 102, 101, 103, 104, 105, 106, 108, 110, 112]
 closes_flat = [50.0] * 11
+def with_dates(m):
+    n = len(m["closes"])
+    m["dates"] = [(bb.NOW.date() - timedelta(days=n - 1 - i)).isoformat() for i in range(n)]
+    return m
+
+
 market = {
-    "NVDA": {"closes": closes_up, "volumes": [1e6] * 10 + [3e6], "earnings": None},
-    "AMZN": {"closes": closes_flat, "volumes": [1e6] * 11, "earnings": bb.NOW.date() + timedelta(days=2)},
-    "AAPL": {"closes": closes_flat, "volumes": [1e6] * 11, "earnings": None},
-    "IBM": {"closes": closes_flat, "volumes": [1e6] * 11, "earnings": date(2020, 1, 1)},
+    "NVDA": with_dates({"closes": closes_up, "volumes": [1e6] * 10 + [3e6], "earnings": None}),
+    "AMZN": with_dates({"closes": closes_flat, "volumes": [1e6] * 11, "earnings": bb.NOW.date() + timedelta(days=2)}),
+    "AAPL": with_dates({"closes": closes_flat, "volumes": [1e6] * 11, "earnings": None}),
+    "IBM": with_dates({"closes": closes_flat, "volumes": [1e6] * 11, "earnings": date(2020, 1, 1)}),
 }
 
 out = bb.build(news, chatter, market)
@@ -59,4 +65,16 @@ tickers = [w["ticker"] for w in out["watchlist"]]
 assert tickers[0] in ("AMZN", "NVDA") and "AMZN" in tickers[:2], tickers
 assert out["watchlist"][tickers.index("AMZN")]["signals"][0] == "Earnings"
 assert len(out["summary"]) >= 2
+
+# Ticker detail data
+nv = out["watchlist"][tickers.index("NVDA")]
+assert len(nv["history"]) == 11 and nv["history"][-1]["d"] == bb.NOW.date().isoformat()
+assert nv["monthChangePct"] == 12.0, nv["monthChangePct"]
+assert len(nv["headlines"]) == 1, "the two Nvidia stories should merge into one headline"
+amzn = out["watchlist"][tickers.index("AMZN")]
+assert amzn["earnings"] == (bb.NOW.date() + timedelta(days=2)).isoformat()
+assert all(set(w["brief"]) >= {"what", "why", "watch"} for w in out["watchlist"])
+assert "earnings expected" in amzn["brief"]["watch"]
+assert out["watchlist"][tickers.index("IBM")]["earnings"] is None, "past earnings dates must be dropped"
+assert "NVDA" in out["stories"][0]["tickers"]
 print("\nAll checks passed.")
