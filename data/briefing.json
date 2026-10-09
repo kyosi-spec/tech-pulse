@@ -1,12 +1,34 @@
 {
   "weekOf": "2026-10-05",
-  "updated": "2026-10-08T22:29:33+00:00",
+  "updated": "2026-10-09T02:07:57+00:00",
   "summary": [
-    "Tech leads the news with 12 of 25 stories. Top headline: Anthropic launches free AI security scans for open-source projects",
+    "Tech leads the news with 13 of 25 stories. Top headline: President Trump awards Big Tech donors with nation’s highest science prizes",
     "Earnings this week from ASML, TSM.",
-    "Strongest rumor: OpenAI’s revenue is reportedly $20 billion less than previously projected"
+    "Strongest rumor: Apple will reportedly debut its first touchscreen MacBook in three weeks"
   ],
   "stories": [
+    {
+      "id": "ae2ab241fc",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-08T22:33:59+00:00",
+      "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
+      "summary": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
+      "url": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
+      "tickers": []
+    },
+    {
+      "id": "33a4c74d40",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-08T22:32:04+00:00",
+      "title": "US plans livestream of execution by firing squad",
+      "summary": "The United States' execution of the Fort Hood shooter will be livestreamed, anonymous officials from the Defense Department told the BBC and Associated Press. The planned execution of Nidal Hasan, the former US Army major convicted of killing 13 people at the Texas military…",
+      "url": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood",
+      "tickers": []
+    },
     {
       "id": "fac8860cc4",
       "topic": "AI",
@@ -15,7 +37,8 @@
       "published": "2026-10-08T21:53:51+00:00",
       "title": "Anthropic launches free AI security scans for open-source projects",
       "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "tickers": []
     },
     {
       "id": "bffe987146",
@@ -25,7 +48,8 @@
       "published": "2026-10-08T21:50:20+00:00",
       "title": "IDC: Worldwide PC shipments in Q3 fell 20 percent from last year",
       "summary": "\"With macro conditions worsening, the risk is that the outlook for the next few quarters gets worse before it gets better.\"",
-      "url": "https://www.engadget.com/2281788/idc-worldwide-pc-shipments-in-q3-fell-20-percent-from-last-year/"
+      "url": "https://www.engadget.com/2281788/idc-worldwide-pc-shipments-in-q3-fell-20-percent-from-last-year/",
+      "tickers": []
     },
     {
       "id": "671d953f41",
@@ -35,7 +59,11 @@
       "published": "2026-10-08T21:40:59+00:00",
       "title": "Alexa Tablet vs iPad Pro: How Amazon is keeping up with Apple",
       "summary": "Amazon's latest and greatest tablet shares some key similarities to Apple's high-end iPads, but the devil is in the details.",
-      "url": "https://www.engadget.com/2281782/alexa-tablet-vs-ipad-pro-amazon-apple-tablet-comparison/"
+      "url": "https://www.engadget.com/2281782/alexa-tablet-vs-ipad-pro-amazon-apple-tablet-comparison/",
+      "tickers": [
+        "AAPL",
+        "AMZN"
+      ]
     },
     {
       "id": "7ae9742135",
@@ -45,7 +73,8 @@
       "published": "2026-10-08T21:23:31+00:00",
       "title": "SpaceX announces plan to become a ‘major mobile carrier’",
       "summary": "SpaceX has acquired a portfolio of low-band spectrum licenses - a move the company says \"will pave the way\" for its Starlink Mobile service to become a \"major\" US carrier. When the Federal Communications Commission signs off on the deal, SpaceX says it will deploy its new…",
-      "url": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier"
+      "url": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
+      "tickers": []
     },
     {
       "id": "4e1569459a",
@@ -55,7 +84,8 @@
       "published": "2026-10-08T21:17:24+00:00",
       "title": "Anthropic bans 'sustained and needless abusive or cruel behavior' toward its AI models",
       "summary": "The company is also tightening its election policy ahead of the midterms.",
-      "url": "https://www.engadget.com/2281765/anthropic-bans-sustained-and-needless-abusive-or-cruel-behavior-toward-its-ai-models/"
+      "url": "https://www.engadget.com/2281765/anthropic-bans-sustained-and-needless-abusive-or-cruel-behavior-toward-its-ai-models/",
+      "tickers": []
     },
     {
       "id": "49c968fc61",
@@ -65,7 +95,8 @@
       "published": "2026-10-08T21:14:12+00:00",
       "title": "Inside Elon Musk’s Midterm Spending Spree",
       "summary": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/"
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
+      "tickers": []
     },
     {
       "id": "49e3637198",
@@ -75,7 +106,10 @@
       "published": "2026-10-08T21:01:18+00:00",
       "title": "AMD will bring FSR 4 to handhelds by the end of 2026",
       "summary": "It's already possible to get AMD's framerate-enhancing FSR 4 boost on handhelds as old as the Steam Deck - but in June, AMD reserved the right to disappoint handheld gamers by not officially bringing FSR 4 to older handhelds. Now, AMD consumer chip boss Jack Huynh says he will…",
-      "url": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026"
+      "url": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026",
+      "tickers": [
+        "AMD"
+      ]
     },
     {
       "id": "4c92620a1d",
@@ -85,7 +119,19 @@
       "published": "2026-10-08T21:00:00+00:00",
       "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
       "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
-      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/"
+      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "tickers": []
+    },
+    {
+      "id": "bc791ff467",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-08T20:42:16+00:00",
+      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+      "summary": "Article URL: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full Comments URL: https://news.ycombinator.com/item?id=50011928 Points: 166 # Comments: 125",
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+      "tickers": []
     },
     {
       "id": "52874a96aa",
@@ -95,7 +141,8 @@
       "published": "2026-10-08T20:36:46+00:00",
       "title": "Child safety group calls ChatGPT for Teens an unacceptable risk",
       "summary": "After extensive testing, Common Sense Media found the chatbot failed in five key areas.",
-      "url": "https://www.engadget.com/2281719/child-safety-group-calls-chatgpt-for-teens-an-unacceptable-risk/"
+      "url": "https://www.engadget.com/2281719/child-safety-group-calls-chatgpt-for-teens-an-unacceptable-risk/",
+      "tickers": []
     },
     {
       "id": "f511e0555e",
@@ -105,7 +152,8 @@
       "published": "2026-10-08T20:30:26+00:00",
       "title": "Cyberpunk 2077 is the latest video game to get the movie treatment",
       "summary": "Paramount Pictures will develop the film and CD Projekt Red will produce.",
-      "url": "https://www.engadget.com/2281714/cyberpunk-2077-is-the-latest-video-game-to-get-the-movie-treatment/"
+      "url": "https://www.engadget.com/2281714/cyberpunk-2077-is-the-latest-video-game-to-get-the-movie-treatment/",
+      "tickers": []
     },
     {
       "id": "1524b17641",
@@ -115,7 +163,8 @@
       "published": "2026-10-08T20:08:45+00:00",
       "title": "Forza Horizon 6 is coming to PS5 on January 26",
       "summary": "The racing game's first expansion will also be available early next year.",
-      "url": "https://www.engadget.com/2281683/forza-horizon-6-is-coming-to-ps5-on-january-26/"
+      "url": "https://www.engadget.com/2281683/forza-horizon-6-is-coming-to-ps5-on-january-26/",
+      "tickers": []
     },
     {
       "id": "abed258d31",
@@ -125,7 +174,8 @@
       "published": "2026-10-08T20:06:56+00:00",
       "title": "California is trying to shut down robot vs. human cage matches",
       "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid…",
-      "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human"
+      "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+      "tickers": []
     },
     {
       "id": "e173082eaf",
@@ -135,7 +185,8 @@
       "published": "2026-10-08T20:04:26+00:00",
       "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
       "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "tickers": []
     },
     {
       "id": "91ec99085b",
@@ -145,7 +196,8 @@
       "published": "2026-10-08T19:45:00+00:00",
       "title": "ICE detainees in Georgia used the facility’s video calling software to expose the conditions inside",
       "summary": "Four men detained at an ICE detention center in rural Georgia used the facility's video conferencing software to expose both the conditions inside and President Donald Trump's hostile takeover of the immigration courts. In the five-minute video, the men describe an intentionally…",
-      "url": "https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video"
+      "url": "https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video",
+      "tickers": []
     },
     {
       "id": "6d3aa9096c",
@@ -155,7 +207,10 @@
       "published": "2026-10-08T19:30:21+00:00",
       "title": "Microsoft’s new Windows Search is exactly what Windows 11 needs",
       "summary": "Windows Search has been one of the most frustrating parts of Windows 11, and now Microsoft is addressing this with a significant overhaul. A new redesigned Windows Search is now in testing that is much faster, more capable, and a lot more modern. \"This new Windows Search…",
-      "url": "https://www.theverge.com/news/1008320/microsoft-windows-search-overhaul-windows-11"
+      "url": "https://www.theverge.com/news/1008320/microsoft-windows-search-overhaul-windows-11",
+      "tickers": [
+        "MSFT"
+      ]
     },
     {
       "id": "84d2dccd7d",
@@ -165,7 +220,8 @@
       "published": "2026-10-08T19:30:00+00:00",
       "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
       "summary": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
-      "url": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/"
+      "url": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
+      "tickers": []
     },
     {
       "id": "9e1628ab71",
@@ -175,7 +231,10 @@
       "published": "2026-10-08T19:16:12+00:00",
       "title": "Google is doing away with Safety Signal on Pixel Watch",
       "summary": "Access to the emergency feature for LTE-connected wearables will end by December.",
-      "url": "https://www.engadget.com/2281591/google-is-doing-away-with-safety-signal-on-pixel-watch/"
+      "url": "https://www.engadget.com/2281591/google-is-doing-away-with-safety-signal-on-pixel-watch/",
+      "tickers": [
+        "GOOGL"
+      ]
     },
     {
       "id": "dc67595f10",
@@ -185,7 +244,8 @@
       "published": "2026-10-08T19:14:03+00:00",
       "title": "Paramount is making a Cyberpunk 2077 film",
       "summary": "Cyberpunk 2077 is heading to the big screen. Deadline reports that CD Projekt Red's popular sci-fi video game franchise is being adapted into a live-action film by Paramount Pictures. There's no details just yet on when the film might premiere. But Deadline says that Lorenzo di…",
-      "url": "https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie"
+      "url": "https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie",
+      "tickers": []
     },
     {
       "id": "ed5e56bea0",
@@ -195,7 +255,11 @@
       "published": "2026-10-08T19:11:45+00:00",
       "title": "Trump Administration Cuts Off Access to a Major Immigration Program for Workers at Microsoft and Adobe",
       "summary": "“There has been no company in the United States, unfortunately, that has abused this system more than Microsoft,” Vice President JD Vance said on Thursday.",
-      "url": "https://www.wired.com/story/trump-administration-crackdown-microsoft-adobe-immigration/"
+      "url": "https://www.wired.com/story/trump-administration-crackdown-microsoft-adobe-immigration/",
+      "tickers": [
+        "MSFT",
+        "ADBE"
+      ]
     },
     {
       "id": "dd1ff1b42e",
@@ -205,7 +269,8 @@
       "published": "2026-10-08T18:51:28+00:00",
       "title": "The Atari 800XL hybrid gaming console is back after decades in obscurity",
       "summary": "This updated version connects via HDMI and comes with 25 built-in games.",
-      "url": "https://www.engadget.com/2281551/the-atari-800xl-hybrid-gaming-console-is-back-after-decades-in-obscurity/"
+      "url": "https://www.engadget.com/2281551/the-atari-800xl-hybrid-gaming-console-is-back-after-decades-in-obscurity/",
+      "tickers": []
     },
     {
       "id": "89e5ccef63",
@@ -215,17 +280,10 @@
       "published": "2026-10-08T18:48:36+00:00",
       "title": "Tim Cook says ‘I’m not meddling’ in the new Apple CEO’s business",
       "summary": "Tim Cook stepped down as Apple CEO in September, handing over the top job to former hardware chief John Ternus and taking an executive chairman role. Cook's still a visible representative of the company, having been recently photographed attending a state dinner at the White…",
-      "url": "https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo"
-    },
-    {
-      "id": "e6c7e01e27",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-08T18:48:11+00:00",
-      "title": "I only bought Pokémon Legends: Z-A during Prime Day, and it’s still on sale",
-      "summary": "After covering Amazon’s October sale for the last few days, only one item found its way into my shopping cart, and, lucky for you, it’s still on sale after the event’s conclusion. Pokémon Legends: Z-A for the Nintendo Switch or Switch 2 is $39.88 (usually $59.99 for Switch or…",
-      "url": "https://www.theverge.com/gadgets/1008212/pokemon-legends-z-a-switch-deal-sale"
+      "url": "https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo",
+      "tickers": [
+        "AAPL"
+      ]
     },
     {
       "id": "d4998e5dc1",
@@ -235,30 +293,29 @@
       "published": "2026-10-08T18:30:00+00:00",
       "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
       "summary": "A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19.",
-      "url": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/"
-    },
-    {
-      "id": "099d626505",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-08T18:23:00+00:00",
-      "title": "US suspends permanent residency program for Microsoft, Adobe and other tech companies",
-      "summary": "Seven companies have been accused of fraud regarding the H-1B worker visas.",
-      "url": "https://www.engadget.com/2281503/us-suspends-permanent-residency-program-for-microsoft-adobe-and-other-tech-companies/"
-    },
-    {
-      "id": "24ade8ad30",
-      "topic": "AI",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-08T18:20:32+00:00",
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
-      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/"
+      "url": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
+      "tickers": [
+        "NFLX"
+      ]
     }
   ],
   "rumors": [
+    {
+      "id": "1f7f17f118",
+      "topic": "Devices",
+      "status": "Just surfaced",
+      "title": "Apple will reportedly debut its first touchscreen MacBook in three weeks",
+      "detail": "Apple is set to introduce a new MacBook Pro with a touchscreen and an updated iPad Mini \"on or around\" October 27th, Bloomberg reports. If true, that would put the event just two weeks after the October 13th event Apple announced today, which is rumored to focus on smart home…",
+      "url": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor",
+      "sources": 2,
+      "mentions": 2,
+      "credible": 2,
+      "days": 0,
+      "tickers": [
+        "AAPL"
+      ],
+      "score": 29
+    },
     {
       "id": "517615f483",
       "topic": "AI",
@@ -267,11 +324,11 @@
       "detail": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
       "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
       "sources": 1,
-      "mentions": 2,
+      "mentions": 3,
       "credible": 1,
       "days": 0,
       "tickers": [],
-      "score": 18
+      "score": 20
     },
     {
       "id": "924fa0f5a0",
@@ -302,22 +359,6 @@
       "days": 0,
       "tickers": [],
       "score": 15
-    },
-    {
-      "id": "1f7f17f118",
-      "topic": "Devices",
-      "status": "Just surfaced",
-      "title": "Apple will reportedly debut its first touchscreen MacBook in three weeks",
-      "detail": "Apple is set to introduce a new MacBook Pro with a touchscreen and an updated iPad Mini \"on or around\" October 27th, Bloomberg reports. If true, that would put the event just two weeks after the October 13th event Apple announced today, which is rumored to focus on smart home…",
-      "url": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [
-        "AAPL"
-      ],
-      "score": 15
     }
   ],
   "watchlist": [
@@ -326,6 +367,7 @@
       "name": "ASML",
       "price": 1769.79,
       "changePct": -2.1,
+      "monthChangePct": 2.3,
       "catalyst": "Earnings report",
       "when": "Wed",
       "signals": [
@@ -340,13 +382,112 @@
         1804.96,
         1769.79
       ],
-      "score": 46.2
+      "history": [
+        {
+          "d": "2026-09-09",
+          "c": 1729.52
+        },
+        {
+          "d": "2026-09-10",
+          "c": 1687.43
+        },
+        {
+          "d": "2026-09-11",
+          "c": 1698.3
+        },
+        {
+          "d": "2026-09-14",
+          "c": 1575.15
+        },
+        {
+          "d": "2026-09-15",
+          "c": 1591.48
+        },
+        {
+          "d": "2026-09-16",
+          "c": 1602.22
+        },
+        {
+          "d": "2026-09-17",
+          "c": 1629.67
+        },
+        {
+          "d": "2026-09-18",
+          "c": 1679.92
+        },
+        {
+          "d": "2026-09-21",
+          "c": 1711.32
+        },
+        {
+          "d": "2026-09-22",
+          "c": 1747.9
+        },
+        {
+          "d": "2026-09-23",
+          "c": 1744.61
+        },
+        {
+          "d": "2026-09-24",
+          "c": 1722.5
+        },
+        {
+          "d": "2026-09-25",
+          "c": 1743.94
+        },
+        {
+          "d": "2026-09-28",
+          "c": 1771.41
+        },
+        {
+          "d": "2026-09-29",
+          "c": 1834.39
+        },
+        {
+          "d": "2026-09-30",
+          "c": 1811.67
+        },
+        {
+          "d": "2026-10-01",
+          "c": 1808.49
+        },
+        {
+          "d": "2026-10-02",
+          "c": 1867.31
+        },
+        {
+          "d": "2026-10-05",
+          "c": 1859.86
+        },
+        {
+          "d": "2026-10-06",
+          "c": 1834.1
+        },
+        {
+          "d": "2026-10-07",
+          "c": 1804.96
+        },
+        {
+          "d": "2026-10-08",
+          "c": 1769.79
+        }
+      ],
+      "earnings": "2026-10-14",
+      "headlines": [],
+      "score": 46.2,
+      "brief": {
+        "what": "No major headlines about ASML in the last two weeks.",
+        "why": "Signals: earnings. The stock is down 2.1% this week and up 2.3% over the month.",
+        "watch": "Next earnings expected Wed Oct 14. Results and guidance usually move the stock most.",
+        "ai": false
+      }
     },
     {
       "ticker": "TSM",
       "name": "TSMC",
       "price": 457.99,
       "changePct": -0.3,
+      "monthChangePct": 5.5,
       "catalyst": "Earnings report",
       "when": "Thu",
       "signals": [
@@ -361,13 +502,257 @@
         472.2,
         457.99
       ],
-      "score": 42.3
+      "history": [
+        {
+          "d": "2026-09-09",
+          "c": 434.2
+        },
+        {
+          "d": "2026-09-10",
+          "c": 426.88
+        },
+        {
+          "d": "2026-09-11",
+          "c": 432.08
+        },
+        {
+          "d": "2026-09-14",
+          "c": 416.89
+        },
+        {
+          "d": "2026-09-15",
+          "c": 412.64
+        },
+        {
+          "d": "2026-09-16",
+          "c": 417.72
+        },
+        {
+          "d": "2026-09-17",
+          "c": 430.26
+        },
+        {
+          "d": "2026-09-18",
+          "c": 434.67
+        },
+        {
+          "d": "2026-09-21",
+          "c": 445.14
+        },
+        {
+          "d": "2026-09-22",
+          "c": 452.0
+        },
+        {
+          "d": "2026-09-23",
+          "c": 446.57
+        },
+        {
+          "d": "2026-09-24",
+          "c": 451.15
+        },
+        {
+          "d": "2026-09-25",
+          "c": 450.61
+        },
+        {
+          "d": "2026-09-28",
+          "c": 452.88
+        },
+        {
+          "d": "2026-09-29",
+          "c": 456.94
+        },
+        {
+          "d": "2026-09-30",
+          "c": 456.19
+        },
+        {
+          "d": "2026-10-01",
+          "c": 459.2
+        },
+        {
+          "d": "2026-10-02",
+          "c": 472.78
+        },
+        {
+          "d": "2026-10-05",
+          "c": 485.8
+        },
+        {
+          "d": "2026-10-06",
+          "c": 482.3
+        },
+        {
+          "d": "2026-10-07",
+          "c": 472.2
+        },
+        {
+          "d": "2026-10-08",
+          "c": 457.99
+        }
+      ],
+      "earnings": "2026-10-15",
+      "headlines": [],
+      "score": 42.3,
+      "brief": {
+        "what": "No major headlines about TSMC in the last two weeks.",
+        "why": "Signals: earnings. The stock is down 0.3% this week and up 5.5% over the month.",
+        "watch": "Next earnings expected Thu Oct 15. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "price": 340.42,
+      "changePct": 3.1,
+      "monthChangePct": 8.0,
+      "catalyst": "Apple reportedly plans touchscreen MacBook and iPad Mini launch for this month",
+      "when": "In the news",
+      "signals": [
+        "6 headlines"
+      ],
+      "spark": [
+        333.02,
+        330.32,
+        333.69,
+        332.89,
+        333.63,
+        336.67,
+        340.42
+      ],
+      "history": [
+        {
+          "d": "2026-09-09",
+          "c": 315.34
+        },
+        {
+          "d": "2026-09-10",
+          "c": 326.57
+        },
+        {
+          "d": "2026-09-11",
+          "c": 332.27
+        },
+        {
+          "d": "2026-09-14",
+          "c": 333.08
+        },
+        {
+          "d": "2026-09-15",
+          "c": 331.34
+        },
+        {
+          "d": "2026-09-16",
+          "c": 332.41
+        },
+        {
+          "d": "2026-09-17",
+          "c": 337.0
+        },
+        {
+          "d": "2026-09-18",
+          "c": 336.13
+        },
+        {
+          "d": "2026-09-21",
+          "c": 338.98
+        },
+        {
+          "d": "2026-09-22",
+          "c": 339.75
+        },
+        {
+          "d": "2026-09-23",
+          "c": 337.02
+        },
+        {
+          "d": "2026-09-24",
+          "c": 335.92
+        },
+        {
+          "d": "2026-09-25",
+          "c": 341.07
+        },
+        {
+          "d": "2026-09-28",
+          "c": 338.4
+        },
+        {
+          "d": "2026-09-29",
+          "c": 329.4
+        },
+        {
+          "d": "2026-09-30",
+          "c": 333.02
+        },
+        {
+          "d": "2026-10-01",
+          "c": 330.32
+        },
+        {
+          "d": "2026-10-02",
+          "c": 333.69
+        },
+        {
+          "d": "2026-10-05",
+          "c": 332.89
+        },
+        {
+          "d": "2026-10-06",
+          "c": 333.63
+        },
+        {
+          "d": "2026-10-07",
+          "c": 336.67
+        },
+        {
+          "d": "2026-10-08",
+          "c": 340.42
+        }
+      ],
+      "earnings": "2026-11-02",
+      "headlines": [
+        {
+          "title": "Alexa Tablet vs iPad Pro: How Amazon is keeping up with Apple",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2281782/alexa-tablet-vs-ipad-pro-amazon-apple-tablet-comparison/",
+          "published": "2026-10-08T21:40:59+00:00"
+        },
+        {
+          "title": "Tim Cook says ‘I’m not meddling’ in the new Apple CEO’s business",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo",
+          "published": "2026-10-08T18:48:36+00:00"
+        },
+        {
+          "title": "Apple is set to show off new smart home devices at an October 13 event",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2281263/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/",
+          "published": "2026-10-08T16:16:30+00:00"
+        },
+        {
+          "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+          "published": "2026-10-02T23:03:16+00:00"
+        }
+      ],
+      "score": 36.1,
+      "brief": {
+        "what": "4 recent headlines mention Apple. Latest: Alexa Tablet vs iPad Pro: How Amazon is keeping up with Apple There is also a rumor making the rounds: Apple will reportedly debut its first touchscreen MacBook in three weeks",
+        "why": "Signals: 6 headlines. The stock is up 3.1% this week and up 8.0% over the month.",
+        "watch": "Next earnings expected Mon Nov 2. Results and guidance usually move the stock most.",
+        "ai": false
+      }
     },
     {
       "ticker": "GOOGL",
       "name": "Alphabet",
       "price": 348.29,
       "changePct": 3.0,
+      "monthChangePct": 5.3,
       "catalyst": "Google is doing away with Safety Signal on Pixel Watch",
       "when": "In the news",
       "signals": [
@@ -382,17 +767,141 @@
         350.5,
         348.29
       ],
-      "score": 35.9
+      "history": [
+        {
+          "d": "2026-09-09",
+          "c": 330.65
+        },
+        {
+          "d": "2026-09-10",
+          "c": 332.6
+        },
+        {
+          "d": "2026-09-11",
+          "c": 338.5
+        },
+        {
+          "d": "2026-09-14",
+          "c": 349.39
+        },
+        {
+          "d": "2026-09-15",
+          "c": 344.98
+        },
+        {
+          "d": "2026-09-16",
+          "c": 342.87
+        },
+        {
+          "d": "2026-09-17",
+          "c": 347.33
+        },
+        {
+          "d": "2026-09-18",
+          "c": 349.54
+        },
+        {
+          "d": "2026-09-21",
+          "c": 354.97
+        },
+        {
+          "d": "2026-09-22",
+          "c": 351.16
+        },
+        {
+          "d": "2026-09-23",
+          "c": 337.83
+        },
+        {
+          "d": "2026-09-24",
+          "c": 342.36
+        },
+        {
+          "d": "2026-09-25",
+          "c": 343.92
+        },
+        {
+          "d": "2026-09-28",
+          "c": 342.75
+        },
+        {
+          "d": "2026-09-29",
+          "c": 340.92
+        },
+        {
+          "d": "2026-09-30",
+          "c": 344.08
+        },
+        {
+          "d": "2026-10-01",
+          "c": 338.24
+        },
+        {
+          "d": "2026-10-02",
+          "c": 343.5
+        },
+        {
+          "d": "2026-10-05",
+          "c": 346.47
+        },
+        {
+          "d": "2026-10-06",
+          "c": 347.68
+        },
+        {
+          "d": "2026-10-07",
+          "c": 350.5
+        },
+        {
+          "d": "2026-10-08",
+          "c": 348.29
+        }
+      ],
+      "earnings": "2026-10-28",
+      "headlines": [
+        {
+          "title": "Google is doing away with Safety Signal on Pixel Watch",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2281591/google-is-doing-away-with-safety-signal-on-pixel-watch/",
+          "published": "2026-10-08T19:16:12+00:00"
+        },
+        {
+          "title": "Google brings agentic AI to Gemini, starting with businesses",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+          "published": "2026-10-08T18:18:00+00:00"
+        },
+        {
+          "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+          "published": "2026-10-06T19:21:14+00:00"
+        },
+        {
+          "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+          "published": "2026-09-25T19:38:59+00:00"
+        }
+      ],
+      "score": 35.9,
+      "brief": {
+        "what": "4 recent headlines mention Alphabet. Latest: Google is doing away with Safety Signal on Pixel Watch",
+        "why": "Signals: 6 headlines. The stock is up 3.0% this week and up 5.3% over the month.",
+        "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
+        "ai": false
+      }
     },
     {
       "ticker": "AMZN",
       "name": "Amazon",
       "price": 254.06,
       "changePct": 2.3,
-      "catalyst": "Alexa Tablet vs iPad Pro: How Amazon is keeping up with Apple",
+      "monthChangePct": 0.7,
+      "catalyst": "Amazon warns local communities to stop defying its massive AI data centers",
       "when": "In the news",
       "signals": [
-        "9 headlines"
+        "7 headlines"
       ],
       "spark": [
         249.15,
@@ -403,28 +912,130 @@
         259.92,
         254.06
       ],
-      "score": 34.8
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft",
-      "price": 522.61,
-      "changePct": 1.9,
-      "catalyst": "Microsoft’s new Windows Search is exactly what Windows 11 needs",
-      "when": "In the news",
-      "signals": [
-        "10 headlines"
+      "history": [
+        {
+          "d": "2026-09-09",
+          "c": 252.4
+        },
+        {
+          "d": "2026-09-10",
+          "c": 251.89
+        },
+        {
+          "d": "2026-09-11",
+          "c": 256.78
+        },
+        {
+          "d": "2026-09-14",
+          "c": 253.54
+        },
+        {
+          "d": "2026-09-15",
+          "c": 248.42
+        },
+        {
+          "d": "2026-09-16",
+          "c": 245.96
+        },
+        {
+          "d": "2026-09-17",
+          "c": 251.19
+        },
+        {
+          "d": "2026-09-18",
+          "c": 253.71
+        },
+        {
+          "d": "2026-09-21",
+          "c": 258.45
+        },
+        {
+          "d": "2026-09-22",
+          "c": 254.98
+        },
+        {
+          "d": "2026-09-23",
+          "c": 249.27
+        },
+        {
+          "d": "2026-09-24",
+          "c": 249.38
+        },
+        {
+          "d": "2026-09-25",
+          "c": 249.67
+        },
+        {
+          "d": "2026-09-28",
+          "c": 246.15
+        },
+        {
+          "d": "2026-09-29",
+          "c": 246.67
+        },
+        {
+          "d": "2026-09-30",
+          "c": 249.15
+        },
+        {
+          "d": "2026-10-01",
+          "c": 248.23
+        },
+        {
+          "d": "2026-10-02",
+          "c": 251.52
+        },
+        {
+          "d": "2026-10-05",
+          "c": 251.4
+        },
+        {
+          "d": "2026-10-06",
+          "c": 256.29
+        },
+        {
+          "d": "2026-10-07",
+          "c": 259.92
+        },
+        {
+          "d": "2026-10-08",
+          "c": 254.06
+        }
       ],
-      "spark": [
-        512.9,
-        512.8,
-        517.53,
-        525.18,
-        529.3,
-        529.76,
-        522.61
+      "earnings": "2026-10-29",
+      "headlines": [
+        {
+          "title": "Alexa Tablet vs iPad Pro: How Amazon is keeping up with Apple",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2281782/alexa-tablet-vs-ipad-pro-amazon-apple-tablet-comparison/",
+          "published": "2026-10-08T21:40:59+00:00"
+        },
+        {
+          "title": "Everything Amazon has announced so far in October 2026",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2281378/everything-amazon-announced-october-2026-alexa-tablet-kindle-fire-tv-ring-lock/",
+          "published": "2026-10-08T17:30:00+00:00"
+        },
+        {
+          "title": "Amazon's Panos Panay teases more Alexa-branded devices and a new design language",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2280951/panos-panay-tease-neo-design-language-and-alexa-interface/",
+          "published": "2026-10-08T13:00:00+00:00"
+        },
+        {
+          "title": "Amazon Says It’s No Longer Using NDAs for Data Centers",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/",
+          "published": "2026-10-02T11:47:58+00:00"
+        }
       ],
-      "score": 33.8
+      "score": 35.1,
+      "brief": {
+        "what": "4 recent headlines mention Amazon. Latest: Alexa Tablet vs iPad Pro: How Amazon is keeping up with Apple",
+        "why": "Signals: 7 headlines. The stock is up 2.3% this week and up 0.7% over the month.",
+        "watch": "Next earnings expected Thu Oct 29. Results and guidance usually move the stock most.",
+        "ai": false
+      }
     }
   ]
 }
