@@ -1,393 +1,328 @@
 {
   "weekOf": "2026-10-05",
-  "updated": "2026-10-10T11:26:56+00:00",
+  "updated": "2026-10-10T22:27:01+00:00",
   "summary": [
-    "Tech leads the news with 11 of 25 stories. Top headline: Tesla's Full Self-Driving is now called Assisted Driving in Europe",
+    "Tech leads the news with 9 of 25 stories. Top headline: How does using your MacBook while charging affect its battery life?",
     "Earnings this week from ASML, TSM.",
-    "Strongest rumor: Google teases Fitbit Edge launch next week"
+    "Strongest rumor: Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?"
   ],
   "stories": [
     {
-      "id": "ce9e3e1826",
-      "topic": "Tech",
+      "id": "fd0deef61e",
+      "topic": "Devices",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-10T11:12:55+00:00",
-      "title": "Tesla's Full Self-Driving is now called Assisted Driving in Europe",
-      "summary": "Tesla has renamed Full Self-Driving in Europe, as it seeks to get it approved in more countries.",
-      "url": "https://www.engadget.com/2283007/tesla-full-self-driving-assisted-driving-europe/",
+      "published": "2026-10-10T22:00:00+00:00",
+      "title": "How does using your MacBook while charging affect its battery life?",
+      "summary": "Modern MacBooks are pretty smart about managing their battery's health.",
+      "url": "https://www.engadget.com/2280083/how-using-macbook-while-charging-affect-battery-life/",
+      "tickers": []
+    },
+    {
+      "id": "3ac4762a27",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-10-10T21:47:51+00:00",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
       "tickers": [
-        "TSLA"
+        "MSFT"
       ]
     },
     {
-      "id": "779b9fd80f",
+      "id": "9e7afe8a5a",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-10-10T19:50:00+00:00",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "6b5491af15",
+      "topic": "Policy",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-10T18:52:07+00:00",
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that…",
+      "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "tickers": []
+    },
+    {
+      "id": "e8d4bd59da",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-10T18:45:00+00:00",
+      "title": "This Android Auto problem is affecting calls on foldable phones",
+      "summary": "Gemini might be causing some issues with Android Auto.",
+      "url": "https://www.engadget.com/2280033/android-auto-bug-affecting-foldable-phones-calling/",
+      "tickers": []
+    },
+    {
+      "id": "f2e571ee1c",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-10T18:30:00+00:00",
+      "title": "How to quickly check your Samsung Galaxy's warranty info",
+      "summary": "You don't have to guess how long is left on your Samsung device's warranty; the company makes it easy to confirm.",
+      "url": "https://www.engadget.com/2280016/how-to-check-warranty-samsung-galaxy/",
+      "tickers": []
+    },
+    {
+      "id": "e4b7c71e4f",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-10T18:00:00+00:00",
+      "title": "What is ray tracing in gaming and does it really make a difference?",
+      "summary": "Ray tracing makes light's behavior more realistic in supported games, but your PC has to use a lot of horsepower to make that happen.",
+      "url": "https://www.engadget.com/2279929/what-is-ray-tracing-gaming-does-it-make-difference/",
+      "tickers": []
+    },
+    {
+      "id": "c05edc68bf",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-10T17:49:49+00:00",
+      "title": "Anthropic says its AI agents tried to break into government websites",
+      "summary": "In its latest report, Anthropic has revealed that its AI agents meddled with government websites during testing.",
+      "url": "https://www.engadget.com/2283091/anthropic-says-its-ai-agents-tried-to-break-into-government-websites/",
+      "tickers": []
+    },
+    {
+      "id": "2d860e5e56",
+      "topic": "Cloud",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-10-10T17:00:00+00:00",
+      "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+      "summary": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
+      "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+      "tickers": []
+    },
+    {
+      "id": "354c1a1abc",
       "topic": "Tech",
       "kind": "Company",
       "source": "The Verge",
-      "published": "2026-10-10T11:00:00+00:00",
-      "title": "The Telo MT1 is a big truck trapped in a tiny truck’s body",
-      "summary": "I'm bouncing down the road in San Carlos, California, zipping past behemoth tech companies like EA and Oracle, in America's smallest electric truck. The Telo MT1 (which stands for \"mini truck\") unquestionably turns heads because it looks so remarkably different from everything…",
-      "url": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck",
+      "published": "2026-10-10T16:36:44+00:00",
+      "title": "Ledger wallet tampering suspected after reports of crypto thefts",
+      "summary": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger…",
+      "url": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
+      "tickers": []
+    },
+    {
+      "id": "6becdae6f9",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-10T16:30:00+00:00",
+      "title": "How to reset your Samsung TV",
+      "summary": "If you have a Frame TV or one of the other Samsung models, you may occasionally need to reboot or factory reset it.",
+      "url": "https://www.engadget.com/2279855/how-to-reset-samsung-tv/",
+      "tickers": []
+    },
+    {
+      "id": "06dcc00532",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-10T16:25:42+00:00",
+      "title": "Cloudflare acquires Deno to improve its Workers programming model",
+      "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
+      "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+      "tickers": [
+        "NET"
+      ]
+    },
+    {
+      "id": "f7aed2184f",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-10T16:00:00+00:00",
+      "title": "GameStop is hoping PS5 Pro buyers are desperate enough to pay $500 over MSRP",
+      "summary": "A shortage has driven resale prices through the roof.",
+      "url": "https://www.engadget.com/2283062/gamestop-selling-ps5-pro-500-dollars-over-msrp/",
+      "tickers": []
+    },
+    {
+      "id": "79c3f35f34",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-10T15:30:00+00:00",
+      "title": "How Xiaomi, Oppo and other non-US brands are challenging the iPhone Duo",
+      "summary": "Apple's foldable phone has everyone talking, but competitors have their own offerings in different ways.",
+      "url": "https://www.engadget.com/2279277/how-xiaomi-oppo-other-non-us-brands-challenging-iphone-duo/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "bd94f51d4e",
+      "topic": "Startups",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-10-10T15:00:00+00:00",
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at…",
+      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+      "tickers": []
+    },
+    {
+      "id": "7034751189",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-10-10T15:00:00+00:00",
+      "title": "K-pop star Sunmi loves Notion and ear cleaning videos",
+      "summary": "Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break through in the West. The English version of their single \"Nobody\" was the first K-pop song to hit the Billboard Hot 100 in…",
+      "url": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview",
+      "tickers": []
+    },
+    {
+      "id": "11d5608b02",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-10T15:00:00+00:00",
+      "title": "5 Samsung Galaxy features you should be using after updating to One UI 9",
+      "summary": "Samsung Galaxy phones that have upgraded to Android 17 and One UI 9 have a slew of new features - some more helpful than others.",
+      "url": "https://www.engadget.com/2279220/samsung-galaxy-one-ui-9-features-you-should-use/",
+      "tickers": []
+    },
+    {
+      "id": "d6bf88a245",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-10T14:41:16+00:00",
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "tickers": []
+    },
+    {
+      "id": "40bceb2352",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-10T14:32:50+00:00",
+      "title": "Bitwarden Dual License Model",
+      "summary": "Article URL: https://community.bitwarden.com/t/published-version-update-in-app-stores/102750 Comments URL: https://news.ycombinator.com/item?id=50033407 Points: 319 # Comments: 235",
+      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+      "tickers": []
+    },
+    {
+      "id": "779d2eb6a1",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-10T14:30:00+00:00",
+      "title": "Why your smart speaker keeps misunderstanding you (and how to fix it)",
+      "summary": "Smart speakers should recognize your voice to run commands, but you can help them out with a few tricks.",
+      "url": "https://www.engadget.com/2279051/smart-speaker-misunderstands-you-how-to-fix/",
+      "tickers": []
+    },
+    {
+      "id": "1c2c0a8959",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-10T14:00:00+00:00",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "tickers": []
+    },
+    {
+      "id": "21b3332197",
+      "topic": "Tech",
+      "kind": "Founder",
+      "source": "The Verge",
+      "published": "2026-10-10T14:00:00+00:00",
+      "title": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
+      "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry…",
+      "url": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure",
       "tickers": [
         "ORCL"
       ]
     },
     {
-      "id": "dc8d049292",
+      "id": "2fbdade2e8",
       "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-10T11:00:00+00:00",
-      "title": "The director of Fjord takes the ‘risky position’ of moderator",
-      "summary": "Cristian Mungiu's sixth feature, Fjord, concerns a family on trial. They seem like good people, God-fearing. They've just moved from Romania to a small hamlet nestled in the fjords of rural Norway. There is Mamma (Renate Reinsve), Tata (a bald and bespectacled Sebastian Stan)…",
-      "url": "https://www.theverge.com/entertainment/1008748/fjord-cristian-mungiu-interview",
-      "tickers": []
-    },
-    {
-      "id": "9dd820c831",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-10T07:00:00+00:00",
-      "title": "My brief romance with an AI bird feeder",
-      "summary": "It started off promising enough. Dozens of tiny, colorful birds were drawn to my garden just a few weeks after I mounted a $350 $269 Kiwibit Bird Feeder 2 Pro. \"Looks like Great Tit!\" read the first AI-driven alert sent to my phone. \"Looks like Eurasian Blue Tit!\" read another.…",
-      "url": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
-      "tickers": []
-    },
-    {
-      "id": "c49e4ed295",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-10-10T03:10:06+00:00",
-      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-      "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
-      "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-      "tickers": []
-    },
-    {
-      "id": "c4c3852a5a",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-10T03:02:47+00:00",
-      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-      "summary": "Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=50029123 Points: 198 # Comments: 95",
-      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-      "tickers": []
-    },
-    {
-      "id": "292f45d8f1",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-10T00:37:07+00:00",
-      "title": "REA Reverse – Engineer Anything",
-      "summary": "Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 459 # Comments: 180",
-      "url": "https://rea.tools/",
-      "tickers": []
-    },
-    {
-      "id": "aec63d2db3",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-10T00:18:32+00:00",
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "tickers": []
-    },
-    {
-      "id": "20361428bb",
-      "topic": "Devices",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-09T22:28:43+00:00",
-      "title": "Google teases its new 'Fitbit Edge' wearable ahead of an October 12 reveal",
-      "summary": "Google has seemingly confirmed the rumored \"Fitbit Edge\" with social media posts teasing a new wearable coming October 12.",
-      "url": "https://www.engadget.com/2282887/google-teases-its-new-fitbit-edge-wearable-ahead-of-an-october-12-reveal/",
+      "published": "2026-10-10T14:00:00+00:00",
+      "title": "How to change your home address on Google Maps",
+      "summary": "Set it to a nearby place instead, if you're concerned about the potential dangers if someone accesses your phone.",
+      "url": "https://www.engadget.com/2278953/how-to-change-home-address-google-maps/",
       "tickers": [
         "GOOGL"
       ]
     },
     {
-      "id": "18c78c7a3f",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-10-09T22:08:24+00:00",
-      "title": "Long live the mechanical keyboard",
-      "summary": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
-      "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
-      "tickers": []
-    },
-    {
-      "id": "fdb7e7980c",
-      "topic": "Chips",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-09T21:50:00+00:00",
-      "title": "Decade-old RAM is making a comeback",
-      "summary": "CPU makers have noticed that the seemingly unending RAM price hikes are making it tough for a lot of us to upgrade our PCs. Their solution? A return to last-gen DDR4 RAM. Intel and AMD are making new CPUs that'll support the older, more affordable type of memory. On Friday…",
-      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
-      "tickers": [
-        "AMD",
-        "INTC"
-      ]
-    },
-    {
-      "id": "bde7cce60a",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-10-09T21:41:29+00:00",
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "tickers": []
-    },
-    {
-      "id": "f49547fa7c",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-10-09T21:15:38+00:00",
-      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-      "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-      "tickers": []
-    },
-    {
-      "id": "a8ac6a547a",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-09T21:06:59+00:00",
-      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-      "summary": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306 Comments URL: https://news.ycombinator.com/item?id=50026555 Points: 584 # Comments: 315",
-      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
-      "tickers": []
-    },
-    {
-      "id": "ce7d857ea1",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-09T19:41:11+00:00",
-      "title": "Ohio blogger found guilty of harassment for sending Shrek nude to senator",
-      "summary": "A jury found an Ohio political blogger guilty of telecommunications harassment after he sent an explicit image of Shrek to a Republican state senator. On Friday, a judge ordered DJ Byrnes, owner of political commentary blog The Rooster, to pay a $200 fine, according to a report…",
-      "url": "https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude",
-      "tickers": []
-    },
-    {
-      "id": "9c7952e375",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-09T19:09:44+00:00",
-      "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-      "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-      "tickers": []
-    },
-    {
-      "id": "a1ce8980aa",
-      "topic": "Cloud",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-09T18:57:58+00:00",
-      "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
-      "summary": "Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up.",
-      "url": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
-      "tickers": []
-    },
-    {
-      "id": "4997d5c478",
-      "topic": "Startups",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-09T18:57:06+00:00",
-      "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
-      "summary": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.",
-      "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "44089c85a3",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Ars Technica",
-      "published": "2026-10-09T18:54:52+00:00",
-      "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
-      "summary": "\"The current decline may be just the beginning of a new downward cycle.\"",
-      "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
-      "tickers": []
-    },
-    {
-      "id": "70096b5b72",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-09T18:30:48+00:00",
-      "title": "Brendan Carr says he’ll let Pete Hegseth decide whether TV networks can air the public execution",
-      "summary": "FCC chairman Brendan Carr said he will defer to Secretary of Defense Pete Hegseth on whether TV networks can air the planned execution of convicted Fort Hood shooter Nidal Hasan by firing squad. The Pentagon has said the execution will be livestreamed, suggesting it'll appear on…",
-      "url": "https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air",
-      "tickers": []
-    },
-    {
-      "id": "77b78c37ef",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-09T18:10:55+00:00",
-      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-      "summary": "Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands. carrier-explode also contains decoders and explanations for all the common baseband configurations, etc. There’s still quite a bit of work to be done in…",
-      "url": "https://carrierexplode.com/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "95ad8d38b5",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-09T18:06:57+00:00",
-      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-      "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
-      "tickers": []
-    },
-    {
-      "id": "089eb964d9",
+      "id": "35e71fa706",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-09T18:00:00+00:00",
-      "title": "Bose Lifestyle Ultra Soundbar review: A great home theater option all by itself",
-      "summary": "Bose's latest soundbar pulls double duty as both a TV and music speaker. Plus, it doesn't need a separate subwoofer for adequate bass.",
-      "url": "https://www.engadget.com/2282487/bose-lifestyle-ultra-soundbar-review/",
+      "published": "2026-10-10T13:45:00+00:00",
+      "title": "How to take care of your foldable phone's hinge",
+      "summary": "Foldable phones require a little more care than standard ones, but the hinge will do its job as long as you don't make that difficult.",
+      "url": "https://www.engadget.com/2278858/how-to-take-care-of-foldable-phone-hinges/",
       "tickers": []
     },
     {
-      "id": "980b9740f4",
-      "topic": "AI",
-      "kind": "Founder",
-      "source": "Hacker News",
-      "published": "2026-10-09T17:02:31+00:00",
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 379 # Comments: 283",
-      "url": "https://typesafe.ai/blog/series-ai",
-      "tickers": []
-    },
-    {
-      "id": "d2ef2d05c8",
+      "id": "4be3b4b43c",
       "topic": "Tech",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-09T17:00:00+00:00",
-      "title": "LumenUs helps automate tedious paperwork in times of grief",
-      "summary": "\"The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about,\" said founder Sara Tashakorinia.",
-      "url": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-10T13:30:00+00:00",
+      "title": "Can you use a screen protector with your foldable phone?",
+      "summary": "Screen protectors seem like an easy win for keeping your phone in good condition, but there's more to consider with a foldable phone.",
+      "url": "https://www.engadget.com/2278720/foldable-phone-screen-protector-can-you-use/",
       "tickers": []
     }
   ],
   "rumors": [
     {
-      "id": "0d9369c2ee",
-      "topic": "Devices",
-      "status": "Just surfaced",
-      "title": "Google teases Fitbit Edge launch next week",
-      "detail": "It looks like Google is getting ready to take the wraps off its rumored Fitbit Edge next Monday. In a post on X, Google posted a picture of what appears to be the side of the fitness tracker, with the caption: \"Get an Edge on your health. 10.12.26.\" A trove of Fitbit Edge leaks…",
-      "url": "https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week",
-      "sources": 2,
-      "mentions": 2,
-      "credible": 2,
-      "days": 0,
-      "tickers": [
-        "GOOGL"
-      ],
-      "score": 29
-    },
-    {
-      "id": "e749349744",
-      "topic": "Devices",
-      "status": "Just surfaced",
-      "title": "Apple reportedly plans touchscreen MacBook and iPad Mini launch for this month",
-      "detail": "The wait to (literally) get your hands on the tech may almost be over.",
-      "url": "https://www.engadget.com/2281839/apple-reportedly-plans-touchscreen-macbook-and-ipad-mini-launch-for-this-month/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 1,
-      "tickers": [
-        "AAPL"
-      ],
-      "score": 15
-    },
-    {
-      "id": "7154398e7b",
-      "topic": "Startups",
-      "status": "Just surfaced",
-      "title": "SpaceX wants to become a 'major mobile carrier' with low-band spectrum acquisition",
-      "detail": "SpaceX has revealed its plans to become a major mobile carrier.",
-      "url": "https://www.engadget.com/2281967/spacex-major-mobile-carrier-low-band-spectrum-acquisition/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 1,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "34d95a62ca",
+      "id": "21b3332197",
       "topic": "Tech",
       "status": "Just surfaced",
-      "title": "What to expect at Apple's 'Welcome home' event next week",
-      "detail": "The company is reportedly rebooting its smart home ambitions with a smart display and a whole bunch of other accessories.",
-      "url": "https://www.engadget.com/2281840/what-to-expect-at-apples-welcome-home-event-next-week/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [
-        "AAPL"
-      ],
-      "score": 15
-    },
-    {
-      "id": "8a7e510b77",
-      "topic": "Chips",
-      "status": "Just surfaced",
-      "title": "Intel is reportedly launching new CPUs on old sockets that support DDR4 memory",
-      "detail": "If you guessed the RAMpocalypse is involved...",
-      "url": "https://www.engadget.com/2282431/intel-is-reportedly-launching-new-cpus-on-old-sockets-that-support-ddr4-memory/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [
-        "INTC"
-      ],
-      "score": 15
-    },
-    {
-      "id": "7f117cca43",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Flock Safety is reportedly planning major layoffs now that everyone hates it",
-      "detail": "Morale at one of the most reviled companies in America appears to be at an all time low.",
-      "url": "https://www.engadget.com/2282823/flock-safety-reportedly-planning-major-layoffs/",
+      "title": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
+      "detail": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry…",
+      "url": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure",
       "sources": 1,
       "mentions": 1,
       "credible": 1,
       "days": 0,
       "tickers": [],
       "score": 15
+    },
+    {
+      "id": "958a82daae",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "Sony's VR patents are reportedly going to Meta, which isn't a good sign for PSVR 3",
+      "detail": "submitted by /u/efap1701 [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1x232mv/sonys_vr_patents_are_reportedly_going_to_meta/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 0,
+      "days": 0,
+      "tickers": [],
+      "score": 8
     },
     {
       "id": "2c55365518",
@@ -402,6 +337,38 @@
       "days": 0,
       "tickers": [
         "PLTR"
+      ],
+      "score": 8
+    },
+    {
+      "id": "01b483c181",
+      "topic": "Chips",
+      "status": "Just surfaced",
+      "title": "Nvidia reportedly halts GeForce RTX 5090 production in favor of AI data center and professional GPUs — impending supply drought expected to drive up prices, RTX 5080 24GB rumored as new gaming…",
+      "detail": "submitted by /u/Miserable_Phase_2519 [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1x2e3ar/nvidia_reportedly_halts_geforce_rtx_5090/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 0,
+      "days": 0,
+      "tickers": [
+        "NVDA"
+      ],
+      "score": 8
+    },
+    {
+      "id": "6a3470c90c",
+      "topic": "AI",
+      "status": "Just surfaced",
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "detail": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 87 # Comments: 53",
+      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 0,
+      "days": 0,
+      "tickers": [
+        "NVDA"
       ],
       "score": 8
     }
@@ -653,7 +620,7 @@
       "price": 351.66,
       "changePct": 2.4,
       "monthChangePct": 5.7,
-      "catalyst": "Google teases its new 'Fitbit Edge' wearable ahead of an October 12 reveal",
+      "catalyst": "How to change your home address on Google Maps",
       "when": "In the news",
       "signals": [
         "6 headlines"
@@ -760,10 +727,22 @@
       "earnings": "2026-10-28",
       "headlines": [
         {
-          "title": "Google teases its new 'Fitbit Edge' wearable ahead of an October 12 reveal",
+          "title": "How to change your home address on Google Maps",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2282887/google-teases-its-new-fitbit-edge-wearable-ahead-of-an-october-12-reveal/",
-          "published": "2026-10-09T22:28:43+00:00"
+          "url": "https://www.engadget.com/2278953/how-to-change-home-address-google-maps/",
+          "published": "2026-10-10T14:00:00+00:00"
+        },
+        {
+          "title": "Google Japan created one of the strangest keyboards ever, and we're dying to try it",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2282903/google-japan-gboard-conveyor-belt-keyboard-dying-to-try/",
+          "published": "2026-10-10T13:15:00+00:00"
+        },
+        {
+          "title": "How to drop a pin on Google Maps",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2278593/how-to-drop-pin-google-maps/",
+          "published": "2026-10-10T13:00:00+00:00"
         },
         {
           "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
@@ -774,130 +753,9 @@
       ],
       "score": 34.8,
       "brief": {
-        "what": "2 recent headlines mention Alphabet. Latest: Google teases its new 'Fitbit Edge' wearable ahead of an October 12 reveal There is also a rumor making the rounds: Google teases Fitbit Edge launch next week",
+        "what": "4 recent headlines mention Alphabet. Latest: How to change your home address on Google Maps",
         "why": "Signals: 6 headlines. The stock is up 2.4% this week and up 5.7% over the month.",
         "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "PLTR",
-      "name": "Palantir",
-      "price": 209.05,
-      "changePct": 10.8,
-      "monthChangePct": 26.0,
-      "catalyst": "ICE is reportedly using a Palantir database to compile dossiers on protestors",
-      "when": "In the news",
-      "signals": [
-        "Big price move",
-        "Volume up"
-      ],
-      "spark": [
-        190.04,
-        188.75,
-        189.4,
-        192.07,
-        194.12,
-        198.78,
-        209.05
-      ],
-      "history": [
-        {
-          "d": "2026-09-10",
-          "c": 165.86
-        },
-        {
-          "d": "2026-09-11",
-          "c": 167.23
-        },
-        {
-          "d": "2026-09-14",
-          "c": 173.31
-        },
-        {
-          "d": "2026-09-15",
-          "c": 172.56
-        },
-        {
-          "d": "2026-09-16",
-          "c": 174.34
-        },
-        {
-          "d": "2026-09-17",
-          "c": 176.24
-        },
-        {
-          "d": "2026-09-18",
-          "c": 177.64
-        },
-        {
-          "d": "2026-09-21",
-          "c": 183.09
-        },
-        {
-          "d": "2026-09-22",
-          "c": 184.99
-        },
-        {
-          "d": "2026-09-23",
-          "c": 191.79
-        },
-        {
-          "d": "2026-09-24",
-          "c": 192.59
-        },
-        {
-          "d": "2026-09-25",
-          "c": 189.67
-        },
-        {
-          "d": "2026-09-28",
-          "c": 187.48
-        },
-        {
-          "d": "2026-09-29",
-          "c": 186.97
-        },
-        {
-          "d": "2026-09-30",
-          "c": 187.05
-        },
-        {
-          "d": "2026-10-01",
-          "c": 190.04
-        },
-        {
-          "d": "2026-10-02",
-          "c": 188.75
-        },
-        {
-          "d": "2026-10-05",
-          "c": 189.4
-        },
-        {
-          "d": "2026-10-06",
-          "c": 192.07
-        },
-        {
-          "d": "2026-10-07",
-          "c": 194.12
-        },
-        {
-          "d": "2026-10-08",
-          "c": 198.78
-        },
-        {
-          "d": "2026-10-09",
-          "c": 209.05
-        }
-      ],
-      "earnings": "2026-11-02",
-      "headlines": [],
-      "score": 28.2,
-      "brief": {
-        "what": "No major headlines about Palantir in the last two weeks. There is also a rumor making the rounds: ICE is reportedly using a Palantir database to compile dossiers on protestors",
-        "why": "Signals: big price move, volume up. The stock is up 10.8% this week and up 26.0% over the month.",
-        "watch": "Next earnings expected Mon Nov 2. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
@@ -907,10 +765,10 @@
       "price": 336.64,
       "changePct": 0.9,
       "monthChangePct": 3.1,
-      "catalyst": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "catalyst": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
       "when": "In the news",
       "signals": [
-        "5 headlines"
+        "6 headlines"
       ],
       "spark": [
         330.32,
@@ -1014,22 +872,28 @@
       "earnings": "2026-11-02",
       "headlines": [
         {
-          "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+          "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+          "published": "2026-10-10T19:50:00+00:00"
+        },
+        {
+          "title": "How Xiaomi, Oppo and other non-US brands are challenging the iPhone Duo",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2279277/how-xiaomi-oppo-other-non-us-brands-challenging-iphone-duo/",
+          "published": "2026-10-10T15:30:00+00:00"
+        },
+        {
+          "title": "How to change your Apple ID country (and what you should do beforehand)",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2278518/how-to-change-apple-id-country-what-do-before/",
+          "published": "2026-10-10T12:15:00+00:00"
+        },
+        {
+          "title": "Apple/macOS removed from official Unix registry",
           "source": "Hacker News",
-          "url": "https://carrierexplode.com/",
-          "published": "2026-10-09T18:10:55+00:00"
-        },
-        {
-          "title": "What to expect at Apple's 'Welcome home' event next week",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2281840/what-to-expect-at-apples-welcome-home-event-next-week/",
-          "published": "2026-10-09T12:00:00+00:00"
-        },
-        {
-          "title": "Alexa Tablet vs iPad Pro: How Amazon is keeping up with Apple",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2281782/alexa-tablet-vs-ipad-pro-amazon-apple-tablet-comparison/",
-          "published": "2026-10-08T21:40:59+00:00"
+          "url": "https://www.opengroup.org//openbrand/register/",
+          "published": "2026-10-10T10:57:31+00:00"
         },
         {
           "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
@@ -1038,11 +902,144 @@
           "published": "2026-10-02T23:03:16+00:00"
         }
       ],
-      "score": 26.8,
+      "score": 31.8,
       "brief": {
-        "what": "4 recent headlines mention Apple. Latest: Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded There is also a rumor making the rounds: Apple reportedly plans touchscreen MacBook and iPad Mini launch for this month",
-        "why": "Signals: 5 headlines. The stock is up 0.9% this week and up 3.1% over the month.",
+        "what": "5 recent headlines mention Apple. Latest: Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+        "why": "Signals: 6 headlines. The stock is up 0.9% this week and up 3.1% over the month.",
         "watch": "Next earnings expected Mon Nov 2. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "price": 262.43,
+      "changePct": 4.3,
+      "monthChangePct": 4.2,
+      "catalyst": "Vance claims Microsoft replaced laid-off workers with foreign hires — Data shows two-thirds of Microsoft’s H-1B approvals went to people already working at the company / Amazon and Meta, the nation’s…",
+      "when": "In the news",
+      "signals": [
+        "4 headlines"
+      ],
+      "spark": [
+        248.23,
+        251.52,
+        251.4,
+        256.29,
+        259.92,
+        254.06,
+        262.43
+      ],
+      "history": [
+        {
+          "d": "2026-09-10",
+          "c": 251.89
+        },
+        {
+          "d": "2026-09-11",
+          "c": 256.78
+        },
+        {
+          "d": "2026-09-14",
+          "c": 253.54
+        },
+        {
+          "d": "2026-09-15",
+          "c": 248.42
+        },
+        {
+          "d": "2026-09-16",
+          "c": 245.96
+        },
+        {
+          "d": "2026-09-17",
+          "c": 251.19
+        },
+        {
+          "d": "2026-09-18",
+          "c": 253.71
+        },
+        {
+          "d": "2026-09-21",
+          "c": 258.45
+        },
+        {
+          "d": "2026-09-22",
+          "c": 254.98
+        },
+        {
+          "d": "2026-09-23",
+          "c": 249.27
+        },
+        {
+          "d": "2026-09-24",
+          "c": 249.38
+        },
+        {
+          "d": "2026-09-25",
+          "c": 249.67
+        },
+        {
+          "d": "2026-09-28",
+          "c": 246.15
+        },
+        {
+          "d": "2026-09-29",
+          "c": 246.67
+        },
+        {
+          "d": "2026-09-30",
+          "c": 249.15
+        },
+        {
+          "d": "2026-10-01",
+          "c": 248.23
+        },
+        {
+          "d": "2026-10-02",
+          "c": 251.52
+        },
+        {
+          "d": "2026-10-05",
+          "c": 251.4
+        },
+        {
+          "d": "2026-10-06",
+          "c": 256.29
+        },
+        {
+          "d": "2026-10-07",
+          "c": 259.92
+        },
+        {
+          "d": "2026-10-08",
+          "c": 254.06
+        },
+        {
+          "d": "2026-10-09",
+          "c": 262.43
+        }
+      ],
+      "earnings": "2026-10-29",
+      "headlines": [
+        {
+          "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+          "published": "2026-10-09T16:56:42+00:00"
+        },
+        {
+          "title": "Amazon Says It’s No Longer Using NDAs for Data Centers",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/",
+          "published": "2026-10-02T11:47:58+00:00"
+        }
+      ],
+      "score": 28.7,
+      "brief": {
+        "what": "2 recent headlines mention Amazon. Latest: Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+        "why": "Signals: 4 headlines. The stock is up 4.3% this week and up 4.2% over the month.",
+        "watch": "Next earnings expected Thu Oct 29. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
