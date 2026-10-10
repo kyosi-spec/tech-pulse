@@ -1,12 +1,117 @@
 {
   "weekOf": "2026-10-05",
-  "updated": "2026-10-09T22:29:33+00:00",
+  "updated": "2026-10-10T11:26:56+00:00",
   "summary": [
-    "Tech leads the news with 12 of 25 stories. Top headline: Long live the mechanical keyboard",
+    "Tech leads the news with 11 of 25 stories. Top headline: Tesla's Full Self-Driving is now called Assisted Driving in Europe",
     "Earnings this week from ASML, TSM.",
-    "Strongest rumor: Cloudflare plans to issue quantum-safe TLS certificates"
+    "Strongest rumor: Google teases Fitbit Edge launch next week"
   ],
   "stories": [
+    {
+      "id": "ce9e3e1826",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-10T11:12:55+00:00",
+      "title": "Tesla's Full Self-Driving is now called Assisted Driving in Europe",
+      "summary": "Tesla has renamed Full Self-Driving in Europe, as it seeks to get it approved in more countries.",
+      "url": "https://www.engadget.com/2283007/tesla-full-self-driving-assisted-driving-europe/",
+      "tickers": [
+        "TSLA"
+      ]
+    },
+    {
+      "id": "779b9fd80f",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-10T11:00:00+00:00",
+      "title": "The Telo MT1 is a big truck trapped in a tiny truck’s body",
+      "summary": "I'm bouncing down the road in San Carlos, California, zipping past behemoth tech companies like EA and Oracle, in America's smallest electric truck. The Telo MT1 (which stands for \"mini truck\") unquestionably turns heads because it looks so remarkably different from everything…",
+      "url": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck",
+      "tickers": [
+        "ORCL"
+      ]
+    },
+    {
+      "id": "dc8d049292",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-10T11:00:00+00:00",
+      "title": "The director of Fjord takes the ‘risky position’ of moderator",
+      "summary": "Cristian Mungiu's sixth feature, Fjord, concerns a family on trial. They seem like good people, God-fearing. They've just moved from Romania to a small hamlet nestled in the fjords of rural Norway. There is Mamma (Renate Reinsve), Tata (a bald and bespectacled Sebastian Stan)…",
+      "url": "https://www.theverge.com/entertainment/1008748/fjord-cristian-mungiu-interview",
+      "tickers": []
+    },
+    {
+      "id": "9dd820c831",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-10T07:00:00+00:00",
+      "title": "My brief romance with an AI bird feeder",
+      "summary": "It started off promising enough. Dozens of tiny, colorful birds were drawn to my garden just a few weeks after I mounted a $350 $269 Kiwibit Bird Feeder 2 Pro. \"Looks like Great Tit!\" read the first AI-driven alert sent to my phone. \"Looks like Eurasian Blue Tit!\" read another.…",
+      "url": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
+      "tickers": []
+    },
+    {
+      "id": "c49e4ed295",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "TechCrunch",
+      "published": "2026-10-10T03:10:06+00:00",
+      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+      "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+      "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+      "tickers": []
+    },
+    {
+      "id": "c4c3852a5a",
+      "topic": "Security",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-10T03:02:47+00:00",
+      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "summary": "Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=50029123 Points: 198 # Comments: 95",
+      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+      "tickers": []
+    },
+    {
+      "id": "292f45d8f1",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-10T00:37:07+00:00",
+      "title": "REA Reverse – Engineer Anything",
+      "summary": "Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 459 # Comments: 180",
+      "url": "https://rea.tools/",
+      "tickers": []
+    },
+    {
+      "id": "aec63d2db3",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-10T00:18:32+00:00",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "tickers": []
+    },
+    {
+      "id": "20361428bb",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-09T22:28:43+00:00",
+      "title": "Google teases its new 'Fitbit Edge' wearable ahead of an October 12 reveal",
+      "summary": "Google has seemingly confirmed the rumored \"Fitbit Edge\" with social media posts teasing a new wearable coming October 12.",
+      "url": "https://www.engadget.com/2282887/google-teases-its-new-fitbit-edge-wearable-ahead-of-an-october-12-reveal/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
     {
       "id": "18c78c7a3f",
       "topic": "AI",
@@ -39,7 +144,7 @@
       "source": "TechCrunch",
       "published": "2026-10-09T21:41:29+00:00",
       "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "summary": "TypeSafe AI raised $870 million in a round led by a16Z.",
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
       "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
       "tickers": []
     },
@@ -61,19 +166,8 @@
       "source": "Hacker News",
       "published": "2026-10-09T21:06:59+00:00",
       "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-      "summary": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306 Comments URL: https://news.ycombinator.com/item?id=50026555 Points: 202 # Comments: 111",
+      "summary": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306 Comments URL: https://news.ycombinator.com/item?id=50026555 Points: 584 # Comments: 315",
       "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
-      "tickers": []
-    },
-    {
-      "id": "521621c62e",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-09T20:04:00+00:00",
-      "title": "No Man Is an Island",
-      "summary": "Article URL: https://borretti.me/article/no-man-is-an-island Comments URL: https://news.ycombinator.com/item?id=50025935 Points: 200 # Comments: 101",
-      "url": "https://borretti.me/article/no-man-is-an-island",
       "tickers": []
     },
     {
@@ -145,6 +239,19 @@
       "tickers": []
     },
     {
+      "id": "77b78c37ef",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-09T18:10:55+00:00",
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "summary": "Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands. carrier-explode also contains decoders and explanations for all the common baseband configurations, etc. There’s still quite a bit of work to be done in…",
+      "url": "https://carrierexplode.com/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
       "id": "95ad8d38b5",
       "topic": "AI",
       "kind": "Company",
@@ -154,19 +261,6 @@
       "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called…",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
       "tickers": []
-    },
-    {
-      "id": "0d9369c2ee",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-10-09T18:05:55+00:00",
-      "title": "Google teases Fitbit Edge launch next week",
-      "summary": "It looks like Google is getting ready to take the wraps off its rumored Fitbit Edge next Monday. In a post on X, Google posted a picture of what appears to be the side of the fitness tracker, with the caption: \"Get an Edge on your health. 10.12.26.\" A trove of Fitbit Edge leaks…",
-      "url": "https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week",
-      "tickers": [
-        "GOOGL"
-      ]
     },
     {
       "id": "089eb964d9",
@@ -180,26 +274,13 @@
       "tickers": []
     },
     {
-      "id": "9a1e842061",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-09T17:41:24+00:00",
-      "title": "The Samsung Galaxy S26 Ultra is down to $950 after Prime Day",
-      "summary": "Amazon has the Samsung Galaxy S26 Ultra in black with 256GB of storage discounted to $949.99, a healthy discount from its usual price of $1,399.99. This phone’s standout feature is the adjustable privacy display, which can hide your entire screen, or just portions of it, from…",
-      "url": "https://www.theverge.com/gadgets/1008857/samsung-galaxy-s26-ultra-deal-sale",
-      "tickers": [
-        "AMZN"
-      ]
-    },
-    {
       "id": "980b9740f4",
       "topic": "AI",
       "kind": "Founder",
       "source": "Hacker News",
       "published": "2026-10-09T17:02:31+00:00",
       "title": "Typesafe AI raises $870M at $7.5B",
-      "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 204 # Comments: 163",
+      "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 379 # Comments: 283",
       "url": "https://typesafe.ai/blog/series-ai",
       "tickers": []
     },
@@ -213,108 +294,24 @@
       "summary": "\"The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about,\" said founder Sara Tashakorinia.",
       "url": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
       "tickers": []
-    },
-    {
-      "id": "7453b4dc77",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-10-09T17:00:00+00:00",
-      "title": "Microsoft tries to spark new life into Windows",
-      "summary": "When Microsoft released Windows 11 five years ago, it felt like an operating system that was still being renovated, a work in progress. You'd think by now that those renovations would be complete, with Microsoft turning its attention to Windows 12. Instead, Windows 11 feels like…",
-      "url": "https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad",
-      "tickers": [
-        "MSFT"
-      ]
-    },
-    {
-      "id": "903bea4413",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-09T17:00:00+00:00",
-      "title": "What it's like to spend a night in a Pebble Flow EV RV",
-      "summary": "Staying in the tech-infused trailer can kind of feel like being in a spaceship - in a good way.",
-      "url": "https://www.engadget.com/2282389/pebble-flow-ev-rv-review/",
-      "tickers": []
-    },
-    {
-      "id": "919e36594f",
-      "topic": "Cloud",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-09T16:56:42+00:00",
-      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted…",
-      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-      "tickers": [
-        "MSFT",
-        "AMZN"
-      ]
-    },
-    {
-      "id": "facbb87963",
-      "topic": "Tech",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-09T16:45:00+00:00",
-      "title": "Danu Robotics’ fight to build a better recycling robot",
-      "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
-      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-      "tickers": []
-    },
-    {
-      "id": "4d195bb374",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-09T16:40:14+00:00",
-      "title": "We can’t help treating AI like it’s human. But should we?",
-      "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
-      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-      "tickers": []
-    },
-    {
-      "id": "2af86cdc96",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-09T16:07:26+00:00",
-      "title": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
-      "summary": "The name change is enough for Germany's transport minister to start advocating for Europe-wide adoption of the driver assistance software.",
-      "url": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/",
-      "tickers": [
-        "TSLA"
-      ]
-    },
-    {
-      "id": "7a7a537ef4",
-      "topic": "AI",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-09T15:56:15+00:00",
-      "title": "Remember Orkut? Its founder wants to bring it back",
-      "summary": "Orkut's founder is now taking aim at algorithms and AI-generated content.",
-      "url": "https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back/",
-      "tickers": []
     }
   ],
   "rumors": [
     {
-      "id": "924fa0f5a0",
-      "topic": "Tech",
-      "status": "Unconfirmed",
-      "title": "Cloudflare plans to issue quantum-safe TLS certificates",
-      "detail": "The move will be part of a major overhaul of the ecosystem for website authentication.",
-      "url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 9,
+      "id": "0d9369c2ee",
+      "topic": "Devices",
+      "status": "Just surfaced",
+      "title": "Google teases Fitbit Edge launch next week",
+      "detail": "It looks like Google is getting ready to take the wraps off its rumored Fitbit Edge next Monday. In a post on X, Google posted a picture of what appears to be the side of the fitness tracker, with the caption: \"Get an Edge on your health. 10.12.26.\" A trove of Fitbit Edge leaks…",
+      "url": "https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week",
+      "sources": 2,
+      "mentions": 2,
+      "credible": 2,
+      "days": 0,
       "tickers": [
-        "NET"
+        "GOOGL"
       ],
-      "score": 15
+      "score": 29
     },
     {
       "id": "e749349744",
@@ -326,7 +323,7 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 0,
+      "days": 1,
       "tickers": [
         "AAPL"
       ],
@@ -342,7 +339,7 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 0,
+      "days": 1,
       "tickers": [],
       "score": 15
     },
@@ -379,38 +376,6 @@
       "score": 15
     },
     {
-      "id": "3657a40f7e",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Amazon’s new Kindles appear to have a light leak problem",
-      "detail": "Some users are reporting that the new Kindles have a light leak issue that is especially apparent when using dark mode. The latest base-model Kindles have a flush bezel that gives them a sleek appearance and looks great… as long as you keep the lights on. But things can change…",
-      "url": "https://www.theverge.com/tech/1008833/amazon-kindle-light-leak",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [
-        "AMZN"
-      ],
-      "score": 15
-    },
-    {
-      "id": "0d9369c2ee",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Google teases Fitbit Edge launch next week",
-      "detail": "It looks like Google is getting ready to take the wraps off its rumored Fitbit Edge next Monday. In a post on X, Google posted a picture of what appears to be the side of the fitness tracker, with the caption: \"Get an Edge on your health. 10.12.26.\" A trove of Fitbit Edge leaks…",
-      "url": "https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [
-        "GOOGL"
-      ],
-      "score": 15
-    },
-    {
       "id": "7f117cca43",
       "topic": "Tech",
       "status": "Just surfaced",
@@ -423,6 +388,22 @@
       "days": 0,
       "tickers": [],
       "score": 15
+    },
+    {
+      "id": "2c55365518",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "ICE is reportedly using a Palantir database to compile dossiers on protestors",
+      "detail": "submitted by /u/Vucea [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1x2891v/ice_is_reportedly_using_a_palantir_database_to/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 0,
+      "days": 0,
+      "tickers": [
+        "PLTR"
+      ],
+      "score": 8
     }
   ],
   "watchlist": [
@@ -672,7 +653,7 @@
       "price": 351.66,
       "changePct": 2.4,
       "monthChangePct": 5.7,
-      "catalyst": "Google teases Fitbit Edge launch next week",
+      "catalyst": "Google teases its new 'Fitbit Edge' wearable ahead of an October 12 reveal",
       "when": "In the news",
       "signals": [
         "6 headlines"
@@ -779,16 +760,10 @@
       "earnings": "2026-10-28",
       "headlines": [
         {
-          "title": "Google teases Fitbit Edge launch next week",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week",
-          "published": "2026-10-09T18:05:55+00:00"
-        },
-        {
-          "title": "Google is doing away with Safety Signal on Pixel Watch",
+          "title": "Google teases its new 'Fitbit Edge' wearable ahead of an October 12 reveal",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2281591/google-is-doing-away-with-safety-signal-on-pixel-watch/",
-          "published": "2026-10-08T19:16:12+00:00"
+          "url": "https://www.engadget.com/2282887/google-teases-its-new-fitbit-edge-wearable-ahead-of-an-october-12-reveal/",
+          "published": "2026-10-09T22:28:43+00:00"
         },
         {
           "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
@@ -799,262 +774,256 @@
       ],
       "score": 34.8,
       "brief": {
-        "what": "3 recent headlines mention Alphabet. Latest: Google teases Fitbit Edge launch next week There is also a rumor making the rounds: Google teases Fitbit Edge launch next week",
+        "what": "2 recent headlines mention Alphabet. Latest: Google teases its new 'Fitbit Edge' wearable ahead of an October 12 reveal There is also a rumor making the rounds: Google teases Fitbit Edge launch next week",
         "why": "Signals: 6 headlines. The stock is up 2.4% this week and up 5.7% over the month.",
         "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
     {
-      "ticker": "MSFT",
-      "name": "Microsoft",
-      "price": 535.07,
-      "changePct": 3.4,
-      "monthChangePct": 8.7,
-      "catalyst": "Microsoft-Decision-1, our model for fast decision-making",
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "price": 209.05,
+      "changePct": 10.8,
+      "monthChangePct": 26.0,
+      "catalyst": "ICE is reportedly using a Palantir database to compile dossiers on protestors",
+      "when": "In the news",
+      "signals": [
+        "Big price move",
+        "Volume up"
+      ],
+      "spark": [
+        190.04,
+        188.75,
+        189.4,
+        192.07,
+        194.12,
+        198.78,
+        209.05
+      ],
+      "history": [
+        {
+          "d": "2026-09-10",
+          "c": 165.86
+        },
+        {
+          "d": "2026-09-11",
+          "c": 167.23
+        },
+        {
+          "d": "2026-09-14",
+          "c": 173.31
+        },
+        {
+          "d": "2026-09-15",
+          "c": 172.56
+        },
+        {
+          "d": "2026-09-16",
+          "c": 174.34
+        },
+        {
+          "d": "2026-09-17",
+          "c": 176.24
+        },
+        {
+          "d": "2026-09-18",
+          "c": 177.64
+        },
+        {
+          "d": "2026-09-21",
+          "c": 183.09
+        },
+        {
+          "d": "2026-09-22",
+          "c": 184.99
+        },
+        {
+          "d": "2026-09-23",
+          "c": 191.79
+        },
+        {
+          "d": "2026-09-24",
+          "c": 192.59
+        },
+        {
+          "d": "2026-09-25",
+          "c": 189.67
+        },
+        {
+          "d": "2026-09-28",
+          "c": 187.48
+        },
+        {
+          "d": "2026-09-29",
+          "c": 186.97
+        },
+        {
+          "d": "2026-09-30",
+          "c": 187.05
+        },
+        {
+          "d": "2026-10-01",
+          "c": 190.04
+        },
+        {
+          "d": "2026-10-02",
+          "c": 188.75
+        },
+        {
+          "d": "2026-10-05",
+          "c": 189.4
+        },
+        {
+          "d": "2026-10-06",
+          "c": 192.07
+        },
+        {
+          "d": "2026-10-07",
+          "c": 194.12
+        },
+        {
+          "d": "2026-10-08",
+          "c": 198.78
+        },
+        {
+          "d": "2026-10-09",
+          "c": 209.05
+        }
+      ],
+      "earnings": "2026-11-02",
+      "headlines": [],
+      "score": 28.2,
+      "brief": {
+        "what": "No major headlines about Palantir in the last two weeks. There is also a rumor making the rounds: ICE is reportedly using a Palantir database to compile dossiers on protestors",
+        "why": "Signals: big price move, volume up. The stock is up 10.8% this week and up 26.0% over the month.",
+        "watch": "Next earnings expected Mon Nov 2. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "price": 336.64,
+      "changePct": 0.9,
+      "monthChangePct": 3.1,
+      "catalyst": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
       "when": "In the news",
       "signals": [
         "5 headlines"
       ],
       "spark": [
-        512.8,
-        517.53,
-        525.18,
-        529.3,
-        529.76,
-        522.61,
-        535.07
+        330.32,
+        333.69,
+        332.89,
+        333.63,
+        336.67,
+        340.42,
+        336.64
       ],
       "history": [
         {
           "d": "2026-09-10",
-          "c": 492.44
+          "c": 326.57
         },
         {
           "d": "2026-09-11",
-          "c": 495.63
+          "c": 332.27
         },
         {
           "d": "2026-09-14",
-          "c": 505.41
+          "c": 333.08
         },
         {
           "d": "2026-09-15",
-          "c": 497.12
+          "c": 331.34
         },
         {
           "d": "2026-09-16",
-          "c": 490.3
+          "c": 332.41
         },
         {
           "d": "2026-09-17",
-          "c": 497.75
+          "c": 337.0
         },
         {
           "d": "2026-09-18",
-          "c": 493.78
+          "c": 336.13
         },
         {
           "d": "2026-09-21",
-          "c": 501.61
+          "c": 338.98
         },
         {
           "d": "2026-09-22",
-          "c": 498.0
+          "c": 339.75
         },
         {
           "d": "2026-09-23",
-          "c": 500.59
+          "c": 337.02
         },
         {
           "d": "2026-09-24",
-          "c": 497.93
+          "c": 335.92
         },
         {
           "d": "2026-09-25",
-          "c": 516.17
+          "c": 341.07
         },
         {
           "d": "2026-09-28",
-          "c": 509.22
+          "c": 338.4
         },
         {
           "d": "2026-09-29",
-          "c": 508.96
+          "c": 329.4
         },
         {
           "d": "2026-09-30",
-          "c": 512.9
+          "c": 333.02
         },
         {
           "d": "2026-10-01",
-          "c": 512.8
+          "c": 330.32
         },
         {
           "d": "2026-10-02",
-          "c": 517.53
+          "c": 333.69
         },
         {
           "d": "2026-10-05",
-          "c": 525.18
+          "c": 332.89
         },
         {
           "d": "2026-10-06",
-          "c": 529.3
+          "c": 333.63
         },
         {
           "d": "2026-10-07",
-          "c": 529.76
+          "c": 336.67
         },
         {
           "d": "2026-10-08",
-          "c": 522.61
+          "c": 340.42
         },
         {
           "d": "2026-10-09",
-          "c": 535.07
+          "c": 336.64
         }
       ],
-      "earnings": "2026-10-28",
+      "earnings": "2026-11-02",
       "headlines": [
         {
-          "title": "Microsoft tries to spark new life into Windows",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad",
-          "published": "2026-10-09T17:00:00+00:00"
+          "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+          "source": "Hacker News",
+          "url": "https://carrierexplode.com/",
+          "published": "2026-10-09T18:10:55+00:00"
         },
         {
-          "title": "Trump Administration Cuts Off Access to a Major Immigration Program for Workers at Microsoft and Adobe",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/trump-administration-crackdown-microsoft-adobe-immigration/",
-          "published": "2026-10-08T19:11:45+00:00"
-        }
-      ],
-      "score": 31.8,
-      "brief": {
-        "what": "2 recent headlines mention Microsoft. Latest: Microsoft tries to spark new life into Windows",
-        "why": "Signals: 5 headlines. The stock is up 3.4% this week and up 8.7% over the month.",
-        "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "price": 262.43,
-      "changePct": 4.3,
-      "monthChangePct": 4.2,
-      "catalyst": "Amazon’s new Kindles appear to have a light leak problem",
-      "when": "In the news",
-      "signals": [
-        "4 headlines"
-      ],
-      "spark": [
-        248.23,
-        251.52,
-        251.4,
-        256.29,
-        259.92,
-        254.06,
-        262.43
-      ],
-      "history": [
-        {
-          "d": "2026-09-10",
-          "c": 251.89
-        },
-        {
-          "d": "2026-09-11",
-          "c": 256.78
-        },
-        {
-          "d": "2026-09-14",
-          "c": 253.54
-        },
-        {
-          "d": "2026-09-15",
-          "c": 248.42
-        },
-        {
-          "d": "2026-09-16",
-          "c": 245.96
-        },
-        {
-          "d": "2026-09-17",
-          "c": 251.19
-        },
-        {
-          "d": "2026-09-18",
-          "c": 253.71
-        },
-        {
-          "d": "2026-09-21",
-          "c": 258.45
-        },
-        {
-          "d": "2026-09-22",
-          "c": 254.98
-        },
-        {
-          "d": "2026-09-23",
-          "c": 249.27
-        },
-        {
-          "d": "2026-09-24",
-          "c": 249.38
-        },
-        {
-          "d": "2026-09-25",
-          "c": 249.67
-        },
-        {
-          "d": "2026-09-28",
-          "c": 246.15
-        },
-        {
-          "d": "2026-09-29",
-          "c": 246.67
-        },
-        {
-          "d": "2026-09-30",
-          "c": 249.15
-        },
-        {
-          "d": "2026-10-01",
-          "c": 248.23
-        },
-        {
-          "d": "2026-10-02",
-          "c": 251.52
-        },
-        {
-          "d": "2026-10-05",
-          "c": 251.4
-        },
-        {
-          "d": "2026-10-06",
-          "c": 256.29
-        },
-        {
-          "d": "2026-10-07",
-          "c": 259.92
-        },
-        {
-          "d": "2026-10-08",
-          "c": 254.06
-        },
-        {
-          "d": "2026-10-09",
-          "c": 262.43
-        }
-      ],
-      "earnings": "2026-10-29",
-      "headlines": [
-        {
-          "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-          "published": "2026-10-09T16:56:42+00:00"
+          "title": "What to expect at Apple's 'Welcome home' event next week",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2281840/what-to-expect-at-apples-welcome-home-event-next-week/",
+          "published": "2026-10-09T12:00:00+00:00"
         },
         {
           "title": "Alexa Tablet vs iPad Pro: How Amazon is keeping up with Apple",
@@ -1063,17 +1032,17 @@
           "published": "2026-10-08T21:40:59+00:00"
         },
         {
-          "title": "Amazon Says It’s No Longer Using NDAs for Data Centers",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/",
-          "published": "2026-10-02T11:47:58+00:00"
+          "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+          "published": "2026-10-02T23:03:16+00:00"
         }
       ],
-      "score": 28.7,
+      "score": 26.8,
       "brief": {
-        "what": "3 recent headlines mention Amazon. Latest: Amazon and others are done keeping data center deals secret. Is it enough to build trust? There is also a rumor making the rounds: Amazon’s new Kindles appear to have a light leak problem",
-        "why": "Signals: 4 headlines. The stock is up 4.3% this week and up 4.2% over the month.",
-        "watch": "Next earnings expected Thu Oct 29. Results and guidance usually move the stock most.",
+        "what": "4 recent headlines mention Apple. Latest: Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded There is also a rumor making the rounds: Apple reportedly plans touchscreen MacBook and iPad Mini launch for this month",
+        "why": "Signals: 5 headlines. The stock is up 0.9% this week and up 3.1% over the month.",
+        "watch": "Next earnings expected Mon Nov 2. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
