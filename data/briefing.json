@@ -1,12 +1,141 @@
 {
   "weekOf": "2026-10-05",
-  "updated": "2026-10-10T22:27:01+00:00",
+  "updated": "2026-10-11T11:27:21+00:00",
   "summary": [
-    "Tech leads the news with 9 of 25 stories. Top headline: How does using your MacBook while charging affect its battery life?",
+    "AI leads the news with 8 of 25 stories. Top headline: Learning to use local AI is exciting, overwhelming, and frustrating",
     "Earnings this week from ASML, TSM.",
     "Strongest rumor: Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?"
   ],
   "stories": [
+    {
+      "id": "d623f11b36",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-11T11:00:00+00:00",
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "tickers": []
+    },
+    {
+      "id": "d0f2c8bd42",
+      "topic": "Cloud",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-11T07:34:45+00:00",
+      "title": "3rd Yandex Cloud Data Center Was Hit",
+      "summary": "Article URL: https://status.yandex.cloud/en/incidents/2136 Comments URL: https://news.ycombinator.com/item?id=50040547 Points: 234 # Comments: 298",
+      "url": "https://status.yandex.cloud/en/incidents/2136",
+      "tickers": []
+    },
+    {
+      "id": "813b0fec63",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-11T00:30:00+00:00",
+      "title": "How to enable Live Activities on iPhone and CarPlay",
+      "summary": "Live Activities put the most important real-time information from apps in a place where it's easy to keep an eye on.",
+      "url": "https://www.engadget.com/2280381/how-to-enable-live-activites-iphone-carplay/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "e1f79f53b6",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-11T00:00:00+00:00",
+      "title": "How does a backup camera actually work?",
+      "summary": "Aftermarket backup cameras might not work as well as integrated ones, but they're still a useful upgrade to an older car.",
+      "url": "https://www.engadget.com/2280368/how-backup-camera-works/",
+      "tickers": []
+    },
+    {
+      "id": "5f602378f1",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-10T23:45:00+00:00",
+      "title": "How to use the parental controls on iOS 27",
+      "summary": "Screen Time has new features to help parents manage their children's Apple devices, as well as refinements to existing controls.",
+      "url": "https://www.engadget.com/2280277/how-to-use-ios-27-parental-controls/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "61697a5b02",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-10T23:30:00+00:00",
+      "title": "How to reduce mobile data usage on your iPhone",
+      "summary": "If your cellular plan has limited data, you'll want to take advantage of these easy tweaks to stretch those gigabytes.",
+      "url": "https://www.engadget.com/2280214/how-to-reduce-mobile-data-usage-iphone/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "db836cc211",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-10T23:00:00+00:00",
+      "title": "Simple tweaks to improve your 4K TV's picture quality",
+      "summary": "Even if your TV looks great as-is, some tweaks to its modes and sliders, as well as the room it's in, will make it look much better.",
+      "url": "https://www.engadget.com/2280162/improve-picture-quality-4k-tv-simple-tweaks/",
+      "tickers": []
+    },
+    {
+      "id": "e2efb26772",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-10T22:50:10+00:00",
+      "title": "Build your own decision model",
+      "summary": "Article URL: https://nishtahir.com/build-your-own-decision-model/ Comments URL: https://news.ycombinator.com/item?id=50037949 Points: 328 # Comments: 74",
+      "url": "https://nishtahir.com/build-your-own-decision-model/",
+      "tickers": []
+    },
+    {
+      "id": "0e32160b08",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-10T22:45:00+00:00",
+      "title": "How to lock apps on your Samsung Galaxy phone",
+      "summary": "Samsung phones have a couple of features that can keep sensitive apps and files private. One locks your chosen apps, and the other restricts all but one app.",
+      "url": "https://www.engadget.com/2280136/how-to-lock-app-samsung-galaxy-phone/",
+      "tickers": []
+    },
+    {
+      "id": "bcf9a3ff17",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-10T22:30:00+00:00",
+      "title": "What is the 3-2-1 rule for backing up your data?",
+      "summary": "Make sure your files are safe in the event of a hard drive disaster.",
+      "url": "https://www.engadget.com/2280127/backing-up-data-3-2-1-rule-explained/",
+      "tickers": []
+    },
+    {
+      "id": "73edd16d36",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "The Verge",
+      "published": "2026-10-10T22:10:17+00:00",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "tickers": [
+        "MSFT"
+      ]
+    },
     {
       "id": "fd0deef61e",
       "topic": "Devices",
@@ -30,6 +159,17 @@
       "tickers": [
         "MSFT"
       ]
+    },
+    {
+      "id": "85a8353872",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-10T20:31:50+00:00",
+      "title": "A city-building game in which the city would prefer you didn't",
+      "summary": "Article URL: https://housing.over.pizza/ Comments URL: https://news.ycombinator.com/item?id=50036864 Points: 366 # Comments: 125",
+      "url": "https://housing.over.pizza/",
+      "tickers": []
     },
     {
       "id": "9e7afe8a5a",
@@ -155,144 +295,6 @@
       "summary": "A shortage has driven resale prices through the roof.",
       "url": "https://www.engadget.com/2283062/gamestop-selling-ps5-pro-500-dollars-over-msrp/",
       "tickers": []
-    },
-    {
-      "id": "79c3f35f34",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-10T15:30:00+00:00",
-      "title": "How Xiaomi, Oppo and other non-US brands are challenging the iPhone Duo",
-      "summary": "Apple's foldable phone has everyone talking, but competitors have their own offerings in different ways.",
-      "url": "https://www.engadget.com/2279277/how-xiaomi-oppo-other-non-us-brands-challenging-iphone-duo/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "bd94f51d4e",
-      "topic": "Startups",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-10T15:00:00+00:00",
-      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at…",
-      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-      "tickers": []
-    },
-    {
-      "id": "7034751189",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-10-10T15:00:00+00:00",
-      "title": "K-pop star Sunmi loves Notion and ear cleaning videos",
-      "summary": "Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break through in the West. The English version of their single \"Nobody\" was the first K-pop song to hit the Billboard Hot 100 in…",
-      "url": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview",
-      "tickers": []
-    },
-    {
-      "id": "11d5608b02",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-10T15:00:00+00:00",
-      "title": "5 Samsung Galaxy features you should be using after updating to One UI 9",
-      "summary": "Samsung Galaxy phones that have upgraded to Android 17 and One UI 9 have a slew of new features - some more helpful than others.",
-      "url": "https://www.engadget.com/2279220/samsung-galaxy-one-ui-9-features-you-should-use/",
-      "tickers": []
-    },
-    {
-      "id": "d6bf88a245",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-10T14:41:16+00:00",
-      "title": "Anthropic is cutting off its internal evaluations from the internet",
-      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-      "tickers": []
-    },
-    {
-      "id": "40bceb2352",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-10T14:32:50+00:00",
-      "title": "Bitwarden Dual License Model",
-      "summary": "Article URL: https://community.bitwarden.com/t/published-version-update-in-app-stores/102750 Comments URL: https://news.ycombinator.com/item?id=50033407 Points: 319 # Comments: 235",
-      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
-      "tickers": []
-    },
-    {
-      "id": "779d2eb6a1",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-10T14:30:00+00:00",
-      "title": "Why your smart speaker keeps misunderstanding you (and how to fix it)",
-      "summary": "Smart speakers should recognize your voice to run commands, but you can help them out with a few tricks.",
-      "url": "https://www.engadget.com/2279051/smart-speaker-misunderstands-you-how-to-fix/",
-      "tickers": []
-    },
-    {
-      "id": "1c2c0a8959",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-10T14:00:00+00:00",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "tickers": []
-    },
-    {
-      "id": "21b3332197",
-      "topic": "Tech",
-      "kind": "Founder",
-      "source": "The Verge",
-      "published": "2026-10-10T14:00:00+00:00",
-      "title": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
-      "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry…",
-      "url": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure",
-      "tickers": [
-        "ORCL"
-      ]
-    },
-    {
-      "id": "2fbdade2e8",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-10T14:00:00+00:00",
-      "title": "How to change your home address on Google Maps",
-      "summary": "Set it to a nearby place instead, if you're concerned about the potential dangers if someone accesses your phone.",
-      "url": "https://www.engadget.com/2278953/how-to-change-home-address-google-maps/",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "35e71fa706",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-10T13:45:00+00:00",
-      "title": "How to take care of your foldable phone's hinge",
-      "summary": "Foldable phones require a little more care than standard ones, but the hinge will do its job as long as you don't make that difficult.",
-      "url": "https://www.engadget.com/2278858/how-to-take-care-of-foldable-phone-hinges/",
-      "tickers": []
-    },
-    {
-      "id": "4be3b4b43c",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-10T13:30:00+00:00",
-      "title": "Can you use a screen protector with your foldable phone?",
-      "summary": "Screen protectors seem like an easy win for keeping your phone in good condition, but there's more to consider with a foldable phone.",
-      "url": "https://www.engadget.com/2278720/foldable-phone-screen-protector-can-you-use/",
-      "tickers": []
     }
   ],
   "rumors": [
@@ -311,36 +313,6 @@
       "score": 15
     },
     {
-      "id": "958a82daae",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Sony's VR patents are reportedly going to Meta, which isn't a good sign for PSVR 3",
-      "detail": "submitted by /u/efap1701 [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1x232mv/sonys_vr_patents_are_reportedly_going_to_meta/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 0,
-      "days": 0,
-      "tickers": [],
-      "score": 8
-    },
-    {
-      "id": "2c55365518",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "ICE is reportedly using a Palantir database to compile dossiers on protestors",
-      "detail": "submitted by /u/Vucea [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1x2891v/ice_is_reportedly_using_a_palantir_database_to/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 0,
-      "days": 0,
-      "tickers": [
-        "PLTR"
-      ],
-      "score": 8
-    },
-    {
       "id": "01b483c181",
       "topic": "Chips",
       "status": "Just surfaced",
@@ -357,11 +329,25 @@
       "score": 8
     },
     {
+      "id": "c6a7a2c102",
+      "topic": "AI",
+      "status": "Just surfaced",
+      "title": "AI surveillance startup Flock Safety to cut several hundred jobs amid backlash, sources say",
+      "detail": "submitted by /u/mepper [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1x2j5wn/ai_surveillance_startup_flock_safety_to_cut/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 0,
+      "days": 0,
+      "tickers": [],
+      "score": 8
+    },
+    {
       "id": "6a3470c90c",
       "topic": "AI",
       "status": "Just surfaced",
       "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "detail": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 87 # Comments: 53",
+      "detail": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 164 # Comments: 105",
       "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
       "sources": 1,
       "mentions": 1,
@@ -370,6 +356,20 @@
       "tickers": [
         "NVDA"
       ],
+      "score": 8
+    },
+    {
+      "id": "60f3de4686",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "Feds sold lab equipment that exposed US to ‘severe bioterrorism threat,’ report says",
+      "detail": "submitted by /u/barweis [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1x2tcpp/feds_sold_lab_equipment_that_exposed_us_to_severe/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 0,
+      "days": 0,
+      "tickers": [],
       "score": 8
     }
   ],
@@ -615,298 +615,141 @@
       }
     },
     {
-      "ticker": "GOOGL",
-      "name": "Alphabet",
-      "price": 351.66,
-      "changePct": 2.4,
-      "monthChangePct": 5.7,
-      "catalyst": "How to change your home address on Google Maps",
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "price": 535.07,
+      "changePct": 3.4,
+      "monthChangePct": 8.7,
+      "catalyst": "Creator of free Adobe clones unveils open-source Microsoft Office Excel, PowerPoint, and Word replications — Autodesk tools and other subscription-based services may come next",
       "when": "In the news",
       "signals": [
         "6 headlines"
       ],
       "spark": [
-        338.24,
-        343.5,
-        346.47,
-        347.68,
-        350.5,
-        348.29,
-        351.66
+        512.8,
+        517.53,
+        525.18,
+        529.3,
+        529.76,
+        522.61,
+        535.07
       ],
       "history": [
         {
           "d": "2026-09-10",
-          "c": 332.6
+          "c": 492.44
         },
         {
           "d": "2026-09-11",
-          "c": 338.5
+          "c": 495.63
         },
         {
           "d": "2026-09-14",
-          "c": 349.39
+          "c": 505.41
         },
         {
           "d": "2026-09-15",
-          "c": 344.98
+          "c": 497.12
         },
         {
           "d": "2026-09-16",
-          "c": 342.87
+          "c": 490.3
         },
         {
           "d": "2026-09-17",
-          "c": 347.33
+          "c": 497.75
         },
         {
           "d": "2026-09-18",
-          "c": 349.54
+          "c": 493.78
         },
         {
           "d": "2026-09-21",
-          "c": 354.97
+          "c": 501.61
         },
         {
           "d": "2026-09-22",
-          "c": 351.16
+          "c": 498.0
         },
         {
           "d": "2026-09-23",
-          "c": 337.83
+          "c": 500.59
         },
         {
           "d": "2026-09-24",
-          "c": 342.36
+          "c": 497.93
         },
         {
           "d": "2026-09-25",
-          "c": 343.92
+          "c": 516.17
         },
         {
           "d": "2026-09-28",
-          "c": 342.75
+          "c": 509.22
         },
         {
           "d": "2026-09-29",
-          "c": 340.92
+          "c": 508.96
         },
         {
           "d": "2026-09-30",
-          "c": 344.08
+          "c": 512.9
         },
         {
           "d": "2026-10-01",
-          "c": 338.24
+          "c": 512.8
         },
         {
           "d": "2026-10-02",
-          "c": 343.5
+          "c": 517.53
         },
         {
           "d": "2026-10-05",
-          "c": 346.47
+          "c": 525.18
         },
         {
           "d": "2026-10-06",
-          "c": 347.68
+          "c": 529.3
         },
         {
           "d": "2026-10-07",
-          "c": 350.5
+          "c": 529.76
         },
         {
           "d": "2026-10-08",
-          "c": 348.29
+          "c": 522.61
         },
         {
           "d": "2026-10-09",
-          "c": 351.66
+          "c": 535.07
         }
       ],
       "earnings": "2026-10-28",
       "headlines": [
         {
-          "title": "How to change your home address on Google Maps",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2278953/how-to-change-home-address-google-maps/",
-          "published": "2026-10-10T14:00:00+00:00"
-        },
-        {
-          "title": "Google Japan created one of the strangest keyboards ever, and we're dying to try it",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2282903/google-japan-gboard-conveyor-belt-keyboard-dying-to-try/",
-          "published": "2026-10-10T13:15:00+00:00"
-        },
-        {
-          "title": "How to drop a pin on Google Maps",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2278593/how-to-drop-pin-google-maps/",
-          "published": "2026-10-10T13:00:00+00:00"
-        },
-        {
-          "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-          "published": "2026-10-06T19:21:14+00:00"
-        }
-      ],
-      "score": 34.8,
-      "brief": {
-        "what": "4 recent headlines mention Alphabet. Latest: How to change your home address on Google Maps",
-        "why": "Signals: 6 headlines. The stock is up 2.4% this week and up 5.7% over the month.",
-        "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "price": 336.64,
-      "changePct": 0.9,
-      "monthChangePct": 3.1,
-      "catalyst": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "when": "In the news",
-      "signals": [
-        "6 headlines"
-      ],
-      "spark": [
-        330.32,
-        333.69,
-        332.89,
-        333.63,
-        336.67,
-        340.42,
-        336.64
-      ],
-      "history": [
-        {
-          "d": "2026-09-10",
-          "c": 326.57
-        },
-        {
-          "d": "2026-09-11",
-          "c": 332.27
-        },
-        {
-          "d": "2026-09-14",
-          "c": 333.08
-        },
-        {
-          "d": "2026-09-15",
-          "c": 331.34
-        },
-        {
-          "d": "2026-09-16",
-          "c": 332.41
-        },
-        {
-          "d": "2026-09-17",
-          "c": 337.0
-        },
-        {
-          "d": "2026-09-18",
-          "c": 336.13
-        },
-        {
-          "d": "2026-09-21",
-          "c": 338.98
-        },
-        {
-          "d": "2026-09-22",
-          "c": 339.75
-        },
-        {
-          "d": "2026-09-23",
-          "c": 337.02
-        },
-        {
-          "d": "2026-09-24",
-          "c": 335.92
-        },
-        {
-          "d": "2026-09-25",
-          "c": 341.07
-        },
-        {
-          "d": "2026-09-28",
-          "c": 338.4
-        },
-        {
-          "d": "2026-09-29",
-          "c": 329.4
-        },
-        {
-          "d": "2026-09-30",
-          "c": 333.02
-        },
-        {
-          "d": "2026-10-01",
-          "c": 330.32
-        },
-        {
-          "d": "2026-10-02",
-          "c": 333.69
-        },
-        {
-          "d": "2026-10-05",
-          "c": 332.89
-        },
-        {
-          "d": "2026-10-06",
-          "c": 333.63
-        },
-        {
-          "d": "2026-10-07",
-          "c": 336.67
-        },
-        {
-          "d": "2026-10-08",
-          "c": 340.42
-        },
-        {
-          "d": "2026-10-09",
-          "c": 336.64
-        }
-      ],
-      "earnings": "2026-11-02",
-      "headlines": [
-        {
-          "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+          "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-          "published": "2026-10-10T19:50:00+00:00"
+          "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+          "published": "2026-10-10T21:47:51+00:00"
         },
         {
-          "title": "How Xiaomi, Oppo and other non-US brands are challenging the iPhone Duo",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2279277/how-xiaomi-oppo-other-non-us-brands-challenging-iphone-duo/",
-          "published": "2026-10-10T15:30:00+00:00"
-        },
-        {
-          "title": "How to change your Apple ID country (and what you should do beforehand)",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2278518/how-to-change-apple-id-country-what-do-before/",
-          "published": "2026-10-10T12:15:00+00:00"
-        },
-        {
-          "title": "Apple/macOS removed from official Unix registry",
+          "title": "Mxc: Microsoft Execution Containers version 1.0.0",
           "source": "Hacker News",
-          "url": "https://www.opengroup.org//openbrand/register/",
-          "published": "2026-10-10T10:57:31+00:00"
+          "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+          "published": "2026-10-09T06:52:49+00:00"
         },
         {
-          "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-          "published": "2026-10-02T23:03:16+00:00"
+          "title": "Trump Administration Cuts Off Access to a Major Immigration Program for Workers at Microsoft and Adobe",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/trump-administration-crackdown-microsoft-adobe-immigration/",
+          "published": "2026-10-08T19:11:45+00:00"
         }
       ],
-      "score": 31.8,
+      "score": 36.8,
       "brief": {
-        "what": "5 recent headlines mention Apple. Latest: Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-        "why": "Signals: 6 headlines. The stock is up 0.9% this week and up 3.1% over the month.",
-        "watch": "Next earnings expected Mon Nov 2. Results and guidance usually move the stock most.",
+        "what": "3 recent headlines mention Microsoft. Latest: Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+        "why": "Signals: 6 headlines. The stock is up 3.4% this week and up 8.7% over the month.",
+        "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
@@ -916,10 +759,10 @@
       "price": 262.43,
       "changePct": 4.3,
       "monthChangePct": 4.2,
-      "catalyst": "Vance claims Microsoft replaced laid-off workers with foreign hires — Data shows two-thirds of Microsoft’s H-1B approvals went to people already working at the company / Amazon and Meta, the nation’s…",
+      "catalyst": "Nicolas Cage says he won't work with Amazon again over AI dispute",
       "when": "In the news",
       "signals": [
-        "4 headlines"
+        "5 headlines"
       ],
       "spark": [
         248.23,
@@ -1035,11 +878,162 @@
           "published": "2026-10-02T11:47:58+00:00"
         }
       ],
-      "score": 28.7,
+      "score": 33.7,
       "brief": {
         "what": "2 recent headlines mention Amazon. Latest: Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-        "why": "Signals: 4 headlines. The stock is up 4.3% this week and up 4.2% over the month.",
+        "why": "Signals: 5 headlines. The stock is up 4.3% this week and up 4.2% over the month.",
         "watch": "Next earnings expected Thu Oct 29. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "price": 336.64,
+      "changePct": 0.9,
+      "monthChangePct": 3.1,
+      "catalyst": "How to enable Live Activities on iPhone and CarPlay",
+      "when": "In the news",
+      "signals": [
+        "5 headlines"
+      ],
+      "spark": [
+        330.32,
+        333.69,
+        332.89,
+        333.63,
+        336.67,
+        340.42,
+        336.64
+      ],
+      "history": [
+        {
+          "d": "2026-09-10",
+          "c": 326.57
+        },
+        {
+          "d": "2026-09-11",
+          "c": 332.27
+        },
+        {
+          "d": "2026-09-14",
+          "c": 333.08
+        },
+        {
+          "d": "2026-09-15",
+          "c": 331.34
+        },
+        {
+          "d": "2026-09-16",
+          "c": 332.41
+        },
+        {
+          "d": "2026-09-17",
+          "c": 337.0
+        },
+        {
+          "d": "2026-09-18",
+          "c": 336.13
+        },
+        {
+          "d": "2026-09-21",
+          "c": 338.98
+        },
+        {
+          "d": "2026-09-22",
+          "c": 339.75
+        },
+        {
+          "d": "2026-09-23",
+          "c": 337.02
+        },
+        {
+          "d": "2026-09-24",
+          "c": 335.92
+        },
+        {
+          "d": "2026-09-25",
+          "c": 341.07
+        },
+        {
+          "d": "2026-09-28",
+          "c": 338.4
+        },
+        {
+          "d": "2026-09-29",
+          "c": 329.4
+        },
+        {
+          "d": "2026-09-30",
+          "c": 333.02
+        },
+        {
+          "d": "2026-10-01",
+          "c": 330.32
+        },
+        {
+          "d": "2026-10-02",
+          "c": 333.69
+        },
+        {
+          "d": "2026-10-05",
+          "c": 332.89
+        },
+        {
+          "d": "2026-10-06",
+          "c": 333.63
+        },
+        {
+          "d": "2026-10-07",
+          "c": 336.67
+        },
+        {
+          "d": "2026-10-08",
+          "c": 340.42
+        },
+        {
+          "d": "2026-10-09",
+          "c": 336.64
+        }
+      ],
+      "earnings": "2026-11-02",
+      "headlines": [
+        {
+          "title": "How to enable Live Activities on iPhone and CarPlay",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2280381/how-to-enable-live-activites-iphone-carplay/",
+          "published": "2026-10-11T00:30:00+00:00"
+        },
+        {
+          "title": "How to reduce mobile data usage on your iPhone",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2280214/how-to-reduce-mobile-data-usage-iphone/",
+          "published": "2026-10-10T23:30:00+00:00"
+        },
+        {
+          "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+          "published": "2026-10-10T19:50:00+00:00"
+        },
+        {
+          "title": "How Xiaomi, Oppo and other non-US brands are challenging the iPhone Duo",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2279277/how-xiaomi-oppo-other-non-us-brands-challenging-iphone-duo/",
+          "published": "2026-10-10T15:30:00+00:00"
+        },
+        {
+          "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+          "published": "2026-10-02T23:03:16+00:00"
+        }
+      ],
+      "score": 26.8,
+      "brief": {
+        "what": "5 recent headlines mention Apple. Latest: How to enable Live Activities on iPhone and CarPlay",
+        "why": "Signals: 5 headlines. The stock is up 0.9% this week and up 3.1% over the month.",
+        "watch": "Next earnings expected Mon Nov 2. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
