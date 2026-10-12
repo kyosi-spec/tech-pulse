@@ -1,502 +1,354 @@
 {
   "weekOf": "2026-10-12",
-  "updated": "2026-10-12T11:33:04+00:00",
+  "updated": "2026-10-12T22:29:10+00:00",
   "summary": [
-    "Tech leads the news with 16 of 25 stories. Top headline: Inside the mini factory where GM builds its EV future",
-    "Earnings this week from ASML, TSM.",
-    "Strongest rumor: Apple's smart home hub will reportedly be called HomeView"
+    "Tech leads the news with 14 of 25 stories. Top headline: Why are your iPhone photos so blurry (and how to improve it)",
+    "Earnings this week from TSM, ASML.",
+    "Strongest rumor: The Yandex outage probably didn’t blitz Russian bots"
   ],
   "stories": [
     {
-      "id": "56c2235819",
+      "id": "cf29831a73",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-12T22:00:00+00:00",
+      "title": "Why are your iPhone photos so blurry (and how to improve it)",
+      "summary": "Blurry iPhone photos can come down to more than just a dirty lens. Here's how to expertly sharpen your shots and fine-tune your camera settings.",
+      "url": "https://www.engadget.com/2281499/how-to-improve-blurry-iphone-photo/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "42344e08a4",
       "topic": "Tech",
       "kind": "Company",
       "source": "The Verge",
-      "published": "2026-10-12T11:00:00+00:00",
-      "title": "Inside the mini factory where GM builds its EV future",
-      "summary": "If you're driving through GM's sprawling campus in Warren, Michigan, you'd likely ignore the pair of adjacent, anonymous white buildings tucked away in the upper reaches of the 710-acre space. Inside those buildings, which total half a million square feet together, is a massive…",
-      "url": "https://www.theverge.com/transportation/1008023/gm-bcdc-ev-battery-factory-china-tesla",
+      "published": "2026-10-12T21:20:57+00:00",
+      "title": "The Social Reckoning is flopping at the box office",
+      "summary": "As important as some of the messages in The Social Reckoning are, the movie has been drastically underperforming at the box office. Per Variety, Aaron's Sorkin's follow up to The Social Network only grossed a measly $5.5 million this past weekend against a budget that's…",
+      "url": "https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy",
       "tickers": []
     },
     {
-      "id": "8720c032a5",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-12T10:44:33+00:00",
-      "title": "WhatsApp users may soon be able to schedule messages",
-      "summary": "WhatsApp is finally allowing message scheduling, a feature that's been available on Telegram since 2019.",
-      "url": "https://www.engadget.com/2283518/whatsapp-users-may-soon-be-able-to-schedule-messages/",
-      "tickers": []
-    },
-    {
-      "id": "8a1732949c",
+      "id": "b7596ef9ee",
       "topic": "AI",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-12T09:28:37+00:00",
-      "title": "Microsoft's president says AI is less regulated than a carton of milk",
-      "summary": "Milk can't hack companies and governments like AI definitely can, but it's still subject to more regulation.",
-      "url": "https://www.engadget.com/2283487/microsoft-president-ai-less-regulated-than-a-carton-of-milk/",
+      "published": "2026-10-12T18:51:52+00:00",
+      "title": "Meta says it's caught up to the frontier with its latest Wonder AI models",
+      "summary": "The models add \"active memory\" and \"active focus\" abilities.",
+      "url": "https://www.engadget.com/2284478/meta-says-its-caught-up-to-the-frontier-with-its-latest-wonder-ai-models/",
+      "tickers": []
+    },
+    {
+      "id": "1b9d8a5847",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-12T18:34:57+00:00",
+      "title": "Norway fined a Microsoft subsidiary $9.6 million for allegedly misusing Grindr user data",
+      "summary": "Xandr has three weeks to appeal the record penalty.",
+      "url": "https://www.engadget.com/2284434/norway-fined-a-microsoft-subsidiary-96-million-for-allegedly-misusing-grindr-user-data/",
       "tickers": [
         "MSFT"
       ]
     },
     {
-      "id": "b041598025",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-12T04:54:00+00:00",
-      "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-      "summary": "Article URL: https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/ Comments URL: https://news.ycombinator.com/item?id=50051530 Points: 164 # Comments: 183",
-      "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
-      "tickers": []
-    },
-    {
-      "id": "7fe118dca0",
-      "topic": "AI",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-12T00:59:01+00:00",
-      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-      "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
-      "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-      "tickers": []
-    },
-    {
-      "id": "9da80d4ae0",
+      "id": "8c55385a65",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-12T00:30:00+00:00",
-      "title": "The pros and cons of importing foreign phones to the US",
-      "summary": "Foreign phones can bring new features not often seen in the US, but you need to make sure they're compatible with your carrier.",
-      "url": "https://www.engadget.com/2281332/pros-cons-import-foreign-phone-us/",
-      "tickers": []
-    },
-    {
-      "id": "2e7a9bbdaf",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-12T00:00:00+00:00",
-      "title": "OpenAI Dot vs. Meta Muse: How do these AI agents compare?",
-      "summary": "Meta and OpenAI's new AI agents are in direct competition. Here's what each can do, what they cost and who has access.",
-      "url": "https://www.engadget.com/2281289/openai-dot-vs-meta-muse-ai-agents-comparison/",
-      "tickers": []
-    },
-    {
-      "id": "2167b910f9",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-11T23:45:00+00:00",
-      "title": "Mbps Vs MB/s: What do these speeds mean?",
-      "summary": "Know the difference between bits and bytes.",
-      "url": "https://www.engadget.com/2281288/megabits-vs-megabytes-what-speeds-mean/",
-      "tickers": []
-    },
-    {
-      "id": "78991adbcf",
-      "topic": "Tech",
-      "kind": "Founder",
-      "source": "Engadget",
-      "published": "2026-10-11T23:30:00+00:00",
-      "title": "The reason the Xbox Series S is so much cheaper than the Series X",
-      "summary": "The Xbox Series X and S have seen the same price hikes as all other gaming hardware, but the Series S still provides a lower cost to entry.",
-      "url": "https://www.engadget.com/2281248/xbox-series-s-cheaper-than-x-reason/",
-      "tickers": []
-    },
-    {
-      "id": "10673b72a4",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-11T23:00:00+00:00",
-      "title": "Why Japan said goodbye to traditional flip phones",
-      "summary": "Flip phones endured in Japan longer than the US, but the trend is shifting.",
-      "url": "https://www.engadget.com/2281237/why-japan-said-goodbye-flip-phones/",
-      "tickers": []
-    },
-    {
-      "id": "ae613262e6",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-11T22:45:00+00:00",
-      "title": "Study finds many new cars share your data with third-party companies",
-      "summary": "A study by Northeastern University and Consumer Reports found that automakers are collecting data to allow advertisers to build in-depth profiles on consumers.",
-      "url": "https://www.engadget.com/2281212/new-car-sharing-data-third-party-companies-study-northeastern-university/",
-      "tickers": []
-    },
-    {
-      "id": "f0af203598",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-11T22:33:39+00:00",
-      "title": "Fingerprints are the new cookies",
-      "summary": "Article URL: https://royfish.dev/fingerprints-are-the-new-cookies Comments URL: https://news.ycombinator.com/item?id=50048642 Points: 419 # Comments: 215",
-      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
-      "tickers": []
-    },
-    {
-      "id": "bb7bb544e0",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-11T22:30:00+00:00",
-      "title": "SpaceXAI's Grok: What's free in 2026 and what isn't?",
-      "summary": "As with most AI tools, Grok's free tier is pretty limited.",
-      "url": "https://www.engadget.com/2281213/spacexai-grok-free-features-2026/",
-      "tickers": []
-    },
-    {
-      "id": "20b6d44acc",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-11T22:00:00+00:00",
-      "title": "Is 3D printing safe to do in your bedroom or home office?",
-      "summary": "3D printers are everywhere, but where one should be placed in your home is something worth looking into.",
-      "url": "https://www.engadget.com/2281211/bedroom-home-office-3d-printing-safety-concerns/",
-      "tickers": []
-    },
-    {
-      "id": "f1217f4e6e",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-11T21:59:48+00:00",
-      "title": "Passkeys are a trap",
-      "summary": "Article URL: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them Comments URL: https://news.ycombinator.com/item?id=50048312 Points: 673 # Comments: 387",
-      "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
-      "tickers": []
-    },
-    {
-      "id": "d7d62089dd",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-10-11T21:14:40+00:00",
-      "title": "Will the HomeView be Apple’s first smart home success?",
-      "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
-      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "published": "2026-10-12T18:30:00+00:00",
+      "title": "How to find your Amazon 'About You' page (and how to edit it)",
+      "summary": "See if Amazon thinks you have \"flat buttocks.\"",
+      "url": "https://www.engadget.com/2281495/how-to-find-your-amazon-about-you-page-and-how-to-edit-it/",
       "tickers": [
-        "AAPL"
+        "AMZN"
       ]
     },
     {
-      "id": "442ae88f08",
-      "topic": "Tech",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-11T20:51:47+00:00",
-      "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
-      "summary": "What does this mean for a fall full of movies starring villainous tech CEOs?",
-      "url": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
-      "tickers": []
-    },
-    {
-      "id": "fd8967cb86",
+      "id": "4a7a118a8c",
       "topic": "AI",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-10-11T20:20:52+00:00",
-      "title": "The gap in shared understanding of LLM capability is widening",
-      "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 488 # Comments: 714",
-      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "published": "2026-10-12T18:29:04+00:00",
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "summary": "Article URL: https://github.com/openai/codex/issues/48195 Comments URL: https://news.ycombinator.com/item?id=50060694 Points: 374 # Comments: 211",
+      "url": "https://github.com/openai/codex/issues/48195",
       "tickers": []
     },
     {
-      "id": "f25eab1c05",
-      "topic": "Security",
+      "id": "8fd8e16f42",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-12T18:00:00+00:00",
+      "title": "What's the difference between alkaline and lithium-ion batteries?",
+      "summary": "Alkaline and lithium-ion batteries serve very different purposes. Here's how they compare on lifespan, cost, rechargeability, and everyday use.",
+      "url": "https://www.engadget.com/2281493/alkaline-vs-lithium-ion-batteries-difference-between/",
+      "tickers": []
+    },
+    {
+      "id": "c62ea3bc41",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-12T17:39:22+00:00",
+      "title": "2027 Rivian R2 review: The Goldilocks electric SUV",
+      "summary": "It's not too big, it's not too small and it's not too expensive. It's just right.",
+      "url": "https://www.engadget.com/2284218/2027-rivian-r2-review/",
+      "tickers": []
+    },
+    {
+      "id": "955f4603d3",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-10-12T17:19:14+00:00",
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "tickers": []
+    },
+    {
+      "id": "2aebb0ee01",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-12T17:14:01+00:00",
+      "title": "AI coding agents generate more code, but not more software",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/ Comments URL: https://news.ycombinator.com/item?id=50059523 Points: 272 # Comments: 223",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "tickers": []
+    },
+    {
+      "id": "7be819af0b",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-12T17:11:30+00:00",
+      "title": "Beats is collaborating with Pokémon for a Pikachu-themed Pill speaker",
+      "summary": "The collab we've all been waiting for ever since Tim Cook met up with Pikachu.",
+      "url": "https://www.engadget.com/2284137/beats-is-collaborating-with-pokmon-for-a-pikachu-themed-pill-speaker/",
+      "tickers": []
+    },
+    {
+      "id": "887211690f",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-12T16:54:08+00:00",
+      "title": "Thinking will become a hobby",
+      "summary": "Article URL: https://www.spinellis.gr/blog/20261008/?li261008 Comments URL: https://news.ycombinator.com/item?id=50059204 Points: 181 # Comments: 237",
+      "url": "https://www.spinellis.gr/blog/20261008/?li261008",
+      "tickers": []
+    },
+    {
+      "id": "01b92bc319",
+      "topic": "Tech",
       "kind": "Company",
       "source": "The Verge",
-      "published": "2026-10-11T20:06:43+00:00",
-      "title": "A college in Illinois tried to cancel its Flock contact and it refused",
-      "summary": "In April of 2025, Elgin Community College had six Flock safety cameras installed to \"enhance the safety and security of students.\" But by September of that year, the school's administration grew concerned that Flock was sharing data with Customs and Border Patrol, that camera…",
-      "url": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
+      "published": "2026-10-12T16:52:54+00:00",
+      "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
+      "summary": "Elon Musk has handed out at least $276 million to Republican groups since July, The New York Times reports, making him both the party's top known donor and the biggest established midterm donor. $158 million of that money - one of the largest political donations in American…",
+      "url": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
       "tickers": []
     },
     {
-      "id": "45bb83c433",
-      "topic": "Tech",
+      "id": "fb9e1b7052",
+      "topic": "AI",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-10-11T19:46:40+00:00",
-      "title": "Cartographers of North Korea (2019)",
-      "summary": "Article URL: https://cartographers-nk.wonyoung.so/ Comments URL: https://news.ycombinator.com/item?id=50047091 Points: 270 # Comments: 49",
-      "url": "https://cartographers-nk.wonyoung.so/",
+      "published": "2026-10-12T16:48:01+00:00",
+      "title": "Muse Wonder",
+      "summary": "Article URL: https://research.meta.ai/blog/muse-wonder Comments URL: https://news.ycombinator.com/item?id=50059115 Points: 461 # Comments: 247",
+      "url": "https://research.meta.ai/blog/muse-wonder",
       "tickers": []
     },
     {
-      "id": "5cad11b921",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-11T19:43:32+00:00",
-      "title": "So, you’d like to sell your print issues of The Onion?",
-      "summary": "Article URL: https://theonion.com/archivehunt/ Comments URL: https://news.ycombinator.com/item?id=50047055 Points: 332 # Comments: 50",
-      "url": "https://theonion.com/archivehunt/",
-      "tickers": []
-    },
-    {
-      "id": "37acb6c2a3",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-11T19:00:00+00:00",
-      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-      "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
-      "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-      "tickers": []
-    },
-    {
-      "id": "3448cafc5a",
+      "id": "aa1869f32b",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-11T18:54:38+00:00",
-      "title": "Anbernic's next dual-screen handheld has the perfect aspect ratio for 3DS games",
-      "summary": "The RG DDS's main display has a 5:3 aspect ratio while its bottom screen will be 4:3.",
-      "url": "https://www.engadget.com/2283296/anbernics-next-dual-screen-handheld-has-the-perfect-aspect-ratio-for-3ds-games/",
+      "published": "2026-10-12T16:45:00+00:00",
+      "title": "Here's what typically drains an EV battery the fastest",
+      "summary": "EVs are improving their range all the time, but you're looking to maximize your car's miles, right? Certain things will drain your battery most quickly.",
+      "url": "https://www.engadget.com/2281487/what-drains-ev-batteries-fastest/",
       "tickers": []
     },
     {
-      "id": "b55f4cb05c",
-      "topic": "Devices",
+      "id": "5c5b21892e",
+      "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-11T18:45:00+00:00",
-      "title": "The iPhone clock app has an oddity not many people know about",
-      "summary": "Sure, you can set your iPhone's alarm to any time you choose. But there's a hidden limit to how far your choices will stretch, though most users won't reach it.",
-      "url": "https://www.engadget.com/2281209/iphone-clock-app-oddity-time-linear-list/",
+      "published": "2026-10-12T16:15:00+00:00",
+      "title": "What happens to Google and Apple accounts when the owner dies?",
+      "summary": "When we die, it's not just physical estates that need to be settled, an entire digital footprint survives us. So what do Apple and Google do with that data?",
+      "url": "https://www.engadget.com/2281481/apple-google-accounts-what-happens-when-owner-dies/",
       "tickers": [
-        "AAPL"
+        "AAPL",
+        "GOOGL"
       ]
     },
     {
-      "id": "7b8aff6872",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-10-11T18:33:56+00:00",
-      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-      "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "id": "b671862bd6",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-12T16:13:10+00:00",
+      "title": "A Modern Web App in C",
+      "summary": "Article URL: https://prophitt.me/writing/a-modern-web-app-in-c Comments URL: https://news.ycombinator.com/item?id=50058528 Points: 326 # Comments: 134",
+      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
       "tickers": []
+    },
+    {
+      "id": "e0c6ab013f",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-12T16:11:45+00:00",
+      "title": "GLM-Legal",
+      "summary": "Article URL: https://z.ai/blog/glm-legal Comments URL: https://news.ycombinator.com/item?id=50058507 Points: 372 # Comments: 211",
+      "url": "https://z.ai/blog/glm-legal",
+      "tickers": []
+    },
+    {
+      "id": "180d0387f5",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-12T16:10:40+00:00",
+      "title": "Citroën has brought back the iconic 2 CV as an electric concept car",
+      "summary": "Sadly we won't be seeing whatever this car inspires stateside.",
+      "url": "https://www.engadget.com/2284004/citroen-has-brought-back-the-iconic-2-cv-as-an-electric-concept-car/",
+      "tickers": []
+    },
+    {
+      "id": "8cb2191102",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "Engadget",
+      "published": "2026-10-12T15:59:21+00:00",
+      "title": "Smart just unveiled a new ultra-compact EV at the Paris Motor Show",
+      "summary": "A little car with decent mileage per charge.",
+      "url": "https://www.engadget.com/2283979/smart-just-unveiled-a-new-ultra-compact-ev-at-the-paris-motor-show/",
+      "tickers": []
+    },
+    {
+      "id": "08c55be89a",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-12T15:45:00+00:00",
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "tickers": []
+    },
+    {
+      "id": "be368ef712",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-12T15:45:00+00:00",
+      "title": "How to improve your Android phone's location accuracy",
+      "summary": "There are a few settings to check if you're having issues with your map's location accuracy.",
+      "url": "https://www.engadget.com/2281478/how-to-improve-android-phone-location-accuracy/",
+      "tickers": []
+    },
+    {
+      "id": "41d7cd89b3",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-12T15:45:00+00:00",
+      "title": "How much RAM does a Raspberry Pi actually need?",
+      "summary": "Raspberry Pi boards have helped hobbyists get computing projects started for very little money down. However, knowing how much memory is needed can be tricky.",
+      "url": "https://www.engadget.com/2275484/raspberry-pi-how-much-ram-needed/",
+      "tickers": []
+    },
+    {
+      "id": "405b47bbd5",
+      "topic": "Cloud",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-12T15:43:07+00:00",
+      "title": "The Yandex outage probably didn’t blitz Russian bots",
+      "summary": "Multiple Ukrainian drone strikes over the last week have taken Russian data centers offline and reportedly caused online bot traffic to plummet - but in reality it's probably not the kind of bot activity most people associate with Russia. A chart citing Cloudflare data has been…",
+      "url": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
+      "tickers": [
+        "NET"
+      ]
+    },
+    {
+      "id": "f967341bbf",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-12T15:31:19+00:00",
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "tickers": [
+        "MSFT"
+      ]
     }
   ],
   "rumors": [
     {
-      "id": "c33817a757",
+      "id": "405b47bbd5",
       "topic": "Tech",
       "status": "Just surfaced",
-      "title": "Apple's smart home hub will reportedly be called HomeView",
-      "detail": "Bloomberg reported that the HomeView device will start shipping in November.",
-      "url": "https://www.engadget.com/2283275/apples-smart-home-hub-will-reportedly-be-called-homeview/",
+      "title": "The Yandex outage probably didn’t blitz Russian bots",
+      "detail": "Multiple Ukrainian drone strikes over the last week have taken Russian data centers offline and reportedly caused online bot traffic to plummet - but in reality it's probably not the kind of bot activity most people associate with Russia. A chart citing Cloudflare data has been…",
+      "url": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
       "sources": 1,
       "mentions": 2,
       "credible": 1,
       "days": 0,
-      "tickers": [
-        "AAPL"
-      ],
+      "tickers": [],
       "score": 18
     },
     {
-      "id": "56262937ef",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
-      "detail": "The latest rumors are that the new Apple TV will have a built-in microphone, while the upgraded remote will get a speaker. The mic would let users control the set-top box using Siri without having to speak into the remote or a connected HomePod device. That could also let the…",
-      "url": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [
-        "AAPL"
-      ],
-      "score": 15
-    },
-    {
-      "id": "7b8aff6872",
+      "id": "3ff94f7415",
       "topic": "AI",
       "status": "Just surfaced",
-      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-      "detail": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "title": "Epic reportedly delays its Disney video game so it can be made using more AI",
+      "detail": "Developers were apparently ordered to use AI for both code and asset creation.",
+      "url": "https://www.engadget.com/2284680/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/",
       "sources": 1,
-      "mentions": 1,
+      "mentions": 2,
       "credible": 1,
       "days": 0,
       "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "f9057f834c",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "A massive Cartoon Network leak exposes decades of behind-the-scenes animation files",
-      "detail": "submitted by /u/BigBlackTaco1 [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1x3iz6s/a_massive_cartoon_network_leak_exposes_decades_of/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 0,
-      "days": 0,
-      "tickers": [],
-      "score": 8
+      "score": 18
     }
   ],
   "watchlist": [
     {
-      "ticker": "ASML",
-      "name": "ASML",
-      "price": 1780.34,
-      "changePct": -4.7,
-      "monthChangePct": 5.5,
-      "catalyst": "Earnings report",
-      "when": "Wed",
-      "signals": [
-        "Earnings"
-      ],
-      "spark": [
-        1808.49,
-        1867.31,
-        1859.86,
-        1834.1,
-        1804.96,
-        1769.79,
-        1780.34
-      ],
-      "history": [
-        {
-          "d": "2026-09-10",
-          "c": 1687.43
-        },
-        {
-          "d": "2026-09-11",
-          "c": 1698.3
-        },
-        {
-          "d": "2026-09-14",
-          "c": 1575.15
-        },
-        {
-          "d": "2026-09-15",
-          "c": 1591.48
-        },
-        {
-          "d": "2026-09-16",
-          "c": 1602.22
-        },
-        {
-          "d": "2026-09-17",
-          "c": 1629.67
-        },
-        {
-          "d": "2026-09-18",
-          "c": 1679.92
-        },
-        {
-          "d": "2026-09-21",
-          "c": 1711.32
-        },
-        {
-          "d": "2026-09-22",
-          "c": 1747.9
-        },
-        {
-          "d": "2026-09-23",
-          "c": 1744.61
-        },
-        {
-          "d": "2026-09-24",
-          "c": 1722.5
-        },
-        {
-          "d": "2026-09-25",
-          "c": 1743.94
-        },
-        {
-          "d": "2026-09-28",
-          "c": 1771.41
-        },
-        {
-          "d": "2026-09-29",
-          "c": 1834.39
-        },
-        {
-          "d": "2026-09-30",
-          "c": 1811.67
-        },
-        {
-          "d": "2026-10-01",
-          "c": 1808.49
-        },
-        {
-          "d": "2026-10-02",
-          "c": 1867.31
-        },
-        {
-          "d": "2026-10-05",
-          "c": 1859.86
-        },
-        {
-          "d": "2026-10-06",
-          "c": 1834.1
-        },
-        {
-          "d": "2026-10-07",
-          "c": 1804.96
-        },
-        {
-          "d": "2026-10-08",
-          "c": 1769.79
-        },
-        {
-          "d": "2026-10-09",
-          "c": 1780.34
-        }
-      ],
-      "earnings": "2026-10-14",
-      "headlines": [],
-      "score": 49.3,
-      "brief": {
-        "what": "No major headlines about ASML in the last two weeks.",
-        "why": "Signals: earnings. The stock is down 4.7% this week and up 5.5% over the month.",
-        "watch": "Next earnings expected Wed Oct 14. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
       "ticker": "TSM",
       "name": "TSMC",
-      "price": 453.31,
-      "changePct": -4.1,
-      "monthChangePct": 6.2,
+      "price": 444.35,
+      "changePct": -8.5,
+      "monthChangePct": 2.8,
       "catalyst": "Earnings report",
       "when": "Thu",
       "signals": [
-        "Earnings"
+        "Earnings",
+        "Big price move"
       ],
       "spark": [
-        459.2,
         472.78,
         485.8,
         482.3,
         472.2,
         457.99,
-        453.31
+        453.31,
+        444.35
       ],
       "history": [
-        {
-          "d": "2026-09-10",
-          "c": 426.88
-        },
         {
           "d": "2026-09-11",
           "c": 432.08
@@ -580,345 +432,164 @@
         {
           "d": "2026-10-09",
           "c": 453.31
+        },
+        {
+          "d": "2026-10-12",
+          "c": 444.35
         }
       ],
       "earnings": "2026-10-15",
       "headlines": [],
-      "score": 48.2,
+      "score": 57.1,
       "brief": {
         "what": "No major headlines about TSMC in the last two weeks.",
-        "why": "Signals: earnings. The stock is down 4.1% this week and up 6.2% over the month.",
+        "why": "Signals: earnings, big price move. The stock is down 8.5% this week and up 2.8% over the month.",
         "watch": "Next earnings expected Thu Oct 15. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
     {
-      "ticker": "GOOGL",
-      "name": "Alphabet",
-      "price": 351.66,
-      "changePct": 2.4,
-      "monthChangePct": 5.7,
-      "catalyst": "Google Data Centers around the world",
-      "when": "In the news",
-      "signals": [
-        "6 headlines"
-      ],
-      "spark": [
-        338.24,
-        343.5,
-        346.47,
-        347.68,
-        350.5,
-        348.29,
-        351.66
-      ],
-      "history": [
-        {
-          "d": "2026-09-10",
-          "c": 332.6
-        },
-        {
-          "d": "2026-09-11",
-          "c": 338.5
-        },
-        {
-          "d": "2026-09-14",
-          "c": 349.39
-        },
-        {
-          "d": "2026-09-15",
-          "c": 344.98
-        },
-        {
-          "d": "2026-09-16",
-          "c": 342.87
-        },
-        {
-          "d": "2026-09-17",
-          "c": 347.33
-        },
-        {
-          "d": "2026-09-18",
-          "c": 349.54
-        },
-        {
-          "d": "2026-09-21",
-          "c": 354.97
-        },
-        {
-          "d": "2026-09-22",
-          "c": 351.16
-        },
-        {
-          "d": "2026-09-23",
-          "c": 337.83
-        },
-        {
-          "d": "2026-09-24",
-          "c": 342.36
-        },
-        {
-          "d": "2026-09-25",
-          "c": 343.92
-        },
-        {
-          "d": "2026-09-28",
-          "c": 342.75
-        },
-        {
-          "d": "2026-09-29",
-          "c": 340.92
-        },
-        {
-          "d": "2026-09-30",
-          "c": 344.08
-        },
-        {
-          "d": "2026-10-01",
-          "c": 338.24
-        },
-        {
-          "d": "2026-10-02",
-          "c": 343.5
-        },
-        {
-          "d": "2026-10-05",
-          "c": 346.47
-        },
-        {
-          "d": "2026-10-06",
-          "c": 347.68
-        },
-        {
-          "d": "2026-10-07",
-          "c": 350.5
-        },
-        {
-          "d": "2026-10-08",
-          "c": 348.29
-        },
-        {
-          "d": "2026-10-09",
-          "c": 351.66
-        }
-      ],
-      "earnings": "2026-10-28",
-      "headlines": [
-        {
-          "title": "Here's how long your Google Pixel phone will get software updates",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2281041/how-long-google-pixel-phone-get-software-updates/",
-          "published": "2026-10-11T15:45:00+00:00"
-        },
-        {
-          "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-          "published": "2026-10-06T19:21:14+00:00"
-        }
-      ],
-      "score": 34.8,
-      "brief": {
-        "what": "2 recent headlines mention Alphabet. Latest: Here's how long your Google Pixel phone will get software updates",
-        "why": "Signals: 6 headlines. The stock is up 2.4% this week and up 5.7% over the month.",
-        "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "price": 336.64,
-      "changePct": 0.9,
+      "ticker": "ASML",
+      "name": "ASML",
+      "price": 1750.24,
+      "changePct": -5.9,
       "monthChangePct": 3.1,
-      "catalyst": "Will the HomeView be Apple’s first smart home success?",
-      "when": "In the news",
+      "catalyst": "Earnings report",
+      "when": "Wed",
       "signals": [
-        "9 headlines"
+        "Earnings",
+        "Big price move"
       ],
       "spark": [
-        330.32,
-        333.69,
-        332.89,
-        333.63,
-        336.67,
-        340.42,
-        336.64
+        1867.31,
+        1859.86,
+        1834.1,
+        1804.96,
+        1769.79,
+        1780.34,
+        1750.24
       ],
       "history": [
         {
-          "d": "2026-09-10",
-          "c": 326.57
-        },
-        {
           "d": "2026-09-11",
-          "c": 332.27
+          "c": 1698.3
         },
         {
           "d": "2026-09-14",
-          "c": 333.08
+          "c": 1575.15
         },
         {
           "d": "2026-09-15",
-          "c": 331.34
+          "c": 1591.48
         },
         {
           "d": "2026-09-16",
-          "c": 332.41
+          "c": 1602.22
         },
         {
           "d": "2026-09-17",
-          "c": 337.0
+          "c": 1629.67
         },
         {
           "d": "2026-09-18",
-          "c": 336.13
+          "c": 1679.92
         },
         {
           "d": "2026-09-21",
-          "c": 338.98
+          "c": 1711.32
         },
         {
           "d": "2026-09-22",
-          "c": 339.75
+          "c": 1747.9
         },
         {
           "d": "2026-09-23",
-          "c": 337.02
+          "c": 1744.61
         },
         {
           "d": "2026-09-24",
-          "c": 335.92
+          "c": 1722.5
         },
         {
           "d": "2026-09-25",
-          "c": 341.07
+          "c": 1743.94
         },
         {
           "d": "2026-09-28",
-          "c": 338.4
+          "c": 1771.41
         },
         {
           "d": "2026-09-29",
-          "c": 329.4
+          "c": 1834.39
         },
         {
           "d": "2026-09-30",
-          "c": 333.02
+          "c": 1811.67
         },
         {
           "d": "2026-10-01",
-          "c": 330.32
+          "c": 1808.49
         },
         {
           "d": "2026-10-02",
-          "c": 333.69
+          "c": 1867.31
         },
         {
           "d": "2026-10-05",
-          "c": 332.89
+          "c": 1859.86
         },
         {
           "d": "2026-10-06",
-          "c": 333.63
+          "c": 1834.1
         },
         {
           "d": "2026-10-07",
-          "c": 336.67
+          "c": 1804.96
         },
         {
           "d": "2026-10-08",
-          "c": 340.42
+          "c": 1769.79
         },
         {
           "d": "2026-10-09",
-          "c": 336.64
+          "c": 1780.34
+        },
+        {
+          "d": "2026-10-12",
+          "c": 1750.24
         }
       ],
-      "earnings": "2026-11-02",
-      "headlines": [
-        {
-          "title": "Will the HomeView be Apple’s first smart home success?",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-          "published": "2026-10-11T21:14:40+00:00"
-        },
-        {
-          "title": "The iPhone clock app has an oddity not many people know about",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2281209/iphone-clock-app-oddity-time-linear-list/",
-          "published": "2026-10-11T18:45:00+00:00"
-        },
-        {
-          "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
-          "published": "2026-10-11T17:31:07+00:00"
-        },
-        {
-          "title": "Why strong magnets can hinder the iPhone's rear-facing camera",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2281130/why-strong-magnetic-hinder-iphone-rear-facing-camera/",
-          "published": "2026-10-11T16:45:00+00:00"
-        },
-        {
-          "title": "Apple Home's new AI summaries for security cameras cost more than you'd think",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2281077/apple-home-ai-summaries-security-camera-prices/",
-          "published": "2026-10-11T16:15:00+00:00"
-        },
-        {
-          "title": "What to expect from Apple’s ‘Welcome Home’ event",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
-          "published": "2026-10-11T13:00:00+00:00"
-        },
-        {
-          "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-          "published": "2026-10-10T19:50:00+00:00"
-        },
-        {
-          "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-          "published": "2026-10-02T23:03:16+00:00"
-        }
-      ],
-      "score": 31.8,
+      "earnings": "2026-10-14",
+      "headlines": [],
+      "score": 51.8,
       "brief": {
-        "what": "8 recent headlines mention Apple. Latest: Will the HomeView be Apple’s first smart home success? There is also a rumor making the rounds: Apple's smart home hub will reportedly be called HomeView",
-        "why": "Signals: 9 headlines. The stock is up 0.9% this week and up 3.1% over the month.",
-        "watch": "Next earnings expected Mon Nov 2. Results and guidance usually move the stock most.",
+        "what": "No major headlines about ASML in the last two weeks.",
+        "why": "Signals: earnings, big price move. The stock is down 5.9% this week and up 3.1% over the month.",
+        "watch": "Next earnings expected Wed Oct 14. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
     {
       "ticker": "MSFT",
       "name": "Microsoft",
-      "price": 535.07,
-      "changePct": 3.4,
-      "monthChangePct": 8.7,
-      "catalyst": "Microsoft's president says AI is less regulated than a carton of milk",
+      "price": 541.15,
+      "changePct": 3.0,
+      "monthChangePct": 9.2,
+      "catalyst": "Norway fined a Microsoft subsidiary $9.6 million for allegedly misusing Grindr user data",
       "when": "In the news",
       "signals": [
-        "5 headlines"
+        "8 headlines"
       ],
       "spark": [
-        512.8,
         517.53,
         525.18,
         529.3,
         529.76,
         522.61,
-        535.07
+        535.07,
+        541.15
       ],
       "history": [
-        {
-          "d": "2026-09-10",
-          "c": 492.44
-        },
         {
           "d": "2026-09-11",
           "c": 495.63
@@ -1002,21 +673,25 @@
         {
           "d": "2026-10-09",
           "c": 535.07
+        },
+        {
+          "d": "2026-10-12",
+          "c": 541.15
         }
       ],
       "earnings": "2026-10-28",
       "headlines": [
         {
-          "title": "Microsoft's president says AI is less regulated than a carton of milk",
+          "title": "Norway fined a Microsoft subsidiary $9.6 million for allegedly misusing Grindr user data",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2283487/microsoft-president-ai-less-regulated-than-a-carton-of-milk/",
-          "published": "2026-10-12T09:28:37+00:00"
+          "url": "https://www.engadget.com/2284434/norway-fined-a-microsoft-subsidiary-96-million-for-allegedly-misusing-grindr-user-data/",
+          "published": "2026-10-12T18:34:57+00:00"
         },
         {
-          "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+          "title": "Microsoft president says UK is best placed to drive AI regulation",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-          "published": "2026-10-10T21:47:51+00:00"
+          "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+          "published": "2026-10-12T15:31:19+00:00"
         },
         {
           "title": "Trump Administration Cuts Off Access to a Major Immigration Program for Workers at Microsoft and Adobe",
@@ -1025,10 +700,318 @@
           "published": "2026-10-08T19:11:45+00:00"
         }
       ],
-      "score": 31.8,
+      "score": 36.1,
       "brief": {
-        "what": "3 recent headlines mention Microsoft. Latest: Microsoft's president says AI is less regulated than a carton of milk",
-        "why": "Signals: 5 headlines. The stock is up 3.4% this week and up 8.7% over the month.",
+        "what": "3 recent headlines mention Microsoft. Latest: Norway fined a Microsoft subsidiary $9.6 million for allegedly misusing Grindr user data",
+        "why": "Signals: 8 headlines. The stock is up 3.0% this week and up 9.2% over the month.",
+        "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "price": 340.97,
+      "changePct": 2.4,
+      "monthChangePct": 2.6,
+      "catalyst": "Why are your iPhone photos so blurry (and how to improve it)",
+      "when": "In the news",
+      "signals": [
+        "7 headlines"
+      ],
+      "spark": [
+        333.69,
+        332.89,
+        333.63,
+        336.67,
+        340.42,
+        336.64,
+        340.97
+      ],
+      "history": [
+        {
+          "d": "2026-09-11",
+          "c": 332.27
+        },
+        {
+          "d": "2026-09-14",
+          "c": 333.08
+        },
+        {
+          "d": "2026-09-15",
+          "c": 331.34
+        },
+        {
+          "d": "2026-09-16",
+          "c": 332.41
+        },
+        {
+          "d": "2026-09-17",
+          "c": 337.0
+        },
+        {
+          "d": "2026-09-18",
+          "c": 336.13
+        },
+        {
+          "d": "2026-09-21",
+          "c": 338.98
+        },
+        {
+          "d": "2026-09-22",
+          "c": 339.75
+        },
+        {
+          "d": "2026-09-23",
+          "c": 337.02
+        },
+        {
+          "d": "2026-09-24",
+          "c": 335.92
+        },
+        {
+          "d": "2026-09-25",
+          "c": 341.07
+        },
+        {
+          "d": "2026-09-28",
+          "c": 338.4
+        },
+        {
+          "d": "2026-09-29",
+          "c": 329.4
+        },
+        {
+          "d": "2026-09-30",
+          "c": 333.02
+        },
+        {
+          "d": "2026-10-01",
+          "c": 330.32
+        },
+        {
+          "d": "2026-10-02",
+          "c": 333.69
+        },
+        {
+          "d": "2026-10-05",
+          "c": 332.89
+        },
+        {
+          "d": "2026-10-06",
+          "c": 333.63
+        },
+        {
+          "d": "2026-10-07",
+          "c": 336.67
+        },
+        {
+          "d": "2026-10-08",
+          "c": 340.42
+        },
+        {
+          "d": "2026-10-09",
+          "c": 336.64
+        },
+        {
+          "d": "2026-10-12",
+          "c": 340.97
+        }
+      ],
+      "earnings": "2026-11-02",
+      "headlines": [
+        {
+          "title": "Why are your iPhone photos so blurry (and how to improve it)",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2281499/how-to-improve-blurry-iphone-photo/",
+          "published": "2026-10-12T22:00:00+00:00"
+        },
+        {
+          "title": "What happens to Google and Apple accounts when the owner dies?",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2281481/apple-google-accounts-what-happens-when-owner-dies/",
+          "published": "2026-10-12T16:15:00+00:00"
+        },
+        {
+          "title": "Which accessories actually fit the iPhone Duo?",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2281471/iphone-duo-which-accessories-fit/",
+          "published": "2026-10-12T14:45:00+00:00"
+        },
+        {
+          "title": "No Man’s Sky is coming to the iPhone and iPad",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date",
+          "published": "2026-10-12T14:00:00+00:00"
+        },
+        {
+          "title": "Will the HomeView be Apple’s first smart home success?",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+          "published": "2026-10-11T21:14:40+00:00"
+        },
+        {
+          "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+          "published": "2026-10-02T23:03:16+00:00"
+        }
+      ],
+      "score": 34.9,
+      "brief": {
+        "what": "6 recent headlines mention Apple. Latest: Why are your iPhone photos so blurry (and how to improve it)",
+        "why": "Signals: 7 headlines. The stock is up 2.4% this week and up 2.6% over the month.",
+        "watch": "Next earnings expected Mon Nov 2. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "price": 352.72,
+      "changePct": 1.8,
+      "monthChangePct": 4.2,
+      "catalyst": "What happens to Google and Apple accounts when the owner dies?",
+      "when": "In the news",
+      "signals": [
+        "7 headlines"
+      ],
+      "spark": [
+        343.5,
+        346.47,
+        347.68,
+        350.5,
+        348.29,
+        351.66,
+        352.72
+      ],
+      "history": [
+        {
+          "d": "2026-09-11",
+          "c": 338.5
+        },
+        {
+          "d": "2026-09-14",
+          "c": 349.39
+        },
+        {
+          "d": "2026-09-15",
+          "c": 344.98
+        },
+        {
+          "d": "2026-09-16",
+          "c": 342.87
+        },
+        {
+          "d": "2026-09-17",
+          "c": 347.33
+        },
+        {
+          "d": "2026-09-18",
+          "c": 349.54
+        },
+        {
+          "d": "2026-09-21",
+          "c": 354.97
+        },
+        {
+          "d": "2026-09-22",
+          "c": 351.16
+        },
+        {
+          "d": "2026-09-23",
+          "c": 337.83
+        },
+        {
+          "d": "2026-09-24",
+          "c": 342.36
+        },
+        {
+          "d": "2026-09-25",
+          "c": 343.92
+        },
+        {
+          "d": "2026-09-28",
+          "c": 342.75
+        },
+        {
+          "d": "2026-09-29",
+          "c": 340.92
+        },
+        {
+          "d": "2026-09-30",
+          "c": 344.08
+        },
+        {
+          "d": "2026-10-01",
+          "c": 338.24
+        },
+        {
+          "d": "2026-10-02",
+          "c": 343.5
+        },
+        {
+          "d": "2026-10-05",
+          "c": 346.47
+        },
+        {
+          "d": "2026-10-06",
+          "c": 347.68
+        },
+        {
+          "d": "2026-10-07",
+          "c": 350.5
+        },
+        {
+          "d": "2026-10-08",
+          "c": 348.29
+        },
+        {
+          "d": "2026-10-09",
+          "c": 351.66
+        },
+        {
+          "d": "2026-10-12",
+          "c": 352.72
+        }
+      ],
+      "earnings": "2026-10-28",
+      "headlines": [
+        {
+          "title": "What happens to Google and Apple accounts when the owner dies?",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2281481/apple-google-accounts-what-happens-when-owner-dies/",
+          "published": "2026-10-12T16:15:00+00:00"
+        },
+        {
+          "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
+          "published": "2026-10-12T15:11:19+00:00"
+        },
+        {
+          "title": "Google's sleek new Fitbit Edge is packed with health features and a replaceable battery",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2283307/googles-sleek-new-fitbit-edge-is-packed-with-health-features-and-a-replaceable-battery/",
+          "published": "2026-10-12T13:00:00+00:00"
+        },
+        {
+          "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
+          "source": "Hacker News",
+          "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+          "published": "2026-10-12T07:28:53+00:00"
+        },
+        {
+          "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+          "published": "2026-10-06T19:21:14+00:00"
+        }
+      ],
+      "score": 33.6,
+      "brief": {
+        "what": "5 recent headlines mention Alphabet. Latest: What happens to Google and Apple accounts when the owner dies?",
+        "why": "Signals: 7 headlines. The stock is up 1.8% this week and up 4.2% over the month.",
         "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
         "ai": false
       }
