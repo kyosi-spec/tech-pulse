@@ -1,12 +1,146 @@
 {
   "weekOf": "2026-10-12",
-  "updated": "2026-10-12T22:29:10+00:00",
+  "updated": "2026-10-13T11:32:43+00:00",
   "summary": [
-    "Tech leads the news with 14 of 25 stories. Top headline: Why are your iPhone photos so blurry (and how to improve it)",
-    "Earnings this week from TSM, ASML.",
+    "Tech leads the news with 11 of 25 stories. Top headline: Character.AI files for bankruptcy",
+    "Earnings this week from TSM, ASML, NFLX.",
     "Strongest rumor: The Yandex outage probably didn’t blitz Russian bots"
   ],
   "stories": [
+    {
+      "id": "c39ea3b6fe",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "The Verge",
+      "published": "2026-10-13T10:32:23+00:00",
+      "title": "Character.AI files for bankruptcy",
+      "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced mounting scrutiny and lawsuits over the…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+      "tickers": []
+    },
+    {
+      "id": "8f885ff6a5",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Wired",
+      "published": "2026-10-13T10:30:00+00:00",
+      "title": "Alex Gibney’s ‘Musk’ Has a Unique Perspective on Daddy Issues",
+      "summary": "Elon Musk’s father, Errol Musk, agreed to be interviewed immediately.",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-alex-gibney-musk-doc/",
+      "tickers": []
+    },
+    {
+      "id": "e7bd1704d6",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-13T09:21:57+00:00",
+      "title": "Abu Dhabi will use Ultrahuman's smart ring know-how to boost its public health app",
+      "summary": "The Abu Dhabi government wants to incorporate wearables data into its public health app.",
+      "url": "https://www.engadget.com/2284956/ultrahuman-abu-dhabi-partnership/",
+      "tickers": []
+    },
+    {
+      "id": "9624b79541",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Wired",
+      "published": "2026-10-13T09:00:00+00:00",
+      "title": "What Flock Actually Costs Cities Across the Country",
+      "summary": "WIRED examined contracts from over two dozen cities and towns that shed light on how Flock’s pricing and business model functions, and how it stacks up against its peers.",
+      "url": "https://www.wired.com/story/how-much-does-flock-actually-cost-cities/",
+      "tickers": []
+    },
+    {
+      "id": "7fcf26a717",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "Engadget",
+      "published": "2026-10-13T08:44:18+00:00",
+      "title": "X bundles Premium, Grok and Cursor under a single monthly subscription",
+      "summary": "SpaceXSI has announced a new subscription scheme that gives you access to Grok, Grok Bot, Cursor and X Premium.",
+      "url": "https://www.engadget.com/2284943/x-subscription-bundles-premium-grok-cursor/",
+      "tickers": []
+    },
+    {
+      "id": "55272219e9",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-13T02:46:43+00:00",
+      "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
+      "summary": "Article URL: https://www.argmin.net/p/faster-fourier-transforms Comments URL: https://news.ycombinator.com/item?id=50065932 Points: 155 # Comments: 105",
+      "url": "https://www.argmin.net/p/faster-fourier-transforms",
+      "tickers": []
+    },
+    {
+      "id": "29745034ab",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-13T02:07:08+00:00",
+      "title": "AI models can provably hide arbitrary capabilities",
+      "summary": "Article URL: https://arxiv.org/abs/2610.13928 Comments URL: https://news.ycombinator.com/item?id=50065692 Points: 218 # Comments: 112",
+      "url": "https://arxiv.org/abs/2610.13928",
+      "tickers": []
+    },
+    {
+      "id": "ef496c9838",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-13T00:30:00+00:00",
+      "title": "Don't buy a cheap Android phone without these non-negotiable features",
+      "summary": "Android phones can be had at many different price points, but the most important features aren't always found in the cheapest available devices.",
+      "url": "https://www.engadget.com/2281663/android-phone-dont-buy-cheap-without-non-negotiable-features/",
+      "tickers": []
+    },
+    {
+      "id": "e79d54c4c0",
+      "topic": "Chips",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-12T23:30:00+00:00",
+      "title": "How to boost your GPU performance without buying a new one",
+      "summary": "With an older GPU, you'll need to go without some of the fancy features, but you can still enjoy high frame rates with the right changes.",
+      "url": "https://www.engadget.com/2281650/how-to-boost-gpu-performance-without-buying-new/",
+      "tickers": []
+    },
+    {
+      "id": "804afee968",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-12T23:00:00+00:00",
+      "title": "How to turn your old hard drives into a RAID array",
+      "summary": "Your old hard drives still have some live left in them.",
+      "url": "https://www.engadget.com/2281587/how-to-create-raid-array-your-old-hard-drives/",
+      "tickers": []
+    },
+    {
+      "id": "a5119f3e79",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-12T22:30:00+00:00",
+      "title": "How to use Google Gemini to automate tasks",
+      "summary": "Spark is Google's AI tool that can perform tasks on your behalf.",
+      "url": "https://www.engadget.com/2281539/how-to-use-google-gemini-automate-tasks/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "a07d510ef1",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-12T22:05:43+00:00",
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "summary": "Article URL: https://github.com/prabanta-dev/janas Comments URL: https://news.ycombinator.com/item?id=50063717 Points: 160 # Comments: 52",
+      "url": "https://github.com/prabanta-dev/janas",
+      "tickers": []
+    },
     {
       "id": "cf29831a73",
       "topic": "Devices",
@@ -21,6 +155,30 @@
       ]
     },
     {
+      "id": "1660e319ca",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-12T21:40:18+00:00",
+      "title": "AI is a tool and using it well takes skill",
+      "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 437 # Comments: 349",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "tickers": []
+    },
+    {
+      "id": "882938b300",
+      "topic": "Chips",
+      "kind": "Founder",
+      "source": "Hacker News",
+      "published": "2026-10-12T21:35:35+00:00",
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "summary": "Article URL: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html Comments URL: https://news.ycombinator.com/item?id=50063365 Points: 237 # Comments: 116",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "tickers": [
+        "INTC"
+      ]
+    },
+    {
       "id": "42344e08a4",
       "topic": "Tech",
       "kind": "Company",
@@ -29,6 +187,28 @@
       "title": "The Social Reckoning is flopping at the box office",
       "summary": "As important as some of the messages in The Social Reckoning are, the movie has been drastically underperforming at the box office. Per Variety, Aaron's Sorkin's follow up to The Social Network only grossed a measly $5.5 million this past weekend against a budget that's…",
       "url": "https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy",
+      "tickers": []
+    },
+    {
+      "id": "ecec4eda3a",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-12T21:12:43+00:00",
+      "title": "Who is vfmaddrnd231pd?",
+      "summary": "Article URL: https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/ Comments URL: https://news.ycombinator.com/item?id=50063138 Points: 219 # Comments: 21",
+      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "tickers": []
+    },
+    {
+      "id": "4f6e234197",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-12T19:36:02+00:00",
+      "title": "Making big downloads resumable in Firefox",
+      "summary": "Article URL: https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html Comments URL: https://news.ycombinator.com/item?id=50061791 Points: 221 # Comments: 104",
+      "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
       "tickers": []
     },
     {
@@ -69,17 +249,6 @@
       ]
     },
     {
-      "id": "4a7a118a8c",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-12T18:29:04+00:00",
-      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-      "summary": "Article URL: https://github.com/openai/codex/issues/48195 Comments URL: https://news.ycombinator.com/item?id=50060694 Points: 374 # Comments: 211",
-      "url": "https://github.com/openai/codex/issues/48195",
-      "tickers": []
-    },
-    {
       "id": "8fd8e16f42",
       "topic": "Tech",
       "kind": "Company",
@@ -113,17 +282,6 @@
       "tickers": []
     },
     {
-      "id": "2aebb0ee01",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-12T17:14:01+00:00",
-      "title": "AI coding agents generate more code, but not more software",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/ Comments URL: https://news.ycombinator.com/item?id=50059523 Points: 272 # Comments: 223",
-      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "tickers": []
-    },
-    {
       "id": "7be819af0b",
       "topic": "Tech",
       "kind": "Company",
@@ -133,167 +291,6 @@
       "summary": "The collab we've all been waiting for ever since Tim Cook met up with Pikachu.",
       "url": "https://www.engadget.com/2284137/beats-is-collaborating-with-pokmon-for-a-pikachu-themed-pill-speaker/",
       "tickers": []
-    },
-    {
-      "id": "887211690f",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-12T16:54:08+00:00",
-      "title": "Thinking will become a hobby",
-      "summary": "Article URL: https://www.spinellis.gr/blog/20261008/?li261008 Comments URL: https://news.ycombinator.com/item?id=50059204 Points: 181 # Comments: 237",
-      "url": "https://www.spinellis.gr/blog/20261008/?li261008",
-      "tickers": []
-    },
-    {
-      "id": "01b92bc319",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-12T16:52:54+00:00",
-      "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
-      "summary": "Elon Musk has handed out at least $276 million to Republican groups since July, The New York Times reports, making him both the party's top known donor and the biggest established midterm donor. $158 million of that money - one of the largest political donations in American…",
-      "url": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
-      "tickers": []
-    },
-    {
-      "id": "fb9e1b7052",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-12T16:48:01+00:00",
-      "title": "Muse Wonder",
-      "summary": "Article URL: https://research.meta.ai/blog/muse-wonder Comments URL: https://news.ycombinator.com/item?id=50059115 Points: 461 # Comments: 247",
-      "url": "https://research.meta.ai/blog/muse-wonder",
-      "tickers": []
-    },
-    {
-      "id": "aa1869f32b",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-12T16:45:00+00:00",
-      "title": "Here's what typically drains an EV battery the fastest",
-      "summary": "EVs are improving their range all the time, but you're looking to maximize your car's miles, right? Certain things will drain your battery most quickly.",
-      "url": "https://www.engadget.com/2281487/what-drains-ev-batteries-fastest/",
-      "tickers": []
-    },
-    {
-      "id": "5c5b21892e",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-12T16:15:00+00:00",
-      "title": "What happens to Google and Apple accounts when the owner dies?",
-      "summary": "When we die, it's not just physical estates that need to be settled, an entire digital footprint survives us. So what do Apple and Google do with that data?",
-      "url": "https://www.engadget.com/2281481/apple-google-accounts-what-happens-when-owner-dies/",
-      "tickers": [
-        "AAPL",
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "b671862bd6",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-12T16:13:10+00:00",
-      "title": "A Modern Web App in C",
-      "summary": "Article URL: https://prophitt.me/writing/a-modern-web-app-in-c Comments URL: https://news.ycombinator.com/item?id=50058528 Points: 326 # Comments: 134",
-      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
-      "tickers": []
-    },
-    {
-      "id": "e0c6ab013f",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-12T16:11:45+00:00",
-      "title": "GLM-Legal",
-      "summary": "Article URL: https://z.ai/blog/glm-legal Comments URL: https://news.ycombinator.com/item?id=50058507 Points: 372 # Comments: 211",
-      "url": "https://z.ai/blog/glm-legal",
-      "tickers": []
-    },
-    {
-      "id": "180d0387f5",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-12T16:10:40+00:00",
-      "title": "Citroën has brought back the iconic 2 CV as an electric concept car",
-      "summary": "Sadly we won't be seeing whatever this car inspires stateside.",
-      "url": "https://www.engadget.com/2284004/citroen-has-brought-back-the-iconic-2-cv-as-an-electric-concept-car/",
-      "tickers": []
-    },
-    {
-      "id": "8cb2191102",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "Engadget",
-      "published": "2026-10-12T15:59:21+00:00",
-      "title": "Smart just unveiled a new ultra-compact EV at the Paris Motor Show",
-      "summary": "A little car with decent mileage per charge.",
-      "url": "https://www.engadget.com/2283979/smart-just-unveiled-a-new-ultra-compact-ev-at-the-paris-motor-show/",
-      "tickers": []
-    },
-    {
-      "id": "08c55be89a",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-12T15:45:00+00:00",
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
-      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-      "tickers": []
-    },
-    {
-      "id": "be368ef712",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-12T15:45:00+00:00",
-      "title": "How to improve your Android phone's location accuracy",
-      "summary": "There are a few settings to check if you're having issues with your map's location accuracy.",
-      "url": "https://www.engadget.com/2281478/how-to-improve-android-phone-location-accuracy/",
-      "tickers": []
-    },
-    {
-      "id": "41d7cd89b3",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-12T15:45:00+00:00",
-      "title": "How much RAM does a Raspberry Pi actually need?",
-      "summary": "Raspberry Pi boards have helped hobbyists get computing projects started for very little money down. However, knowing how much memory is needed can be tricky.",
-      "url": "https://www.engadget.com/2275484/raspberry-pi-how-much-ram-needed/",
-      "tickers": []
-    },
-    {
-      "id": "405b47bbd5",
-      "topic": "Cloud",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-12T15:43:07+00:00",
-      "title": "The Yandex outage probably didn’t blitz Russian bots",
-      "summary": "Multiple Ukrainian drone strikes over the last week have taken Russian data centers offline and reportedly caused online bot traffic to plummet - but in reality it's probably not the kind of bot activity most people associate with Russia. A chart citing Cloudflare data has been…",
-      "url": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
-      "tickers": [
-        "NET"
-      ]
-    },
-    {
-      "id": "f967341bbf",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-12T15:31:19+00:00",
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "tickers": [
-        "MSFT"
-      ]
     }
   ],
   "rumors": [
@@ -305,11 +302,11 @@
       "detail": "Multiple Ukrainian drone strikes over the last week have taken Russian data centers offline and reportedly caused online bot traffic to plummet - but in reality it's probably not the kind of bot activity most people associate with Russia. A chart citing Cloudflare data has been…",
       "url": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
       "sources": 1,
-      "mentions": 2,
+      "mentions": 1,
       "credible": 1,
       "days": 0,
       "tickers": [],
-      "score": 18
+      "score": 15
     },
     {
       "id": "3ff94f7415",
@@ -319,11 +316,11 @@
       "detail": "Developers were apparently ordered to use AI for both code and asset creation.",
       "url": "https://www.engadget.com/2284680/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/",
       "sources": 1,
-      "mentions": 2,
+      "mentions": 1,
       "credible": 1,
       "days": 0,
       "tickers": [],
-      "score": 18
+      "score": 15
     }
   ],
   "watchlist": [
@@ -570,6 +567,126 @@
       }
     },
     {
+      "ticker": "NFLX",
+      "name": "Netflix",
+      "price": 70.61,
+      "changePct": 4.6,
+      "monthChangePct": -8.8,
+      "catalyst": "Earnings report",
+      "when": "Tue",
+      "signals": [
+        "Earnings"
+      ],
+      "spark": [
+        67.06,
+        67.5,
+        68.69,
+        69.7,
+        71.57,
+        70.3,
+        70.61
+      ],
+      "history": [
+        {
+          "d": "2026-09-11",
+          "c": 77.4
+        },
+        {
+          "d": "2026-09-14",
+          "c": 80.32
+        },
+        {
+          "d": "2026-09-15",
+          "c": 77.9
+        },
+        {
+          "d": "2026-09-16",
+          "c": 76.41
+        },
+        {
+          "d": "2026-09-17",
+          "c": 75.31
+        },
+        {
+          "d": "2026-09-18",
+          "c": 71.79
+        },
+        {
+          "d": "2026-09-21",
+          "c": 73.36
+        },
+        {
+          "d": "2026-09-22",
+          "c": 72.16
+        },
+        {
+          "d": "2026-09-23",
+          "c": 71.36
+        },
+        {
+          "d": "2026-09-24",
+          "c": 71.72
+        },
+        {
+          "d": "2026-09-25",
+          "c": 71.15
+        },
+        {
+          "d": "2026-09-28",
+          "c": 69.23
+        },
+        {
+          "d": "2026-09-29",
+          "c": 70.3
+        },
+        {
+          "d": "2026-09-30",
+          "c": 69.58
+        },
+        {
+          "d": "2026-10-01",
+          "c": 67.85
+        },
+        {
+          "d": "2026-10-02",
+          "c": 67.06
+        },
+        {
+          "d": "2026-10-05",
+          "c": 67.5
+        },
+        {
+          "d": "2026-10-06",
+          "c": 68.69
+        },
+        {
+          "d": "2026-10-07",
+          "c": 69.7
+        },
+        {
+          "d": "2026-10-08",
+          "c": 71.57
+        },
+        {
+          "d": "2026-10-09",
+          "c": 70.3
+        },
+        {
+          "d": "2026-10-12",
+          "c": 70.61
+        }
+      ],
+      "earnings": "2026-10-20",
+      "headlines": [],
+      "score": 49.2,
+      "brief": {
+        "what": "No major headlines about Netflix in the last two weeks.",
+        "why": "Signals: earnings. The stock is up 4.6% this week and down 8.8% over the month.",
+        "watch": "Next earnings expected Tue Oct 20. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
       "ticker": "MSFT",
       "name": "Microsoft",
       "price": 541.15,
@@ -578,7 +695,7 @@
       "catalyst": "Norway fined a Microsoft subsidiary $9.6 million for allegedly misusing Grindr user data",
       "when": "In the news",
       "signals": [
-        "8 headlines"
+        "7 headlines"
       ],
       "spark": [
         517.53,
@@ -703,7 +820,7 @@
       "score": 36.1,
       "brief": {
         "what": "3 recent headlines mention Microsoft. Latest: Norway fined a Microsoft subsidiary $9.6 million for allegedly misusing Grindr user data",
-        "why": "Signals: 8 headlines. The stock is up 3.0% this week and up 9.2% over the month.",
+        "why": "Signals: 7 headlines. The stock is up 3.0% this week and up 9.2% over the month.",
         "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
         "ai": false
       }
@@ -714,10 +831,10 @@
       "price": 340.97,
       "changePct": 2.4,
       "monthChangePct": 2.6,
-      "catalyst": "Why are your iPhone photos so blurry (and how to improve it)",
+      "catalyst": "Apple trails Samsung as global smartphone shipments hit a 13-year low",
       "when": "In the news",
       "signals": [
-        "7 headlines"
+        "6 headlines"
       ],
       "spark": [
         333.69,
@@ -833,12 +950,6 @@
           "published": "2026-10-12T16:15:00+00:00"
         },
         {
-          "title": "Which accessories actually fit the iPhone Duo?",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2281471/iphone-duo-which-accessories-fit/",
-          "published": "2026-10-12T14:45:00+00:00"
-        },
-        {
           "title": "No Man’s Sky is coming to the iPhone and iPad",
           "source": "The Verge",
           "url": "https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date",
@@ -859,160 +970,9 @@
       ],
       "score": 34.9,
       "brief": {
-        "what": "6 recent headlines mention Apple. Latest: Why are your iPhone photos so blurry (and how to improve it)",
-        "why": "Signals: 7 headlines. The stock is up 2.4% this week and up 2.6% over the month.",
+        "what": "5 recent headlines mention Apple. Latest: Why are your iPhone photos so blurry (and how to improve it)",
+        "why": "Signals: 6 headlines. The stock is up 2.4% this week and up 2.6% over the month.",
         "watch": "Next earnings expected Mon Nov 2. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "GOOGL",
-      "name": "Alphabet",
-      "price": 352.72,
-      "changePct": 1.8,
-      "monthChangePct": 4.2,
-      "catalyst": "What happens to Google and Apple accounts when the owner dies?",
-      "when": "In the news",
-      "signals": [
-        "7 headlines"
-      ],
-      "spark": [
-        343.5,
-        346.47,
-        347.68,
-        350.5,
-        348.29,
-        351.66,
-        352.72
-      ],
-      "history": [
-        {
-          "d": "2026-09-11",
-          "c": 338.5
-        },
-        {
-          "d": "2026-09-14",
-          "c": 349.39
-        },
-        {
-          "d": "2026-09-15",
-          "c": 344.98
-        },
-        {
-          "d": "2026-09-16",
-          "c": 342.87
-        },
-        {
-          "d": "2026-09-17",
-          "c": 347.33
-        },
-        {
-          "d": "2026-09-18",
-          "c": 349.54
-        },
-        {
-          "d": "2026-09-21",
-          "c": 354.97
-        },
-        {
-          "d": "2026-09-22",
-          "c": 351.16
-        },
-        {
-          "d": "2026-09-23",
-          "c": 337.83
-        },
-        {
-          "d": "2026-09-24",
-          "c": 342.36
-        },
-        {
-          "d": "2026-09-25",
-          "c": 343.92
-        },
-        {
-          "d": "2026-09-28",
-          "c": 342.75
-        },
-        {
-          "d": "2026-09-29",
-          "c": 340.92
-        },
-        {
-          "d": "2026-09-30",
-          "c": 344.08
-        },
-        {
-          "d": "2026-10-01",
-          "c": 338.24
-        },
-        {
-          "d": "2026-10-02",
-          "c": 343.5
-        },
-        {
-          "d": "2026-10-05",
-          "c": 346.47
-        },
-        {
-          "d": "2026-10-06",
-          "c": 347.68
-        },
-        {
-          "d": "2026-10-07",
-          "c": 350.5
-        },
-        {
-          "d": "2026-10-08",
-          "c": 348.29
-        },
-        {
-          "d": "2026-10-09",
-          "c": 351.66
-        },
-        {
-          "d": "2026-10-12",
-          "c": 352.72
-        }
-      ],
-      "earnings": "2026-10-28",
-      "headlines": [
-        {
-          "title": "What happens to Google and Apple accounts when the owner dies?",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2281481/apple-google-accounts-what-happens-when-owner-dies/",
-          "published": "2026-10-12T16:15:00+00:00"
-        },
-        {
-          "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
-          "published": "2026-10-12T15:11:19+00:00"
-        },
-        {
-          "title": "Google's sleek new Fitbit Edge is packed with health features and a replaceable battery",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2283307/googles-sleek-new-fitbit-edge-is-packed-with-health-features-and-a-replaceable-battery/",
-          "published": "2026-10-12T13:00:00+00:00"
-        },
-        {
-          "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
-          "source": "Hacker News",
-          "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
-          "published": "2026-10-12T07:28:53+00:00"
-        },
-        {
-          "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-          "published": "2026-10-06T19:21:14+00:00"
-        }
-      ],
-      "score": 33.6,
-      "brief": {
-        "what": "5 recent headlines mention Alphabet. Latest: What happens to Google and Apple accounts when the owner dies?",
-        "why": "Signals: 7 headlines. The stock is up 1.8% this week and up 4.2% over the month.",
-        "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
