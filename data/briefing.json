@@ -1,359 +1,372 @@
 {
   "weekOf": "2026-10-12",
-  "updated": "2026-10-15T11:42:53+00:00",
+  "updated": "2026-10-15T22:40:29+00:00",
   "summary": [
-    "AI leads the news with 10 of 25 stories. Top headline: Mexico's president signs decree ordering tech platforms to protect minors from adult content",
-    "Earnings this week from TSM, NFLX, IBM, TSLA, META.",
-    "Strongest rumor: Ubisoft plans to close another studio and lay off up to 122 workers"
+    "AI leads the news with 12 of 25 stories. Top headline: Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+    "Earnings this week from TSM, TSLA, IBM, META, SPOT.",
+    "Strongest rumor: Volvo will use Nvidia’s tech for hands-free, point-to-point driving"
   ],
   "stories": [
     {
-      "id": "9ba21b306c",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-15T11:36:22+00:00",
-      "title": "Mexico's president signs decree ordering tech platforms to protect minors from adult content",
-      "summary": "Mexico's president Claudia Sheinbaum has signed a decree ordering digital platforms to protect children from accessing harmful content.",
-      "url": "https://www.engadget.com/2287376/mexico-president-signs-decree-tech-restrict-adult-content-minors/",
-      "tickers": []
-    },
-    {
-      "id": "2f10a9dd54",
+      "id": "fff85fc750",
       "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-15T11:00:00+00:00",
-      "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
-      "summary": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone home to China. Its AI companion can store literally everything you tell it on…",
-      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-      "tickers": []
-    },
-    {
-      "id": "fcf337b3af",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-15T10:34:56+00:00",
-      "title": "Apple I 'Hatfield' computer signed by Woz fetches a record $1.15 million at auction",
-      "summary": "The famous Apple I \"Hatfield\" computer signed by Steve Wozniak just sold to an unknown buyer for a record $1,148,200.",
-      "url": "https://www.engadget.com/2287345/apple-i-hatfield-sells-for-1-15-million-at-auction/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "d59bec79ca",
-      "topic": "Tech",
       "kind": "Launch",
       "source": "The Verge",
-      "published": "2026-10-15T10:05:07+00:00",
-      "title": "Big Walk skipped Xbox to boycott Microsoft’s involvement with Israel",
-      "summary": "Big Walk's co-op multiplayer walking adventure has proved popular since launching in August, but Xbox players have been excluded from the fun - and now the game's creators have explained why. Developer House House said in a blog post that it decided not to release Big Walk on…",
-      "url": "https://www.theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott",
-      "tickers": [
-        "MSFT"
-      ]
-    },
-    {
-      "id": "adf2319557",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-15T10:00:00+00:00",
-      "title": "Citizen Lab says governments are abusing online ads to hack people with ‘zero-click’ spyware",
-      "summary": "The digital rights unit found evidence that dozens of devices at media organization Al Jazeera were hacked after being shown malicious online ads.",
-      "url": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
+      "published": "2026-10-15T22:35:55+00:00",
+      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday…",
+      "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
       "tickers": []
     },
     {
-      "id": "2157e49d66",
+      "id": "3577aef4bc",
       "topic": "Tech",
+      "kind": "Founder",
+      "source": "The Verge",
+      "published": "2026-10-15T21:39:52+00:00",
+      "title": "The tech backlash is now in theaters",
+      "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose…",
+      "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+      "tickers": [
+        "META"
+      ]
+    },
+    {
+      "id": "cd10a37847",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-15T21:35:08+00:00",
+      "title": "The UK may expand the BBC license fee, charging residents to watch streaming services",
+      "summary": "If the proposal is enacted, it could cost $240 a year to watch YouTube in the UK.",
+      "url": "https://www.engadget.com/2288294/the-uk-may-expand-the-bbc-license-fee-charging-residents-to-watch-streaming-services/",
+      "tickers": []
+    },
+    {
+      "id": "e53a8d902c",
+      "topic": "AI",
       "kind": "Company",
       "source": "Wired",
-      "published": "2026-10-15T09:00:00+00:00",
-      "title": "Over $600 Million in Polymarket Election Trades Took Place After Races Ended",
-      "summary": "Contracts tied to elections in Ethiopia and Romania saw massive trading volumes after the outcomes were decided. “It’s obviously some form of volume manipulation,” one expert says.",
-      "url": "https://www.wired.com/story/over-dollar600-million-traded-on-polymarket-election-contracts-after-races-ended/",
-      "tickers": []
-    },
-    {
-      "id": "217d38dda6",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-10-15T04:30:00+00:00",
-      "title": "Figma announces new features to define how agents work on its platform",
-      "summary": "Figma is also releasing its code layers feature in open beta.",
-      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "tickers": []
-    },
-    {
-      "id": "88d53c2677",
-      "topic": "Chips",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-15T01:01:32+00:00",
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "tickers": []
-    },
-    {
-      "id": "16b4648b40",
-      "topic": "Security",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-15T00:49:31+00:00",
-      "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
-      "summary": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.",
-      "url": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
-      "tickers": []
-    },
-    {
-      "id": "baf88b56d3",
-      "topic": "Startups",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-10-15T00:30:00+00:00",
-      "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
-      "summary": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
-      "url": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
-      "tickers": []
-    },
-    {
-      "id": "82fa2c34c4",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-15T00:00:00+00:00",
-      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that…",
-      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-      "tickers": []
-    },
-    {
-      "id": "dcb78d7118",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-14T23:59:37+00:00",
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "summary": "Article URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b Comments URL: https://news.ycombinator.com/item?id=50097369 Points: 226 # Comments: 54",
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "tickers": []
-    },
-    {
-      "id": "f1863ad3d3",
-      "topic": "Startups",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-14T23:00:00+00:00",
-      "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
-      "summary": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
-      "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
-      "tickers": []
-    },
-    {
-      "id": "777fe7ef3d",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-14T22:53:31+00:00",
-      "title": "McKinsey is making job applicants spar with a fake AI client",
-      "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios…",
-      "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-      "tickers": []
-    },
-    {
-      "id": "1b16950677",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-14T22:10:08+00:00",
-      "title": "Tiny Little Office",
-      "summary": "Article URL: https://tinylittleoffice.com/ Comments URL: https://news.ycombinator.com/item?id=50096142 Points: 473 # Comments: 87",
-      "url": "https://tinylittleoffice.com/",
-      "tickers": []
-    },
-    {
-      "id": "6964ff13f3",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-14T22:00:02+00:00",
-      "title": "The best feature of Apple’s HomeView might be its simplicity",
-      "summary": "I'm just going to come right out and say it. I love the approach Apple has taken with the HomeView. I think it's the shared, always-available household interface that my family might finally use. Is Apple's first smart display my dream smart home dashboard? No. But is it the…",
-      "url": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
+      "published": "2026-10-15T21:18:15+00:00",
+      "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
+      "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
       "tickers": [
         "AAPL"
       ]
     },
     {
-      "id": "1a8410b133",
+      "id": "6f1f70f2f7",
       "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-14T22:00:00+00:00",
-      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
-      "summary": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
-      "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+      "kind": "Founder",
+      "source": "The Verge",
+      "published": "2026-10-15T21:09:33+00:00",
+      "title": "Trump posts AI-edited photo to brag about White House restoration work",
+      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by…",
+      "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
       "tickers": []
     },
     {
-      "id": "a5cc94d5d2",
+      "id": "68902d9fb3",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Wired",
+      "published": "2026-10-15T21:00:28+00:00",
+      "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+      "summary": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
+      "url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+      "tickers": []
+    },
+    {
+      "id": "309da1a2ed",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-15T20:38:13+00:00",
+      "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
+      "summary": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
+      "tickers": [
+        "AMZN"
+      ]
+    },
+    {
+      "id": "8a40e5b722",
       "topic": "Security",
       "kind": "Company",
       "source": "Ars Technica",
-      "published": "2026-10-14T21:35:09+00:00",
-      "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
-      "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
-      "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+      "published": "2026-10-15T20:32:41+00:00",
+      "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
+      "summary": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
+      "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
       "tickers": []
     },
     {
-      "id": "55220264de",
-      "topic": "Security",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-14T21:30:33+00:00",
-      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-      "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
-      "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-      "tickers": []
-    },
-    {
-      "id": "5a7765df7e",
-      "topic": "AI",
-      "kind": "Company",
+      "id": "a5353ca1ed",
+      "topic": "Policy",
+      "kind": "Launch",
       "source": "Engadget",
-      "published": "2026-10-14T21:23:27+00:00",
-      "title": "Iowa, Nebraska and six other states are suing OpenAI for endangering children",
-      "summary": "The lawsuits cover everything from the design of ChatGPT to the company's recent issues with rogue agents.",
-      "url": "https://www.engadget.com/2287111/iowa-nebraska-and-six-other-states-are-suing-openai-for-endangering-children/",
+      "published": "2026-10-15T20:15:05+00:00",
+      "title": "NY congressman to introduce bill protecting video game ownership",
+      "summary": "Representative Ritchie Torres wants the FTC to establish regulations ensuring you can play the games you've purchased.",
+      "url": "https://www.engadget.com/2288193/ny-congressman-to-introduce-bill-protecting-video-game-ownership/",
       "tickers": []
     },
     {
-      "id": "9980660ca0",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-14T21:11:28+00:00",
-      "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-      "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-      "tickers": []
-    },
-    {
-      "id": "6e12063b71",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-14T21:11:03+00:00",
-      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-      "summary": "Article URL: https://typesafe.ai/blog/jev-1-14 Comments URL: https://news.ycombinator.com/item?id=50095353 Points: 305 # Comments: 97",
-      "url": "https://typesafe.ai/blog/jev-1-14",
-      "tickers": []
-    },
-    {
-      "id": "073ac825a6",
+      "id": "3f40e02b3f",
       "topic": "AI",
       "kind": "Launch",
       "source": "TechCrunch",
-      "published": "2026-10-14T21:00:00+00:00",
-      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
-      "summary": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
-      "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+      "published": "2026-10-15T20:04:53+00:00",
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "ce360f2565",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-10-15T19:57:16+00:00",
+      "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
+      "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch…",
+      "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
       "tickers": []
     },
     {
-      "id": "33a8612776",
+      "id": "286a1e5db0",
       "topic": "Tech",
       "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-14T20:48:24+00:00",
-      "title": "OpenCode 2.0",
-      "summary": "Article URL: https://anoma.ly/notes/opencode-2-0/ Comments URL: https://news.ycombinator.com/item?id=50094994 Points: 652 # Comments: 262",
-      "url": "https://anoma.ly/notes/opencode-2-0/",
+      "source": "The Verge",
+      "published": "2026-10-15T19:52:13+00:00",
+      "title": "Withings now charges $100 per year to sync your data to other apps",
+      "summary": "If you're a new user of Withings' fitness-tracking smartwatches or smart scales and want to sync and access your health data through third party apps like Apple Health or Google Health it's now going to cost you. According to a discussion on Withings' support forums spotted by…",
+      "url": "https://www.theverge.com/tech/1012350/withings-plus-subscription-new-users-october-13-2026",
+      "tickers": [
+        "AAPL",
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "e51179316f",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-15T19:29:05+00:00",
+      "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
+      "summary": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
+      "url": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
       "tickers": []
     },
     {
-      "id": "1d150fb6bc",
+      "id": "fa5571a8e8",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-15T19:28:53+00:00",
+      "title": "FTC subpoenas OpenAI and Anthropic following safety failures",
+      "summary": "The FTC is investigating possible consumer harms at two major AI companies.",
+      "url": "https://www.engadget.com/2288104/ftc-subpoenas-open-ai-and-anthropic-following-safety-failures/",
+      "tickers": []
+    },
+    {
+      "id": "a0cff30463",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-15T19:14:26+00:00",
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "tickers": []
+    },
+    {
+      "id": "aa4aab0495",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-15T18:56:46+00:00",
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+      "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+      "tickers": []
+    },
+    {
+      "id": "df20d87083",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-15T18:41:58+00:00",
+      "title": "E Ink's new Kaleido 4 could inch us closer to the perfect color e-reader",
+      "summary": "E Ink's new display tech offers improved color reproduction and refresh rates.",
+      "url": "https://www.engadget.com/2288006/e-ink-kaleido-4-could-inch-us-closer-to-the-perfect-color-e-reader/",
+      "tickers": []
+    },
+    {
+      "id": "047466790b",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-15T18:30:08+00:00",
+      "title": "Riot will sunset League of Legends Classic in January 2027",
+      "summary": "The throwback League of Legends Classic mode may reappear as a limited-time event in the future.",
+      "url": "https://www.engadget.com/2287985/riot-will-sunset-league-of-legends-classic-in-january-2027/",
+      "tickers": []
+    },
+    {
+      "id": "959da5adbd",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-15T18:30:00+00:00",
+      "title": "Alexa Tablet 12 Pro review: Amazon's premium tablet gets almost everything right",
+      "summary": "This tablet is a great value, even if Android apps still aren't great on a big screen.",
+      "url": "https://www.engadget.com/2287955/amazon-alexa-tablet-12-pro-review/",
+      "tickers": [
+        "AMZN"
+      ]
+    },
+    {
+      "id": "276f28a777",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-10-15T18:15:36+00:00",
+      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+      "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX…",
+      "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "95b0600b7f",
       "topic": "Tech",
       "kind": "Founder",
       "source": "TechCrunch",
-      "published": "2026-10-14T20:26:25+00:00",
-      "title": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
-      "summary": "Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse.",
-      "url": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
+      "published": "2026-10-15T18:00:00+00:00",
+      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+      "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your…",
+      "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
       "tickers": []
+    },
+    {
+      "id": "7d58e4ffe4",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-10-15T17:48:57+00:00",
+      "title": "Sony made a $5,900 gold-plated Walkman MP3 player",
+      "summary": "Sony has announced a trio of new Walkman portable media players that start at an already absurd $1,899.99 for the NW-ZX900 and climb all the way up to $5,899 for the gold-plated NW-WM1ZM3. Sandwiched in between is the $2,999.99 Walkman NW-WM1AM3, which is nearly identical to the…",
+      "url": "https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player",
+      "tickers": []
+    },
+    {
+      "id": "f6cb48ed48",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-15T17:48:17+00:00",
+      "title": "Trump ballroom's biggest donors were overwelmingly tech and telecom companies",
+      "summary": "Not that anyone's terribly surprised.",
+      "url": "https://www.engadget.com/2287913/trump-ballrooms-biggest-donors-were-overwelmingly-tech-and-telecom-companies/",
+      "tickers": []
+    },
+    {
+      "id": "adad865606",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "Hacker News",
+      "published": "2026-10-15T17:47:39+00:00",
+      "title": "Muse Spark Open",
+      "summary": "https://dev.meta.ai/resources/blog/build-with-muse-spark-ope... https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-... Comments URL: https://news.ycombinator.com/item?id=50107379 Points: 528 # Comments: 299",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "tickers": []
+    },
+    {
+      "id": "27dfbcb3ef",
+      "topic": "Chips",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-15T17:34:40+00:00",
+      "title": "Volvo makes a bigger bet on Nvidia for hands-free automated driving",
+      "summary": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.",
+      "url": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
+      "tickers": [
+        "NVDA"
+      ]
     }
   ],
   "rumors": [
     {
-      "id": "a0f946cbbd",
-      "topic": "Tech",
+      "id": "7556a4c7bc",
+      "topic": "Chips",
       "status": "Just surfaced",
-      "title": "Ubisoft plans to close another studio and lay off up to 122 workers",
-      "detail": "Cuts are coming to RedLynx and Ubisoft Singapore.",
-      "url": "https://www.engadget.com/2286986/ubisoft-plans-to-close-another-studio-and-lay-off-up-to-122-workers/",
+      "title": "Volvo will use Nvidia’s tech for hands-free, point-to-point driving",
+      "detail": "Volvo plans to launch hands-free, point-to-point driving by 2030, powered by Nvidia's latest AI technology. The Chinese-owned, Swedish-designed automaker said Thursday it would use Nvidia's autonomous driving stack to power a new partially automated driving system similar to…",
+      "url": "https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban",
       "sources": 1,
-      "mentions": 1,
+      "mentions": 2,
       "credible": 1,
       "days": 0,
-      "tickers": [],
-      "score": 15
+      "tickers": [
+        "NVDA"
+      ],
+      "score": 18
     },
     {
-      "id": "1a19ed02db",
-      "topic": "Startups",
-      "status": "Just surfaced",
-      "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
-      "detail": "Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.",
-      "url": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "c10be3e537",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "YouTube is reportedly gearing up to offer audiobooks",
-      "detail": "YouTube is already talking to publishers about offering audiobooks on its platform, The Wall Street Journal says.",
-      "url": "https://www.engadget.com/2287331/youtube-audiobook-offering-rumor/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "abdfab7964",
+      "id": "82fa2c34c4",
       "topic": "AI",
       "status": "Just surfaced",
-      "title": "Unsupervised AI agent reportedly deletes TV show’s entire edit weeks before release, erasing months of work — TV show can't air, AI agent was given access to the production server and wiped the…",
-      "detail": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1x6hr7t/unsupervised_ai_agent_reportedly_deletes_tv_shows/",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "detail": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it turns into a crisis.",
+      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
       "sources": 1,
       "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 15
+    },
+    {
+      "id": "2d63862e96",
+      "topic": "Chips",
+      "status": "Just surfaced",
+      "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
+      "detail": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
+      "url": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 15
+    },
+    {
+      "id": "f9e9943e79",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "Israeli Firms Placed Spyware at Al Jazeera via Ads, Report Says",
+      "detail": "Article URL: https://www.bloomberg.com/news/articles/2026-10-15/israeli-firms-placed-spyware-at-al-jazeera-via-ads-report-says Comments URL: https://news.ycombinator.com/item?id=50105701 Points: 76 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-15/israeli-firms-placed-spyware-at-al-jazeera-via-ads-report-says",
+      "sources": 1,
+      "mentions": 3,
       "credible": 0,
       "days": 0,
       "tickers": [],
-      "score": 8
+      "score": 13
     }
   ],
   "watchlist": [
     {
       "ticker": "TSM",
       "name": "TSMC",
-      "price": 430.0,
-      "changePct": -8.9,
-      "monthChangePct": 4.2,
+      "price": 422.25,
+      "changePct": -7.8,
+      "monthChangePct": 1.1,
       "catalyst": "Earnings report",
       "when": "Thu",
       "signals": [
@@ -362,19 +375,15 @@
         "Volume up"
       ],
       "spark": [
-        482.3,
         472.2,
         457.99,
         453.31,
         444.35,
         445.12,
-        430.0
+        430.0,
+        422.25
       ],
       "history": [
-        {
-          "d": "2026-09-15",
-          "c": 412.64
-        },
         {
           "d": "2026-09-16",
           "c": 417.72
@@ -458,291 +467,43 @@
         {
           "d": "2026-10-14",
           "c": 430.0
+        },
+        {
+          "d": "2026-10-15",
+          "c": 422.25
         }
       ],
       "earnings": "2026-10-15",
       "headlines": [],
-      "score": 60.6,
+      "score": 61.8,
       "brief": {
         "what": "No major headlines about TSMC in the last two weeks.",
-        "why": "Signals: earnings, big price move, volume up. The stock is down 8.9% this week and up 4.2% over the month.",
+        "why": "Signals: earnings, big price move, volume up. The stock is down 7.8% this week and up 1.1% over the month.",
         "watch": "Next earnings expected Thu Oct 15. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "NFLX",
-      "name": "Netflix",
-      "price": 70.57,
-      "changePct": 1.2,
-      "monthChangePct": -9.4,
-      "catalyst": "Earnings report",
-      "when": "Tue",
-      "signals": [
-        "Earnings",
-        "2 headlines"
-      ],
-      "spark": [
-        68.69,
-        69.7,
-        71.57,
-        70.3,
-        70.61,
-        70.46,
-        70.57
-      ],
-      "history": [
-        {
-          "d": "2026-09-15",
-          "c": 77.9
-        },
-        {
-          "d": "2026-09-16",
-          "c": 76.41
-        },
-        {
-          "d": "2026-09-17",
-          "c": 75.31
-        },
-        {
-          "d": "2026-09-18",
-          "c": 71.79
-        },
-        {
-          "d": "2026-09-21",
-          "c": 73.36
-        },
-        {
-          "d": "2026-09-22",
-          "c": 72.16
-        },
-        {
-          "d": "2026-09-23",
-          "c": 71.36
-        },
-        {
-          "d": "2026-09-24",
-          "c": 71.72
-        },
-        {
-          "d": "2026-09-25",
-          "c": 71.15
-        },
-        {
-          "d": "2026-09-28",
-          "c": 69.23
-        },
-        {
-          "d": "2026-09-29",
-          "c": 70.3
-        },
-        {
-          "d": "2026-09-30",
-          "c": 69.58
-        },
-        {
-          "d": "2026-10-01",
-          "c": 67.85
-        },
-        {
-          "d": "2026-10-02",
-          "c": 67.06
-        },
-        {
-          "d": "2026-10-05",
-          "c": 67.5
-        },
-        {
-          "d": "2026-10-06",
-          "c": 68.69
-        },
-        {
-          "d": "2026-10-07",
-          "c": 69.7
-        },
-        {
-          "d": "2026-10-08",
-          "c": 71.57
-        },
-        {
-          "d": "2026-10-09",
-          "c": 70.3
-        },
-        {
-          "d": "2026-10-12",
-          "c": 70.61
-        },
-        {
-          "d": "2026-10-13",
-          "c": 70.46
-        },
-        {
-          "d": "2026-10-14",
-          "c": 70.57
-        }
-      ],
-      "earnings": "2026-10-20",
-      "headlines": [
-        {
-          "title": "Netflix to lay off roughly 1,000 employees in biggest round of job cuts since 2022",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2286699/netflix-to-lay-off-roughly-1000-employees-in-biggest-round-of-job-cuts-since-2022/",
-          "published": "2026-10-14T16:36:47+00:00"
-        }
-      ],
-      "score": 52.8,
-      "brief": {
-        "what": "1 recent headline mentions Netflix. Latest: Netflix to lay off roughly 1,000 employees in biggest round of job cuts since 2022",
-        "why": "Signals: earnings, 2 headlines. The stock is up 1.2% this week and down 9.4% over the month.",
-        "watch": "Next earnings expected Tue Oct 20. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "IBM",
-      "name": "IBM",
-      "price": 227.88,
-      "changePct": 3.3,
-      "monthChangePct": -8.2,
-      "catalyst": "Earnings report",
-      "when": "Wed",
-      "signals": [
-        "Earnings"
-      ],
-      "spark": [
-        221.29,
-        220.51,
-        226.61,
-        227.13,
-        227.02,
-        230.78,
-        227.88
-      ],
-      "history": [
-        {
-          "d": "2026-09-15",
-          "c": 248.37
-        },
-        {
-          "d": "2026-09-16",
-          "c": 237.49
-        },
-        {
-          "d": "2026-09-17",
-          "c": 237.75
-        },
-        {
-          "d": "2026-09-18",
-          "c": 229.55
-        },
-        {
-          "d": "2026-09-21",
-          "c": 231.93
-        },
-        {
-          "d": "2026-09-22",
-          "c": 231.38
-        },
-        {
-          "d": "2026-09-23",
-          "c": 232.76
-        },
-        {
-          "d": "2026-09-24",
-          "c": 227.06
-        },
-        {
-          "d": "2026-09-25",
-          "c": 225.51
-        },
-        {
-          "d": "2026-09-28",
-          "c": 220.67
-        },
-        {
-          "d": "2026-09-29",
-          "c": 219.99
-        },
-        {
-          "d": "2026-09-30",
-          "c": 219.93
-        },
-        {
-          "d": "2026-10-01",
-          "c": 225.62
-        },
-        {
-          "d": "2026-10-02",
-          "c": 222.64
-        },
-        {
-          "d": "2026-10-05",
-          "c": 221.58
-        },
-        {
-          "d": "2026-10-06",
-          "c": 221.29
-        },
-        {
-          "d": "2026-10-07",
-          "c": 220.51
-        },
-        {
-          "d": "2026-10-08",
-          "c": 226.61
-        },
-        {
-          "d": "2026-10-09",
-          "c": 227.13
-        },
-        {
-          "d": "2026-10-12",
-          "c": 227.02
-        },
-        {
-          "d": "2026-10-13",
-          "c": 230.78
-        },
-        {
-          "d": "2026-10-14",
-          "c": 227.88
-        }
-      ],
-      "earnings": "2026-10-21",
-      "headlines": [],
-      "score": 46.7,
-      "brief": {
-        "what": "No major headlines about IBM in the last two weeks.",
-        "why": "Signals: earnings. The stock is up 3.3% this week and down 8.2% over the month.",
-        "watch": "Next earnings expected Wed Oct 21. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
     {
       "ticker": "TSLA",
       "name": "Tesla",
-      "price": 367.16,
-      "changePct": -2.8,
-      "monthChangePct": 3.0,
+      "price": 362.44,
+      "changePct": -3.3,
+      "monthChangePct": 1.2,
       "catalyst": "Earnings report",
       "when": "Wed",
       "signals": [
         "Earnings"
       ],
       "spark": [
-        380.68,
         377.81,
         375.0,
         382.7,
         378.03,
         375.23,
-        367.16
+        367.16,
+        362.44
       ],
       "history": [
-        {
-          "d": "2026-09-15",
-          "c": 356.58
-        },
         {
           "d": "2026-09-16",
           "c": 358.08
@@ -826,14 +587,145 @@
         {
           "d": "2026-10-14",
           "c": 367.16
+        },
+        {
+          "d": "2026-10-15",
+          "c": 362.44
+        }
+      ],
+      "earnings": "2026-10-21",
+      "headlines": [
+        {
+          "title": "Tesla Roadster reveal live: Updates from the launch of the next-gen sportscar",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2287518/tesla-roadster-launch-live-blog/",
+          "published": "2026-10-15T14:01:51+00:00"
+        }
+      ],
+      "score": 51.7,
+      "brief": {
+        "what": "1 recent headline mentions Tesla. Latest: Tesla Roadster reveal live: Updates from the launch of the next-gen sportscar",
+        "why": "Signals: earnings. The stock is down 3.3% this week and up 1.2% over the month.",
+        "watch": "Next earnings expected Wed Oct 21. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "IBM",
+      "name": "IBM",
+      "price": 234.12,
+      "changePct": 3.3,
+      "monthChangePct": -1.4,
+      "catalyst": "Earnings report",
+      "when": "Wed",
+      "signals": [
+        "Earnings"
+      ],
+      "spark": [
+        220.51,
+        226.61,
+        227.13,
+        227.02,
+        230.78,
+        227.88,
+        234.12
+      ],
+      "history": [
+        {
+          "d": "2026-09-16",
+          "c": 237.49
+        },
+        {
+          "d": "2026-09-17",
+          "c": 237.75
+        },
+        {
+          "d": "2026-09-18",
+          "c": 229.55
+        },
+        {
+          "d": "2026-09-21",
+          "c": 231.93
+        },
+        {
+          "d": "2026-09-22",
+          "c": 231.38
+        },
+        {
+          "d": "2026-09-23",
+          "c": 232.76
+        },
+        {
+          "d": "2026-09-24",
+          "c": 227.06
+        },
+        {
+          "d": "2026-09-25",
+          "c": 225.51
+        },
+        {
+          "d": "2026-09-28",
+          "c": 220.67
+        },
+        {
+          "d": "2026-09-29",
+          "c": 219.99
+        },
+        {
+          "d": "2026-09-30",
+          "c": 219.93
+        },
+        {
+          "d": "2026-10-01",
+          "c": 225.62
+        },
+        {
+          "d": "2026-10-02",
+          "c": 222.64
+        },
+        {
+          "d": "2026-10-05",
+          "c": 221.58
+        },
+        {
+          "d": "2026-10-06",
+          "c": 221.29
+        },
+        {
+          "d": "2026-10-07",
+          "c": 220.51
+        },
+        {
+          "d": "2026-10-08",
+          "c": 226.61
+        },
+        {
+          "d": "2026-10-09",
+          "c": 227.13
+        },
+        {
+          "d": "2026-10-12",
+          "c": 227.02
+        },
+        {
+          "d": "2026-10-13",
+          "c": 230.78
+        },
+        {
+          "d": "2026-10-14",
+          "c": 227.88
+        },
+        {
+          "d": "2026-10-15",
+          "c": 234.12
         }
       ],
       "earnings": "2026-10-21",
       "headlines": [],
-      "score": 45.6,
+      "score": 46.6,
       "brief": {
-        "what": "No major headlines about Tesla in the last two weeks.",
-        "why": "Signals: earnings. The stock is down 2.8% this week and up 3.0% over the month.",
+        "what": "No major headlines about IBM in the last two weeks.",
+        "why": "Signals: earnings. The stock is up 3.3% this week and down 1.4% over the month.",
         "watch": "Next earnings expected Wed Oct 21. Results and guidance usually move the stock most.",
         "ai": false
       }
@@ -841,28 +733,24 @@
     {
       "ticker": "META",
       "name": "Meta",
-      "price": 737.54,
-      "changePct": 2.3,
-      "monthChangePct": 10.1,
+      "price": 736.72,
+      "changePct": 2.2,
+      "monthChangePct": 9.5,
       "catalyst": "Earnings report",
       "when": "Wed",
       "signals": [
         "Earnings"
       ],
       "spark": [
-        738.88,
         721.31,
         720.89,
         718.67,
         742.96,
         762.5,
-        737.54
+        737.54,
+        736.72
       ],
       "history": [
-        {
-          "d": "2026-09-15",
-          "c": 669.71
-        },
         {
           "d": "2026-09-16",
           "c": 672.78
@@ -946,15 +834,139 @@
         {
           "d": "2026-10-14",
           "c": 737.54
+        },
+        {
+          "d": "2026-10-15",
+          "c": 736.72
         }
       ],
       "earnings": "2026-10-21",
       "headlines": [],
-      "score": 44.5,
+      "score": 44.4,
       "brief": {
         "what": "No major headlines about Meta in the last two weeks.",
-        "why": "Signals: earnings. The stock is up 2.3% this week and up 10.1% over the month.",
+        "why": "Signals: earnings. The stock is up 2.2% this week and up 9.5% over the month.",
         "watch": "Next earnings expected Wed Oct 21. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "SPOT",
+      "name": "Spotify",
+      "price": 533.37,
+      "changePct": 1.3,
+      "monthChangePct": -2.6,
+      "catalyst": "Earnings report",
+      "when": "Thu",
+      "signals": [
+        "Earnings"
+      ],
+      "spark": [
+        512.92,
+        526.42,
+        529.14,
+        528.8,
+        527.45,
+        523.96,
+        533.37
+      ],
+      "history": [
+        {
+          "d": "2026-09-16",
+          "c": 547.43
+        },
+        {
+          "d": "2026-09-17",
+          "c": 528.84
+        },
+        {
+          "d": "2026-09-18",
+          "c": 509.45
+        },
+        {
+          "d": "2026-09-21",
+          "c": 516.77
+        },
+        {
+          "d": "2026-09-22",
+          "c": 501.3
+        },
+        {
+          "d": "2026-09-23",
+          "c": 510.4
+        },
+        {
+          "d": "2026-09-24",
+          "c": 511.38
+        },
+        {
+          "d": "2026-09-25",
+          "c": 510.01
+        },
+        {
+          "d": "2026-09-28",
+          "c": 497.51
+        },
+        {
+          "d": "2026-09-29",
+          "c": 493.66
+        },
+        {
+          "d": "2026-09-30",
+          "c": 487.38
+        },
+        {
+          "d": "2026-10-01",
+          "c": 491.4
+        },
+        {
+          "d": "2026-10-02",
+          "c": 472.89
+        },
+        {
+          "d": "2026-10-05",
+          "c": 483.05
+        },
+        {
+          "d": "2026-10-06",
+          "c": 488.13
+        },
+        {
+          "d": "2026-10-07",
+          "c": 512.92
+        },
+        {
+          "d": "2026-10-08",
+          "c": 526.42
+        },
+        {
+          "d": "2026-10-09",
+          "c": 529.14
+        },
+        {
+          "d": "2026-10-12",
+          "c": 528.8
+        },
+        {
+          "d": "2026-10-13",
+          "c": 527.45
+        },
+        {
+          "d": "2026-10-14",
+          "c": 523.96
+        },
+        {
+          "d": "2026-10-15",
+          "c": 533.37
+        }
+      ],
+      "earnings": "2026-10-22",
+      "headlines": [],
+      "score": 43.3,
+      "brief": {
+        "what": "No major headlines about Spotify in the last two weeks.",
+        "why": "Signals: earnings. The stock is up 1.3% this week and down 2.6% over the month.",
+        "watch": "Next earnings expected Thu Oct 22. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
