@@ -1,323 +1,318 @@
 {
   "weekOf": "2026-10-12",
-  "updated": "2026-10-16T11:42:03+00:00",
+  "updated": "2026-10-16T22:40:33+00:00",
   "summary": [
-    "Tech leads the news with 11 of 25 stories. Top headline: ChatGPT can now look at your Chrome tabs to do tasks for you",
+    "Tech leads the news with 13 of 25 stories. Top headline: Replit is no longer working with Anthropic, CEO says",
     "Earnings this week from TSLA, IBM, META, SPOT, NFLX.",
-    "Strongest rumor: SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US"
+    "Strongest rumor: An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet"
   ],
   "stories": [
     {
-      "id": "408bd8aae7",
+      "id": "c224e94a12",
       "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-16T10:06:15+00:00",
-      "title": "ChatGPT can now look at your Chrome tabs to do tasks for you",
-      "summary": "The ChatGPT browser extension lets you compare information from your open tabs.",
-      "url": "https://www.engadget.com/2288580/open-ai-updates-chatgpt-extension-for-chrome/",
-      "tickers": []
-    },
-    {
-      "id": "e9481097fd",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-16T10:00:25+00:00",
-      "title": "Time is a-changin’: say goodbye to the leap second",
-      "summary": "An important change will soon be made to global timekeeping that aims to prevent potential infrastructure failures akin to the Y2K bug scare. On Thursday, the International Bureau of Weights and Measures (BIPM) voted to scrap the leap second, an ad hoc time adjustment that's…",
-      "url": "https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change",
-      "tickers": []
-    },
-    {
-      "id": "9f4f3e5760",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-16T09:36:05+00:00",
-      "title": "Apple's $2,000 iPhone Duo goes on pre-order today at 8AM ET",
-      "summary": "The Apple Store is down ahead of pre-orders for the first folding iPhone.",
-      "url": "https://www.engadget.com/2288565/apple-iphone-duo-pre-orders-open-today/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "c119988681",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-16T08:31:48+00:00",
-      "title": "Gmail's Live AI search feature arrives for Google AI subscribers",
-      "summary": "Gmail's search can be frustrating and basic, but Google is finally smartening it up for AI plan subscribers.",
-      "url": "https://www.engadget.com/2288545/gmail-live-ai-search-feature-arrives-for-google-ai-subscribers/",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "9f253d8ba6",
-      "topic": "AI",
-      "kind": "Company",
+      "kind": "Launch",
       "source": "TechCrunch",
-      "published": "2026-10-16T05:16:46+00:00",
-      "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
-      "summary": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
-      "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+      "published": "2026-10-16T21:22:28+00:00",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "tickers": []
     },
     {
-      "id": "d622907340",
+      "id": "a4babed168",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Ars Technica",
+      "published": "2026-10-16T20:59:01+00:00",
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "tickers": []
+    },
+    {
+      "id": "19a1a89aaf",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-16T02:24:52+00:00",
-      "title": "Relive Tesla's ridiculous(ly fun) Roadster stunt show",
-      "summary": "Tesla's Roadster event was pretty exciting, to say the least.",
-      "url": "https://www.engadget.com/2288448/relive-tesla-ridiculously-fun-roadster-stunt-show/",
+      "published": "2026-10-16T20:50:28+00:00",
+      "title": "A 'flying' Tesla Roadster sounds impossible, until you see what Lockheed Martin built decades ago",
+      "summary": "Thrusters are as good at flipping cars as they are at hunting ballistic missiles.",
+      "url": "https://www.engadget.com/2289307/flying-tesla-roadster-lockheed-martin-mokv-technology-comparison/",
       "tickers": [
         "TSLA"
       ]
     },
     {
-      "id": "677fec2a32",
+      "id": "60e17aeb5e",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-16T20:50:27+00:00",
+      "title": "We can finally hear some of Wu-Tang Clan’s Once Upon A Time in Shaolin album",
+      "summary": "Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all about the exclusive record. Once Upon A Time…",
+      "url": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
+      "tickers": []
+    },
+    {
+      "id": "227d66cb36",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-16T20:49:04+00:00",
+      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "summary": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to…",
+      "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+      "tickers": [
+        "TSLA"
+      ]
+    },
+    {
+      "id": "20d3b1b3f6",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-16T19:40:00+00:00",
+      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+      "summary": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
+      "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+      "tickers": []
+    },
+    {
+      "id": "82ab6c2140",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-16T19:04:47+00:00",
+      "title": "How the Claude Code team does code review",
+      "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 160 # Comments: 158",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "tickers": []
+    },
+    {
+      "id": "4ad10f95f5",
+      "topic": "Tech",
+      "kind": "Founder",
+      "source": "Hacker News",
+      "published": "2026-10-16T18:55:59+00:00",
+      "title": "Claude reveals ECDSA curve origins",
+      "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 515 # Comments: 214",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "tickers": []
+    },
+    {
+      "id": "c2cf114f81",
       "topic": "Tech",
       "kind": "Launch",
-      "source": "Engadget",
-      "published": "2026-10-16T01:48:05+00:00",
-      "title": "Tesla's redesigned Roadster has a cold-gas thruster option, but you'll need $250,000 just to reserve it",
-      "summary": "Tesla has finally unveiled the next-generation Roadster.",
-      "url": "https://www.engadget.com/2288437/teslas-redesigned-roadster-cold-gas-thruster-option-reservation/",
-      "tickers": [
-        "TSLA"
-      ]
-    },
-    {
-      "id": "38a0ab0f31",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-16T01:43:17+00:00",
-      "title": "Any window from your Mac, on your iPhone and iPad",
-      "summary": "Article URL: https://github.com/Saffsanity/sill Comments URL: https://news.ycombinator.com/item?id=50112739 Points: 168 # Comments: 38",
-      "url": "https://github.com/Saffsanity/sill",
+      "source": "The Verge",
+      "published": "2026-10-16T18:30:27+00:00",
+      "title": "Why Apple is finally making its own smart home devices",
+      "summary": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG…",
+      "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
       "tickers": [
         "AAPL"
       ]
     },
     {
-      "id": "ed2900f4b4",
-      "topic": "Tech",
+      "id": "5865703f74",
+      "topic": "AI",
       "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-16T01:28:27+00:00",
-      "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
-      "summary": "Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and accelerated to 60mph in under a second. It was an impressive…",
-      "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
-      "tickers": [
-        "TSLA"
-      ]
+      "source": "Hacker News",
+      "published": "2026-10-16T18:11:42+00:00",
+      "title": "Anthropic assigned highest junk credit rating in June",
+      "summary": "https://finance.yahoo.com/technology/ai/articles/anthropic-s... Comments URL: https://news.ycombinator.com/item?id=50122112 Points: 172 # Comments: 48",
+      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+      "tickers": []
     },
     {
-      "id": "284e4e98fc",
+      "id": "87047a482e",
       "topic": "AI",
       "kind": "Company",
       "source": "TechCrunch",
-      "published": "2026-10-16T01:17:43+00:00",
-      "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
-      "summary": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
-      "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
-      "tickers": [
-        "TSLA"
-      ]
-    },
-    {
-      "id": "365b757e18",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-16T00:52:35+00:00",
-      "title": "RPKI now protects 70% of internet routes",
-      "summary": "Article URL: https://ipinfo.io/blog/rpki-protects-70-internet-routes Comments URL: https://news.ycombinator.com/item?id=50112330 Points: 172 # Comments: 59",
-      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "published": "2026-10-16T17:52:24+00:00",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
       "tickers": []
     },
     {
-      "id": "4e591eb0dc",
+      "id": "66ef2ab9b8",
       "topic": "AI",
       "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-15T23:44:56+00:00",
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "tickers": []
-    },
-    {
-      "id": "914a5d1e54",
-      "topic": "Tech",
-      "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-10-15T23:37:42+00:00",
-      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
-      "summary": "Article URL: https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/ Comments URL: https://news.ycombinator.com/item?id=50111852 Points: 336 # Comments: 117",
-      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "published": "2026-10-16T17:08:38+00:00",
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 339 # Comments: 298",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
       "tickers": []
     },
     {
-      "id": "cbc4deaeac",
-      "topic": "Startups",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-15T23:33:45+00:00",
-      "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
-      "summary": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
-      "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
-      "tickers": []
-    },
-    {
-      "id": "f6dd1498b5",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-15T23:18:28+00:00",
-      "title": "Steam can now show game achievements in separate ‘sets’",
-      "summary": "Valve is introducing a major new feature for Steam achievements called \"achievement sets\" that lets developers list different groups of achievements for a base game and DLCs. \"In games that support sets, you still unlock achievements by playing the game as usual,\" Valve says.…",
-      "url": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
-      "tickers": []
-    },
-    {
-      "id": "f36a5dba5c",
+      "id": "9ac2c6874f",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-15T23:02:04+00:00",
-      "title": "Withings wants new users to pay $100 a year to sync with Apple Health",
-      "summary": "The smart health company is gating third-party app syncing to its own subscription plan for new users.",
-      "url": "https://www.engadget.com/2288346/withings-wants-new-users-to-pay-100-a-year-to-sync-with-apple-health/",
+      "published": "2026-10-16T17:03:29+00:00",
+      "title": "Analogue returns to the 16-bit era with the Mega Sg+ and Super Nt+",
+      "summary": "Dust off your old Sega Genesis and Super Nintendo cartridges.",
+      "url": "https://www.engadget.com/2288966/analogue-returns-to-the-16-bit-era-with-the-mega-sg-and-super-nt/",
+      "tickers": []
+    },
+    {
+      "id": "de3ca78153",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-16T16:32:00+00:00",
+      "title": "If memory shortages last, tech companies should offer cheap battery replacements",
+      "summary": "If a company like Apple could offer $29 batteries before, it can do so again.",
+      "url": "https://www.engadget.com/2288908/if-memory-shortages-last-tech-companies-should-offer-cheap-battery-replacements/",
       "tickers": [
         "AAPL"
       ]
     },
     {
-      "id": "fff85fc750",
+      "id": "35f81be8ec",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-16T16:12:02+00:00",
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "summary": "Article URL: https://jakearchibald.com/2026/jpeg-xl-vs-avif/ Comments URL: https://news.ycombinator.com/item?id=50120224 Points: 169 # Comments: 133",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "tickers": []
+    },
+    {
+      "id": "9b442a0b8b",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-16T16:06:38+00:00",
+      "title": "Waymo’s robotaxis are headed to Canada",
+      "summary": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
+      "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+      "tickers": []
+    },
+    {
+      "id": "e9b43f4c86",
       "topic": "AI",
       "kind": "Launch",
       "source": "The Verge",
-      "published": "2026-10-15T22:35:55+00:00",
-      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday…",
-      "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-      "tickers": []
-    },
-    {
-      "id": "3577aef4bc",
-      "topic": "Tech",
-      "kind": "Founder",
-      "source": "The Verge",
-      "published": "2026-10-15T21:39:52+00:00",
-      "title": "The tech backlash is now in theaters",
-      "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose…",
-      "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+      "published": "2026-10-16T16:02:22+00:00",
+      "title": "The new Apple TV 4K just got its first (very small) discount",
+      "summary": "Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), just days after discounting Apple’s new smart…",
+      "url": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
       "tickers": [
-        "META"
-      ]
-    },
-    {
-      "id": "cd10a37847",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-15T21:35:08+00:00",
-      "title": "The UK may expand the BBC license fee, charging residents to watch streaming services",
-      "summary": "If the proposal is enacted, it could cost $240 a year to watch YouTube in the UK.",
-      "url": "https://www.engadget.com/2288294/the-uk-may-expand-the-bbc-license-fee-charging-residents-to-watch-streaming-services/",
-      "tickers": []
-    },
-    {
-      "id": "e53a8d902c",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Wired",
-      "published": "2026-10-15T21:18:15+00:00",
-      "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
-      "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "6f1f70f2f7",
-      "topic": "AI",
-      "kind": "Founder",
-      "source": "The Verge",
-      "published": "2026-10-15T21:09:33+00:00",
-      "title": "Trump posts AI-edited photo to brag about White House restoration work",
-      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by…",
-      "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-      "tickers": []
-    },
-    {
-      "id": "68902d9fb3",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Wired",
-      "published": "2026-10-15T21:00:28+00:00",
-      "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
-      "summary": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
-      "url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
-      "tickers": []
-    },
-    {
-      "id": "309da1a2ed",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-15T20:38:13+00:00",
-      "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
-      "summary": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
-      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
-      "tickers": [
+        "AAPL",
         "AMZN"
       ]
     },
     {
-      "id": "8a40e5b722",
-      "topic": "Security",
+      "id": "300f6f24ed",
+      "topic": "AI",
       "kind": "Company",
-      "source": "Ars Technica",
-      "published": "2026-10-15T20:32:41+00:00",
-      "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
-      "summary": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
-      "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+      "source": "TechCrunch",
+      "published": "2026-10-16T16:01:37+00:00",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
       "tickers": []
     },
     {
-      "id": "4037a807b1",
+      "id": "4fd3b71527",
       "topic": "Tech",
       "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-15T20:23:25+00:00",
-      "title": "What I self-host",
-      "summary": "Article URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/ Comments URL: https://news.ycombinator.com/item?id=50109715 Points: 519 # Comments: 329",
-      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "source": "TechCrunch",
+      "published": "2026-10-16T16:00:00+00:00",
+      "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+      "summary": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.",
+      "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
       "tickers": []
+    },
+    {
+      "id": "aa33bb8b08",
+      "topic": "Tech",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-10-16T16:00:00+00:00",
+      "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
+      "summary": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.",
+      "url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
+      "tickers": []
+    },
+    {
+      "id": "c62b034962",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-16T15:38:17+00:00",
+      "title": "Apple’s HomeView has an app problem",
+      "summary": "It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always connected to power, and looks like a perfect place to run a…",
+      "url": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "f56dfc61f1",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-16T15:33:49+00:00",
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "tickers": []
+    },
+    {
+      "id": "c5f35ad9c7",
+      "topic": "Devices",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-10-16T15:08:38+00:00",
+      "title": "Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades",
+      "summary": "Analogue announced new versions of its Super Nt and Mega Sg retro consoles today with a \"reworked industrial design\" and built-in wireless connectivity for controllers and accessories. Like the original versions, the new Super Nt Plus and Mega Sg Plus are able to play Nintendo…",
+      "url": "https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus",
+      "tickers": []
+    },
+    {
+      "id": "eeabc1fa6e",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-16T15:02:23+00:00",
+      "title": "A fake WhatsApp clone is showing up before the real version on the Play Store",
+      "summary": "After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a \"sponsored\" slot above the real version. As reported earlier by Android Authority, the WhatsApp dupe has racked up over 500,000 downloads…",
+      "url": "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android",
+      "tickers": []
+    },
+    {
+      "id": "8e35ce9df6",
+      "topic": "Chips",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-16T15:00:00+00:00",
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best…",
+      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "tickers": [
+        "NVDA"
+      ]
     }
   ],
   "rumors": [
     {
-      "id": "2d63862e96",
-      "topic": "Chips",
+      "id": "9c0111bfb2",
+      "topic": "AI",
       "status": "Just surfaced",
-      "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
-      "detail": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
-      "url": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "detail": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs…",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
       "sources": 1,
       "mentions": 1,
       "credible": 1,
       "days": 0,
-      "tickers": [],
+      "tickers": [
+        "NVDA"
+      ],
       "score": 15
     },
     {
@@ -327,20 +322,6 @@
       "title": "Order to limit Starshield for Ukraine came from inside White House, sources say",
       "detail": "submitted by /u/Monomette [link] [comments]",
       "url": "https://www.reddit.com/r/technology/comments/1x73y9o/order_to_limit_starshield_for_ukraine_came_from/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 0,
-      "days": 0,
-      "tickers": [],
-      "score": 8
-    },
-    {
-      "id": "f25b72d204",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "The insider trading you're allowed to do",
-      "detail": "Article URL: https://coached.com/essays/the-insider-trading-youre-allowed-to-do/ Comments URL: https://news.ycombinator.com/item?id=50115144 Points: 57 # Comments: 43",
-      "url": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
       "sources": 1,
       "mentions": 1,
       "credible": 0,
@@ -361,35 +342,47 @@
       "days": 0,
       "tickers": [],
       "score": 8
+    },
+    {
+      "id": "955d7e22be",
+      "topic": "Security",
+      "status": "Just surfaced",
+      "title": "Governments are hacking people through online ads, report says",
+      "detail": "submitted by /u/CartoonistFar2036 [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1x7m1bi/governments_are_hacking_people_through_online_ads/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 0,
+      "days": 0,
+      "tickers": [],
+      "score": 8
     }
   ],
   "watchlist": [
     {
       "ticker": "TSLA",
       "name": "Tesla",
-      "price": 362.44,
-      "changePct": -3.3,
-      "monthChangePct": 1.2,
+      "price": 354.72,
+      "changePct": -7.3,
+      "monthChangePct": -3.1,
       "catalyst": "Earnings report",
       "when": "Wed",
       "signals": [
         "Earnings",
-        "7 headlines"
+        "8 headlines",
+        "Big price move",
+        "Volume up"
       ],
       "spark": [
-        377.81,
         375.0,
         382.7,
         378.03,
         375.23,
         367.16,
-        362.44
+        362.44,
+        354.72
       ],
       "history": [
-        {
-          "d": "2026-09-16",
-          "c": 358.08
-        },
         {
           "d": "2026-09-17",
           "c": 366.2
@@ -473,15 +466,31 @@
         {
           "d": "2026-10-15",
           "c": 362.44
+        },
+        {
+          "d": "2026-10-16",
+          "c": 354.72
         }
       ],
       "earnings": "2026-10-21",
       "headlines": [
         {
-          "title": "Relive Tesla's ridiculous(ly fun) Roadster stunt show",
+          "title": "A 'flying' Tesla Roadster sounds impossible, until you see what Lockheed Martin built decades ago",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2288448/relive-tesla-ridiculously-fun-roadster-stunt-show/",
-          "published": "2026-10-16T02:24:52+00:00"
+          "url": "https://www.engadget.com/2289307/flying-tesla-roadster-lockheed-martin-mokv-technology-comparison/",
+          "published": "2026-10-16T20:50:28+00:00"
+        },
+        {
+          "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+          "published": "2026-10-16T20:49:04+00:00"
+        },
+        {
+          "title": "The incredible flying Tesla Roadster is just for show",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
+          "published": "2026-10-16T14:15:29+00:00"
         },
         {
           "title": "Tesla's redesigned Roadster has a cold-gas thruster option, but you'll need $250,000 just to reserve it",
@@ -490,28 +499,22 @@
           "published": "2026-10-16T01:48:05+00:00"
         },
         {
-          "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
-          "published": "2026-10-16T01:28:27+00:00"
+          "title": "Tesla Roadster",
+          "source": "Hacker News",
+          "url": "https://www.tesla.com/roadster",
+          "published": "2026-10-16T01:32:45+00:00"
         },
         {
           "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
           "published": "2026-10-16T01:17:43+00:00"
-        },
-        {
-          "title": "Tesla Roadster reveal live: Updates from the launch of the next-gen sportscar",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2287518/tesla-roadster-launch-live-blog/",
-          "published": "2026-10-15T14:01:51+00:00"
         }
       ],
-      "score": 76.7,
+      "score": 88.7,
       "brief": {
-        "what": "5 recent headlines mention Tesla. Latest: Relive Tesla's ridiculous(ly fun) Roadster stunt show",
-        "why": "Signals: earnings, 7 headlines. The stock is down 3.3% this week and up 1.2% over the month.",
+        "what": "6 recent headlines mention Tesla. Latest: A 'flying' Tesla Roadster sounds impossible, until you see what Lockheed Martin built decades ago",
+        "why": "Signals: earnings, 8 headlines, big price move, volume up. The stock is down 7.3% this week and down 3.1% over the month.",
         "watch": "Next earnings expected Wed Oct 21. Results and guidance usually move the stock most.",
         "ai": false
       }
@@ -519,28 +522,24 @@
     {
       "ticker": "IBM",
       "name": "IBM",
-      "price": 234.12,
-      "changePct": 3.3,
-      "monthChangePct": -1.4,
+      "price": 232.14,
+      "changePct": 2.2,
+      "monthChangePct": -2.4,
       "catalyst": "Earnings report",
       "when": "Wed",
       "signals": [
         "Earnings"
       ],
       "spark": [
-        220.51,
         226.61,
         227.13,
         227.02,
         230.78,
         227.88,
-        234.12
+        234.12,
+        232.14
       ],
       "history": [
-        {
-          "d": "2026-09-16",
-          "c": 237.49
-        },
         {
           "d": "2026-09-17",
           "c": 237.75
@@ -624,14 +623,18 @@
         {
           "d": "2026-10-15",
           "c": 234.12
+        },
+        {
+          "d": "2026-10-16",
+          "c": 232.14
         }
       ],
       "earnings": "2026-10-21",
       "headlines": [],
-      "score": 46.6,
+      "score": 45.5,
       "brief": {
         "what": "No major headlines about IBM in the last two weeks.",
-        "why": "Signals: earnings. The stock is up 3.3% this week and down 1.4% over the month.",
+        "why": "Signals: earnings. The stock is up 2.2% this week and down 2.4% over the month.",
         "watch": "Next earnings expected Wed Oct 21. Results and guidance usually move the stock most.",
         "ai": false
       }
@@ -639,28 +642,24 @@
     {
       "ticker": "META",
       "name": "Meta",
-      "price": 736.72,
-      "changePct": 2.2,
-      "monthChangePct": 9.5,
+      "price": 709.33,
+      "changePct": -1.3,
+      "monthChangePct": 4.0,
       "catalyst": "Earnings report",
       "when": "Wed",
       "signals": [
         "Earnings"
       ],
       "spark": [
-        721.31,
         720.89,
         718.67,
         742.96,
         762.5,
         737.54,
-        736.72
+        736.72,
+        709.33
       ],
       "history": [
-        {
-          "d": "2026-09-16",
-          "c": 672.78
-        },
         {
           "d": "2026-09-17",
           "c": 681.77
@@ -744,14 +743,18 @@
         {
           "d": "2026-10-15",
           "c": 736.72
+        },
+        {
+          "d": "2026-10-16",
+          "c": 709.33
         }
       ],
       "earnings": "2026-10-21",
       "headlines": [],
-      "score": 44.4,
+      "score": 42.6,
       "brief": {
         "what": "No major headlines about Meta in the last two weeks.",
-        "why": "Signals: earnings. The stock is up 2.2% this week and up 9.5% over the month.",
+        "why": "Signals: earnings. The stock is down 1.3% this week and up 4.0% over the month.",
         "watch": "Next earnings expected Wed Oct 21. Results and guidance usually move the stock most.",
         "ai": false
       }
@@ -759,28 +762,24 @@
     {
       "ticker": "SPOT",
       "name": "Spotify",
-      "price": 533.37,
-      "changePct": 1.3,
-      "monthChangePct": -2.6,
+      "price": 530.46,
+      "changePct": 0.2,
+      "monthChangePct": 0.3,
       "catalyst": "Earnings report",
       "when": "Thu",
       "signals": [
         "Earnings"
       ],
       "spark": [
-        512.92,
         526.42,
         529.14,
         528.8,
         527.45,
         523.96,
-        533.37
+        533.37,
+        530.46
       ],
       "history": [
-        {
-          "d": "2026-09-16",
-          "c": 547.43
-        },
         {
           "d": "2026-09-17",
           "c": 528.84
@@ -864,14 +863,18 @@
         {
           "d": "2026-10-15",
           "c": 533.37
+        },
+        {
+          "d": "2026-10-16",
+          "c": 530.46
         }
       ],
       "earnings": "2026-10-22",
       "headlines": [],
-      "score": 43.3,
+      "score": 41.5,
       "brief": {
         "what": "No major headlines about Spotify in the last two weeks.",
-        "why": "Signals: earnings. The stock is up 1.3% this week and down 2.6% over the month.",
+        "why": "Signals: earnings. The stock is up 0.2% this week and up 0.3% over the month.",
         "watch": "Next earnings expected Thu Oct 22. Results and guidance usually move the stock most.",
         "ai": false
       }
@@ -879,28 +882,24 @@
     {
       "ticker": "NFLX",
       "name": "Netflix",
-      "price": 72.61,
-      "changePct": 1.5,
-      "monthChangePct": -5.0,
+      "price": 70.53,
+      "changePct": 0.3,
+      "monthChangePct": -6.3,
       "catalyst": "Earnings report",
       "when": "Tue",
       "signals": [
         "Earnings"
       ],
       "spark": [
-        69.7,
         71.57,
         70.3,
         70.61,
         70.46,
         70.57,
-        72.61
+        72.61,
+        70.53
       ],
       "history": [
-        {
-          "d": "2026-09-16",
-          "c": 76.41
-        },
         {
           "d": "2026-09-17",
           "c": 75.31
@@ -984,14 +983,18 @@
         {
           "d": "2026-10-15",
           "c": 72.61
+        },
+        {
+          "d": "2026-10-16",
+          "c": 70.53
         }
       ],
       "earnings": "2026-10-20",
       "headlines": [],
-      "score": 43.2,
+      "score": 41.3,
       "brief": {
         "what": "No major headlines about Netflix in the last two weeks.",
-        "why": "Signals: earnings. The stock is up 1.5% this week and down 5.0% over the month.",
+        "why": "Signals: earnings. The stock is up 0.3% this week and down 6.3% over the month.",
         "watch": "Next earnings expected Tue Oct 20. Results and guidance usually move the stock most.",
         "ai": false
       }
