@@ -1,300 +1,296 @@
 {
   "weekOf": "2026-10-12",
-  "updated": "2026-10-17T11:37:13+00:00",
+  "updated": "2026-10-17T22:35:46+00:00",
   "summary": [
-    "Tech leads the news with 11 of 25 stories. Top headline: Double Fine's first post-Xbox title, first-person Soulslikes and other new indie games worth checking out",
+    "Tech leads the news with 12 of 25 stories. Top headline: Why it's important to monitor your PC's background processes",
     "Earnings this week from TSLA, IBM, META, SPOT, NFLX.",
     "Strongest rumor: An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet"
   ],
   "stories": [
     {
-      "id": "dd613e73ed",
+      "id": "792bbe049c",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-17T11:30:00+00:00",
-      "title": "Double Fine's first post-Xbox title, first-person Soulslikes and other new indie games worth checking out",
-      "summary": "There were a host of indie game showcases this week, so we're dig into some of the best announcements from them.",
-      "url": "https://www.engadget.com/2289293/double-fine-first-post-xbox-title-first-person-soulslikes-and-other-new-indie-games/",
+      "published": "2026-10-17T22:30:00+00:00",
+      "title": "Why it's important to monitor your PC's background processes",
+      "summary": "What your PC is doing in the background doesn't need to be a mystery. Learn about what's happening and how to spot when something looks wrong.",
+      "url": "https://www.engadget.com/2284465/why-its-important-to-monitor-pc-background-processes/",
       "tickers": []
     },
     {
-      "id": "14f8051b4c",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-17T08:37:46+00:00",
-      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-      "summary": "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129121 Points: 203 # Comments: 54",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-      "tickers": []
-    },
-    {
-      "id": "7afe0cb9b7",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-17T08:21:25+00:00",
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 201 # Comments: 82",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "tickers": []
-    },
-    {
-      "id": "12677b05a3",
-      "topic": "Startups",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-17T02:36:18+00:00",
-      "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-      "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
-      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
-      "tickers": []
-    },
-    {
-      "id": "bfb408625e",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-17T02:21:08+00:00",
-      "title": "Butlerian Jihad",
-      "summary": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad Comments URL: https://news.ycombinator.com/item?id=50127274 Points: 250 # Comments: 135",
-      "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
-      "tickers": []
-    },
-    {
-      "id": "70004ad9ce",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-17T01:50:50+00:00",
-      "title": "The Tesla Roadster should go into production in 2028, but don't get your hopes up",
-      "summary": "I drive upside down on the boulevard of broken dreams.",
-      "url": "https://www.engadget.com/2289475/tesla-roadster-2028-production-dont-get-hopes-up/",
-      "tickers": [
-        "TSLA"
-      ]
-    },
-    {
-      "id": "b3c30f5eae",
+      "id": "8044b7fd85",
       "topic": "Devices",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-10-16T23:36:26+00:00",
-      "title": "All the news about the iPhone Duo",
-      "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button.…",
-      "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
-      "tickers": [
-        "AAPL"
-      ]
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-17T22:00:00+00:00",
+      "title": "Don't throw away your old PlayStation — Do this instead",
+      "summary": "Older PlayStations may be past their prime, but there are several ways you can make use of these consoles.",
+      "url": "https://www.engadget.com/2284423/dont-throw-away-old-playstation-do-this-instead/",
+      "tickers": []
     },
     {
-      "id": "fd0d02b8cf",
+      "id": "54e15954e4",
       "topic": "AI",
       "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-16T22:51:22+00:00",
-      "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
-      "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual…",
-      "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "c224e94a12",
-      "topic": "AI",
-      "kind": "Launch",
       "source": "TechCrunch",
-      "published": "2026-10-16T21:22:28+00:00",
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "published": "2026-10-17T21:31:32+00:00",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
       "tickers": []
     },
     {
-      "id": "a4babed168",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Ars Technica",
-      "published": "2026-10-16T20:59:01+00:00",
-      "title": "OpenAI models hacked a crypto wallet and breached more websites",
-      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-      "tickers": []
-    },
-    {
-      "id": "19a1a89aaf",
+      "id": "ef77fb016e",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-16T20:50:28+00:00",
-      "title": "A 'flying' Tesla Roadster sounds impossible, until you see what Lockheed Martin built decades ago",
-      "summary": "Thrusters are as good at flipping cars as they are at hunting ballistic missiles.",
-      "url": "https://www.engadget.com/2289307/flying-tesla-roadster-lockheed-martin-mokv-technology-comparison/",
+      "published": "2026-10-17T21:20:21+00:00",
+      "title": "The Tesla Roadster is far from the first car to use fans for downforce",
+      "summary": "Here are some of the other, older vehicles that use fans for downforce like the Tesla Roadster does.",
+      "url": "https://www.engadget.com/2289646/tesla-roadster-not-first-car-use-fans-for-downforce/",
       "tickers": [
         "TSLA"
       ]
     },
     {
-      "id": "60e17aeb5e",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-16T20:50:27+00:00",
-      "title": "We can finally hear some of Wu-Tang Clan’s Once Upon A Time in Shaolin album",
-      "summary": "Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all about the exclusive record. Once Upon A Time…",
-      "url": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
-      "tickers": []
-    },
-    {
-      "id": "227d66cb36",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-16T20:49:04+00:00",
-      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
-      "summary": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to…",
-      "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
-      "tickers": [
-        "TSLA"
-      ]
-    },
-    {
-      "id": "f21ab8d613",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-16T19:47:13+00:00",
-      "title": "FLUX 3 Image Klein",
-      "summary": "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 174 # Comments: 48",
-      "url": "https://bfl.ai/blog/flux-3-image-klein",
-      "tickers": []
-    },
-    {
-      "id": "20d3b1b3f6",
-      "topic": "Tech",
+      "id": "8b8ca75cbe",
+      "topic": "Policy",
       "kind": "Company",
       "source": "TechCrunch",
-      "published": "2026-10-16T19:40:00+00:00",
-      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
-      "summary": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
-      "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+      "published": "2026-10-17T20:55:52+00:00",
+      "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+      "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+      "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
       "tickers": []
     },
     {
-      "id": "82ab6c2140",
+      "id": "29392570ab",
       "topic": "AI",
       "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-16T19:04:47+00:00",
-      "title": "How the Claude Code team does code review",
-      "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 362 # Comments: 333",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "source": "TechCrunch",
+      "published": "2026-10-17T20:21:19+00:00",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
       "tickers": []
     },
     {
-      "id": "da44113b8e",
+      "id": "62c17ee3ef",
       "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-16T19:01:17+00:00",
-      "title": "You could have invented transformers from memory",
-      "summary": "Article URL: https://alexwang.ai/posts/associative-memory/ Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 318 # Comments: 74",
-      "url": "https://alexwang.ai/posts/associative-memory/",
-      "tickers": []
-    },
-    {
-      "id": "4ad10f95f5",
-      "topic": "Tech",
       "kind": "Founder",
-      "source": "Hacker News",
-      "published": "2026-10-16T18:55:59+00:00",
-      "title": "Claude reveals ECDSA curve origins",
-      "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 893 # Comments: 335",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "source": "TechCrunch",
+      "published": "2026-10-17T18:48:08+00:00",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "tickers": []
     },
     {
-      "id": "09523ee7eb",
-      "topic": "AI",
+      "id": "826a05bb88",
+      "topic": "Devices",
       "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-16T18:32:35+00:00",
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "summary": "Article URL: https://github.com/cobanov/PS5LM Comments URL: https://news.ycombinator.com/item?id=50122431 Points: 299 # Comments: 74",
-      "url": "https://github.com/cobanov/PS5LM",
+      "source": "Engadget",
+      "published": "2026-10-17T18:45:00+00:00",
+      "title": "Android Auto can be used outside of your car: Here's how",
+      "summary": "It might sound weird to use Android Auto outside of a vehicle, but doing so has unexpected productivity benefits.",
+      "url": "https://www.engadget.com/2284102/how-android-auto-used-outside-of-car/",
       "tickers": []
     },
     {
-      "id": "c2cf114f81",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-10-16T18:30:27+00:00",
-      "title": "Why Apple is finally making its own smart home devices",
-      "summary": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG…",
-      "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+      "id": "f7b33dd9b1",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-17T18:30:00+00:00",
+      "title": "What's actually eating all the storage space on your Android Phone?",
+      "summary": "Android phone running out of space? Here's why and what you can do to get rid of old files.",
+      "url": "https://www.engadget.com/2283986/whats-actually-eating-all-the-storage-space-on-your-android-phone/",
+      "tickers": []
+    },
+    {
+      "id": "78c0685ea3",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-17T18:12:35+00:00",
+      "title": "iPhone Duo shipping estimates have already been pushed back to 2027",
+      "summary": "Apple called the early demand \"nothing short of extraordinary.\"",
+      "url": "https://www.engadget.com/2289629/iphone-duo-shipping-estimates-have-already-been-pushed-back-to-2027/",
       "tickers": [
         "AAPL"
       ]
     },
     {
-      "id": "b45ae9f9a8",
+      "id": "0eb8b9f177",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-17T18:00:00+00:00",
+      "title": "You might be surprised by how much the Slate truck can carry",
+      "summary": "Don't underestimate this compact pickup.",
+      "url": "https://www.engadget.com/2289615/slate-truck-how-much-can-carry/",
+      "tickers": []
+    },
+    {
+      "id": "b61f2bd22f",
       "topic": "Policy",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-10-16T18:06:17+00:00",
-      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-      "summary": "Article URL: https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear Comments URL: https://news.ycombinator.com/item?id=50122034 Points: 229 # Comments: 200",
-      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "published": "2026-10-17T17:06:07+00:00",
+      "title": "Gold is now the top U.S. export",
+      "summary": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 158 # Comments: 87",
+      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
       "tickers": []
     },
     {
-      "id": "87047a482e",
-      "topic": "AI",
+      "id": "6b468b01e1",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-17T17:00:00+00:00",
+      "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
+      "summary": "Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT SUV, an equally powerful…",
+      "url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
+      "tickers": []
+    },
+    {
+      "id": "ece4c1f71d",
+      "topic": "Policy",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-17T16:39:44+00:00",
+      "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
+      "summary": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona residents claiming the lottery was a fraud. Musk has now…",
+      "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
+      "tickers": []
+    },
+    {
+      "id": "aaf817d469",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-17T16:30:00+00:00",
+      "title": "What does the yellow light on your Alexa device mean and how do you clear it?",
+      "summary": "Don't panic if your Amazon Echo is flashing a yellow light. Here's what that color means, how to clear it and how to tweak your Alexa notification settings.",
+      "url": "https://www.engadget.com/2284036/amazon-alexa-device-yellow-light-meaning/",
+      "tickers": [
+        "AMZN"
+      ]
+    },
+    {
+      "id": "bf0adfe781",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-17T16:15:11+00:00",
+      "title": "Anbernic's RG DDS is almost double the price of the original Nintendo 3DS",
+      "summary": "The premium handheld is expected to start shipping in December.",
+      "url": "https://www.engadget.com/2289602/anbernics-rg-dds-is-almost-double-the-price-of-the-original-nintendo-3ds/",
+      "tickers": []
+    },
+    {
+      "id": "011590a232",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-17T16:00:00+00:00",
+      "title": "This Samsung Galaxy feature can protect you from untrustworthy apps",
+      "summary": "Samsung's Auto Blocker protects your Galaxy phone from security threats, but it does have drawbacks. Here's what it does and when you might want to turn it off.",
+      "url": "https://www.engadget.com/2284034/samsung-galaxy-feature-protects-from-untrustworth-apps-auto-blocker/",
+      "tickers": []
+    },
+    {
+      "id": "832b031180",
+      "topic": "Tech",
       "kind": "Company",
       "source": "TechCrunch",
-      "published": "2026-10-16T17:52:24+00:00",
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "published": "2026-10-17T15:30:00+00:00",
+      "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+      "summary": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
+      "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
       "tickers": []
     },
     {
-      "id": "66ef2ab9b8",
+      "id": "31f510fb8b",
+      "topic": "Security",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-17T15:30:00+00:00",
+      "title": "Why are some locations blurred out on Google Maps?",
+      "summary": "When using Google Maps, it isn't rare to see blurred locations. Why does this happen? The answer is simple, and it has everything to do with security.",
+      "url": "https://www.engadget.com/2284032/why-some-places-blurry-google-maps/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "7cc15d40c9",
       "topic": "AI",
       "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-16T17:08:38+00:00",
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 513 # Comments: 440",
-      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "source": "The Verge",
+      "published": "2026-10-17T15:04:36+00:00",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such…",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
       "tickers": []
     },
     {
-      "id": "9ac2c6874f",
+      "id": "31bd0e9e66",
       "topic": "Tech",
       "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-16T17:03:29+00:00",
-      "title": "Analogue returns to the 16-bit era with the Mega Sg+ and Super Nt+",
-      "summary": "Dust off your old Sega Genesis and Super Nintendo cartridges.",
-      "url": "https://www.engadget.com/2288966/analogue-returns-to-the-16-bit-era-with-the-mega-sg-and-super-nt/",
+      "source": "The Verge",
+      "published": "2026-10-17T15:00:00+00:00",
+      "title": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
+      "summary": "If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pikmin 4 for Switch discounted to $39.88, just over $20 lower than its usual price.…",
+      "url": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale",
       "tickers": []
     },
     {
-      "id": "de3ca78153",
+      "id": "e40e52384d",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-16T16:32:00+00:00",
-      "title": "If memory shortages last, tech companies should offer cheap battery replacements",
-      "summary": "If a company like Apple could offer $29 batteries before, it can do so again.",
-      "url": "https://www.engadget.com/2288908/if-memory-shortages-last-tech-companies-should-offer-cheap-battery-replacements/",
+      "published": "2026-10-17T15:00:00+00:00",
+      "title": "Common problems with Amazon Alexa and how to fix them",
+      "summary": "Amazon Alexa is a very useful gadget to have at home, but it isn't exempt from having some issues. Fortunately, troubleshooting is easy as pie.",
+      "url": "https://www.engadget.com/2284031/amazon-alexa-common-problems-fixes/",
       "tickers": [
-        "AAPL"
+        "AMZN"
       ]
+    },
+    {
+      "id": "5330574d07",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-17T14:30:00+00:00",
+      "title": "Jad Abumrad loves a butterfly knife and a good springy pillow",
+      "summary": "It's hard to overstate Jad Abumrad's impact on the podcasting world. He created and hosted Dolly Parton's America and Fela Kuti: Fear No Man, two Peabody Award-winning shows that offered unprecedented looks at the lives of two of the most important music icons of the last…",
+      "url": "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview",
+      "tickers": []
+    },
+    {
+      "id": "94fbdb4c64",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-17T14:30:00+00:00",
+      "title": "Should you have both Ethernet and Wi-Fi for your home?",
+      "summary": "Ethernet will keep your devices connecting online in record time, while Wi-Fi keeps them untethered. But how well can they both work together?",
+      "url": "https://www.engadget.com/2284029/both-ethernet-and-wifi-for-home/",
+      "tickers": []
+    },
+    {
+      "id": "16882d975f",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-17T14:01:01+00:00",
+      "title": "Solar surpasses nuclear power globally for first time",
+      "summary": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 426 # Comments: 262",
+      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "tickers": []
     }
   ],
   "rumors": [
@@ -308,54 +304,69 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 0,
+      "days": 1,
       "tickers": [
         "NVDA"
       ],
       "score": 15
     },
     {
-      "id": "b3c30f5eae",
-      "topic": "Devices",
+      "id": "66b8414b28",
+      "topic": "Tech",
       "status": "Just surfaced",
-      "title": "All the news about the iPhone Duo",
-      "detail": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button.…",
-      "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+      "title": "These common charging habits could be degrading your EV battery",
+      "detail": "EVs, with their enormous batteries, can suffer if they're charged in the wrong way. Here's what you should keep in mind when you next juice your vehicle.",
+      "url": "https://www.engadget.com/2283982/common-changing-habits-degrading-ev-battery/",
       "sources": 1,
       "mentions": 1,
       "credible": 1,
       "days": 0,
-      "tickers": [
-        "AAPL"
-      ],
+      "tickers": [],
       "score": 15
     },
     {
-      "id": "210a4c0395",
-      "topic": "Tech",
+      "id": "4cbc165c73",
+      "topic": "Security",
       "status": "Just surfaced",
-      "title": "Musk approached Trump to slow down Starlink in Ukraine - SpaceX founder had publicly blamed president for chaos over restrictions, but sources say he initiated them",
-      "detail": "submitted by /u/polymute [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1x7sb6p/musk_approached_trump_to_slow_down_starlink_in/",
-      "sources": 1,
+      "title": "OpenCode Hacked: User credentials leaked",
+      "detail": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 584 # Comments: 93",
+      "url": "https://twitter.com/opencode/status/2111516673953935833",
+      "sources": 2,
       "mentions": 2,
       "credible": 0,
       "days": 0,
       "tickers": [],
-      "score": 11
+      "score": 15
     },
     {
-      "id": "955d7e22be",
-      "topic": "Security",
+      "id": "c9485cd60c",
+      "topic": "Tech",
       "status": "Just surfaced",
-      "title": "Governments are hacking people through online ads, report says",
-      "detail": "submitted by /u/CartoonistFar2036 [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1x7m1bi/governments_are_hacking_people_through_online_ads/",
+      "title": "Leaked gameplay purports to show a canceled Assassin's Creed game set in ancient China",
+      "detail": "At least there's still Assassin's Creed Jade to look forward to.",
+      "url": "https://www.engadget.com/2289636/leaked-gameplay-purports-to-show-a-canceled-assassins-creed-game-set-in-ancient-china/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 15
+    },
+    {
+      "id": "0b17bb655f",
+      "topic": "Chips",
+      "status": "Just surfaced",
+      "title": "Nvidia reportedly insists the RTX 5090 isn't dead despite severe shortages and removed listings at multiple retailers — flagship GPU is missing from Nvidia's store and commands $8,500 on Amazon",
+      "detail": "submitted by /u/ControlCAD [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1x8hdha/nvidia_reportedly_insists_the_rtx_5090_isnt_dead/",
       "sources": 1,
       "mentions": 1,
       "credible": 0,
       "days": 0,
-      "tickers": [],
+      "tickers": [
+        "NVDA",
+        "AMZN"
+      ],
       "score": 8
     }
   ],
@@ -370,7 +381,7 @@
       "when": "Wed",
       "signals": [
         "Earnings",
-        "8 headlines",
+        "2 headlines",
         "Big price move",
         "Volume up"
       ],
@@ -476,40 +487,10 @@
       "earnings": "2026-10-21",
       "headlines": [
         {
-          "title": "The Tesla Roadster should go into production in 2028, but don't get your hopes up",
+          "title": "The Tesla Roadster is far from the first car to use fans for downforce",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2289475/tesla-roadster-2028-production-dont-get-hopes-up/",
-          "published": "2026-10-17T01:50:50+00:00"
-        },
-        {
-          "title": "A 'flying' Tesla Roadster sounds impossible, until you see what Lockheed Martin built decades ago",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2289307/flying-tesla-roadster-lockheed-martin-mokv-technology-comparison/",
-          "published": "2026-10-16T20:50:28+00:00"
-        },
-        {
-          "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
-          "published": "2026-10-16T20:49:04+00:00"
-        },
-        {
-          "title": "Relive Tesla's ridiculous(ly fun) Roadster stunt show",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2288448/relive-tesla-ridiculously-fun-roadster-stunt-show/",
-          "published": "2026-10-16T02:24:52+00:00"
-        },
-        {
-          "title": "Tesla's redesigned Roadster has a cold-gas thruster option, but you'll need $250,000 just to reserve it",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2288437/teslas-redesigned-roadster-cold-gas-thruster-option-reservation/",
-          "published": "2026-10-16T01:48:05+00:00"
-        },
-        {
-          "title": "Tesla Roadster",
-          "source": "Hacker News",
-          "url": "https://www.tesla.com/roadster",
-          "published": "2026-10-16T01:32:45+00:00"
+          "url": "https://www.engadget.com/2289646/tesla-roadster-not-first-car-use-fans-for-downforce/",
+          "published": "2026-10-17T21:20:21+00:00"
         },
         {
           "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
@@ -518,10 +499,10 @@
           "published": "2026-10-16T01:17:43+00:00"
         }
       ],
-      "score": 88.7,
+      "score": 68.7,
       "brief": {
-        "what": "7 recent headlines mention Tesla. Latest: The Tesla Roadster should go into production in 2028, but don't get your hopes up",
-        "why": "Signals: earnings, 8 headlines, big price move, volume up. The stock is down 7.3% this week and down 3.1% over the month.",
+        "what": "2 recent headlines mention Tesla. Latest: The Tesla Roadster is far from the first car to use fans for downforce",
+        "why": "Signals: earnings, 2 headlines, big price move, volume up. The stock is down 7.3% this week and down 3.1% over the month.",
         "watch": "Next earnings expected Wed Oct 21. Results and guidance usually move the stock most.",
         "ai": false
       }
