@@ -1,12 +1,106 @@
 {
   "weekOf": "2026-10-12",
-  "updated": "2026-10-16T22:40:33+00:00",
+  "updated": "2026-10-17T11:37:13+00:00",
   "summary": [
-    "Tech leads the news with 13 of 25 stories. Top headline: Replit is no longer working with Anthropic, CEO says",
+    "Tech leads the news with 11 of 25 stories. Top headline: Double Fine's first post-Xbox title, first-person Soulslikes and other new indie games worth checking out",
     "Earnings this week from TSLA, IBM, META, SPOT, NFLX.",
     "Strongest rumor: An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet"
   ],
   "stories": [
+    {
+      "id": "dd613e73ed",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-17T11:30:00+00:00",
+      "title": "Double Fine's first post-Xbox title, first-person Soulslikes and other new indie games worth checking out",
+      "summary": "There were a host of indie game showcases this week, so we're dig into some of the best announcements from them.",
+      "url": "https://www.engadget.com/2289293/double-fine-first-post-xbox-title-first-person-soulslikes-and-other-new-indie-games/",
+      "tickers": []
+    },
+    {
+      "id": "14f8051b4c",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-17T08:37:46+00:00",
+      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "summary": "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129121 Points: 203 # Comments: 54",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "tickers": []
+    },
+    {
+      "id": "7afe0cb9b7",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-17T08:21:25+00:00",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 201 # Comments: 82",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "tickers": []
+    },
+    {
+      "id": "12677b05a3",
+      "topic": "Startups",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-10-17T02:36:18+00:00",
+      "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+      "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+      "tickers": []
+    },
+    {
+      "id": "bfb408625e",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-17T02:21:08+00:00",
+      "title": "Butlerian Jihad",
+      "summary": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad Comments URL: https://news.ycombinator.com/item?id=50127274 Points: 250 # Comments: 135",
+      "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+      "tickers": []
+    },
+    {
+      "id": "70004ad9ce",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-17T01:50:50+00:00",
+      "title": "The Tesla Roadster should go into production in 2028, but don't get your hopes up",
+      "summary": "I drive upside down on the boulevard of broken dreams.",
+      "url": "https://www.engadget.com/2289475/tesla-roadster-2028-production-dont-get-hopes-up/",
+      "tickers": [
+        "TSLA"
+      ]
+    },
+    {
+      "id": "b3c30f5eae",
+      "topic": "Devices",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-10-16T23:36:26+00:00",
+      "title": "All the news about the iPhone Duo",
+      "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button.…",
+      "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "fd0d02b8cf",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-16T22:51:22+00:00",
+      "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
+      "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual…",
+      "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "tickers": [
+        "AAPL"
+      ]
+    },
     {
       "id": "c224e94a12",
       "topic": "AI",
@@ -67,6 +161,17 @@
       ]
     },
     {
+      "id": "f21ab8d613",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-16T19:47:13+00:00",
+      "title": "FLUX 3 Image Klein",
+      "summary": "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 174 # Comments: 48",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "tickers": []
+    },
+    {
       "id": "20d3b1b3f6",
       "topic": "Tech",
       "kind": "Company",
@@ -84,8 +189,19 @@
       "source": "Hacker News",
       "published": "2026-10-16T19:04:47+00:00",
       "title": "How the Claude Code team does code review",
-      "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 160 # Comments: 158",
+      "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 362 # Comments: 333",
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "tickers": []
+    },
+    {
+      "id": "da44113b8e",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-16T19:01:17+00:00",
+      "title": "You could have invented transformers from memory",
+      "summary": "Article URL: https://alexwang.ai/posts/associative-memory/ Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 318 # Comments: 74",
+      "url": "https://alexwang.ai/posts/associative-memory/",
       "tickers": []
     },
     {
@@ -95,8 +211,19 @@
       "source": "Hacker News",
       "published": "2026-10-16T18:55:59+00:00",
       "title": "Claude reveals ECDSA curve origins",
-      "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 515 # Comments: 214",
+      "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 893 # Comments: 335",
       "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "tickers": []
+    },
+    {
+      "id": "09523ee7eb",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-16T18:32:35+00:00",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "summary": "Article URL: https://github.com/cobanov/PS5LM Comments URL: https://news.ycombinator.com/item?id=50122431 Points: 299 # Comments: 74",
+      "url": "https://github.com/cobanov/PS5LM",
       "tickers": []
     },
     {
@@ -113,14 +240,14 @@
       ]
     },
     {
-      "id": "5865703f74",
-      "topic": "AI",
+      "id": "b45ae9f9a8",
+      "topic": "Policy",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-10-16T18:11:42+00:00",
-      "title": "Anthropic assigned highest junk credit rating in June",
-      "summary": "https://finance.yahoo.com/technology/ai/articles/anthropic-s... Comments URL: https://news.ycombinator.com/item?id=50122112 Points: 172 # Comments: 48",
-      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+      "published": "2026-10-16T18:06:17+00:00",
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "summary": "Article URL: https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear Comments URL: https://news.ycombinator.com/item?id=50122034 Points: 229 # Comments: 200",
+      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
       "tickers": []
     },
     {
@@ -141,7 +268,7 @@
       "source": "Hacker News",
       "published": "2026-10-16T17:08:38+00:00",
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 339 # Comments: 298",
+      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 513 # Comments: 440",
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
       "tickers": []
     },
@@ -168,134 +295,6 @@
       "tickers": [
         "AAPL"
       ]
-    },
-    {
-      "id": "35f81be8ec",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-16T16:12:02+00:00",
-      "title": "JPEG XL vs. AVIF for web use-cases",
-      "summary": "Article URL: https://jakearchibald.com/2026/jpeg-xl-vs-avif/ Comments URL: https://news.ycombinator.com/item?id=50120224 Points: 169 # Comments: 133",
-      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-      "tickers": []
-    },
-    {
-      "id": "9b442a0b8b",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-16T16:06:38+00:00",
-      "title": "Waymo’s robotaxis are headed to Canada",
-      "summary": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
-      "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
-      "tickers": []
-    },
-    {
-      "id": "e9b43f4c86",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-10-16T16:02:22+00:00",
-      "title": "The new Apple TV 4K just got its first (very small) discount",
-      "summary": "Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), just days after discounting Apple’s new smart…",
-      "url": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
-      "tickers": [
-        "AAPL",
-        "AMZN"
-      ]
-    },
-    {
-      "id": "300f6f24ed",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-16T16:01:37+00:00",
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "tickers": []
-    },
-    {
-      "id": "4fd3b71527",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-16T16:00:00+00:00",
-      "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
-      "summary": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.",
-      "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
-      "tickers": []
-    },
-    {
-      "id": "aa33bb8b08",
-      "topic": "Tech",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-16T16:00:00+00:00",
-      "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
-      "summary": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.",
-      "url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
-      "tickers": []
-    },
-    {
-      "id": "c62b034962",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-16T15:38:17+00:00",
-      "title": "Apple’s HomeView has an app problem",
-      "summary": "It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always connected to power, and looks like a perfect place to run a…",
-      "url": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "f56dfc61f1",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-16T15:33:49+00:00",
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "tickers": []
-    },
-    {
-      "id": "c5f35ad9c7",
-      "topic": "Devices",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-10-16T15:08:38+00:00",
-      "title": "Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades",
-      "summary": "Analogue announced new versions of its Super Nt and Mega Sg retro consoles today with a \"reworked industrial design\" and built-in wireless connectivity for controllers and accessories. Like the original versions, the new Super Nt Plus and Mega Sg Plus are able to play Nintendo…",
-      "url": "https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus",
-      "tickers": []
-    },
-    {
-      "id": "eeabc1fa6e",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-16T15:02:23+00:00",
-      "title": "A fake WhatsApp clone is showing up before the real version on the Play Store",
-      "summary": "After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a \"sponsored\" slot above the real version. As reported earlier by Android Authority, the WhatsApp dupe has racked up over 500,000 downloads…",
-      "url": "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android",
-      "tickers": []
-    },
-    {
-      "id": "8e35ce9df6",
-      "topic": "Chips",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-16T15:00:00+00:00",
-      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best…",
-      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-      "tickers": [
-        "NVDA"
-      ]
     }
   ],
   "rumors": [
@@ -316,32 +315,34 @@
       "score": 15
     },
     {
-      "id": "43bff5bd82",
-      "topic": "Tech",
+      "id": "b3c30f5eae",
+      "topic": "Devices",
       "status": "Just surfaced",
-      "title": "Order to limit Starshield for Ukraine came from inside White House, sources say",
-      "detail": "submitted by /u/Monomette [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1x73y9o/order_to_limit_starshield_for_ukraine_came_from/",
+      "title": "All the news about the iPhone Duo",
+      "detail": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button.…",
+      "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
       "sources": 1,
       "mentions": 1,
-      "credible": 0,
+      "credible": 1,
       "days": 0,
-      "tickers": [],
-      "score": 8
+      "tickers": [
+        "AAPL"
+      ],
+      "score": 15
     },
     {
-      "id": "9f9536f1bb",
+      "id": "210a4c0395",
       "topic": "Tech",
       "status": "Just surfaced",
-      "title": "U.S President cancels Pentagon plans to livestream firing squad execution | 8 in 10 Americans opposed the Pentagon’s plans, a Thursday poll showed.",
-      "detail": "submitted by /u/ControlCAD [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1x7bogj/us_president_cancels_pentagon_plans_to_livestream/",
+      "title": "Musk approached Trump to slow down Starlink in Ukraine - SpaceX founder had publicly blamed president for chaos over restrictions, but sources say he initiated them",
+      "detail": "submitted by /u/polymute [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1x7sb6p/musk_approached_trump_to_slow_down_starlink_in/",
       "sources": 1,
-      "mentions": 1,
+      "mentions": 2,
       "credible": 0,
       "days": 0,
       "tickers": [],
-      "score": 8
+      "score": 11
     },
     {
       "id": "955d7e22be",
@@ -475,6 +476,12 @@
       "earnings": "2026-10-21",
       "headlines": [
         {
+          "title": "The Tesla Roadster should go into production in 2028, but don't get your hopes up",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2289475/tesla-roadster-2028-production-dont-get-hopes-up/",
+          "published": "2026-10-17T01:50:50+00:00"
+        },
+        {
           "title": "A 'flying' Tesla Roadster sounds impossible, until you see what Lockheed Martin built decades ago",
           "source": "Engadget",
           "url": "https://www.engadget.com/2289307/flying-tesla-roadster-lockheed-martin-mokv-technology-comparison/",
@@ -487,10 +494,10 @@
           "published": "2026-10-16T20:49:04+00:00"
         },
         {
-          "title": "The incredible flying Tesla Roadster is just for show",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
-          "published": "2026-10-16T14:15:29+00:00"
+          "title": "Relive Tesla's ridiculous(ly fun) Roadster stunt show",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2288448/relive-tesla-ridiculously-fun-roadster-stunt-show/",
+          "published": "2026-10-16T02:24:52+00:00"
         },
         {
           "title": "Tesla's redesigned Roadster has a cold-gas thruster option, but you'll need $250,000 just to reserve it",
@@ -513,7 +520,7 @@
       ],
       "score": 88.7,
       "brief": {
-        "what": "6 recent headlines mention Tesla. Latest: A 'flying' Tesla Roadster sounds impossible, until you see what Lockheed Martin built decades ago",
+        "what": "7 recent headlines mention Tesla. Latest: The Tesla Roadster should go into production in 2028, but don't get your hopes up",
         "why": "Signals: earnings, 8 headlines, big price move, volume up. The stock is down 7.3% this week and down 3.1% over the month.",
         "watch": "Next earnings expected Wed Oct 21. Results and guidance usually move the stock most.",
         "ai": false
