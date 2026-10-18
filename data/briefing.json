@@ -1,12 +1,122 @@
 {
   "weekOf": "2026-10-12",
-  "updated": "2026-10-17T22:35:46+00:00",
+  "updated": "2026-10-18T11:37:13+00:00",
   "summary": [
-    "Tech leads the news with 12 of 25 stories. Top headline: Why it's important to monitor your PC's background processes",
-    "Earnings this week from TSLA, IBM, META, SPOT, NFLX.",
+    "Tech leads the news with 12 of 25 stories. Top headline: Data Centers Have a New PR Plan: Your Kid’s Field Trip",
+    "Earnings this week from TSLA, META, IBM, SPOT, NFLX.",
     "Strongest rumor: An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet"
   ],
   "stories": [
+    {
+      "id": "8d2cc298eb",
+      "topic": "Cloud",
+      "kind": "Company",
+      "source": "Wired",
+      "published": "2026-10-18T10:30:00+00:00",
+      "title": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
+      "summary": "Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.",
+      "url": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
+      "tickers": []
+    },
+    {
+      "id": "87e4e362b2",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-18T06:50:36+00:00",
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "summary": "Article URL: https://api-docs.deepseek.com/guides/search/ Comments URL: https://news.ycombinator.com/item?id=50138531 Points: 242 # Comments: 116",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "tickers": []
+    },
+    {
+      "id": "db9be7c2e1",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-18T03:19:49+00:00",
+      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+      "summary": "Article URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything Comments URL: https://news.ycombinator.com/item?id=50137620 Points: 160 # Comments: 186",
+      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "tickers": []
+    },
+    {
+      "id": "e16bdfbcb3",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-18T00:30:00+00:00",
+      "title": "You don't have to turn off your phone to switch SIM cards (but you probably should)",
+      "summary": "Swapping SIM cards isn't something you'll do all the time, but when it does come up, you should do it carefully.",
+      "url": "https://www.engadget.com/2285099/why-turn-off-phone-remove-sim-card-explained/",
+      "tickers": []
+    },
+    {
+      "id": "bd3a0c614c",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "Hacker News",
+      "published": "2026-10-18T00:14:22+00:00",
+      "title": "NY announces game ownership bill requiring ownership rather than licensing",
+      "summary": "Article URL: https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends Comments URL…",
+      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+      "tickers": []
+    },
+    {
+      "id": "4ce29dcd87",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-18T00:00:00+00:00",
+      "title": "What to check if your Nintendo Switch 2 isn't connecting to the TV",
+      "summary": "Your Nintendo Switch 2 is made to project its display to a TV. If it's not working, there are some things you should check.",
+      "url": "https://www.engadget.com/2285088/nintendo-switch-2-not-connecting-to-tv-what-check/",
+      "tickers": []
+    },
+    {
+      "id": "cc34ca452d",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "Engadget",
+      "published": "2026-10-17T23:45:00+00:00",
+      "title": "OpenAI is building a humanoid robot, but the body isn't the real challenge",
+      "summary": "OpenAI CEO Sam Altman wants a humanoid that can operate in a world designed for people, though the CEO says a robot 'brain' is a much bigger challenge.",
+      "url": "https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/",
+      "tickers": []
+    },
+    {
+      "id": "eb74c6bbe8",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-17T23:30:00+00:00",
+      "title": "These Samsung Galaxy tablets are in their last year of software support",
+      "summary": "Samsung's latest software update commitment for its tablets is great, but older devices can't take advantage of it.",
+      "url": "https://www.engadget.com/2284679/samsung-galaxy-tablets-last-year-software-support/",
+      "tickers": []
+    },
+    {
+      "id": "6be338baaa",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-17T23:00:00+00:00",
+      "title": "Why your Wi-Fi speeds can drop in the evening, and what to do about it",
+      "summary": "Everyone getting online at the same time can slam the network, but working around these slowdowns is possible with a few tricks.",
+      "url": "https://www.engadget.com/2284612/wifi-speeds-drop-evening-reason-why/",
+      "tickers": []
+    },
+    {
+      "id": "2c976444a5",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-17T22:45:00+00:00",
+      "title": "How to keep your smart home running even if the internet goes down",
+      "summary": "Smart home products most often harness Wi-Fi to function. But what can you do if you lose internet frequently?",
+      "url": "https://www.engadget.com/2284525/how-to-keep-smart-home-running-internet-goes-down/",
+      "tickers": []
+    },
     {
       "id": "792bbe049c",
       "topic": "Tech",
@@ -139,7 +249,7 @@
       "source": "Hacker News",
       "published": "2026-10-17T17:06:07+00:00",
       "title": "Gold is now the top U.S. export",
-      "summary": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 158 # Comments: 87",
+      "summary": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 343 # Comments: 188",
       "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
       "tickers": []
     },
@@ -177,120 +287,6 @@
       "tickers": [
         "AMZN"
       ]
-    },
-    {
-      "id": "bf0adfe781",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-17T16:15:11+00:00",
-      "title": "Anbernic's RG DDS is almost double the price of the original Nintendo 3DS",
-      "summary": "The premium handheld is expected to start shipping in December.",
-      "url": "https://www.engadget.com/2289602/anbernics-rg-dds-is-almost-double-the-price-of-the-original-nintendo-3ds/",
-      "tickers": []
-    },
-    {
-      "id": "011590a232",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-17T16:00:00+00:00",
-      "title": "This Samsung Galaxy feature can protect you from untrustworthy apps",
-      "summary": "Samsung's Auto Blocker protects your Galaxy phone from security threats, but it does have drawbacks. Here's what it does and when you might want to turn it off.",
-      "url": "https://www.engadget.com/2284034/samsung-galaxy-feature-protects-from-untrustworth-apps-auto-blocker/",
-      "tickers": []
-    },
-    {
-      "id": "832b031180",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-17T15:30:00+00:00",
-      "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
-      "summary": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
-      "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
-      "tickers": []
-    },
-    {
-      "id": "31f510fb8b",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-17T15:30:00+00:00",
-      "title": "Why are some locations blurred out on Google Maps?",
-      "summary": "When using Google Maps, it isn't rare to see blurred locations. Why does this happen? The answer is simple, and it has everything to do with security.",
-      "url": "https://www.engadget.com/2284032/why-some-places-blurry-google-maps/",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "7cc15d40c9",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-17T15:04:36+00:00",
-      "title": "Meta removes language that may have allowed it to scrape news sites",
-      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such…",
-      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-      "tickers": []
-    },
-    {
-      "id": "31bd0e9e66",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-17T15:00:00+00:00",
-      "title": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
-      "summary": "If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pikmin 4 for Switch discounted to $39.88, just over $20 lower than its usual price.…",
-      "url": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale",
-      "tickers": []
-    },
-    {
-      "id": "e40e52384d",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-17T15:00:00+00:00",
-      "title": "Common problems with Amazon Alexa and how to fix them",
-      "summary": "Amazon Alexa is a very useful gadget to have at home, but it isn't exempt from having some issues. Fortunately, troubleshooting is easy as pie.",
-      "url": "https://www.engadget.com/2284031/amazon-alexa-common-problems-fixes/",
-      "tickers": [
-        "AMZN"
-      ]
-    },
-    {
-      "id": "5330574d07",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-17T14:30:00+00:00",
-      "title": "Jad Abumrad loves a butterfly knife and a good springy pillow",
-      "summary": "It's hard to overstate Jad Abumrad's impact on the podcasting world. He created and hosted Dolly Parton's America and Fela Kuti: Fear No Man, two Peabody Award-winning shows that offered unprecedented looks at the lives of two of the most important music icons of the last…",
-      "url": "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview",
-      "tickers": []
-    },
-    {
-      "id": "94fbdb4c64",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-17T14:30:00+00:00",
-      "title": "Should you have both Ethernet and Wi-Fi for your home?",
-      "summary": "Ethernet will keep your devices connecting online in record time, while Wi-Fi keeps them untethered. But how well can they both work together?",
-      "url": "https://www.engadget.com/2284029/both-ethernet-and-wifi-for-home/",
-      "tickers": []
-    },
-    {
-      "id": "16882d975f",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-17T14:01:01+00:00",
-      "title": "Solar surpasses nuclear power globally for first time",
-      "summary": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 426 # Comments: 262",
-      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-      "tickers": []
     }
   ],
   "rumors": [
@@ -311,34 +307,6 @@
       "score": 15
     },
     {
-      "id": "66b8414b28",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "These common charging habits could be degrading your EV battery",
-      "detail": "EVs, with their enormous batteries, can suffer if they're charged in the wrong way. Here's what you should keep in mind when you next juice your vehicle.",
-      "url": "https://www.engadget.com/2283982/common-changing-habits-degrading-ev-battery/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "4cbc165c73",
-      "topic": "Security",
-      "status": "Just surfaced",
-      "title": "OpenCode Hacked: User credentials leaked",
-      "detail": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 584 # Comments: 93",
-      "url": "https://twitter.com/opencode/status/2111516673953935833",
-      "sources": 2,
-      "mentions": 2,
-      "credible": 0,
-      "days": 0,
-      "tickers": [],
-      "score": 15
-    },
-    {
       "id": "c9485cd60c",
       "topic": "Tech",
       "status": "Just surfaced",
@@ -351,6 +319,20 @@
       "days": 0,
       "tickers": [],
       "score": 15
+    },
+    {
+      "id": "4cbc165c73",
+      "topic": "Security",
+      "status": "Just surfaced",
+      "title": "OpenCode Hacked: User credentials leaked",
+      "detail": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 874 # Comments: 164",
+      "url": "https://twitter.com/opencode/status/2111516673953935833",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 0,
+      "days": 0,
+      "tickers": [],
+      "score": 8
     },
     {
       "id": "0b17bb655f",
@@ -381,7 +363,7 @@
       "when": "Wed",
       "signals": [
         "Earnings",
-        "2 headlines",
+        "3 headlines",
         "Big price move",
         "Volume up"
       ],
@@ -499,10 +481,131 @@
           "published": "2026-10-16T01:17:43+00:00"
         }
       ],
-      "score": 68.7,
+      "score": 73.7,
       "brief": {
         "what": "2 recent headlines mention Tesla. Latest: The Tesla Roadster is far from the first car to use fans for downforce",
-        "why": "Signals: earnings, 2 headlines, big price move, volume up. The stock is down 7.3% this week and down 3.1% over the month.",
+        "why": "Signals: earnings, 3 headlines, big price move, volume up. The stock is down 7.3% this week and down 3.1% over the month.",
+        "watch": "Next earnings expected Wed Oct 21. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "META",
+      "name": "Meta",
+      "price": 709.33,
+      "changePct": -1.3,
+      "monthChangePct": 4.0,
+      "catalyst": "Earnings report",
+      "when": "Wed",
+      "signals": [
+        "Earnings",
+        "2 headlines"
+      ],
+      "spark": [
+        720.89,
+        718.67,
+        742.96,
+        762.5,
+        737.54,
+        736.72,
+        709.33
+      ],
+      "history": [
+        {
+          "d": "2026-09-17",
+          "c": 681.77
+        },
+        {
+          "d": "2026-09-18",
+          "c": 665.23
+        },
+        {
+          "d": "2026-09-21",
+          "c": 741.25
+        },
+        {
+          "d": "2026-09-22",
+          "c": 736.6
+        },
+        {
+          "d": "2026-09-23",
+          "c": 744.1
+        },
+        {
+          "d": "2026-09-24",
+          "c": 777.59
+        },
+        {
+          "d": "2026-09-25",
+          "c": 751.66
+        },
+        {
+          "d": "2026-09-28",
+          "c": 715.62
+        },
+        {
+          "d": "2026-09-29",
+          "c": 738.79
+        },
+        {
+          "d": "2026-09-30",
+          "c": 725.18
+        },
+        {
+          "d": "2026-10-01",
+          "c": 725.93
+        },
+        {
+          "d": "2026-10-02",
+          "c": 728.08
+        },
+        {
+          "d": "2026-10-05",
+          "c": 741.9
+        },
+        {
+          "d": "2026-10-06",
+          "c": 738.88
+        },
+        {
+          "d": "2026-10-07",
+          "c": 721.31
+        },
+        {
+          "d": "2026-10-08",
+          "c": 720.89
+        },
+        {
+          "d": "2026-10-09",
+          "c": 718.67
+        },
+        {
+          "d": "2026-10-12",
+          "c": 742.96
+        },
+        {
+          "d": "2026-10-13",
+          "c": 762.5
+        },
+        {
+          "d": "2026-10-14",
+          "c": 737.54
+        },
+        {
+          "d": "2026-10-15",
+          "c": 736.72
+        },
+        {
+          "d": "2026-10-16",
+          "c": 709.33
+        }
+      ],
+      "earnings": "2026-10-21",
+      "headlines": [],
+      "score": 52.6,
+      "brief": {
+        "what": "No major headlines about Meta in the last two weeks.",
+        "why": "Signals: earnings, 2 headlines. The stock is down 1.3% this week and up 4.0% over the month.",
         "watch": "Next earnings expected Wed Oct 21. Results and guidance usually move the stock most.",
         "ai": false
       }
@@ -623,126 +726,6 @@
       "brief": {
         "what": "No major headlines about IBM in the last two weeks.",
         "why": "Signals: earnings. The stock is up 2.2% this week and down 2.4% over the month.",
-        "watch": "Next earnings expected Wed Oct 21. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "META",
-      "name": "Meta",
-      "price": 709.33,
-      "changePct": -1.3,
-      "monthChangePct": 4.0,
-      "catalyst": "Earnings report",
-      "when": "Wed",
-      "signals": [
-        "Earnings"
-      ],
-      "spark": [
-        720.89,
-        718.67,
-        742.96,
-        762.5,
-        737.54,
-        736.72,
-        709.33
-      ],
-      "history": [
-        {
-          "d": "2026-09-17",
-          "c": 681.77
-        },
-        {
-          "d": "2026-09-18",
-          "c": 665.23
-        },
-        {
-          "d": "2026-09-21",
-          "c": 741.25
-        },
-        {
-          "d": "2026-09-22",
-          "c": 736.6
-        },
-        {
-          "d": "2026-09-23",
-          "c": 744.1
-        },
-        {
-          "d": "2026-09-24",
-          "c": 777.59
-        },
-        {
-          "d": "2026-09-25",
-          "c": 751.66
-        },
-        {
-          "d": "2026-09-28",
-          "c": 715.62
-        },
-        {
-          "d": "2026-09-29",
-          "c": 738.79
-        },
-        {
-          "d": "2026-09-30",
-          "c": 725.18
-        },
-        {
-          "d": "2026-10-01",
-          "c": 725.93
-        },
-        {
-          "d": "2026-10-02",
-          "c": 728.08
-        },
-        {
-          "d": "2026-10-05",
-          "c": 741.9
-        },
-        {
-          "d": "2026-10-06",
-          "c": 738.88
-        },
-        {
-          "d": "2026-10-07",
-          "c": 721.31
-        },
-        {
-          "d": "2026-10-08",
-          "c": 720.89
-        },
-        {
-          "d": "2026-10-09",
-          "c": 718.67
-        },
-        {
-          "d": "2026-10-12",
-          "c": 742.96
-        },
-        {
-          "d": "2026-10-13",
-          "c": 762.5
-        },
-        {
-          "d": "2026-10-14",
-          "c": 737.54
-        },
-        {
-          "d": "2026-10-15",
-          "c": 736.72
-        },
-        {
-          "d": "2026-10-16",
-          "c": 709.33
-        }
-      ],
-      "earnings": "2026-10-21",
-      "headlines": [],
-      "score": 42.6,
-      "brief": {
-        "what": "No major headlines about Meta in the last two weeks.",
-        "why": "Signals: earnings. The stock is down 1.3% this week and up 4.0% over the month.",
         "watch": "Next earnings expected Wed Oct 21. Results and guidance usually move the stock most.",
         "ai": false
       }
