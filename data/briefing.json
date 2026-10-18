@@ -1,355 +1,328 @@
 {
   "weekOf": "2026-10-12",
-  "updated": "2026-10-18T11:37:13+00:00",
+  "updated": "2026-10-18T22:36:54+00:00",
   "summary": [
-    "Tech leads the news with 12 of 25 stories. Top headline: Data Centers Have a New PR Plan: Your Kid’s Field Trip",
+    "Tech leads the news with 15 of 25 stories. Top headline: Router and modem or gateway: What's actually in your home network?",
     "Earnings this week from TSLA, META, IBM, SPOT, NFLX.",
-    "Strongest rumor: An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet"
+    "Strongest rumor: TikTok reportedly banned ads for Musk documentary before its wider US release"
   ],
   "stories": [
     {
-      "id": "8d2cc298eb",
-      "topic": "Cloud",
-      "kind": "Company",
-      "source": "Wired",
-      "published": "2026-10-18T10:30:00+00:00",
-      "title": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
-      "summary": "Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.",
-      "url": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
-      "tickers": []
-    },
-    {
-      "id": "87e4e362b2",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-18T06:50:36+00:00",
-      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-      "summary": "Article URL: https://api-docs.deepseek.com/guides/search/ Comments URL: https://news.ycombinator.com/item?id=50138531 Points: 242 # Comments: 116",
-      "url": "https://api-docs.deepseek.com/guides/search/",
-      "tickers": []
-    },
-    {
-      "id": "db9be7c2e1",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-18T03:19:49+00:00",
-      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
-      "summary": "Article URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything Comments URL: https://news.ycombinator.com/item?id=50137620 Points: 160 # Comments: 186",
-      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-      "tickers": []
-    },
-    {
-      "id": "e16bdfbcb3",
+      "id": "185692bcbf",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-18T00:30:00+00:00",
-      "title": "You don't have to turn off your phone to switch SIM cards (but you probably should)",
-      "summary": "Swapping SIM cards isn't something you'll do all the time, but when it does come up, you should do it carefully.",
-      "url": "https://www.engadget.com/2285099/why-turn-off-phone-remove-sim-card-explained/",
+      "published": "2026-10-18T22:30:00+00:00",
+      "title": "Router and modem or gateway: What's actually in your home network?",
+      "summary": "A gateway pulls double duty, but a modem and router combo can give you a lot more flexibility and power.",
+      "url": "https://www.engadget.com/2286663/router-modem-gateway-whats-in-home-network/",
       "tickers": []
     },
     {
-      "id": "bd3a0c614c",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "Hacker News",
-      "published": "2026-10-18T00:14:22+00:00",
-      "title": "NY announces game ownership bill requiring ownership rather than licensing",
-      "summary": "Article URL: https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends Comments URL…",
-      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-      "tickers": []
-    },
-    {
-      "id": "4ce29dcd87",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-18T00:00:00+00:00",
-      "title": "What to check if your Nintendo Switch 2 isn't connecting to the TV",
-      "summary": "Your Nintendo Switch 2 is made to project its display to a TV. If it's not working, there are some things you should check.",
-      "url": "https://www.engadget.com/2285088/nintendo-switch-2-not-connecting-to-tv-what-check/",
-      "tickers": []
-    },
-    {
-      "id": "cc34ca452d",
-      "topic": "AI",
-      "kind": "Founder",
-      "source": "Engadget",
-      "published": "2026-10-17T23:45:00+00:00",
-      "title": "OpenAI is building a humanoid robot, but the body isn't the real challenge",
-      "summary": "OpenAI CEO Sam Altman wants a humanoid that can operate in a world designed for people, though the CEO says a robot 'brain' is a much bigger challenge.",
-      "url": "https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/",
-      "tickers": []
-    },
-    {
-      "id": "eb74c6bbe8",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-17T23:30:00+00:00",
-      "title": "These Samsung Galaxy tablets are in their last year of software support",
-      "summary": "Samsung's latest software update commitment for its tablets is great, but older devices can't take advantage of it.",
-      "url": "https://www.engadget.com/2284679/samsung-galaxy-tablets-last-year-software-support/",
-      "tickers": []
-    },
-    {
-      "id": "6be338baaa",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-17T23:00:00+00:00",
-      "title": "Why your Wi-Fi speeds can drop in the evening, and what to do about it",
-      "summary": "Everyone getting online at the same time can slam the network, but working around these slowdowns is possible with a few tricks.",
-      "url": "https://www.engadget.com/2284612/wifi-speeds-drop-evening-reason-why/",
-      "tickers": []
-    },
-    {
-      "id": "2c976444a5",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-17T22:45:00+00:00",
-      "title": "How to keep your smart home running even if the internet goes down",
-      "summary": "Smart home products most often harness Wi-Fi to function. But what can you do if you lose internet frequently?",
-      "url": "https://www.engadget.com/2284525/how-to-keep-smart-home-running-internet-goes-down/",
-      "tickers": []
-    },
-    {
-      "id": "792bbe049c",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-17T22:30:00+00:00",
-      "title": "Why it's important to monitor your PC's background processes",
-      "summary": "What your PC is doing in the background doesn't need to be a mystery. Learn about what's happening and how to spot when something looks wrong.",
-      "url": "https://www.engadget.com/2284465/why-its-important-to-monitor-pc-background-processes/",
-      "tickers": []
-    },
-    {
-      "id": "8044b7fd85",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-17T22:00:00+00:00",
-      "title": "Don't throw away your old PlayStation — Do this instead",
-      "summary": "Older PlayStations may be past their prime, but there are several ways you can make use of these consoles.",
-      "url": "https://www.engadget.com/2284423/dont-throw-away-old-playstation-do-this-instead/",
-      "tickers": []
-    },
-    {
-      "id": "54e15954e4",
+      "id": "4d326e2230",
       "topic": "AI",
       "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-17T21:31:32+00:00",
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source": "The Verge",
+      "published": "2026-10-18T22:20:53+00:00",
+      "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+      "summary": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the…",
+      "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
       "tickers": []
     },
     {
-      "id": "ef77fb016e",
+      "id": "b51f538b61",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-17T21:20:21+00:00",
-      "title": "The Tesla Roadster is far from the first car to use fans for downforce",
-      "summary": "Here are some of the other, older vehicles that use fans for downforce like the Tesla Roadster does.",
-      "url": "https://www.engadget.com/2289646/tesla-roadster-not-first-car-use-fans-for-downforce/",
-      "tickers": [
-        "TSLA"
-      ]
-    },
-    {
-      "id": "8b8ca75cbe",
-      "topic": "Policy",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-17T20:55:52+00:00",
-      "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
-      "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
-      "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
-      "tickers": []
-    },
-    {
-      "id": "29392570ab",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-17T20:21:19+00:00",
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "tickers": []
-    },
-    {
-      "id": "62c17ee3ef",
-      "topic": "AI",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-17T18:48:08+00:00",
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "tickers": []
-    },
-    {
-      "id": "826a05bb88",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-17T18:45:00+00:00",
-      "title": "Android Auto can be used outside of your car: Here's how",
-      "summary": "It might sound weird to use Android Auto outside of a vehicle, but doing so has unexpected productivity benefits.",
-      "url": "https://www.engadget.com/2284102/how-android-auto-used-outside-of-car/",
-      "tickers": []
-    },
-    {
-      "id": "f7b33dd9b1",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-17T18:30:00+00:00",
-      "title": "What's actually eating all the storage space on your Android Phone?",
-      "summary": "Android phone running out of space? Here's why and what you can do to get rid of old files.",
-      "url": "https://www.engadget.com/2283986/whats-actually-eating-all-the-storage-space-on-your-android-phone/",
-      "tickers": []
-    },
-    {
-      "id": "78c0685ea3",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-17T18:12:35+00:00",
-      "title": "iPhone Duo shipping estimates have already been pushed back to 2027",
-      "summary": "Apple called the early demand \"nothing short of extraordinary.\"",
-      "url": "https://www.engadget.com/2289629/iphone-duo-shipping-estimates-have-already-been-pushed-back-to-2027/",
+      "published": "2026-10-18T22:00:00+00:00",
+      "title": "What is Apple's Image Playground app for and how do you use it?",
+      "summary": "Apple's image generation tool got some noteworthy updates this fall.",
+      "url": "https://www.engadget.com/2286648/what-is-image-playground-app-how-to-use/",
       "tickers": [
         "AAPL"
       ]
     },
     {
-      "id": "0eb8b9f177",
+      "id": "80d1fd6f7b",
       "topic": "Tech",
       "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-17T18:00:00+00:00",
-      "title": "You might be surprised by how much the Slate truck can carry",
-      "summary": "Don't underestimate this compact pickup.",
-      "url": "https://www.engadget.com/2289615/slate-truck-how-much-can-carry/",
+      "source": "TechCrunch",
+      "published": "2026-10-18T21:00:00+00:00",
+      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+      "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
+      "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
       "tickers": []
     },
     {
-      "id": "b61f2bd22f",
-      "topic": "Policy",
+      "id": "cc786b7f5f",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-18T20:37:40+00:00",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "tickers": []
+    },
+    {
+      "id": "9af71943a8",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-18T20:27:30+00:00",
+      "title": "After five years, Inscryption is finally coming to mobile",
+      "summary": "The studio celebrated Inscryption's five-year anniversary with a Twitch stream.",
+      "url": "https://www.engadget.com/2289805/after-five-years-inscryption-is-finally-coming-to-mobile/",
+      "tickers": []
+    },
+    {
+      "id": "6360456678",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-18T19:30:00+00:00",
+      "title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
+      "summary": "Mister Organ doesn't reach the level of societal horror of The Act of Killing or the creepypasta-meets-true-crime gruesomeness of Beware the Slenderman, but there's something deeply unsettling about Michael Organ and his intimate campaign of terror against everyone who enters…",
+      "url": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
+      "tickers": []
+    },
+    {
+      "id": "c61e179251",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-18T19:03:38+00:00",
+      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+      "summary": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
+      "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+      "tickers": []
+    },
+    {
+      "id": "91bc8fd396",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-18T18:45:00+00:00",
+      "title": "What is the star button for on your Roku remote?",
+      "summary": "While the Roku remote doesn't have confusing colors or weird symbols, the star button can confuse some folks at first.",
+      "url": "https://www.engadget.com/2286582/roku-remote-star-button-what-for/",
+      "tickers": []
+    },
+    {
+      "id": "9bc9834091",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-18T18:30:00+00:00",
+      "title": "Here's how the Slate truck gets software updates without built-in infotainment",
+      "summary": "Basically, it's on you.",
+      "url": "https://www.engadget.com/2283988/slate-truck-no-infotainment-over-the-air-sofware-updates/",
+      "tickers": []
+    },
+    {
+      "id": "a8987cbac6",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-18T18:28:10+00:00",
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "tickers": [
+        "UBER"
+      ]
+    },
+    {
+      "id": "8438272d91",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-18T18:00:00+00:00",
+      "title": "From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved",
+      "summary": "Apple's iPhone Duo likely forecasts a shift in the market toward foldables becoming more common. But it took a while to get here.",
+      "url": "https://www.engadget.com/2286505/how-modern-foldable-phone-evolved-from-royole-flexpai-to-iphone-duo/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "cd401c065f",
+      "topic": "Tech",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-10-17T17:06:07+00:00",
-      "title": "Gold is now the top U.S. export",
-      "summary": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 343 # Comments: 188",
-      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+      "published": "2026-10-18T16:56:56+00:00",
+      "title": "Namecheap just seized and disabled all my domains",
+      "summary": "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/ Comments URL: https://news.ycombinator.com/item?id=50142866 Points: 329 # Comments: 158",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
       "tickers": []
     },
     {
-      "id": "6b468b01e1",
+      "id": "62e8352aea",
+      "topic": "Chips",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-18T16:45:00+00:00",
+      "title": "Should you limit your FPS in games? Here's when it makes sense",
+      "summary": "While it's natural to want to get as many fps from your rig as possible, there are reasons to limit frame output from your GPU.",
+      "url": "https://www.engadget.com/2286478/limit-frames-per-second-gaming-when-makes-sense/",
+      "tickers": []
+    },
+    {
+      "id": "f9aba08435",
       "topic": "Tech",
       "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-17T17:00:00+00:00",
-      "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
-      "summary": "Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT SUV, an equally powerful…",
-      "url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
+      "source": "Hacker News",
+      "published": "2026-10-18T16:32:00+00:00",
+      "title": "Someone behind the software",
+      "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 252 # Comments: 105",
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
       "tickers": []
     },
     {
-      "id": "ece4c1f71d",
-      "topic": "Policy",
+      "id": "ca7940b255",
+      "topic": "AI",
       "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-17T16:39:44+00:00",
-      "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
-      "summary": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona residents claiming the lottery was a fraud. Musk has now…",
-      "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
+      "source": "TechCrunch",
+      "published": "2026-10-18T16:30:00+00:00",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "tickers": []
     },
     {
-      "id": "aaf817d469",
+      "id": "daf111d6ee",
+      "topic": "Policy",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-10-18T16:27:51+00:00",
+      "title": "Video game ownership bill introduced in Congress",
+      "summary": "Rep. Ritchie Torres of New York's 15th congressional district in the Bronx introduced the Power To The Players Act this week. If passed, the bill would direct the Federal Trade Commission to establish regulations that guarantee consumers ownership of a game when they pay for it…",
+      "url": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
+      "tickers": []
+    },
+    {
+      "id": "b48dd9166f",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-18T16:15:00+00:00",
+      "title": "How to fix scaling and app size issues on your Samsung Galaxy Z Fold 8",
+      "summary": "If you have trouble getting apps to scale properly on your foldable, read on.",
+      "url": "https://www.engadget.com/2286431/how-to-fix-scaling-app-size-issues-samsung-galaxy-z-fold-8/",
+      "tickers": []
+    },
+    {
+      "id": "68e7a8e21e",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-18T16:05:00+00:00",
+      "title": "TechCrunch Mobility: Rivian’s next act",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
+      "tickers": []
+    },
+    {
+      "id": "6d92ca72ce",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-17T16:30:00+00:00",
-      "title": "What does the yellow light on your Alexa device mean and how do you clear it?",
-      "summary": "Don't panic if your Amazon Echo is flashing a yellow light. Here's what that color means, how to clear it and how to tweak your Alexa notification settings.",
-      "url": "https://www.engadget.com/2284036/amazon-alexa-device-yellow-light-meaning/",
+      "published": "2026-10-18T15:45:00+00:00",
+      "title": "Flat Ethernet cables probably aren't the answer to your home networking problem",
+      "summary": "For the most reliable performance, round Ethernet cables are generally superior.",
+      "url": "https://www.engadget.com/2286349/flat-ethernet-cable-not-answer-home-networking-issues/",
+      "tickers": []
+    },
+    {
+      "id": "ed9c86f853",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-18T15:15:00+00:00",
+      "title": "The reason why your drive shows less storage than you paid for",
+      "summary": "Despite showing the storage amount on the box or the spec sheet, your new device might not actually hold as much as it states. Here are the reasons why.",
+      "url": "https://www.engadget.com/2286322/why-new-drive-shows-less-storage/",
+      "tickers": []
+    },
+    {
+      "id": "738c914f7f",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-10-18T15:00:00+00:00",
+      "title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
+      "summary": "The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz versus 800p and 90Hz in the Deck OLED), and it’s got double…",
+      "url": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
+      "tickers": []
+    },
+    {
+      "id": "dcafc7c9bb",
+      "topic": "Devices",
+      "kind": "Launch",
+      "source": "Engadget",
+      "published": "2026-10-18T14:45:00+00:00",
+      "title": "iOS 27's new CarPlay features are great, but only these iPhones can actually use them",
+      "summary": "With the release of iOS 27, car owners with CarPlay support can enjoy lots of cool new features. However, not all iPhone models are able to support them all.",
+      "url": "https://www.engadget.com/2286246/ios-27-carplay-features-not-available-older-iphones/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "393634dd07",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-18T14:15:00+00:00",
+      "title": "The reason your Amazon Alexa devices are always listening",
+      "summary": "Alexa devices have microphones that are always listening, but what does Amazon do with that data? It's up to you.",
+      "url": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
       "tickers": [
         "AMZN"
       ]
+    },
+    {
+      "id": "46309da685",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-18T14:00:00+00:00",
+      "title": "J Mascis has nothing better to do",
+      "summary": "Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided riffs. Unfortunately, Mascis has developed a similar reputation as an interview…",
+      "url": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
+      "tickers": []
     }
   ],
   "rumors": [
     {
+      "id": "05ad5765a4",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "TikTok reportedly banned ads for Musk documentary before its wider US release",
+      "detail": "The platform attributed the decision to \"political content that goes against its policy.\"",
+      "url": "https://www.engadget.com/2289782/tiktok-reportedly-bans-ads-for-musk-documentary-before-its-wider-us-release/",
+      "sources": 1,
+      "mentions": 2,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 18
+    },
+    {
       "id": "9c0111bfb2",
       "topic": "AI",
-      "status": "Just surfaced",
+      "status": "Unconfirmed",
       "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
       "detail": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs…",
       "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 1,
+      "days": 2,
       "tickers": [
         "NVDA"
       ],
       "score": 15
-    },
-    {
-      "id": "c9485cd60c",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Leaked gameplay purports to show a canceled Assassin's Creed game set in ancient China",
-      "detail": "At least there's still Assassin's Creed Jade to look forward to.",
-      "url": "https://www.engadget.com/2289636/leaked-gameplay-purports-to-show-a-canceled-assassins-creed-game-set-in-ancient-china/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "4cbc165c73",
-      "topic": "Security",
-      "status": "Just surfaced",
-      "title": "OpenCode Hacked: User credentials leaked",
-      "detail": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 874 # Comments: 164",
-      "url": "https://twitter.com/opencode/status/2111516673953935833",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 0,
-      "days": 0,
-      "tickers": [],
-      "score": 8
-    },
-    {
-      "id": "0b17bb655f",
-      "topic": "Chips",
-      "status": "Just surfaced",
-      "title": "Nvidia reportedly insists the RTX 5090 isn't dead despite severe shortages and removed listings at multiple retailers — flagship GPU is missing from Nvidia's store and commands $8,500 on Amazon",
-      "detail": "submitted by /u/ControlCAD [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1x8hdha/nvidia_reportedly_insists_the_rtx_5090_isnt_dead/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 0,
-      "days": 0,
-      "tickers": [
-        "NVDA",
-        "AMZN"
-      ],
-      "score": 8
     }
   ],
   "watchlist": [
@@ -363,7 +336,7 @@
       "when": "Wed",
       "signals": [
         "Earnings",
-        "3 headlines",
+        "2 headlines",
         "Big price move",
         "Volume up"
       ],
@@ -467,24 +440,11 @@
         }
       ],
       "earnings": "2026-10-21",
-      "headlines": [
-        {
-          "title": "The Tesla Roadster is far from the first car to use fans for downforce",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2289646/tesla-roadster-not-first-car-use-fans-for-downforce/",
-          "published": "2026-10-17T21:20:21+00:00"
-        },
-        {
-          "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
-          "published": "2026-10-16T01:17:43+00:00"
-        }
-      ],
-      "score": 73.7,
+      "headlines": [],
+      "score": 68.7,
       "brief": {
-        "what": "2 recent headlines mention Tesla. Latest: The Tesla Roadster is far from the first car to use fans for downforce",
-        "why": "Signals: earnings, 3 headlines, big price move, volume up. The stock is down 7.3% this week and down 3.1% over the month.",
+        "what": "No major headlines about Tesla in the last two weeks.",
+        "why": "Signals: earnings, 2 headlines, big price move, volume up. The stock is down 7.3% this week and down 3.1% over the month.",
         "watch": "Next earnings expected Wed Oct 21. Results and guidance usually move the stock most.",
         "ai": false
       }
@@ -498,8 +458,7 @@
       "catalyst": "Earnings report",
       "when": "Wed",
       "signals": [
-        "Earnings",
-        "2 headlines"
+        "Earnings"
       ],
       "spark": [
         720.89,
@@ -602,10 +561,10 @@
       ],
       "earnings": "2026-10-21",
       "headlines": [],
-      "score": 52.6,
+      "score": 47.6,
       "brief": {
         "what": "No major headlines about Meta in the last two weeks.",
-        "why": "Signals: earnings, 2 headlines. The stock is down 1.3% this week and up 4.0% over the month.",
+        "why": "Signals: earnings. The stock is down 1.3% this week and up 4.0% over the month.",
         "watch": "Next earnings expected Wed Oct 21. Results and guidance usually move the stock most.",
         "ai": false
       }
