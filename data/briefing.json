@@ -1,12 +1,181 @@
 {
-  "weekOf": "2026-10-12",
-  "updated": "2026-10-18T22:36:54+00:00",
+  "weekOf": "2026-10-19",
+  "updated": "2026-10-19T11:43:03+00:00",
   "summary": [
-    "Tech leads the news with 15 of 25 stories. Top headline: Router and modem or gateway: What's actually in your home network?",
+    "Tech leads the news with 11 of 25 stories. Top headline: Even Realities G2 review: Smart glasses, stupid controls",
     "Earnings this week from TSLA, META, IBM, SPOT, NFLX.",
     "Strongest rumor: TikTok reportedly banned ads for Musk documentary before its wider US release"
   ],
   "stories": [
+    {
+      "id": "c7b34e4a37",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-19T11:30:00+00:00",
+      "title": "Even Realities G2 review: Smart glasses, stupid controls",
+      "summary": "Even Realities makes one of the best smart glasses on the market, but controlling its growing feature set is harder than it should be.",
+      "url": "https://www.engadget.com/2288658/even-realities-g2-smart-glasses-review/",
+      "tickers": []
+    },
+    {
+      "id": "fda2ab89f1",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-19T11:00:00+00:00",
+      "title": "The Maeving RM2 is high-style electric riding with a few compromises",
+      "summary": "There's a fast-growing category of two-wheeled electric vehicles splitting the difference between high-end scooters and entry-level motorcycles, fresh bikes with avant-garde style but approachable performance. I'm talking about offerings like the Infinite Machine P1 and BMW CE…",
+      "url": "https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs",
+      "tickers": []
+    },
+    {
+      "id": "b3e89e96a7",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Wired",
+      "published": "2026-10-19T10:00:00+00:00",
+      "title": "The Story of Billy Evans and ‘Theranos 2.0’",
+      "summary": "Elizabeth Holmes’ husband is a major figure in Nathan Fielder’s new documentary. But who is Billy Evans—and is he really working on a second blood-testing company?",
+      "url": "https://www.wired.com/story/the-story-of-billy-evans-and-theranos-20/",
+      "tickers": []
+    },
+    {
+      "id": "9486692620",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-19T09:19:19+00:00",
+      "title": "Google Gemini 4 agents just beat Minecraft with no human intervention",
+      "summary": "Four Gemini 4 Argon agents beat Minecraft's Ender Dragon with no human intervention by sharing tips, threats and mistakes.",
+      "url": "https://www.engadget.com/2289944/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "3546eacd68",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "Wired",
+      "published": "2026-10-19T09:00:00+00:00",
+      "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+      "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
+      "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+      "tickers": []
+    },
+    {
+      "id": "d25b9f1563",
+      "topic": "Startups",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-19T07:30:00+00:00",
+      "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+      "summary": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
+      "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+      "tickers": []
+    },
+    {
+      "id": "378a1f0f7f",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "Hacker News",
+      "published": "2026-10-19T07:23:57+00:00",
+      "title": "Linux 7.3 Released",
+      "summary": "Article URL: https://lwn.net/Articles/1101143/ Comments URL: https://news.ycombinator.com/item?id=50149392 Points: 260 # Comments: 114",
+      "url": "https://lwn.net/Articles/1101143/",
+      "tickers": []
+    },
+    {
+      "id": "3bef66f3c1",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-19T04:41:46+00:00",
+      "title": "DeepSeek V4.1 Flash 1017 (Max)",
+      "summary": "Article URL: https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50148452 Points: 160 # Comments: 58",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+      "tickers": []
+    },
+    {
+      "id": "1f9d2a7419",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-19T00:30:00+00:00",
+      "title": "What do all the lights on your Netgear router mean, and which ones actually matter?",
+      "summary": "Some router symbols are obvious, while others take a bit of work to decipher. Their lights can vary, too.",
+      "url": "https://www.engadget.com/2287059/netgear-router-lights-what-they-mean/",
+      "tickers": []
+    },
+    {
+      "id": "bfdbddd261",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-19T00:00:00+00:00",
+      "title": "What does the orange dot on your Samsung Galaxy Watch mean?",
+      "summary": "You might sometimes see an orange dot on the left side of your Galaxy Watch's screen. Here's what is tells you.",
+      "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+      "tickers": []
+    },
+    {
+      "id": "942cd2277d",
+      "topic": "Security",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-18T23:45:00+00:00",
+      "title": "Why you should never point a laser pointer at a security camera",
+      "summary": "Laser pointers are known to damage security cameras, but do they really? Here's what damage can actually be done.",
+      "url": "https://www.engadget.com/2286993/why-never-point-laser-pointer-at-security-camera/",
+      "tickers": []
+    },
+    {
+      "id": "68ba51b918",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-18T23:37:57+00:00",
+      "title": "William Gibson and the trademarking of cyberspace",
+      "summary": "Article URL: https://colo.to/cyberspace.html Comments URL: https://news.ycombinator.com/item?id=50146625 Points: 196 # Comments: 77",
+      "url": "https://colo.to/cyberspace.html",
+      "tickers": []
+    },
+    {
+      "id": "e581e78466",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-18T23:30:00+00:00",
+      "title": "How to use Google's SynthID AI detection website",
+      "summary": "It's a simple way to check whether an image has been created or manipulated, with a few caveats.",
+      "url": "https://www.engadget.com/2286802/how-to-use-google-ai-detection-website-synthid/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "488079629d",
+      "topic": "Devices",
+      "kind": "Founder",
+      "source": "Engadget",
+      "published": "2026-10-18T23:00:00+00:00",
+      "title": "An Xbox Series X can now run PlayStation 5 games, but there's a catch",
+      "summary": "The idea of PS5 games running on an Xbox Series X -- made possible by how both consoles were built around closely matched hardware -- is certainly exciting.",
+      "url": "https://www.engadget.com/2286776/xbox-series-x-users-can-play-playstation-5-games-ps5x-emulator-issues/",
+      "tickers": []
+    },
+    {
+      "id": "1d34de2e00",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-18T22:45:00+00:00",
+      "title": "Starlink has two $55 plans that are wildly different — here's how",
+      "summary": "It's a trade-off between download speeds and data caps.",
+      "url": "https://www.engadget.com/2286681/starlink-residential-vs-roam-55-dollar-plan-how-different/",
+      "tickers": []
+    },
     {
       "id": "185692bcbf",
       "topic": "Tech",
@@ -43,6 +212,17 @@
       ]
     },
     {
+      "id": "741717e11a",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-18T21:09:12+00:00",
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 193 # Comments: 138",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "tickers": []
+    },
+    {
       "id": "80d1fd6f7b",
       "topic": "Tech",
       "kind": "Company",
@@ -51,6 +231,17 @@
       "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
       "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
       "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+      "tickers": []
+    },
+    {
+      "id": "c4afc223cb",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-18T20:48:14+00:00",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "summary": "https://x.com/Jiaru_Zou/status/2110400256647340476 https://github.com/togethercomputer/HybridAgent https://huggingface.co/collections/togethercomputer/hybridag... Evaluations: https://arxiv.org/html/2610.18861v1#S5 Comments URL: https://news.ycombinator.com/item?id=50145337…",
+      "url": "https://arxiv.org/abs/2610.18861",
       "tickers": []
     },
     {
@@ -96,201 +287,6 @@
       "summary": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
       "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
       "tickers": []
-    },
-    {
-      "id": "91bc8fd396",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-18T18:45:00+00:00",
-      "title": "What is the star button for on your Roku remote?",
-      "summary": "While the Roku remote doesn't have confusing colors or weird symbols, the star button can confuse some folks at first.",
-      "url": "https://www.engadget.com/2286582/roku-remote-star-button-what-for/",
-      "tickers": []
-    },
-    {
-      "id": "9bc9834091",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-18T18:30:00+00:00",
-      "title": "Here's how the Slate truck gets software updates without built-in infotainment",
-      "summary": "Basically, it's on you.",
-      "url": "https://www.engadget.com/2283988/slate-truck-no-infotainment-over-the-air-sofware-updates/",
-      "tickers": []
-    },
-    {
-      "id": "a8987cbac6",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-18T18:28:10+00:00",
-      "title": "A woman was arrested in Philly for blocking a delivery robot",
-      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-      "tickers": [
-        "UBER"
-      ]
-    },
-    {
-      "id": "8438272d91",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-18T18:00:00+00:00",
-      "title": "From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved",
-      "summary": "Apple's iPhone Duo likely forecasts a shift in the market toward foldables becoming more common. But it took a while to get here.",
-      "url": "https://www.engadget.com/2286505/how-modern-foldable-phone-evolved-from-royole-flexpai-to-iphone-duo/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "cd401c065f",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-18T16:56:56+00:00",
-      "title": "Namecheap just seized and disabled all my domains",
-      "summary": "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/ Comments URL: https://news.ycombinator.com/item?id=50142866 Points: 329 # Comments: 158",
-      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-      "tickers": []
-    },
-    {
-      "id": "62e8352aea",
-      "topic": "Chips",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-18T16:45:00+00:00",
-      "title": "Should you limit your FPS in games? Here's when it makes sense",
-      "summary": "While it's natural to want to get as many fps from your rig as possible, there are reasons to limit frame output from your GPU.",
-      "url": "https://www.engadget.com/2286478/limit-frames-per-second-gaming-when-makes-sense/",
-      "tickers": []
-    },
-    {
-      "id": "f9aba08435",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-18T16:32:00+00:00",
-      "title": "Someone behind the software",
-      "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 252 # Comments: 105",
-      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-      "tickers": []
-    },
-    {
-      "id": "ca7940b255",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-18T16:30:00+00:00",
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "tickers": []
-    },
-    {
-      "id": "daf111d6ee",
-      "topic": "Policy",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-10-18T16:27:51+00:00",
-      "title": "Video game ownership bill introduced in Congress",
-      "summary": "Rep. Ritchie Torres of New York's 15th congressional district in the Bronx introduced the Power To The Players Act this week. If passed, the bill would direct the Federal Trade Commission to establish regulations that guarantee consumers ownership of a game when they pay for it…",
-      "url": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
-      "tickers": []
-    },
-    {
-      "id": "b48dd9166f",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-18T16:15:00+00:00",
-      "title": "How to fix scaling and app size issues on your Samsung Galaxy Z Fold 8",
-      "summary": "If you have trouble getting apps to scale properly on your foldable, read on.",
-      "url": "https://www.engadget.com/2286431/how-to-fix-scaling-app-size-issues-samsung-galaxy-z-fold-8/",
-      "tickers": []
-    },
-    {
-      "id": "68e7a8e21e",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-18T16:05:00+00:00",
-      "title": "TechCrunch Mobility: Rivian’s next act",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
-      "tickers": []
-    },
-    {
-      "id": "6d92ca72ce",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-18T15:45:00+00:00",
-      "title": "Flat Ethernet cables probably aren't the answer to your home networking problem",
-      "summary": "For the most reliable performance, round Ethernet cables are generally superior.",
-      "url": "https://www.engadget.com/2286349/flat-ethernet-cable-not-answer-home-networking-issues/",
-      "tickers": []
-    },
-    {
-      "id": "ed9c86f853",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-18T15:15:00+00:00",
-      "title": "The reason why your drive shows less storage than you paid for",
-      "summary": "Despite showing the storage amount on the box or the spec sheet, your new device might not actually hold as much as it states. Here are the reasons why.",
-      "url": "https://www.engadget.com/2286322/why-new-drive-shows-less-storage/",
-      "tickers": []
-    },
-    {
-      "id": "738c914f7f",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-10-18T15:00:00+00:00",
-      "title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
-      "summary": "The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz versus 800p and 90Hz in the Deck OLED), and it’s got double…",
-      "url": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
-      "tickers": []
-    },
-    {
-      "id": "dcafc7c9bb",
-      "topic": "Devices",
-      "kind": "Launch",
-      "source": "Engadget",
-      "published": "2026-10-18T14:45:00+00:00",
-      "title": "iOS 27's new CarPlay features are great, but only these iPhones can actually use them",
-      "summary": "With the release of iOS 27, car owners with CarPlay support can enjoy lots of cool new features. However, not all iPhone models are able to support them all.",
-      "url": "https://www.engadget.com/2286246/ios-27-carplay-features-not-available-older-iphones/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "393634dd07",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-18T14:15:00+00:00",
-      "title": "The reason your Amazon Alexa devices are always listening",
-      "summary": "Alexa devices have microphones that are always listening, but what does Amazon do with that data? It's up to you.",
-      "url": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
-      "tickers": [
-        "AMZN"
-      ]
-    },
-    {
-      "id": "46309da685",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-18T14:00:00+00:00",
-      "title": "J Mascis has nothing better to do",
-      "summary": "Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided riffs. Unfortunately, Mascis has developed a similar reputation as an interview…",
-      "url": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
-      "tickers": []
     }
   ],
   "rumors": [
@@ -323,6 +319,36 @@
         "NVDA"
       ],
       "score": 15
+    },
+    {
+      "id": "d25b9f1563",
+      "topic": "Startups",
+      "status": "Just surfaced",
+      "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+      "detail": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
+      "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 15
+    },
+    {
+      "id": "d24c43342f",
+      "topic": "AI",
+      "status": "Just surfaced",
+      "title": "Official DLSS 5 running on unsupported games delivers up to 90% better performance than the leaked version — Nvidia says the new NR model uses 20% less VRAM and processes neural workloads up to 2x…",
+      "detail": "submitted by /u/Stukwan [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1x9760y/official_dlss_5_running_on_unsupported_games/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 0,
+      "days": 0,
+      "tickers": [
+        "NVDA"
+      ],
+      "score": 8
     }
   ],
   "watchlist": [
@@ -336,7 +362,6 @@
       "when": "Wed",
       "signals": [
         "Earnings",
-        "2 headlines",
         "Big price move",
         "Volume up"
       ],
@@ -441,10 +466,10 @@
       ],
       "earnings": "2026-10-21",
       "headlines": [],
-      "score": 68.7,
+      "score": 58.7,
       "brief": {
         "what": "No major headlines about Tesla in the last two weeks.",
-        "why": "Signals: earnings, 2 headlines, big price move, volume up. The stock is down 7.3% this week and down 3.1% over the month.",
+        "why": "Signals: earnings, big price move, volume up. The stock is down 7.3% this week and down 3.1% over the month.",
         "watch": "Next earnings expected Wed Oct 21. Results and guidance usually move the stock most.",
         "ai": false
       }
