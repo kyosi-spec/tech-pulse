@@ -1,319 +1,342 @@
 {
   "weekOf": "2026-10-19",
-  "updated": "2026-10-20T11:42:01+00:00",
+  "updated": "2026-10-20T22:40:04+00:00",
   "summary": [
-    "Tech leads the news with 9 of 25 stories. Top headline: Yelp can now call on your behalf to check wait times at a restaurant",
-    "Earnings this week from META, SPOT, IBM, TSLA, NFLX.",
-    "Strongest rumor: Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’"
+    "Tech leads the news with 9 of 25 stories. Top headline: Fitbit Edge vs. Fitbit Inspire 3: How these Google fitness trackers compare",
+    "Earnings this week from META, NFLX, SPOT, IBM, TSLA.",
+    "Strongest rumor: The next Xbox might cost $1,800, report says"
   ],
   "stories": [
     {
-      "id": "3bc3da248d",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-20T11:00:00+00:00",
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
-      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-      "tickers": []
-    },
-    {
-      "id": "4683b0bf9f",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-10-20T11:00:00+00:00",
-      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-      "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use…",
-      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-      "tickers": []
-    },
-    {
-      "id": "c1807bd097",
+      "id": "fd3e0ca3de",
       "topic": "Tech",
       "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-20T10:16:47+00:00",
-      "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
-      "summary": "Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background. The bug, reported by 9to5Google and several Reddit users over the last week, may be caused by the…",
-      "url": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download",
+      "source": "Engadget",
+      "published": "2026-10-20T22:30:00+00:00",
+      "title": "Fitbit Edge vs. Fitbit Inspire 3: How these Google fitness trackers compare",
+      "summary": "Google's latest tracker is a middle ground between a simple tracker and full smartwatch.",
+      "url": "https://www.engadget.com/2289183/fitbit-edge-vs-inspire-3-google-fitness-tracker-comparison/",
       "tickers": [
         "GOOGL"
       ]
     },
     {
-      "id": "88b8bfc8f0",
+      "id": "dd30cc03b1",
       "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-20T09:08:54+00:00",
-      "title": "DeepSeek just open-sourced its inference engine",
-      "summary": "Article URL: https://github.com/deepseek-ai/DeepInfer Comments URL: https://news.ycombinator.com/item?id=50163277 Points: 438 # Comments: 145",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-10-20T22:24:02+00:00",
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "tickers": [
+        "NFLX"
+      ]
+    },
+    {
+      "id": "35c0fb3789",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-10-20T22:20:11+00:00",
+      "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
+      "summary": "Donald Trump and Vice President JD Vance said on Tuesday that the Trump administration was giving right-wing YouTuber Nick Shirley $10,000 and launching a $25 million bounty program for members of the public to report fraud. In December 2025, Shirley published a viral video…",
+      "url": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers",
       "tickers": []
     },
     {
-      "id": "32cfd57459",
-      "topic": "Devices",
+      "id": "5bc76992d5",
+      "topic": "AI",
       "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-20T22:11:34+00:00",
+      "title": "Google’s more personalized Gemini AI is heading to your car",
+      "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says…",
+      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "34f6fe5875",
+      "topic": "Devices",
+      "kind": "Launch",
       "source": "Engadget",
-      "published": "2026-10-20T09:07:59+00:00",
-      "title": "The Apple Store will only let you check out two iPhone Duos",
-      "summary": "Apple is limiting iPhone Duo purchases to two per customers around the world.",
-      "url": "https://www.engadget.com/2291389/apple-store-two-iphone-duo-limit/",
+      "published": "2026-10-20T22:00:00+00:00",
+      "title": "What to expect at Apple's 'Pro and Tell' event on October 28",
+      "summary": "From the first touchscreen MacBook to an OLED iPad mini, here's everything Apple is expected to announce next week.",
+      "url": "https://www.engadget.com/2292117/apple-pro-and-tell-event-october-28-what-to-expect/",
       "tickers": [
         "AAPL"
       ]
     },
     {
-      "id": "36ebac1a45",
-      "topic": "Startups",
+      "id": "c32bdbe314",
+      "topic": "Tech",
       "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-20T07:01:00+00:00",
-      "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
-      "summary": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
-      "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+      "source": "Engadget",
+      "published": "2026-10-20T21:30:57+00:00",
+      "title": "The latest PlayStation firmware may have already been cracked ahead of GTA 6",
+      "summary": "Hackers aren't giving up at cracking the Playstation 5's latest firmware as evidenced by a new video showing an apparent kernel exploit.",
+      "url": "https://www.engadget.com/2292388/playstation-5-hackers-crack-gta-6-firmware/",
       "tickers": []
     },
     {
-      "id": "7c2389933b",
-      "topic": "Security",
-      "kind": "Launch",
+      "id": "05bd3fd2eb",
+      "topic": "Tech",
+      "kind": "Founder",
       "source": "The Verge",
-      "published": "2026-10-20T04:00:00+00:00",
-      "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
-      "summary": "Baseus announced a new addition to its lineup of AI-assisted security cameras that's more proactive about discouraging unwanted visitors instead of just recording and alerting you to their presence. The Baseus Security PrimeSentinel U2 Pro Outdoor 3K Dual Camera introduces a…",
-      "url": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
-      "tickers": []
+      "published": "2026-10-20T21:30:24+00:00",
+      "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
+      "summary": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees were formed at the request of shareholders and consist of…",
+      "url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
+      "tickers": [
+        "TSLA"
+      ]
     },
     {
-      "id": "2628df4b85",
-      "topic": "Tech",
+      "id": "dc35f3debe",
+      "topic": "AI",
       "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-20T02:06:40+00:00",
-      "title": "OpenBSD 8.0",
-      "summary": "Article URL: https://www.openbsd.org/80.html Comments URL: https://news.ycombinator.com/item?id=50160494 Points: 324 # Comments: 105",
-      "url": "https://www.openbsd.org/80.html",
+      "source": "TechCrunch",
+      "published": "2026-10-20T21:25:22+00:00",
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
       "tickers": []
     },
     {
-      "id": "0d62fc2257",
-      "topic": "Tech",
+      "id": "e091c4a60f",
+      "topic": "AI",
       "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-10-20T02:00:00+00:00",
-      "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
-      "summary": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
-      "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
-      "tickers": []
-    },
-    {
-      "id": "edfc791139",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-20T01:27:03+00:00",
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-      "tickers": []
-    },
-    {
-      "id": "acd228d77b",
-      "topic": "Devices",
-      "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-20T00:30:00+00:00",
-      "title": "How to stop audio from auto-playing on Android Auto",
-      "summary": "Although Android Auto's autoplay feature is intended to be a convenience, you may find yourself wanting to turn it off. Here's how.",
-      "url": "https://www.engadget.com/2288195/how-to-stop-audio-automatically-play-android-auto/",
+      "published": "2026-10-20T21:05:00+00:00",
+      "title": "ChatGPT now lets you lock sensitive chats behind a PIN",
+      "summary": "OpenAI has introduced a new \"locked chats\" feature to protect users' more sensitive conversations with ChatGPT.",
+      "url": "https://www.engadget.com/2292365/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin/",
       "tickers": []
     },
     {
-      "id": "5a86ab6e62",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-20T00:00:49+00:00",
-      "title": "France's supermarket fridges were vulnerable online for months",
-      "summary": "Related: Hackers activate automatic defrosting in supermarket fridges across Europe - https://news.ycombinator.com/item?id=50055304 - Oct 2026 (1007 comments) Comments URL: https://news.ycombinator.com/item?id=50159616 Points: 181 # Comments: 161",
-      "url": "https://ipinfo.io/blog/france-fridges-hack",
-      "tickers": []
-    },
-    {
-      "id": "7d4bcf9126",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-19T23:30:00+00:00",
-      "title": "What can you use the HDMI port on your Ugreen NAS for?",
-      "summary": "You can use it to watch media files on the device, but you'll need to use your phone as a remote.",
-      "url": "https://www.engadget.com/2288161/ugreen-nas-hdmi-port-uses/",
-      "tickers": []
-    },
-    {
-      "id": "089bbaf6df",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-19T23:22:18+00:00",
-      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 484 # Comments: 143",
-      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "tickers": []
-    },
-    {
-      "id": "3994fcf989",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-19T23:00:00+00:00",
-      "title": "Robot vacuums have a major privacy problem you should be aware of",
-      "summary": "Your robot vacuum's microphone and camera are useful for more efficient cleaning, but it's vital to know how that information is stored and shared.",
-      "url": "https://www.engadget.com/2288133/robot-vacuum-major-privacy-problem-you-should-know/",
-      "tickers": []
-    },
-    {
-      "id": "e21f2616bf",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-19T22:49:27+00:00",
-      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of…",
-      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-      "tickers": []
-    },
-    {
-      "id": "310f4b9f97",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-19T22:47:00+00:00",
-      "title": "Meta tweaks its new terms of service after backlash against scraping",
-      "summary": "The changes have alarmed publishers and others with business accounts.",
-      "url": "https://www.engadget.com/2291188/meta-tweaks-its-new-terms-of-service-after-backlash-against-scraping/",
-      "tickers": []
-    },
-    {
-      "id": "001ba1afca",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-19T22:32:37+00:00",
-      "title": "An ad-free Android TV",
-      "summary": "Article URL: https://cretezy.com/2026/ad-free-android-tv Comments URL: https://news.ycombinator.com/item?id=50158942 Points: 240 # Comments: 84",
-      "url": "https://cretezy.com/2026/ad-free-android-tv",
-      "tickers": []
-    },
-    {
-      "id": "842ad6e16e",
+      "id": "9c8c5e82f8",
       "topic": "Tech",
       "kind": "Launch",
       "source": "The Verge",
-      "published": "2026-10-19T22:30:42+00:00",
-      "title": "Elon Musk’s proposed SpaceX stock giveaway would go into ‘Trump Accounts’",
-      "summary": "President Donald Trump announced this afternoon that Elon Musk's SpaceX shares for children will be given through Trump Accounts. Musk said earlier today that he would give one of his SpaceX shares to \"every kid in America\" sometime next year. Musk had thanked Trump Account…",
-      "url": "https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account",
+      "published": "2026-10-20T21:02:53+00:00",
+      "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
+      "summary": "SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Musk said, the attempt would mark the first time in history an orbital launch vehicle…",
+      "url": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
       "tickers": []
     },
     {
-      "id": "a24d9234c9",
+      "id": "4455594976",
+      "topic": "Policy",
+      "kind": "Founder",
+      "source": "Engadget",
+      "published": "2026-10-20T20:53:25+00:00",
+      "title": "Judge tosses sexual abuse lawsuit from Sam Altman's sister",
+      "summary": "A lawsuit brought by the OpenAI CEO's sister was dismissed after Anne Altman refused a medical exam.",
+      "url": "https://www.engadget.com/2292346/judge-tosses-sexual-abuse-lawsuit-from-sam-altmans-sister/",
+      "tickers": []
+    },
+    {
+      "id": "670da25a33",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-20T20:52:07+00:00",
+      "title": "Netflix is telling investors not to worry, even though you’re watching less and less",
+      "summary": "Netflix is making monetization a top priority amid reports of falling viewing time. As part of its third-quarter earnings report on Tuesday, Netflix lists improvements to monetization as one of its main focuses going forward, alongside efforts to boost entertainment value and…",
+      "url": "https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time",
+      "tickers": [
+        "NFLX"
+      ]
+    },
+    {
+      "id": "8c35213740",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-20T20:40:41+00:00",
+      "title": "SpaceX’s AI business is beating expectations",
+      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "tickers": []
+    },
+    {
+      "id": "fbca6507b8",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-10-20T20:35:10+00:00",
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "tickers": []
+    },
+    {
+      "id": "3fa7e14325",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-20T20:32:09+00:00",
+      "title": "Snap is paying Robert Downey Jr. to do the Iron Man thing",
+      "summary": "Snap has a new brand ambassador for its Specs AR glasses: Iron Man actor Robert Downey Jr. The company has brought on Downey as Specs' \"Chief Customer Experience Officer\" and has published several videos featuring Downey showcasing the capabilities of the new glasses, including…",
+      "url": "https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr",
+      "tickers": []
+    },
+    {
+      "id": "7f8def35a6",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-10-20T20:26:58+00:00",
+      "title": "SpaceX says big AI growth fueled revenue jump",
+      "summary": "SpaceX announced revenues of $14.6 billion in its Q3 earnings on Tuesday, which it says was a growth of 161 percent year-over-year \"fueled by our Super Intelligence (SI) segment and accelerated growth in Connectivity.\" While its Space division posted a $7 million loss in income…",
+      "url": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
+      "tickers": []
+    },
+    {
+      "id": "475ec5f82e",
       "topic": "Tech",
       "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-19T22:00:00+00:00",
-      "title": "What does MLO mean on your router and should you enable it?",
-      "summary": "Multi-link operation is a key part of Wi-Fi 7 routers.",
-      "url": "https://www.engadget.com/2288038/mlo-router-meaning-should-you-enable/",
+      "source": "The Verge",
+      "published": "2026-10-20T20:26:04+00:00",
+      "title": "Oura adds two new cardiovascular health tracking features to its smart rings",
+      "summary": "Oura is introducing two new cardiovascular-focused health tracking features to its smart rings designed to help users better understand the effect regular workouts and exercise are having on their long-term health, and whether they need to ramp it up or dial things down. Cardio…",
+      "url": "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular",
       "tickers": []
     },
     {
-      "id": "8280a3c860",
+      "id": "27e4b40c4a",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-20T20:16:04+00:00",
+      "title": "TikTok has started censoring searches for popular peptides",
+      "summary": "Trying to pull up information for certain peptides on TikTok is now returning a \"no results found\" page when searching for terms like semaglutide, BPC-157, retratutide, and others. That hasn't entirely erased visibility on TikTok for peptides, which are combinations of amino…",
+      "url": "https://www.theverge.com/science/1014825/peptide-tiktok-search-ban",
+      "tickers": []
+    },
+    {
+      "id": "d2aa70046d",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-20T20:00:43+00:00",
+      "title": "Meta suspends Muse chats sharing feature after it left private details exposed",
+      "summary": "Researchers accessed 6,800 shared conversations with the AI agent, including internal company documents.",
+      "url": "https://www.engadget.com/2292281/meta-suspends-muse-chats-sharing-feature-after-it-left-private-details-exposed/",
+      "tickers": []
+    },
+    {
+      "id": "49be110d80",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-20T20:00:00+00:00",
+      "title": "Logitech’s refurbished G Pro X2 Superstrike is 35 percent off",
+      "summary": "Looking for a way to try the haptics-equipped G Pro X2 Superstrike wireless gaming mouse without spending full price? You probably aren’t alone. Logitech’s now-last-gen right-handed mouse is a great PC gaming companion that mimics the feel of mechanical switches with nothing but…",
+      "url": "https://www.theverge.com/gadgets/1014764/logitech-x2-superstrike-haptics-wireless-gaming-mouse-deal-sale",
+      "tickers": []
+    },
+    {
+      "id": "3474bc4d0d",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-20T20:00:00+00:00",
+      "title": "Google brings Gemini Personal Intelligence to Android Auto",
+      "summary": "In the coming months, the feature will also roll out to cars with Google built-in.",
+      "url": "https://www.engadget.com/2292027/google-brings-gemini-personal-intelligence-to-android-auto/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "b2f3819b09",
       "topic": "Cloud",
       "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-19T21:48:01+00:00",
-      "title": "The fossil fuel comeback is here",
-      "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging…",
-      "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+      "source": "Ars Technica",
+      "published": "2026-10-20T19:47:35+00:00",
+      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+      "summary": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
+      "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
       "tickers": []
     },
     {
-      "id": "a08833248c",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-19T21:28:20+00:00",
-      "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
-      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesday Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
-      "tickers": []
-    },
-    {
-      "id": "b3b5060c36",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "Hacker News",
-      "published": "2026-10-19T21:11:45+00:00",
-      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-      "summary": "Article URL: https://bsd.network/@brynet/117407035545900963 Comments URL: https://news.ycombinator.com/item?id=50158138 Points: 159 # Comments: 38",
-      "url": "https://bsd.network/@brynet/117407035545900963",
-      "tickers": []
-    },
-    {
-      "id": "5d07461883",
+      "id": "818a6babda",
       "topic": "Tech",
       "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-19T21:00:17+00:00",
-      "title": "I tried a $99 plug that promises to track your car and send help when needed — without selling your data",
-      "summary": "My 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I was intrigued. The Miles Plug is a small device that plugs into your car's OBD-II port and monitors location, driving habits, and vehicle health, along with…",
-      "url": "https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date",
+      "source": "TechCrunch",
+      "published": "2026-10-20T19:32:43+00:00",
+      "title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
+      "summary": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.",
+      "url": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
       "tickers": []
     },
     {
-      "id": "c428ad10a2",
+      "id": "9fb802db6c",
+      "topic": "Policy",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-20T19:25:38+00:00",
+      "title": "Employees warned TikTok about child exploitation, court documents show",
+      "summary": "The company is facing hundreds of lawsuits over its record on safety.",
+      "url": "https://www.engadget.com/2292225/employees-warned-tiktok-about-child-exploitation-court-documents-show/",
+      "tickers": []
+    },
+    {
+      "id": "19ec684210",
       "topic": "Chips",
       "kind": "Company",
       "source": "TechCrunch",
-      "published": "2026-10-19T20:09:24+00:00",
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "published": "2026-10-20T18:38:24+00:00",
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
       "tickers": [
         "NVDA",
+        "GOOGL",
         "AMZN"
       ]
     }
   ],
   "rumors": [
     {
-      "id": "110f2d5697",
-      "topic": "AI",
+      "id": "2db541c5e3",
+      "topic": "Devices",
       "status": "Just surfaced",
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "detail": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "sources": 1,
-      "mentions": 1,
+      "title": "The next Xbox might cost $1,800, report says",
+      "detail": "Microsoft is targeting a 2028 release for its next-gen Xbox, which could be incredibly expensive, according to details reported in a profile with Xbox's CEO.",
+      "url": "https://www.engadget.com/2292408/the-next-xbox-might-cost-1800-report-says/",
+      "sources": 2,
+      "mentions": 2,
       "credible": 1,
       "days": 0,
-      "tickers": [
-        "MSFT"
-      ],
-      "score": 15
+      "tickers": [],
+      "score": 22
     },
     {
-      "id": "f033d47b6e",
+      "id": "aac7e6badc",
       "topic": "Tech",
       "status": "Just surfaced",
-      "title": "Why your expensive Wi-Fi 7 router could be delivering slower speeds",
-      "detail": "Don't tuck your router away in a corner, even if it is a bit of an eyesore.",
-      "url": "https://www.engadget.com/2288083/wifi-7-router-delivering-lower-speeds-reasons/",
+      "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
+      "detail": "Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children.",
+      "url": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
+      "sources": 1,
+      "mentions": 2,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 18
+    },
+    {
+      "id": "8621019fca",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+      "detail": "Figma said it plans to support as many standards as possible without exposing all of its data.",
+      "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
       "sources": 1,
       "mentions": 1,
       "credible": 1,
@@ -322,12 +345,12 @@
       "score": 15
     },
     {
-      "id": "929e064c77",
+      "id": "95bae57328",
       "topic": "AI",
       "status": "Just surfaced",
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "detail": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "detail": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
       "sources": 1,
       "mentions": 1,
       "credible": 1,
@@ -336,12 +359,26 @@
       "score": 15
     },
     {
-      "id": "2348a8ba93",
+      "id": "dc35f3debe",
+      "topic": "AI",
+      "status": "Just surfaced",
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "detail": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 15
+    },
+    {
+      "id": "3fc90e107c",
       "topic": "Security",
       "status": "Just surfaced",
       "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
-      "detail": "Article URL: https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/ Comments URL: https://news.ycombinator.com/item?id=50163502 Points: 249 # Comments: 242",
-      "url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
+      "detail": "submitted by /u/Puzzleheaded_irl [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1xar7jl/afd_leak_what_421179_hacked_emails_show_about_the/",
       "sources": 1,
       "mentions": 1,
       "credible": 0,
@@ -354,29 +391,26 @@
     {
       "ticker": "META",
       "name": "Meta",
-      "price": 705.44,
-      "changePct": -5.1,
-      "monthChangePct": 6.0,
+      "price": 694.25,
+      "changePct": -9.0,
+      "monthChangePct": -6.3,
       "catalyst": "Earnings report",
       "when": "Wed",
       "signals": [
         "Earnings",
+        "3 headlines",
         "Big price move"
       ],
       "spark": [
-        718.67,
         742.96,
         762.5,
         737.54,
         736.72,
         709.33,
-        705.44
+        705.44,
+        694.25
       ],
       "history": [
-        {
-          "d": "2026-09-18",
-          "c": 665.23
-        },
         {
           "d": "2026-09-21",
           "c": 741.25
@@ -460,374 +494,25 @@
         {
           "d": "2026-10-19",
           "c": 705.44
+        },
+        {
+          "d": "2026-10-20",
+          "c": 694.25
         }
       ],
       "earnings": "2026-10-21",
-      "headlines": [],
-      "score": 55.1,
-      "brief": {
-        "what": "No major headlines about Meta in the last two weeks.",
-        "why": "Signals: earnings, big price move. The stock is down 5.1% this week and up 6.0% over the month.",
-        "watch": "Next earnings expected Wed Oct 21. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "SPOT",
-      "name": "Spotify",
-      "price": 518.76,
-      "changePct": -1.9,
-      "monthChangePct": 1.8,
-      "catalyst": "Earnings report",
-      "when": "Thu",
-      "signals": [
-        "Earnings"
-      ],
-      "spark": [
-        529.14,
-        528.8,
-        527.45,
-        523.96,
-        533.37,
-        530.46,
-        518.76
-      ],
-      "history": [
+      "headlines": [
         {
-          "d": "2026-09-18",
-          "c": 509.45
-        },
-        {
-          "d": "2026-09-21",
-          "c": 516.77
-        },
-        {
-          "d": "2026-09-22",
-          "c": 501.3
-        },
-        {
-          "d": "2026-09-23",
-          "c": 510.4
-        },
-        {
-          "d": "2026-09-24",
-          "c": 511.38
-        },
-        {
-          "d": "2026-09-25",
-          "c": 510.01
-        },
-        {
-          "d": "2026-09-28",
-          "c": 497.51
-        },
-        {
-          "d": "2026-09-29",
-          "c": 493.66
-        },
-        {
-          "d": "2026-09-30",
-          "c": 487.38
-        },
-        {
-          "d": "2026-10-01",
-          "c": 491.4
-        },
-        {
-          "d": "2026-10-02",
-          "c": 472.89
-        },
-        {
-          "d": "2026-10-05",
-          "c": 483.05
-        },
-        {
-          "d": "2026-10-06",
-          "c": 488.13
-        },
-        {
-          "d": "2026-10-07",
-          "c": 512.92
-        },
-        {
-          "d": "2026-10-08",
-          "c": 526.42
-        },
-        {
-          "d": "2026-10-09",
-          "c": 529.14
-        },
-        {
-          "d": "2026-10-12",
-          "c": 528.8
-        },
-        {
-          "d": "2026-10-13",
-          "c": 527.45
-        },
-        {
-          "d": "2026-10-14",
-          "c": 523.96
-        },
-        {
-          "d": "2026-10-15",
-          "c": 533.37
-        },
-        {
-          "d": "2026-10-16",
-          "c": 530.46
-        },
-        {
-          "d": "2026-10-19",
-          "c": 518.76
+          "title": "Facebook Pages require paid subscription to post more than two links per month",
+          "source": "Hacker News",
+          "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+          "published": "2026-10-20T15:06:08+00:00"
         }
       ],
-      "earnings": "2026-10-22",
-      "headlines": [],
-      "score": 49.4,
+      "score": 72.9,
       "brief": {
-        "what": "No major headlines about Spotify in the last two weeks.",
-        "why": "Signals: earnings. The stock is down 1.9% this week and up 1.8% over the month.",
-        "watch": "Next earnings expected Thu Oct 22. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "IBM",
-      "name": "IBM",
-      "price": 236.39,
-      "changePct": 4.1,
-      "monthChangePct": 3.0,
-      "catalyst": "Earnings report",
-      "when": "Wed",
-      "signals": [
-        "Earnings"
-      ],
-      "spark": [
-        227.13,
-        227.02,
-        230.78,
-        227.88,
-        234.12,
-        232.14,
-        236.39
-      ],
-      "history": [
-        {
-          "d": "2026-09-18",
-          "c": 229.55
-        },
-        {
-          "d": "2026-09-21",
-          "c": 231.93
-        },
-        {
-          "d": "2026-09-22",
-          "c": 231.38
-        },
-        {
-          "d": "2026-09-23",
-          "c": 232.76
-        },
-        {
-          "d": "2026-09-24",
-          "c": 227.06
-        },
-        {
-          "d": "2026-09-25",
-          "c": 225.51
-        },
-        {
-          "d": "2026-09-28",
-          "c": 220.67
-        },
-        {
-          "d": "2026-09-29",
-          "c": 219.99
-        },
-        {
-          "d": "2026-09-30",
-          "c": 219.93
-        },
-        {
-          "d": "2026-10-01",
-          "c": 225.62
-        },
-        {
-          "d": "2026-10-02",
-          "c": 222.64
-        },
-        {
-          "d": "2026-10-05",
-          "c": 221.58
-        },
-        {
-          "d": "2026-10-06",
-          "c": 221.29
-        },
-        {
-          "d": "2026-10-07",
-          "c": 220.51
-        },
-        {
-          "d": "2026-10-08",
-          "c": 226.61
-        },
-        {
-          "d": "2026-10-09",
-          "c": 227.13
-        },
-        {
-          "d": "2026-10-12",
-          "c": 227.02
-        },
-        {
-          "d": "2026-10-13",
-          "c": 230.78
-        },
-        {
-          "d": "2026-10-14",
-          "c": 227.88
-        },
-        {
-          "d": "2026-10-15",
-          "c": 234.12
-        },
-        {
-          "d": "2026-10-16",
-          "c": 232.14
-        },
-        {
-          "d": "2026-10-19",
-          "c": 236.39
-        }
-      ],
-      "earnings": "2026-10-21",
-      "headlines": [],
-      "score": 48.3,
-      "brief": {
-        "what": "No major headlines about IBM in the last two weeks.",
-        "why": "Signals: earnings. The stock is up 4.1% this week and up 3.0% over the month.",
-        "watch": "Next earnings expected Wed Oct 21. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla",
-      "price": 368.06,
-      "changePct": -2.6,
-      "monthChangePct": 1.0,
-      "catalyst": "Earnings report",
-      "when": "Wed",
-      "signals": [
-        "Earnings"
-      ],
-      "spark": [
-        382.7,
-        378.03,
-        375.23,
-        367.16,
-        362.44,
-        354.72,
-        368.06
-      ],
-      "history": [
-        {
-          "d": "2026-09-18",
-          "c": 364.27
-        },
-        {
-          "d": "2026-09-21",
-          "c": 375.3
-        },
-        {
-          "d": "2026-09-22",
-          "c": 378.9
-        },
-        {
-          "d": "2026-09-23",
-          "c": 380.12
-        },
-        {
-          "d": "2026-09-24",
-          "c": 377.94
-        },
-        {
-          "d": "2026-09-25",
-          "c": 372.11
-        },
-        {
-          "d": "2026-09-28",
-          "c": 357.45
-        },
-        {
-          "d": "2026-09-29",
-          "c": 352.84
-        },
-        {
-          "d": "2026-09-30",
-          "c": 354.81
-        },
-        {
-          "d": "2026-10-01",
-          "c": 354.11
-        },
-        {
-          "d": "2026-10-02",
-          "c": 370.59
-        },
-        {
-          "d": "2026-10-05",
-          "c": 378.73
-        },
-        {
-          "d": "2026-10-06",
-          "c": 380.68
-        },
-        {
-          "d": "2026-10-07",
-          "c": 377.81
-        },
-        {
-          "d": "2026-10-08",
-          "c": 375.0
-        },
-        {
-          "d": "2026-10-09",
-          "c": 382.7
-        },
-        {
-          "d": "2026-10-12",
-          "c": 378.03
-        },
-        {
-          "d": "2026-10-13",
-          "c": 375.23
-        },
-        {
-          "d": "2026-10-14",
-          "c": 367.16
-        },
-        {
-          "d": "2026-10-15",
-          "c": 362.44
-        },
-        {
-          "d": "2026-10-16",
-          "c": 354.72
-        },
-        {
-          "d": "2026-10-19",
-          "c": 368.06
-        }
-      ],
-      "earnings": "2026-10-21",
-      "headlines": [],
-      "score": 45.9,
-      "brief": {
-        "what": "No major headlines about Tesla in the last two weeks.",
-        "why": "Signals: earnings. The stock is down 2.6% this week and up 1.0% over the month.",
+        "what": "1 recent headline mentions Meta. Latest: Facebook Pages require paid subscription to post more than two links per month",
+        "why": "Signals: earnings, 3 headlines, big price move. The stock is down 9.0% this week and down 6.3% over the month.",
         "watch": "Next earnings expected Wed Oct 21. Results and guidance usually move the stock most.",
         "ai": false
       }
@@ -835,28 +520,26 @@
     {
       "ticker": "NFLX",
       "name": "Netflix",
-      "price": 69.85,
-      "changePct": -1.1,
-      "monthChangePct": -2.7,
+      "price": 68.69,
+      "changePct": -2.5,
+      "monthChangePct": -6.4,
       "catalyst": "Earnings report",
       "when": "Tue",
       "signals": [
-        "Earnings"
+        "Earnings",
+        "2 headlines",
+        "Volume up"
       ],
       "spark": [
-        70.3,
         70.61,
         70.46,
         70.57,
         72.61,
         70.53,
-        69.85
+        69.85,
+        68.69
       ],
       "history": [
-        {
-          "d": "2026-09-18",
-          "c": 71.79
-        },
         {
           "d": "2026-09-21",
           "c": 73.36
@@ -940,15 +623,413 @@
         {
           "d": "2026-10-19",
           "c": 69.85
+        },
+        {
+          "d": "2026-10-20",
+          "c": 68.69
         }
       ],
       "earnings": "2026-10-20",
-      "headlines": [],
-      "score": 42.2,
+      "headlines": [
+        {
+          "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+          "published": "2026-10-20T22:24:02+00:00"
+        },
+        {
+          "title": "Netflix is telling investors not to worry, even though you’re watching less and less",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time",
+          "published": "2026-10-20T20:52:07+00:00"
+        }
+      ],
+      "score": 59.0,
       "brief": {
-        "what": "No major headlines about Netflix in the last two weeks.",
-        "why": "Signals: earnings. The stock is down 1.1% this week and down 2.7% over the month.",
+        "what": "2 recent headlines mention Netflix. Latest: Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+        "why": "Signals: earnings, 2 headlines, volume up. The stock is down 2.5% this week and down 6.4% over the month.",
         "watch": "Next earnings expected Tue Oct 20. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "SPOT",
+      "name": "Spotify",
+      "price": 526.08,
+      "changePct": -0.3,
+      "monthChangePct": 1.8,
+      "catalyst": "Earnings report",
+      "when": "Thu",
+      "signals": [
+        "Earnings",
+        "3 headlines"
+      ],
+      "spark": [
+        528.8,
+        527.45,
+        523.96,
+        533.37,
+        530.46,
+        518.76,
+        526.08
+      ],
+      "history": [
+        {
+          "d": "2026-09-21",
+          "c": 516.77
+        },
+        {
+          "d": "2026-09-22",
+          "c": 501.3
+        },
+        {
+          "d": "2026-09-23",
+          "c": 510.4
+        },
+        {
+          "d": "2026-09-24",
+          "c": 511.38
+        },
+        {
+          "d": "2026-09-25",
+          "c": 510.01
+        },
+        {
+          "d": "2026-09-28",
+          "c": 497.51
+        },
+        {
+          "d": "2026-09-29",
+          "c": 493.66
+        },
+        {
+          "d": "2026-09-30",
+          "c": 487.38
+        },
+        {
+          "d": "2026-10-01",
+          "c": 491.4
+        },
+        {
+          "d": "2026-10-02",
+          "c": 472.89
+        },
+        {
+          "d": "2026-10-05",
+          "c": 483.05
+        },
+        {
+          "d": "2026-10-06",
+          "c": 488.13
+        },
+        {
+          "d": "2026-10-07",
+          "c": 512.92
+        },
+        {
+          "d": "2026-10-08",
+          "c": 526.42
+        },
+        {
+          "d": "2026-10-09",
+          "c": 529.14
+        },
+        {
+          "d": "2026-10-12",
+          "c": 528.8
+        },
+        {
+          "d": "2026-10-13",
+          "c": 527.45
+        },
+        {
+          "d": "2026-10-14",
+          "c": 523.96
+        },
+        {
+          "d": "2026-10-15",
+          "c": 533.37
+        },
+        {
+          "d": "2026-10-16",
+          "c": 530.46
+        },
+        {
+          "d": "2026-10-19",
+          "c": 518.76
+        },
+        {
+          "d": "2026-10-20",
+          "c": 526.08
+        }
+      ],
+      "earnings": "2026-10-22",
+      "headlines": [
+        {
+          "title": "Spotify is dancing around its AI 'slop and spam' problem",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2291954/spotify-is-dancing-around-its-ai-slop-and-spam-problem/",
+          "published": "2026-10-20T17:11:26+00:00"
+        },
+        {
+          "title": "Spotify launches paid podcast memberships with perks beyond bonus content",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/",
+          "published": "2026-10-20T12:00:00+00:00"
+        }
+      ],
+      "score": 56.2,
+      "brief": {
+        "what": "2 recent headlines mention Spotify. Latest: Spotify is dancing around its AI 'slop and spam' problem",
+        "why": "Signals: earnings, 3 headlines. The stock is down 0.3% this week and up 1.8% over the month.",
+        "watch": "Next earnings expected Thu Oct 22. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "IBM",
+      "name": "IBM",
+      "price": 241.92,
+      "changePct": 4.8,
+      "monthChangePct": 4.3,
+      "catalyst": "Earnings report",
+      "when": "Wed",
+      "signals": [
+        "Earnings"
+      ],
+      "spark": [
+        227.02,
+        230.78,
+        227.88,
+        234.12,
+        232.14,
+        236.39,
+        241.92
+      ],
+      "history": [
+        {
+          "d": "2026-09-21",
+          "c": 231.93
+        },
+        {
+          "d": "2026-09-22",
+          "c": 231.38
+        },
+        {
+          "d": "2026-09-23",
+          "c": 232.76
+        },
+        {
+          "d": "2026-09-24",
+          "c": 227.06
+        },
+        {
+          "d": "2026-09-25",
+          "c": 225.51
+        },
+        {
+          "d": "2026-09-28",
+          "c": 220.67
+        },
+        {
+          "d": "2026-09-29",
+          "c": 219.99
+        },
+        {
+          "d": "2026-09-30",
+          "c": 219.93
+        },
+        {
+          "d": "2026-10-01",
+          "c": 225.62
+        },
+        {
+          "d": "2026-10-02",
+          "c": 222.64
+        },
+        {
+          "d": "2026-10-05",
+          "c": 221.58
+        },
+        {
+          "d": "2026-10-06",
+          "c": 221.29
+        },
+        {
+          "d": "2026-10-07",
+          "c": 220.51
+        },
+        {
+          "d": "2026-10-08",
+          "c": 226.61
+        },
+        {
+          "d": "2026-10-09",
+          "c": 227.13
+        },
+        {
+          "d": "2026-10-12",
+          "c": 227.02
+        },
+        {
+          "d": "2026-10-13",
+          "c": 230.78
+        },
+        {
+          "d": "2026-10-14",
+          "c": 227.88
+        },
+        {
+          "d": "2026-10-15",
+          "c": 234.12
+        },
+        {
+          "d": "2026-10-16",
+          "c": 232.14
+        },
+        {
+          "d": "2026-10-19",
+          "c": 236.39
+        },
+        {
+          "d": "2026-10-20",
+          "c": 241.92
+        }
+      ],
+      "earnings": "2026-10-21",
+      "headlines": [],
+      "score": 50.2,
+      "brief": {
+        "what": "No major headlines about IBM in the last two weeks.",
+        "why": "Signals: earnings. The stock is up 4.8% this week and up 4.3% over the month.",
+        "watch": "Next earnings expected Wed Oct 21. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "price": 373.71,
+      "changePct": -0.4,
+      "monthChangePct": -0.4,
+      "catalyst": "Earnings report",
+      "when": "Wed",
+      "signals": [
+        "Earnings"
+      ],
+      "spark": [
+        378.03,
+        375.23,
+        367.16,
+        362.44,
+        354.72,
+        368.06,
+        373.71
+      ],
+      "history": [
+        {
+          "d": "2026-09-21",
+          "c": 375.3
+        },
+        {
+          "d": "2026-09-22",
+          "c": 378.9
+        },
+        {
+          "d": "2026-09-23",
+          "c": 380.12
+        },
+        {
+          "d": "2026-09-24",
+          "c": 377.94
+        },
+        {
+          "d": "2026-09-25",
+          "c": 372.11
+        },
+        {
+          "d": "2026-09-28",
+          "c": 357.45
+        },
+        {
+          "d": "2026-09-29",
+          "c": 352.84
+        },
+        {
+          "d": "2026-09-30",
+          "c": 354.81
+        },
+        {
+          "d": "2026-10-01",
+          "c": 354.11
+        },
+        {
+          "d": "2026-10-02",
+          "c": 370.59
+        },
+        {
+          "d": "2026-10-05",
+          "c": 378.73
+        },
+        {
+          "d": "2026-10-06",
+          "c": 380.68
+        },
+        {
+          "d": "2026-10-07",
+          "c": 377.81
+        },
+        {
+          "d": "2026-10-08",
+          "c": 375.0
+        },
+        {
+          "d": "2026-10-09",
+          "c": 382.7
+        },
+        {
+          "d": "2026-10-12",
+          "c": 378.03
+        },
+        {
+          "d": "2026-10-13",
+          "c": 375.23
+        },
+        {
+          "d": "2026-10-14",
+          "c": 367.16
+        },
+        {
+          "d": "2026-10-15",
+          "c": 362.44
+        },
+        {
+          "d": "2026-10-16",
+          "c": 354.72
+        },
+        {
+          "d": "2026-10-19",
+          "c": 368.06
+        },
+        {
+          "d": "2026-10-20",
+          "c": 373.71
+        }
+      ],
+      "earnings": "2026-10-21",
+      "headlines": [
+        {
+          "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
+          "published": "2026-10-20T21:30:24+00:00"
+        }
+      ],
+      "score": 45.8,
+      "brief": {
+        "what": "1 recent headline mentions Tesla. Latest: Tesla and SpaceX are discussing a possible merger, Musk says",
+        "why": "Signals: earnings. The stock is down 0.4% this week and down 0.4% over the month.",
+        "watch": "Next earnings expected Wed Oct 21. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
