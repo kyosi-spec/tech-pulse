@@ -1,319 +1,311 @@
 {
   "weekOf": "2026-10-19",
-  "updated": "2026-10-23T11:43:40+00:00",
+  "updated": "2026-10-23T22:40:04+00:00",
   "summary": [
-    "Tech leads the news with 11 of 25 stories. Top headline: GuliKit TT Pro review: The ideal Switch 2 controller for players on the go",
-    "Earnings this week from GOOGL, INTC, COIN, AMZN, MSFT.",
-    "Strongest rumor: Unauthorized AI agents are reportedly already accessing US bank accounts"
+    "Tech leads the news with 9 of 25 stories. Top headline: OpenAI says it's cutting off internet access for frontier model training",
+    "Earnings this week from GOOGL, COIN, MSFT, AMZN, INTC.",
+    "Strongest rumor: PHP warns it plans to release 2 emergency patches imminently"
   ],
   "stories": [
     {
-      "id": "7725bcde63",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-23T11:30:00+00:00",
-      "title": "GuliKit TT Pro review: The ideal Switch 2 controller for players on the go",
-      "summary": "A protective case and an accessory box make it easy to travel with the TT Pro.",
-      "url": "https://www.engadget.com/2294411/gulikit-tt-pro-review/",
-      "tickers": []
-    },
-    {
-      "id": "86c8cffaa5",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "Engadget",
-      "published": "2026-10-23T11:26:04+00:00",
-      "title": "Tesla says it will no longer release the Cybertruck in Australia and New Zealand",
-      "summary": "People who reserved the Cybertruck in Australia and New Zealand will soon get a refund, because Tesla now won't release it there.",
-      "url": "https://www.engadget.com/2295058/tesla-will-not-release-cybertruck-in-australia-and-new-zealand/",
-      "tickers": [
-        "TSLA"
-      ]
-    },
-    {
-      "id": "7b332deee7",
-      "topic": "Startups",
+      "id": "19eeca76d0",
+      "topic": "AI",
       "kind": "Founder",
-      "source": "The Verge",
-      "published": "2026-10-23T10:58:03+00:00",
-      "title": "Startup equips genetically enhanced dogs with Palmer Luckey’s military tech",
-      "summary": "A new Texas-based defense startup has a plan to improve military and police dogs in the US: it's going to genetically modify them and equip them with Anduril's military technology. Warhound is the brainchild of Anduril's Palmer Luckey and Ben Lamm, co-founder of Colossal…",
-      "url": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
-      "tickers": []
-    },
-    {
-      "id": "3559829d39",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-23T10:00:00+00:00",
-      "title": "No, the iPhone Duo isn’t a small phone",
-      "summary": "When we published our review of the iPhone Duo, I got a lot of hopeful questions from my fellow Mini fans who took note of the cover screen's Mini-ish 5.4-inch size. \"Is this… a small phone that turns into a tablet?\" they asked. And I'm sorry to be the bearer of bad news, but…",
-      "url": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "9e42ff588b",
-      "topic": "Tech",
-      "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-23T09:59:15+00:00",
-      "title": "Oura sues Ultrahuman (again) to block its latest smart ring from the US market",
-      "summary": "Oura has sued Ultrahuman again in a Texas federal court over its latest product, the Ring Pro.",
-      "url": "https://www.engadget.com/2295042/oura-sues-ultrahuman-yet-again-ring-pro/",
+      "published": "2026-10-23T22:37:02+00:00",
+      "title": "OpenAI says it's cutting off internet access for frontier model training",
+      "summary": "OpenAI says it will no longer allow frontier models to access the internet during training in an effort to put in new safety measures after a series of incidents.",
+      "url": "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/",
       "tickers": []
     },
     {
-      "id": "4829c15622",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-23T04:00:00+00:00",
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-      "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "tickers": [
-        "NVDA",
-        "UBER"
-      ]
-    },
-    {
-      "id": "3111e95034",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-23T00:52:01+00:00",
-      "title": "The foolishness of \"natural language programming\" (1978)",
-      "summary": "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html Comments URL: https://news.ycombinator.com/item?id=50203161 Points: 206 # Comments: 120",
-      "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-      "tickers": []
-    },
-    {
-      "id": "1f7d917e6d",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-23T00:45:37+00:00",
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "tickers": []
-    },
-    {
-      "id": "a21e0d35f4",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-23T00:09:58+00:00",
-      "title": "Etsy is cracking down on AI slop listings",
-      "summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that sellers are \"concerned about your…",
-      "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
-      "tickers": []
-    },
-    {
-      "id": "146b542bc2",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-10-22T23:50:41+00:00",
-      "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
-      "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
-      "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
-      "tickers": [
-        "META"
-      ]
-    },
-    {
-      "id": "932f1a1d1d",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-22T23:45:56+00:00",
-      "title": "Docker is weird",
-      "summary": "Article URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird Comments URL: https://news.ycombinator.com/item?id=50202681 Points: 549 # Comments: 237",
-      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-      "tickers": []
-    },
-    {
-      "id": "0e54f99832",
-      "topic": "Startups",
+      "id": "f2e82e75b8",
+      "topic": "Chips",
       "kind": "Founder",
       "source": "TechCrunch",
-      "published": "2026-10-22T23:15:00+00:00",
-      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-      "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
-      "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
-      "tickers": []
-    },
-    {
-      "id": "a941a0dbd1",
-      "topic": "Tech",
-      "kind": "Founder",
-      "source": "The Verge",
-      "published": "2026-10-22T23:02:43+00:00",
-      "title": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
-      "summary": "Spotify co-CEO Alex Norström confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that requires scanning the plan manager's phone. TechCrunch reports that in…",
-      "url": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
+      "published": "2026-10-23T21:59:19+00:00",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
       "tickers": [
-        "SPOT"
+        "NVDA"
       ]
     },
     {
-      "id": "2b9dd50c4d",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-22T23:01:18+00:00",
-      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "summary": "Article URL: https://edjefferson.com/localwiki/ Comments URL: https://news.ycombinator.com/item?id=50202285 Points: 505 # Comments: 118",
-      "url": "https://edjefferson.com/localwiki/",
-      "tickers": []
-    },
-    {
-      "id": "d2affd8416",
+      "id": "a88455976d",
       "topic": "Tech",
       "kind": "Company",
       "source": "The Verge",
-      "published": "2026-10-22T23:00:00+00:00",
-      "title": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
-      "summary": "Fortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives in 2028. My first reaction: The next Xbox is dead on arrival. It's DOA. My second…",
-      "url": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
+      "published": "2026-10-23T21:39:26+00:00",
+      "title": "Xbox’s first chief operating officer is out after just a few months",
+      "summary": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft…",
+      "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
       "tickers": [
         "MSFT"
       ]
     },
     {
-      "id": "3ff7cef303",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-22T22:54:43+00:00",
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "summary": "Article URL: https://www.anthropic.com/research/formal-verification Comments URL: https://news.ycombinator.com/item?id=50202217 Points: 358 # Comments: 213",
-      "url": "https://www.anthropic.com/research/formal-verification",
+      "id": "ce7367f24e",
+      "topic": "Startups",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-10-23T20:57:13+00:00",
+      "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+      "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
+      "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
       "tickers": []
     },
     {
-      "id": "93bc69584f",
+      "id": "8406198829",
+      "topic": "Tech",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-10-23T20:03:14+00:00",
+      "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+      "summary": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
+      "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
+      "tickers": []
+    },
+    {
+      "id": "ae3de49986",
       "topic": "Tech",
       "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-22T22:34:54+00:00",
-      "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
-      "summary": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
-      "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
-      "tickers": []
-    },
-    {
-      "id": "8a9f83e047",
-      "topic": "Startups",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-22T22:08:24+00:00",
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "tickers": []
-    },
-    {
-      "id": "2ad477e8fb",
-      "topic": "AI",
-      "kind": "Launch",
       "source": "The Verge",
-      "published": "2026-10-22T21:51:25+00:00",
-      "title": "Canva’s first AI image model plans designs before generating them",
-      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "published": "2026-10-23T19:35:15+00:00",
+      "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
+      "summary": "Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years, but the \"Netflix of Piracy\" software is still installed on millions of…",
+      "url": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
       "tickers": [
-        "MSFT",
+        "NFLX"
+      ]
+    },
+    {
+      "id": "0d1b814910",
+      "topic": "Security",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-23T19:34:15+00:00",
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "summary": "Article URL: https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update Comments URL: https://news.ycombinator.com/item?id=50214218 Points: 153 # Comments: 69",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "tickers": [
         "GOOGL"
       ]
     },
     {
-      "id": "b994c060de",
+      "id": "3445bee089",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-10-23T19:32:39+00:00",
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "tickers": []
+    },
+    {
+      "id": "c8ecda615f",
+      "topic": "Startups",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-10-23T19:25:13+00:00",
+      "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+      "summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
+      "url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
+      "tickers": []
+    },
+    {
+      "id": "d19d7aaf39",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-10-23T18:43:30+00:00",
+      "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
+      "summary": "My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning formula, albeit with a $30 price increase. Thankfully, the Soundcore…",
+      "url": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
+      "tickers": []
+    },
+    {
+      "id": "da73da17a7",
       "topic": "Tech",
       "kind": "Company",
       "source": "The Verge",
-      "published": "2026-10-22T21:30:39+00:00",
-      "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
-      "summary": "Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarter, smartphone…",
-      "url": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
+      "published": "2026-10-23T17:55:03+00:00",
+      "title": "Fi’s GPS-equipped dog trackers are on sale for 30 percent off",
+      "summary": "If your dog or cat is prone to getting lost, or you frequently go on adventures together, you can save 30 percent on Fi pet trackers through October 25th when you enter coupon code SCARY at checkout. The sale includes several satellite-connected trackers, including the Fi Ultra…",
+      "url": "https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale",
       "tickers": []
     },
     {
-      "id": "de384f2d47",
-      "topic": "AI",
+      "id": "c6dc038170",
+      "topic": "Tech",
       "kind": "Company",
       "source": "The Verge",
-      "published": "2026-10-22T21:15:16+00:00",
-      "title": "Fall 2026 earnings watch",
-      "summary": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for…",
-      "url": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
+      "published": "2026-10-23T17:35:15+00:00",
+      "title": "Elon Musk’s dangerous grip on outer space",
+      "summary": "Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian army's interceptors, which counter Russian drones carrying bombs, suddenly stopped…",
+      "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
       "tickers": []
     },
     {
-      "id": "8f865127b1",
-      "topic": "AI",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-22T21:05:05+00:00",
-      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
-      "summary": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
-      "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
-      "tickers": []
+      "id": "0b28000d06",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-23T17:00:18+00:00",
+      "title": "The iPhone Duo should have been an iPad",
+      "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David…",
+      "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+      "tickers": [
+        "AAPL"
+      ]
     },
     {
-      "id": "8dd8dd2034",
+      "id": "a699ea3553",
       "topic": "AI",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-10-22T21:03:55+00:00",
-      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-      "summary": "Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker? Couldn't OpenAI or Anthropic make a lot more money by just starting companies themselves that leverage the models and building their…",
-      "url": "https://news.ycombinator.com/item?id=50200997",
+      "published": "2026-10-23T16:59:08+00:00",
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "summary": "https://www.kimi.com/code/docs/en/kimi-code/models.html https://artificialanalysis.ai/models/kimi-k3-1-pro https://www.modelcompare.ai/blog/china-open-source-ai Comments URL: https://news.ycombinator.com/item?id=50212065 Points: 604 # Comments: 366",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
       "tickers": []
     },
     {
-      "id": "552d0ad403",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-22T20:57:17+00:00",
-      "title": "A new subscription service promises an evolving collection of 'bold and bizarre' indie games",
-      "summary": "Publisher Pantaloon says the Playbill won't feature games that use generative AI in any way.",
-      "url": "https://www.engadget.com/2294854/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games/",
-      "tickers": []
-    },
-    {
-      "id": "b6245c3993",
-      "topic": "AI",
+      "id": "333cb0d6da",
+      "topic": "Devices",
       "kind": "Company",
       "source": "The Verge",
-      "published": "2026-10-22T20:32:05+00:00",
-      "title": "Meta’s AI could still scrape news sites, legal experts say",
-      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your…",
-      "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "published": "2026-10-23T16:37:03+00:00",
+      "title": "The first broken iPhone Duos are here",
+      "summary": "The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inner screen along the hinge…",
+      "url": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "2986f76ed0",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-10-23T16:26:29+00:00",
+      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+      "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
+      "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
       "tickers": []
+    },
+    {
+      "id": "7cfd10fcd6",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-23T16:21:50+00:00",
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "summary": "Article URL: https://blog.calif.io/p/iphone Comments URL: https://news.ycombinator.com/item?id=50211474 Points: 665 # Comments: 440",
+      "url": "https://blog.calif.io/p/iphone",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "ec51b139ad",
+      "topic": "Chips",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-10-23T16:20:28+00:00",
+      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
+      "summary": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
+      "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
+      "tickers": []
+    },
+    {
+      "id": "31c45c6c5f",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-23T16:09:39+00:00",
+      "title": "Meta is charging government and nonprofit pages to post links on Facebook",
+      "summary": "The new restrictions are a test which is explicitly not supposed to impact these entities.",
+      "url": "https://www.engadget.com/2295422/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/",
+      "tickers": [
+        "META"
+      ]
+    },
+    {
+      "id": "3f0df2a717",
+      "topic": "Startups",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-23T15:47:03+00:00",
+      "title": "Apple Music has a fun Easter egg for the iPod's 25th anniversary",
+      "summary": "Time to dust off the click wheel.",
+      "url": "https://www.engadget.com/2295392/apple-music-has-a-fun-easter-egg-for-the-ipods-25th-anniversary/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "44e14dce31",
+      "topic": "Security",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-10-23T15:00:09+00:00",
+      "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
+      "summary": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
+      "url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
+      "tickers": []
+    },
+    {
+      "id": "3253b1f479",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Wired",
+      "published": "2026-10-23T15:00:00+00:00",
+      "title": "How Many Billions Would It Take to Hold Meta Accountable?",
+      "summary": "Meta got hit this week with its biggest fine yet, the latest in a mounting pile of court-ordered payments.",
+      "url": "https://www.wired.com/story/how-many-billions-would-it-take-to-hold-meta-accountable/",
+      "tickers": []
+    },
+    {
+      "id": "7a177a6036",
+      "topic": "Policy",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-23T13:12:47+00:00",
+      "title": "Greece enacts social media ban for kids under 15",
+      "summary": "Greece has passed a social media ban for kids under 15 after after announcing the measure earlier this year.",
+      "url": "https://www.engadget.com/2295143/greece-enacts-social-media-ban-for-kids-under-15/",
+      "tickers": []
+    },
+    {
+      "id": "edf974c263",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-23T12:28:47+00:00",
+      "title": "Apple Music 404 Not Found",
+      "summary": "https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde... Comments URL: https://news.ycombinator.com/item?id=50207910 Points: 443 # Comments: 157",
+      "url": "https://music.apple.com/this-url-doesnt-exist",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "800932690c",
+      "topic": "Chips",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-23T12:00:00+00:00",
+      "title": "ASUS ProArt P16 review: A sleek showcase for NVIDIA's RTX Spark",
+      "summary": "NVIDIA's RTX Spark platform is off to a good start, but the ProArt P16 is really only meant for AI fanatics.",
+      "url": "https://www.engadget.com/2294849/asus-proart-p16-rtx-spark-review/",
+      "tickers": [
+        "NVDA"
+      ]
     }
   ],
   "rumors": [
-    {
-      "id": "d1ff3ee67c",
-      "topic": "AI",
-      "status": "Just surfaced",
-      "title": "Unauthorized AI agents are reportedly already accessing US bank accounts",
-      "detail": "Sources at several banks have indicated that they have been taking actions independent of user instructions.",
-      "url": "https://www.engadget.com/2294523/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/",
-      "sources": 1,
-      "mentions": 3,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 20
-    },
     {
       "id": "b87b2ee891",
       "topic": "Tech",
@@ -331,28 +323,28 @@
     {
       "id": "cf747dfb47",
       "topic": "Tech",
-      "status": "Just surfaced",
+      "status": "Unconfirmed",
       "title": "Telehealth Giant Hims Wants to Test Every Dude for Low Testosterone",
       "detail": "The company plans to offer testosterone replacement therapy, marking its first foray into prescribing controlled substances.",
       "url": "https://www.wired.com/story/telehealth-giant-hims-testosterone-therapy/",
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 1,
+      "days": 2,
       "tickers": [],
       "score": 15
     },
     {
-      "id": "72009792b2",
-      "topic": "Tech",
+      "id": "d1ff3ee67c",
+      "topic": "AI",
       "status": "Just surfaced",
-      "title": "Elon Musk made a $1B investment in Skydance, report says",
-      "detail": "The investment will provide a much-needed financial boost as the company seeks to cut costs and lift its stock price.",
-      "url": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
+      "title": "Unauthorized AI agents are reportedly already accessing US bank accounts",
+      "detail": "Sources at several banks have indicated that they have been taking actions independent of user instructions.",
+      "url": "https://www.engadget.com/2294523/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/",
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 0,
+      "days": 1,
       "tickers": [],
       "score": 15
     },
@@ -366,44 +358,16 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 0,
+      "days": 1,
       "tickers": [],
       "score": 15
     },
     {
-      "id": "a2c59c1869",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Meta turns Muse sharing back on",
-      "detail": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan…",
-      "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "d2affd8416",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
-      "detail": "Fortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives in 2028. My first reaction: The next Xbox is dead on arrival. It's DOA. My second…",
-      "url": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "4829c15622",
+      "id": "093130a676",
       "topic": "AI",
       "status": "Just surfaced",
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-      "detail": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+      "detail": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
       "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
       "sources": 1,
       "mentions": 1,
@@ -414,36 +378,62 @@
         "UBER"
       ],
       "score": 15
+    },
+    {
+      "id": "d21de4f17e",
+      "topic": "AI",
+      "status": "Just surfaced",
+      "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
+      "detail": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
+      "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 15
+    },
+    {
+      "id": "7159ffcb32",
+      "topic": "Security",
+      "status": "Just surfaced",
+      "title": "Google quietly changes privacy policy so your Gmail and Photos could be used in targeted ads",
+      "detail": "submitted by /u/Emilia-Rose [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1xdpddf/google_quietly_changes_privacy_policy_so_your/",
+      "sources": 1,
+      "mentions": 4,
+      "credible": 0,
+      "days": 0,
+      "tickers": [
+        "GOOGL"
+      ],
+      "score": 14
     }
   ],
   "watchlist": [
     {
       "ticker": "GOOGL",
       "name": "Alphabet",
-      "price": 324.22,
-      "changePct": -7.2,
-      "monthChangePct": -4.0,
+      "price": 320.21,
+      "changePct": -6.0,
+      "monthChangePct": -6.5,
       "catalyst": "Earnings report",
       "when": "Wed",
       "signals": [
         "Earnings",
-        "3 headlines",
+        "7 headlines",
         "Big price move"
       ],
       "spark": [
-        347.64,
         349.22,
         340.59,
         344.18,
         340.28,
         334.76,
-        324.22
+        324.22,
+        320.21
       ],
       "history": [
-        {
-          "d": "2026-09-23",
-          "c": 337.83
-        },
         {
           "d": "2026-09-24",
           "c": 342.36
@@ -527,145 +517,35 @@
         {
           "d": "2026-10-22",
           "c": 324.22
+        },
+        {
+          "d": "2026-10-23",
+          "c": 320.21
         }
       ],
       "earnings": "2026-10-28",
-      "headlines": [],
-      "score": 70.1,
-      "brief": {
-        "what": "No major headlines about Alphabet in the last two weeks.",
-        "why": "Signals: earnings, 3 headlines, big price move. The stock is down 7.2% this week and down 4.0% over the month.",
-        "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "INTC",
-      "name": "Intel",
-      "price": 85.49,
-      "changePct": -10.4,
-      "monthChangePct": -30.3,
-      "catalyst": "Earnings report",
-      "when": "Thu",
-      "signals": [
-        "Earnings",
-        "Big price move"
-      ],
-      "spark": [
-        98.12,
-        95.37,
-        89.85,
-        92.03,
-        91.69,
-        92.96,
-        85.49
-      ],
-      "history": [
+      "headlines": [
         {
-          "d": "2026-09-23",
-          "c": 122.6
-        },
-        {
-          "d": "2026-09-24",
-          "c": 127.39
-        },
-        {
-          "d": "2026-09-25",
-          "c": 123.0
-        },
-        {
-          "d": "2026-09-28",
-          "c": 116.03
-        },
-        {
-          "d": "2026-09-29",
-          "c": 115.93
-        },
-        {
-          "d": "2026-09-30",
-          "c": 120.23
-        },
-        {
-          "d": "2026-10-01",
-          "c": 120.0
-        },
-        {
-          "d": "2026-10-02",
-          "c": 119.33
-        },
-        {
-          "d": "2026-10-05",
-          "c": 116.19
-        },
-        {
-          "d": "2026-10-06",
-          "c": 112.5
-        },
-        {
-          "d": "2026-10-07",
-          "c": 113.12
-        },
-        {
-          "d": "2026-10-08",
-          "c": 107.08
-        },
-        {
-          "d": "2026-10-09",
-          "c": 104.7
-        },
-        {
-          "d": "2026-10-12",
-          "c": 101.35
-        },
-        {
-          "d": "2026-10-13",
-          "c": 102.81
-        },
-        {
-          "d": "2026-10-14",
-          "c": 98.12
-        },
-        {
-          "d": "2026-10-15",
-          "c": 95.37
-        },
-        {
-          "d": "2026-10-16",
-          "c": 89.85
-        },
-        {
-          "d": "2026-10-19",
-          "c": 92.03
-        },
-        {
-          "d": "2026-10-20",
-          "c": 91.69
-        },
-        {
-          "d": "2026-10-21",
-          "c": 92.96
-        },
-        {
-          "d": "2026-10-22",
-          "c": 85.49
+          "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+          "source": "Hacker News",
+          "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+          "published": "2026-10-23T19:34:15+00:00"
         }
       ],
-      "earnings": "2026-10-29",
-      "headlines": [],
-      "score": 61.8,
+      "score": 82.0,
       "brief": {
-        "what": "No major headlines about Intel in the last two weeks.",
-        "why": "Signals: earnings, big price move. The stock is down 10.4% this week and down 30.3% over the month.",
-        "watch": "Next earnings expected Thu Oct 29. Results and guidance usually move the stock most.",
+        "what": "1 recent headline mentions Alphabet. Latest: Now Google says it might use your Gmail and Google Photos data to target ads There is also a rumor making the rounds: Google quietly changes privacy policy so your Gmail and Photos could be used in targeted ads",
+        "why": "Signals: earnings, 7 headlines, big price move. The stock is down 6.0% this week and down 6.5% over the month.",
+        "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 169.09,
-      "changePct": -8.0,
-      "monthChangePct": -14.7,
+      "price": 164.45,
+      "changePct": -5.0,
+      "monthChangePct": -17.4,
       "catalyst": "Earnings report",
       "when": "Thu",
       "signals": [
@@ -673,19 +553,15 @@
         "Big price move"
       ],
       "spark": [
-        172.89,
         183.81,
         173.16,
         168.45,
         170.85,
         177.08,
-        169.09
+        169.09,
+        164.45
       ],
       "history": [
-        {
-          "d": "2026-09-23",
-          "c": 198.13
-        },
         {
           "d": "2026-09-24",
           "c": 199.21
@@ -769,148 +645,18 @@
         {
           "d": "2026-10-22",
           "c": 169.09
+        },
+        {
+          "d": "2026-10-23",
+          "c": 164.45
         }
       ],
       "earnings": "2026-10-29",
       "headlines": [],
-      "score": 56.0,
+      "score": 50.1,
       "brief": {
         "what": "No major headlines about Coinbase in the last two weeks.",
-        "why": "Signals: earnings, big price move. The stock is down 8.0% this week and down 14.7% over the month.",
-        "watch": "Next earnings expected Thu Oct 29. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "price": 250.38,
-      "changePct": -1.7,
-      "monthChangePct": 0.4,
-      "catalyst": "Earnings report",
-      "when": "Thu",
-      "signals": [
-        "Earnings",
-        "2 headlines"
-      ],
-      "spark": [
-        254.08,
-        254.76,
-        250.0,
-        262.45,
-        262.63,
-        262.37,
-        250.38
-      ],
-      "history": [
-        {
-          "d": "2026-09-23",
-          "c": 249.27
-        },
-        {
-          "d": "2026-09-24",
-          "c": 249.38
-        },
-        {
-          "d": "2026-09-25",
-          "c": 249.67
-        },
-        {
-          "d": "2026-09-28",
-          "c": 246.15
-        },
-        {
-          "d": "2026-09-29",
-          "c": 246.67
-        },
-        {
-          "d": "2026-09-30",
-          "c": 249.15
-        },
-        {
-          "d": "2026-10-01",
-          "c": 248.23
-        },
-        {
-          "d": "2026-10-02",
-          "c": 251.52
-        },
-        {
-          "d": "2026-10-05",
-          "c": 251.4
-        },
-        {
-          "d": "2026-10-06",
-          "c": 256.29
-        },
-        {
-          "d": "2026-10-07",
-          "c": 259.92
-        },
-        {
-          "d": "2026-10-08",
-          "c": 254.06
-        },
-        {
-          "d": "2026-10-09",
-          "c": 262.43
-        },
-        {
-          "d": "2026-10-12",
-          "c": 259.53
-        },
-        {
-          "d": "2026-10-13",
-          "c": 258.58
-        },
-        {
-          "d": "2026-10-14",
-          "c": 254.08
-        },
-        {
-          "d": "2026-10-15",
-          "c": 254.76
-        },
-        {
-          "d": "2026-10-16",
-          "c": 250.0
-        },
-        {
-          "d": "2026-10-19",
-          "c": 262.45
-        },
-        {
-          "d": "2026-10-20",
-          "c": 262.63
-        },
-        {
-          "d": "2026-10-21",
-          "c": 262.37
-        },
-        {
-          "d": "2026-10-22",
-          "c": 250.38
-        }
-      ],
-      "earnings": "2026-10-29",
-      "headlines": [
-        {
-          "title": "Amazon rebrands Kindle Unlimited to Kindle+",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2294533/amazon-rebrands-kindle-unlimited-to-kindle/",
-          "published": "2026-10-22T18:10:00+00:00"
-        },
-        {
-          "title": "Roku's Pro Series LX OLED TVs are now available on Amazon",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2293840/roku-pro-series-lx-oled-tvs-at-amazon/",
-          "published": "2026-10-22T13:00:00+00:00"
-        }
-      ],
-      "score": 55.3,
-      "brief": {
-        "what": "2 recent headlines mention Amazon. Latest: Amazon rebrands Kindle Unlimited to Kindle+",
-        "why": "Signals: earnings, 2 headlines. The stock is down 1.7% this week and up 0.4% over the month.",
+        "why": "Signals: earnings, big price move. The stock is down 5.0% this week and down 17.4% over the month.",
         "watch": "Next earnings expected Thu Oct 29. Results and guidance usually move the stock most.",
         "ai": false
       }
@@ -918,28 +664,24 @@
     {
       "ticker": "MSFT",
       "name": "Microsoft",
-      "price": 521.08,
-      "changePct": -3.4,
-      "monthChangePct": 4.1,
+      "price": 524.51,
+      "changePct": -0.9,
+      "monthChangePct": 5.3,
       "catalyst": "Earnings report",
       "when": "Wed",
       "signals": [
         "Earnings"
       ],
       "spark": [
-        533.69,
         539.44,
         529.05,
         533.52,
         531.87,
         532.95,
-        521.08
+        521.08,
+        524.51
       ],
       "history": [
-        {
-          "d": "2026-09-23",
-          "c": 500.59
-        },
         {
           "d": "2026-09-24",
           "c": 497.93
@@ -1023,22 +765,266 @@
         {
           "d": "2026-10-22",
           "c": 521.08
+        },
+        {
+          "d": "2026-10-23",
+          "c": 524.51
         }
       ],
       "earnings": "2026-10-28",
-      "headlines": [
+      "headlines": [],
+      "score": 46.7,
+      "brief": {
+        "what": "No major headlines about Microsoft in the last two weeks.",
+        "why": "Signals: earnings. The stock is down 0.9% this week and up 5.3% over the month.",
+        "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "price": 248.0,
+      "changePct": -0.8,
+      "monthChangePct": -0.6,
+      "catalyst": "Earnings report",
+      "when": "Thu",
+      "signals": [
+        "Earnings"
+      ],
+      "spark": [
+        254.76,
+        250.0,
+        262.45,
+        262.63,
+        262.37,
+        250.38,
+        248.0
+      ],
+      "history": [
         {
-          "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-          "published": "2026-10-22T18:43:53+00:00"
+          "d": "2026-09-24",
+          "c": 249.38
+        },
+        {
+          "d": "2026-09-25",
+          "c": 249.67
+        },
+        {
+          "d": "2026-09-28",
+          "c": 246.15
+        },
+        {
+          "d": "2026-09-29",
+          "c": 246.67
+        },
+        {
+          "d": "2026-09-30",
+          "c": 249.15
+        },
+        {
+          "d": "2026-10-01",
+          "c": 248.23
+        },
+        {
+          "d": "2026-10-02",
+          "c": 251.52
+        },
+        {
+          "d": "2026-10-05",
+          "c": 251.4
+        },
+        {
+          "d": "2026-10-06",
+          "c": 256.29
+        },
+        {
+          "d": "2026-10-07",
+          "c": 259.92
+        },
+        {
+          "d": "2026-10-08",
+          "c": 254.06
+        },
+        {
+          "d": "2026-10-09",
+          "c": 262.43
+        },
+        {
+          "d": "2026-10-12",
+          "c": 259.53
+        },
+        {
+          "d": "2026-10-13",
+          "c": 258.58
+        },
+        {
+          "d": "2026-10-14",
+          "c": 254.08
+        },
+        {
+          "d": "2026-10-15",
+          "c": 254.76
+        },
+        {
+          "d": "2026-10-16",
+          "c": 250.0
+        },
+        {
+          "d": "2026-10-19",
+          "c": 262.45
+        },
+        {
+          "d": "2026-10-20",
+          "c": 262.63
+        },
+        {
+          "d": "2026-10-21",
+          "c": 262.37
+        },
+        {
+          "d": "2026-10-22",
+          "c": 250.38
+        },
+        {
+          "d": "2026-10-23",
+          "c": 248.0
         }
       ],
-      "score": 51.8,
+      "earnings": "2026-10-29",
+      "headlines": [
+        {
+          "title": "Amazon rebrands Kindle Unlimited to Kindle+",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2294533/amazon-rebrands-kindle-unlimited-to-kindle/",
+          "published": "2026-10-22T18:10:00+00:00"
+        }
+      ],
+      "score": 46.6,
       "brief": {
-        "what": "1 recent headline mentions Microsoft. Latest: Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-        "why": "Signals: earnings. The stock is down 3.4% this week and up 4.1% over the month.",
-        "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
+        "what": "1 recent headline mentions Amazon. Latest: Amazon rebrands Kindle Unlimited to Kindle+",
+        "why": "Signals: earnings. The stock is down 0.8% this week and down 0.6% over the month.",
+        "watch": "Next earnings expected Thu Oct 29. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel",
+      "price": 86.96,
+      "changePct": -3.2,
+      "monthChangePct": -31.7,
+      "catalyst": "Earnings report",
+      "when": "Thu",
+      "signals": [
+        "Earnings"
+      ],
+      "spark": [
+        95.37,
+        89.85,
+        92.03,
+        91.69,
+        92.96,
+        85.49,
+        86.96
+      ],
+      "history": [
+        {
+          "d": "2026-09-24",
+          "c": 127.39
+        },
+        {
+          "d": "2026-09-25",
+          "c": 123.0
+        },
+        {
+          "d": "2026-09-28",
+          "c": 116.03
+        },
+        {
+          "d": "2026-09-29",
+          "c": 115.93
+        },
+        {
+          "d": "2026-09-30",
+          "c": 120.23
+        },
+        {
+          "d": "2026-10-01",
+          "c": 120.0
+        },
+        {
+          "d": "2026-10-02",
+          "c": 119.33
+        },
+        {
+          "d": "2026-10-05",
+          "c": 116.19
+        },
+        {
+          "d": "2026-10-06",
+          "c": 112.5
+        },
+        {
+          "d": "2026-10-07",
+          "c": 113.12
+        },
+        {
+          "d": "2026-10-08",
+          "c": 107.08
+        },
+        {
+          "d": "2026-10-09",
+          "c": 104.7
+        },
+        {
+          "d": "2026-10-12",
+          "c": 101.35
+        },
+        {
+          "d": "2026-10-13",
+          "c": 102.81
+        },
+        {
+          "d": "2026-10-14",
+          "c": 98.12
+        },
+        {
+          "d": "2026-10-15",
+          "c": 95.37
+        },
+        {
+          "d": "2026-10-16",
+          "c": 89.85
+        },
+        {
+          "d": "2026-10-19",
+          "c": 92.03
+        },
+        {
+          "d": "2026-10-20",
+          "c": 91.69
+        },
+        {
+          "d": "2026-10-21",
+          "c": 92.96
+        },
+        {
+          "d": "2026-10-22",
+          "c": 85.49
+        },
+        {
+          "d": "2026-10-23",
+          "c": 86.96
+        }
+      ],
+      "earnings": "2026-10-29",
+      "headlines": [],
+      "score": 46.4,
+      "brief": {
+        "what": "No major headlines about Intel in the last two weeks.",
+        "why": "Signals: earnings. The stock is down 3.2% this week and down 31.7% over the month.",
+        "watch": "Next earnings expected Thu Oct 29. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
