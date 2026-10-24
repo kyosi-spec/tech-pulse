@@ -1,12 +1,89 @@
 {
   "weekOf": "2026-10-19",
-  "updated": "2026-10-23T22:40:04+00:00",
+  "updated": "2026-10-24T11:39:07+00:00",
   "summary": [
-    "Tech leads the news with 9 of 25 stories. Top headline: OpenAI says it's cutting off internet access for frontier model training",
-    "Earnings this week from GOOGL, COIN, MSFT, AMZN, INTC.",
+    "AI leads the news with 9 of 25 stories. Top headline: Peak on consoles, hockey roguelites and other new indie games worth checking out",
+    "Earnings this week from GOOGL, AMZN, COIN, MSFT.",
     "Strongest rumor: PHP warns it plans to release 2 emergency patches imminently"
   ],
   "stories": [
+    {
+      "id": "b7324eb54b",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-24T11:30:00+00:00",
+      "title": "Peak on consoles, hockey roguelites and other new indie games worth checking out",
+      "summary": "Steam Next Fest means there are a lot of weird new games in our indie gaming roundup this week.",
+      "url": "https://www.engadget.com/2295856/peak-on-consoles-hockey-roguelites-and-other-new-indie-games-worth-checking-out/",
+      "tickers": []
+    },
+    {
+      "id": "516137ebe5",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-24T10:18:15+00:00",
+      "title": "Meta is delaying its controversial new business terms amid scraping concerns",
+      "summary": "Meta drew flak for an upcoming change to its business terms that would allow it to scrape business accounts' content for AI training.",
+      "url": "https://www.engadget.com/2296124/meta-delaying-controversial-business-terms-scraping-concerns/",
+      "tickers": []
+    },
+    {
+      "id": "e8439c523c",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-24T05:49:57+00:00",
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "summary": "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/ Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 192 # Comments: 49",
+      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "tickers": []
+    },
+    {
+      "id": "8b580cf192",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "Hacker News",
+      "published": "2026-10-24T04:49:58+00:00",
+      "title": "OBS Studio 33",
+      "summary": "Article URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0 Comments URL: https://news.ycombinator.com/item?id=50218430 Points: 182 # Comments: 55",
+      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "tickers": []
+    },
+    {
+      "id": "da72971013",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-24T01:16:58+00:00",
+      "title": "Twelve years of distributed SQLite",
+      "summary": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 223 # Comments: 33",
+      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "tickers": []
+    },
+    {
+      "id": "516b43d03a",
+      "topic": "Startups",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-10-23T23:07:45+00:00",
+      "title": "Startups don’t need to go viral to win customers",
+      "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "tickers": []
+    },
+    {
+      "id": "e1788414d5",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-23T23:05:49+00:00",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "tickers": []
+    },
     {
       "id": "19eeca76d0",
       "topic": "AI",
@@ -45,6 +122,17 @@
       ]
     },
     {
+      "id": "42f3c50ba2",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-23T21:21:47+00:00",
+      "title": "CVE Tracker",
+      "summary": "Article URL: https://cve.0xosprey.com/ Comments URL: https://news.ycombinator.com/item?id=50215530 Points: 174 # Comments: 67",
+      "url": "https://cve.0xosprey.com/",
+      "tickers": []
+    },
+    {
       "id": "ce7367f24e",
       "topic": "Startups",
       "kind": "Founder",
@@ -80,19 +168,6 @@
       ]
     },
     {
-      "id": "0d1b814910",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-23T19:34:15+00:00",
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "summary": "Article URL: https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update Comments URL: https://news.ycombinator.com/item?id=50214218 Points: 153 # Comments: 69",
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
       "id": "3445bee089",
       "topic": "AI",
       "kind": "Launch",
@@ -112,6 +187,17 @@
       "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
       "summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
       "url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
+      "tickers": []
+    },
+    {
+      "id": "ac05277323",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-23T19:09:54+00:00",
+      "title": "Dessa: Conversation Model trained only on speech",
+      "summary": "Article URL: https://block.xyz/dessa Comments URL: https://news.ycombinator.com/item?id=50213925 Points: 398 # Comments: 146",
+      "url": "https://block.xyz/dessa",
       "tickers": []
     },
     {
@@ -167,9 +253,22 @@
       "source": "Hacker News",
       "published": "2026-10-23T16:59:08+00:00",
       "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "summary": "https://www.kimi.com/code/docs/en/kimi-code/models.html https://artificialanalysis.ai/models/kimi-k3-1-pro https://www.modelcompare.ai/blog/china-open-source-ai Comments URL: https://news.ycombinator.com/item?id=50212065 Points: 604 # Comments: 366",
+      "summary": "https://www.kimi.com/code/docs/en/kimi-code/models.html https://artificialanalysis.ai/models/kimi-k3-1-pro https://www.modelcompare.ai/blog/china-open-source-ai Comments URL: https://news.ycombinator.com/item?id=50212065 Points: 932 # Comments: 554",
       "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
       "tickers": []
+    },
+    {
+      "id": "0d1b814910",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-23T16:52:55+00:00",
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or…",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "tickers": [
+        "GOOGL"
+      ]
     },
     {
       "id": "333cb0d6da",
@@ -194,115 +293,6 @@
       "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
       "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
       "tickers": []
-    },
-    {
-      "id": "7cfd10fcd6",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-23T16:21:50+00:00",
-      "title": "Today, we hacked what we'd set out to hack: the iPhone",
-      "summary": "Article URL: https://blog.calif.io/p/iphone Comments URL: https://news.ycombinator.com/item?id=50211474 Points: 665 # Comments: 440",
-      "url": "https://blog.calif.io/p/iphone",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "ec51b139ad",
-      "topic": "Chips",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-23T16:20:28+00:00",
-      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
-      "summary": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
-      "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
-      "tickers": []
-    },
-    {
-      "id": "31c45c6c5f",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-23T16:09:39+00:00",
-      "title": "Meta is charging government and nonprofit pages to post links on Facebook",
-      "summary": "The new restrictions are a test which is explicitly not supposed to impact these entities.",
-      "url": "https://www.engadget.com/2295422/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/",
-      "tickers": [
-        "META"
-      ]
-    },
-    {
-      "id": "3f0df2a717",
-      "topic": "Startups",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-23T15:47:03+00:00",
-      "title": "Apple Music has a fun Easter egg for the iPod's 25th anniversary",
-      "summary": "Time to dust off the click wheel.",
-      "url": "https://www.engadget.com/2295392/apple-music-has-a-fun-easter-egg-for-the-ipods-25th-anniversary/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "44e14dce31",
-      "topic": "Security",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-23T15:00:09+00:00",
-      "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
-      "summary": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
-      "url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
-      "tickers": []
-    },
-    {
-      "id": "3253b1f479",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Wired",
-      "published": "2026-10-23T15:00:00+00:00",
-      "title": "How Many Billions Would It Take to Hold Meta Accountable?",
-      "summary": "Meta got hit this week with its biggest fine yet, the latest in a mounting pile of court-ordered payments.",
-      "url": "https://www.wired.com/story/how-many-billions-would-it-take-to-hold-meta-accountable/",
-      "tickers": []
-    },
-    {
-      "id": "7a177a6036",
-      "topic": "Policy",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-23T13:12:47+00:00",
-      "title": "Greece enacts social media ban for kids under 15",
-      "summary": "Greece has passed a social media ban for kids under 15 after after announcing the measure earlier this year.",
-      "url": "https://www.engadget.com/2295143/greece-enacts-social-media-ban-for-kids-under-15/",
-      "tickers": []
-    },
-    {
-      "id": "edf974c263",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-23T12:28:47+00:00",
-      "title": "Apple Music 404 Not Found",
-      "summary": "https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde... Comments URL: https://news.ycombinator.com/item?id=50207910 Points: 443 # Comments: 157",
-      "url": "https://music.apple.com/this-url-doesnt-exist",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "800932690c",
-      "topic": "Chips",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-23T12:00:00+00:00",
-      "title": "ASUS ProArt P16 review: A sleek showcase for NVIDIA's RTX Spark",
-      "summary": "NVIDIA's RTX Spark platform is off to a good start, but the ProArt P16 is really only meant for AI fanatics.",
-      "url": "https://www.engadget.com/2294849/asus-proart-p16-rtx-spark-review/",
-      "tickers": [
-        "NVDA"
-      ]
     }
   ],
   "rumors": [
@@ -316,7 +306,7 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 2,
+      "days": 3,
       "tickers": [],
       "score": 15
     },
@@ -331,20 +321,6 @@
       "mentions": 1,
       "credible": 1,
       "days": 2,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "d1ff3ee67c",
-      "topic": "AI",
-      "status": "Just surfaced",
-      "title": "Unauthorized AI agents are reportedly already accessing US bank accounts",
-      "detail": "Sources at several banks have indicated that they have been taking actions independent of user instructions.",
-      "url": "https://www.engadget.com/2294523/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 1,
       "tickers": [],
       "score": 15
     },
@@ -372,25 +348,11 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 0,
+      "days": 1,
       "tickers": [
         "NVDA",
         "UBER"
       ],
-      "score": 15
-    },
-    {
-      "id": "d21de4f17e",
-      "topic": "AI",
-      "status": "Just surfaced",
-      "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
-      "detail": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
-      "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
       "score": 15
     },
     {
@@ -401,13 +363,29 @@
       "detail": "submitted by /u/Emilia-Rose [link] [comments]",
       "url": "https://www.reddit.com/r/technology/comments/1xdpddf/google_quietly_changes_privacy_policy_so_your/",
       "sources": 1,
-      "mentions": 4,
+      "mentions": 2,
       "credible": 0,
       "days": 0,
       "tickers": [
         "GOOGL"
       ],
-      "score": 14
+      "score": 11
+    },
+    {
+      "id": "f52fa18aaa",
+      "topic": "AI",
+      "status": "Just surfaced",
+      "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development",
+      "detail": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1xdebbp/amazon_bows_to_local_backlash_over_ai_data/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 0,
+      "days": 0,
+      "tickers": [
+        "AMZN"
+      ],
+      "score": 8
     }
   ],
   "watchlist": [
@@ -421,7 +399,7 @@
       "when": "Wed",
       "signals": [
         "Earnings",
-        "7 headlines",
+        "5 headlines",
         "Big price move"
       ],
       "spark": [
@@ -527,16 +505,144 @@
       "headlines": [
         {
           "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-          "source": "Hacker News",
+          "source": "The Verge",
           "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-          "published": "2026-10-23T19:34:15+00:00"
+          "published": "2026-10-23T16:52:55+00:00"
         }
       ],
-      "score": 82.0,
+      "score": 77.0,
       "brief": {
         "what": "1 recent headline mentions Alphabet. Latest: Now Google says it might use your Gmail and Google Photos data to target ads There is also a rumor making the rounds: Google quietly changes privacy policy so your Gmail and Photos could be used in targeted ads",
-        "why": "Signals: earnings, 7 headlines, big price move. The stock is down 6.0% this week and down 6.5% over the month.",
+        "why": "Signals: earnings, 5 headlines, big price move. The stock is down 6.0% this week and down 6.5% over the month.",
         "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "price": 248.0,
+      "changePct": -0.8,
+      "monthChangePct": -0.6,
+      "catalyst": "Earnings report",
+      "when": "Thu",
+      "signals": [
+        "Earnings",
+        "2 headlines"
+      ],
+      "spark": [
+        254.76,
+        250.0,
+        262.45,
+        262.63,
+        262.37,
+        250.38,
+        248.0
+      ],
+      "history": [
+        {
+          "d": "2026-09-24",
+          "c": 249.38
+        },
+        {
+          "d": "2026-09-25",
+          "c": 249.67
+        },
+        {
+          "d": "2026-09-28",
+          "c": 246.15
+        },
+        {
+          "d": "2026-09-29",
+          "c": 246.67
+        },
+        {
+          "d": "2026-09-30",
+          "c": 249.15
+        },
+        {
+          "d": "2026-10-01",
+          "c": 248.23
+        },
+        {
+          "d": "2026-10-02",
+          "c": 251.52
+        },
+        {
+          "d": "2026-10-05",
+          "c": 251.4
+        },
+        {
+          "d": "2026-10-06",
+          "c": 256.29
+        },
+        {
+          "d": "2026-10-07",
+          "c": 259.92
+        },
+        {
+          "d": "2026-10-08",
+          "c": 254.06
+        },
+        {
+          "d": "2026-10-09",
+          "c": 262.43
+        },
+        {
+          "d": "2026-10-12",
+          "c": 259.53
+        },
+        {
+          "d": "2026-10-13",
+          "c": 258.58
+        },
+        {
+          "d": "2026-10-14",
+          "c": 254.08
+        },
+        {
+          "d": "2026-10-15",
+          "c": 254.76
+        },
+        {
+          "d": "2026-10-16",
+          "c": 250.0
+        },
+        {
+          "d": "2026-10-19",
+          "c": 262.45
+        },
+        {
+          "d": "2026-10-20",
+          "c": 262.63
+        },
+        {
+          "d": "2026-10-21",
+          "c": 262.37
+        },
+        {
+          "d": "2026-10-22",
+          "c": 250.38
+        },
+        {
+          "d": "2026-10-23",
+          "c": 248.0
+        }
+      ],
+      "earnings": "2026-10-29",
+      "headlines": [
+        {
+          "title": "Amazon rebrands Kindle Unlimited to Kindle+",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2294533/amazon-rebrands-kindle-unlimited-to-kindle/",
+          "published": "2026-10-22T18:10:00+00:00"
+        }
+      ],
+      "score": 51.6,
+      "brief": {
+        "what": "1 recent headline mentions Amazon. Latest: Amazon rebrands Kindle Unlimited to Kindle+ There is also a rumor making the rounds: Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development",
+        "why": "Signals: earnings, 2 headlines. The stock is down 0.8% this week and down 0.6% over the month.",
+        "watch": "Next earnings expected Thu Oct 29. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
@@ -662,6 +768,146 @@
       }
     },
     {
+      "ticker": "META",
+      "name": "Meta",
+      "price": 642.62,
+      "changePct": -9.4,
+      "monthChangePct": -17.4,
+      "catalyst": "Mark Zuckerberg Pushed Meta to Shield Him from California's Proposed Wealth Tax",
+      "when": "In the news",
+      "signals": [
+        "6 headlines",
+        "Big price move"
+      ],
+      "spark": [
+        736.72,
+        709.33,
+        705.44,
+        694.25,
+        697.52,
+        648.85,
+        642.62
+      ],
+      "history": [
+        {
+          "d": "2026-09-24",
+          "c": 777.59
+        },
+        {
+          "d": "2026-09-25",
+          "c": 751.66
+        },
+        {
+          "d": "2026-09-28",
+          "c": 715.62
+        },
+        {
+          "d": "2026-09-29",
+          "c": 738.79
+        },
+        {
+          "d": "2026-09-30",
+          "c": 725.18
+        },
+        {
+          "d": "2026-10-01",
+          "c": 725.93
+        },
+        {
+          "d": "2026-10-02",
+          "c": 728.08
+        },
+        {
+          "d": "2026-10-05",
+          "c": 741.9
+        },
+        {
+          "d": "2026-10-06",
+          "c": 738.88
+        },
+        {
+          "d": "2026-10-07",
+          "c": 721.31
+        },
+        {
+          "d": "2026-10-08",
+          "c": 720.89
+        },
+        {
+          "d": "2026-10-09",
+          "c": 718.67
+        },
+        {
+          "d": "2026-10-12",
+          "c": 742.96
+        },
+        {
+          "d": "2026-10-13",
+          "c": 762.5
+        },
+        {
+          "d": "2026-10-14",
+          "c": 737.54
+        },
+        {
+          "d": "2026-10-15",
+          "c": 736.72
+        },
+        {
+          "d": "2026-10-16",
+          "c": 709.33
+        },
+        {
+          "d": "2026-10-19",
+          "c": 705.44
+        },
+        {
+          "d": "2026-10-20",
+          "c": 694.25
+        },
+        {
+          "d": "2026-10-21",
+          "c": 697.52
+        },
+        {
+          "d": "2026-10-22",
+          "c": 648.85
+        },
+        {
+          "d": "2026-10-23",
+          "c": 642.62
+        }
+      ],
+      "earnings": null,
+      "headlines": [
+        {
+          "title": "Meta is charging government and nonprofit pages to post links on Facebook",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2295422/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/",
+          "published": "2026-10-23T16:09:39+00:00"
+        },
+        {
+          "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+          "published": "2026-10-22T23:50:41+00:00"
+        },
+        {
+          "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+          "published": "2026-10-21T22:39:50+00:00"
+        }
+      ],
+      "score": 48.8,
+      "brief": {
+        "what": "3 recent headlines mention Meta. Latest: Meta is charging government and nonprofit pages to post links on Facebook",
+        "why": "Signals: 6 headlines, big price move. The stock is down 9.4% this week and down 17.4% over the month.",
+        "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
+        "ai": false
+      }
+    },
+    {
       "ticker": "MSFT",
       "name": "Microsoft",
       "price": 524.51,
@@ -778,253 +1024,6 @@
         "what": "No major headlines about Microsoft in the last two weeks.",
         "why": "Signals: earnings. The stock is down 0.9% this week and up 5.3% over the month.",
         "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "price": 248.0,
-      "changePct": -0.8,
-      "monthChangePct": -0.6,
-      "catalyst": "Earnings report",
-      "when": "Thu",
-      "signals": [
-        "Earnings"
-      ],
-      "spark": [
-        254.76,
-        250.0,
-        262.45,
-        262.63,
-        262.37,
-        250.38,
-        248.0
-      ],
-      "history": [
-        {
-          "d": "2026-09-24",
-          "c": 249.38
-        },
-        {
-          "d": "2026-09-25",
-          "c": 249.67
-        },
-        {
-          "d": "2026-09-28",
-          "c": 246.15
-        },
-        {
-          "d": "2026-09-29",
-          "c": 246.67
-        },
-        {
-          "d": "2026-09-30",
-          "c": 249.15
-        },
-        {
-          "d": "2026-10-01",
-          "c": 248.23
-        },
-        {
-          "d": "2026-10-02",
-          "c": 251.52
-        },
-        {
-          "d": "2026-10-05",
-          "c": 251.4
-        },
-        {
-          "d": "2026-10-06",
-          "c": 256.29
-        },
-        {
-          "d": "2026-10-07",
-          "c": 259.92
-        },
-        {
-          "d": "2026-10-08",
-          "c": 254.06
-        },
-        {
-          "d": "2026-10-09",
-          "c": 262.43
-        },
-        {
-          "d": "2026-10-12",
-          "c": 259.53
-        },
-        {
-          "d": "2026-10-13",
-          "c": 258.58
-        },
-        {
-          "d": "2026-10-14",
-          "c": 254.08
-        },
-        {
-          "d": "2026-10-15",
-          "c": 254.76
-        },
-        {
-          "d": "2026-10-16",
-          "c": 250.0
-        },
-        {
-          "d": "2026-10-19",
-          "c": 262.45
-        },
-        {
-          "d": "2026-10-20",
-          "c": 262.63
-        },
-        {
-          "d": "2026-10-21",
-          "c": 262.37
-        },
-        {
-          "d": "2026-10-22",
-          "c": 250.38
-        },
-        {
-          "d": "2026-10-23",
-          "c": 248.0
-        }
-      ],
-      "earnings": "2026-10-29",
-      "headlines": [
-        {
-          "title": "Amazon rebrands Kindle Unlimited to Kindle+",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2294533/amazon-rebrands-kindle-unlimited-to-kindle/",
-          "published": "2026-10-22T18:10:00+00:00"
-        }
-      ],
-      "score": 46.6,
-      "brief": {
-        "what": "1 recent headline mentions Amazon. Latest: Amazon rebrands Kindle Unlimited to Kindle+",
-        "why": "Signals: earnings. The stock is down 0.8% this week and down 0.6% over the month.",
-        "watch": "Next earnings expected Thu Oct 29. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "INTC",
-      "name": "Intel",
-      "price": 86.96,
-      "changePct": -3.2,
-      "monthChangePct": -31.7,
-      "catalyst": "Earnings report",
-      "when": "Thu",
-      "signals": [
-        "Earnings"
-      ],
-      "spark": [
-        95.37,
-        89.85,
-        92.03,
-        91.69,
-        92.96,
-        85.49,
-        86.96
-      ],
-      "history": [
-        {
-          "d": "2026-09-24",
-          "c": 127.39
-        },
-        {
-          "d": "2026-09-25",
-          "c": 123.0
-        },
-        {
-          "d": "2026-09-28",
-          "c": 116.03
-        },
-        {
-          "d": "2026-09-29",
-          "c": 115.93
-        },
-        {
-          "d": "2026-09-30",
-          "c": 120.23
-        },
-        {
-          "d": "2026-10-01",
-          "c": 120.0
-        },
-        {
-          "d": "2026-10-02",
-          "c": 119.33
-        },
-        {
-          "d": "2026-10-05",
-          "c": 116.19
-        },
-        {
-          "d": "2026-10-06",
-          "c": 112.5
-        },
-        {
-          "d": "2026-10-07",
-          "c": 113.12
-        },
-        {
-          "d": "2026-10-08",
-          "c": 107.08
-        },
-        {
-          "d": "2026-10-09",
-          "c": 104.7
-        },
-        {
-          "d": "2026-10-12",
-          "c": 101.35
-        },
-        {
-          "d": "2026-10-13",
-          "c": 102.81
-        },
-        {
-          "d": "2026-10-14",
-          "c": 98.12
-        },
-        {
-          "d": "2026-10-15",
-          "c": 95.37
-        },
-        {
-          "d": "2026-10-16",
-          "c": 89.85
-        },
-        {
-          "d": "2026-10-19",
-          "c": 92.03
-        },
-        {
-          "d": "2026-10-20",
-          "c": 91.69
-        },
-        {
-          "d": "2026-10-21",
-          "c": 92.96
-        },
-        {
-          "d": "2026-10-22",
-          "c": 85.49
-        },
-        {
-          "d": "2026-10-23",
-          "c": 86.96
-        }
-      ],
-      "earnings": "2026-10-29",
-      "headlines": [],
-      "score": 46.4,
-      "brief": {
-        "what": "No major headlines about Intel in the last two weeks.",
-        "why": "Signals: earnings. The stock is down 3.2% this week and down 31.7% over the month.",
-        "watch": "Next earnings expected Thu Oct 29. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
