@@ -1,12 +1,124 @@
 {
   "weekOf": "2026-10-19",
-  "updated": "2026-10-24T22:38:09+00:00",
+  "updated": "2026-10-25T11:39:15+00:00",
   "summary": [
-    "Tech leads the news with 13 of 25 stories. Top headline: What are the different types of digital wallets?",
-    "Earnings this week from GOOGL, COIN, INTC, MSFT, AMZN.",
+    "Tech leads the news with 15 of 25 stories. Top headline: What the US Movement Against Data Centers Can Learn From Abroad",
+    "Earnings this week from GOOGL, COIN, MSFT, INTC, AMZN.",
     "Strongest rumor: PHP warns it plans to release 2 emergency patches imminently"
   ],
   "stories": [
+    {
+      "id": "908de5dc90",
+      "topic": "Cloud",
+      "kind": "Company",
+      "source": "Wired",
+      "published": "2026-10-25T10:00:00+00:00",
+      "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+      "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
+      "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+      "tickers": []
+    },
+    {
+      "id": "3a388ed1c4",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-25T09:00:40+00:00",
+      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "summary": "Article URL: https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order Comments URL: https://news.ycombinator.com/item?id=50229587 Points: 212 # Comments: 142",
+      "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+      "tickers": []
+    },
+    {
+      "id": "16dadfad07",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-25T01:33:49+00:00",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 194 # Comments: 64",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "tickers": []
+    },
+    {
+      "id": "4da7b3e3c3",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-25T00:30:00+00:00",
+      "title": "Here's what you need to know before buying a wireless CarPlay adapter",
+      "summary": "Wireless CarPlay doesn't require a new car or head unit; with the right adapter, you can enjoy a cable-free connection.",
+      "url": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
+      "tickers": []
+    },
+    {
+      "id": "5be1bced84",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-25T00:00:00+00:00",
+      "title": "What is the cheapest new gaming console you can buy in 2026?",
+      "summary": "Even after price hikes, you can get an affordable console, but it requires some care to pick the right option.",
+      "url": "https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/",
+      "tickers": []
+    },
+    {
+      "id": "0ba325e869",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-24T23:45:00+00:00",
+      "title": "How to extend the battery life of your Apple AirTags",
+      "summary": "An AirTag's battery is easy to replace, but you don't want it to run low at a critical moment.",
+      "url": "https://www.engadget.com/2292921/how-to-extend-battery-life-apple-airtags/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "f1a7fb584e",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-24T23:30:00+00:00",
+      "title": "Common mistakes you should avoid when setting up your home network",
+      "summary": "Setting up a home network is rewarding, but you should be aware of common missteps to avoid hassle in the future.",
+      "url": "https://www.engadget.com/2292817/common-mistakes-avoid-setting-up-home-network/",
+      "tickers": []
+    },
+    {
+      "id": "bafede3222",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-24T23:11:54+00:00",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 380 # Comments: 387",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "tickers": []
+    },
+    {
+      "id": "ffb5ffc194",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-24T23:00:00+00:00",
+      "title": "Why your EV battery still loses charge while it's parked",
+      "summary": "Electric vehicles lose battery when they're left unused for long periods. There are a number of reasons why, and some might be totally out of your control.",
+      "url": "https://www.engadget.com/2292646/ev-battery-why-it-loses-charge-when-parked/",
+      "tickers": []
+    },
+    {
+      "id": "619ef41d8b",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-24T22:45:00+00:00",
+      "title": "What kind of cooling system do EV batteries use and how does it work?",
+      "summary": "Electric cars need incredibly large batteries that offer long driving ranges and charge quickly, but remain cool when under load. This is how they do so.",
+      "url": "https://www.engadget.com/2292606/ev-battery-cooling-system-how-works/",
+      "tickers": []
+    },
     {
       "id": "7d63b0101b",
       "topic": "Tech",
@@ -33,6 +145,17 @@
       "tickers": []
     },
     {
+      "id": "324560aff5",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-24T21:47:31+00:00",
+      "title": "We should be more ambitious with the software we build",
+      "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 465 # Comments: 410",
+      "url": "https://danluu.com/ambitious/",
+      "tickers": []
+    },
+    {
       "id": "999489798b",
       "topic": "AI",
       "kind": "Founder",
@@ -55,17 +178,6 @@
       "tickers": []
     },
     {
-      "id": "584e5d38f0",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-24T20:30:31+00:00",
-      "title": "Show HN: Steal My Bitcoin",
-      "summary": "Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over. Have fun! Comments URL: https://news.ycombinator.com/item?id=50224916 Points: 232 # Comments: 92",
-      "url": "https://stealmybitcoin.com/",
-      "tickers": []
-    },
-    {
       "id": "456687c105",
       "topic": "AI",
       "kind": "Company",
@@ -77,14 +189,25 @@
       "tickers": []
     },
     {
-      "id": "46a784d234",
-      "topic": "AI",
+      "id": "dd225aa38b",
+      "topic": "Tech",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-10-24T19:47:19+00:00",
-      "title": "No signs of AI payoff outside the tech sector",
-      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 373 # Comments: 354",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "published": "2026-10-24T19:19:43+00:00",
+      "title": "SpeedCrunch 1.1",
+      "summary": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 161 # Comments: 29",
+      "url": "https://www.speedcrunch.org/",
+      "tickers": []
+    },
+    {
+      "id": "f63fc2216a",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-24T19:06:55+00:00",
+      "title": "The Goose Programming Language",
+      "summary": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 430 # Comments: 263",
+      "url": "https://aardappel.github.io/goose/",
       "tickers": []
     },
     {
@@ -169,131 +292,6 @@
       "summary": "Capcom ID is still available to use, but users may see more phishing scam emails.",
       "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
       "tickers": []
-    },
-    {
-      "id": "60d0f016d5",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-24T16:30:00+00:00",
-      "title": "There's a chance your PlayStation 5 is plugged into the wrong HDMI port",
-      "summary": "Your PS5 will look great plugged into any HDMI port on a modern TV, but only some unlock its full suite of display features.",
-      "url": "https://www.engadget.com/2291739/chance-playstation-5-plugged-into-wrong-hdmi-port/",
-      "tickers": []
-    },
-    {
-      "id": "3619f96236",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-24T16:11:53+00:00",
-      "title": "The UK is investing $134 million into an AI Biosecurity Lab",
-      "summary": "The UK has established the AI Biosecurity Lab, which will help it detect biological threats and develop vaccines with AI.",
-      "url": "https://www.engadget.com/2296211/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/",
-      "tickers": []
-    },
-    {
-      "id": "38bb20951a",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-24T16:06:26+00:00",
-      "title": "Roku developer repositories moved from GitHub to GitLab",
-      "summary": "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 225 # Comments: 148",
-      "url": "https://blog.roku.com/developer/gitlab-move",
-      "tickers": []
-    },
-    {
-      "id": "1015ed58ea",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-24T16:00:00+00:00",
-      "title": "Block’s new voice model sounds eerily human",
-      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "tickers": []
-    },
-    {
-      "id": "1192fe9b0e",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-24T16:00:00+00:00",
-      "title": "Your smart TV's Wi-Fi is probably faster than its Ethernet, but speed isn't everything",
-      "summary": "You might have never thought to use Ethernet with your TV, but it's not speed that's worth connecting for.",
-      "url": "https://www.engadget.com/2291599/smart-tv-wifi-faster-than-ethernet-speed-isnt-everything/",
-      "tickers": []
-    },
-    {
-      "id": "e6e596a65f",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-24T15:30:00+00:00",
-      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
-      "summary": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
-      "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
-      "tickers": []
-    },
-    {
-      "id": "ff0b95cb42",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-24T15:30:00+00:00",
-      "title": "What is Theater Mode on your Apple Watch and when should you use it?",
-      "summary": "There are various ways to silence your Apple Watch when you need to lock in. Theater Mode doesn't quite go as far as Do Not Disturb, but it's still very useful.",
-      "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "6f8271ad5b",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-24T15:20:01+00:00",
-      "title": "FreeDNS",
-      "summary": "Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 218 # Comments: 57",
-      "url": "https://freedns.afraid.org/",
-      "tickers": []
-    },
-    {
-      "id": "fc5d224a16",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-24T15:00:00+00:00",
-      "title": "These clever apps show off the iPhone Duo’s potential",
-      "summary": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
-      "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "39be79bdbd",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-24T15:00:00+00:00",
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "tickers": []
-    },
-    {
-      "id": "3bd3d66487",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-10-24T15:00:00+00:00",
-      "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
-      "summary": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project before growing into something closer to R&B. But from…",
-      "url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
-      "tickers": []
     }
   ],
   "rumors": [
@@ -307,7 +305,7 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 3,
+      "days": 4,
       "tickers": [],
       "score": 15
     },
@@ -652,6 +650,126 @@
       }
     },
     {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "price": 524.51,
+      "changePct": -0.9,
+      "monthChangePct": 5.3,
+      "catalyst": "Earnings report",
+      "when": "Wed",
+      "signals": [
+        "Earnings"
+      ],
+      "spark": [
+        539.44,
+        529.05,
+        533.52,
+        531.87,
+        532.95,
+        521.08,
+        524.51
+      ],
+      "history": [
+        {
+          "d": "2026-09-24",
+          "c": 497.93
+        },
+        {
+          "d": "2026-09-25",
+          "c": 516.17
+        },
+        {
+          "d": "2026-09-28",
+          "c": 509.22
+        },
+        {
+          "d": "2026-09-29",
+          "c": 508.96
+        },
+        {
+          "d": "2026-09-30",
+          "c": 512.9
+        },
+        {
+          "d": "2026-10-01",
+          "c": 512.8
+        },
+        {
+          "d": "2026-10-02",
+          "c": 517.53
+        },
+        {
+          "d": "2026-10-05",
+          "c": 525.18
+        },
+        {
+          "d": "2026-10-06",
+          "c": 529.3
+        },
+        {
+          "d": "2026-10-07",
+          "c": 529.76
+        },
+        {
+          "d": "2026-10-08",
+          "c": 522.61
+        },
+        {
+          "d": "2026-10-09",
+          "c": 535.07
+        },
+        {
+          "d": "2026-10-12",
+          "c": 541.15
+        },
+        {
+          "d": "2026-10-13",
+          "c": 543.45
+        },
+        {
+          "d": "2026-10-14",
+          "c": 533.69
+        },
+        {
+          "d": "2026-10-15",
+          "c": 539.44
+        },
+        {
+          "d": "2026-10-16",
+          "c": 529.05
+        },
+        {
+          "d": "2026-10-19",
+          "c": 533.52
+        },
+        {
+          "d": "2026-10-20",
+          "c": 531.87
+        },
+        {
+          "d": "2026-10-21",
+          "c": 532.95
+        },
+        {
+          "d": "2026-10-22",
+          "c": 521.08
+        },
+        {
+          "d": "2026-10-23",
+          "c": 524.51
+        }
+      ],
+      "earnings": "2026-10-28",
+      "headlines": [],
+      "score": 46.7,
+      "brief": {
+        "what": "No major headlines about Microsoft in the last two weeks.",
+        "why": "Signals: earnings. The stock is down 0.9% this week and up 5.3% over the month.",
+        "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
       "ticker": "INTC",
       "name": "Intel",
       "price": 86.96,
@@ -768,126 +886,6 @@
         "what": "No major headlines about Intel in the last two weeks.",
         "why": "Signals: earnings. The stock is down 3.2% this week and down 31.7% over the month.",
         "watch": "Next earnings expected Thu Oct 29. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft",
-      "price": 524.51,
-      "changePct": -0.9,
-      "monthChangePct": 5.3,
-      "catalyst": "Earnings report",
-      "when": "Wed",
-      "signals": [
-        "Earnings"
-      ],
-      "spark": [
-        539.44,
-        529.05,
-        533.52,
-        531.87,
-        532.95,
-        521.08,
-        524.51
-      ],
-      "history": [
-        {
-          "d": "2026-09-24",
-          "c": 497.93
-        },
-        {
-          "d": "2026-09-25",
-          "c": 516.17
-        },
-        {
-          "d": "2026-09-28",
-          "c": 509.22
-        },
-        {
-          "d": "2026-09-29",
-          "c": 508.96
-        },
-        {
-          "d": "2026-09-30",
-          "c": 512.9
-        },
-        {
-          "d": "2026-10-01",
-          "c": 512.8
-        },
-        {
-          "d": "2026-10-02",
-          "c": 517.53
-        },
-        {
-          "d": "2026-10-05",
-          "c": 525.18
-        },
-        {
-          "d": "2026-10-06",
-          "c": 529.3
-        },
-        {
-          "d": "2026-10-07",
-          "c": 529.76
-        },
-        {
-          "d": "2026-10-08",
-          "c": 522.61
-        },
-        {
-          "d": "2026-10-09",
-          "c": 535.07
-        },
-        {
-          "d": "2026-10-12",
-          "c": 541.15
-        },
-        {
-          "d": "2026-10-13",
-          "c": 543.45
-        },
-        {
-          "d": "2026-10-14",
-          "c": 533.69
-        },
-        {
-          "d": "2026-10-15",
-          "c": 539.44
-        },
-        {
-          "d": "2026-10-16",
-          "c": 529.05
-        },
-        {
-          "d": "2026-10-19",
-          "c": 533.52
-        },
-        {
-          "d": "2026-10-20",
-          "c": 531.87
-        },
-        {
-          "d": "2026-10-21",
-          "c": 532.95
-        },
-        {
-          "d": "2026-10-22",
-          "c": 521.08
-        },
-        {
-          "d": "2026-10-23",
-          "c": 524.51
-        }
-      ],
-      "earnings": "2026-10-28",
-      "headlines": [],
-      "score": 41.7,
-      "brief": {
-        "what": "No major headlines about Microsoft in the last two weeks.",
-        "why": "Signals: earnings. The stock is down 0.9% this week and up 5.3% over the month.",
-        "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
