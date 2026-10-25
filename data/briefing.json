@@ -1,296 +1,296 @@
 {
   "weekOf": "2026-10-19",
-  "updated": "2026-10-25T11:39:15+00:00",
+  "updated": "2026-10-25T22:37:09+00:00",
   "summary": [
-    "Tech leads the news with 15 of 25 stories. Top headline: What the US Movement Against Data Centers Can Learn From Abroad",
+    "Tech leads the news with 11 of 25 stories. Top headline: Don't throw away your old, unsupported Nest gadgets — Do this instead",
     "Earnings this week from GOOGL, COIN, MSFT, INTC, AMZN.",
     "Strongest rumor: PHP warns it plans to release 2 emergency patches imminently"
   ],
   "stories": [
     {
-      "id": "908de5dc90",
-      "topic": "Cloud",
-      "kind": "Company",
-      "source": "Wired",
-      "published": "2026-10-25T10:00:00+00:00",
-      "title": "What the US Movement Against Data Centers Can Learn From Abroad",
-      "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
-      "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
-      "tickers": []
-    },
-    {
-      "id": "3a388ed1c4",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-25T09:00:40+00:00",
-      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-      "summary": "Article URL: https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order Comments URL: https://news.ycombinator.com/item?id=50229587 Points: 212 # Comments: 142",
-      "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
-      "tickers": []
-    },
-    {
-      "id": "16dadfad07",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-25T01:33:49+00:00",
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 194 # Comments: 64",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "tickers": []
-    },
-    {
-      "id": "4da7b3e3c3",
+      "id": "539a3b4145",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-25T00:30:00+00:00",
-      "title": "Here's what you need to know before buying a wireless CarPlay adapter",
-      "summary": "Wireless CarPlay doesn't require a new car or head unit; with the right adapter, you can enjoy a cable-free connection.",
-      "url": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
+      "published": "2026-10-25T22:30:00+00:00",
+      "title": "Don't throw away your old, unsupported Nest gadgets — Do this instead",
+      "summary": "If you have a first- or second-generation Nest Learning Thermostat, you may be wondering if it's still worth having.",
+      "url": "https://www.engadget.com/2294122/dont-throw-away-your-old-unsupported-nest-gadgets/",
       "tickers": []
     },
     {
-      "id": "5be1bced84",
+      "id": "13a8037816",
       "topic": "Devices",
       "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-25T00:00:00+00:00",
-      "title": "What is the cheapest new gaming console you can buy in 2026?",
-      "summary": "Even after price hikes, you can get an affordable console, but it requires some care to pick the right option.",
-      "url": "https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/",
-      "tickers": []
-    },
-    {
-      "id": "0ba325e869",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-24T23:45:00+00:00",
-      "title": "How to extend the battery life of your Apple AirTags",
-      "summary": "An AirTag's battery is easy to replace, but you don't want it to run low at a critical moment.",
-      "url": "https://www.engadget.com/2292921/how-to-extend-battery-life-apple-airtags/",
+      "source": "The Verge",
+      "published": "2026-10-25T21:40:27+00:00",
+      "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+      "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but…",
+      "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
       "tickers": [
         "AAPL"
       ]
     },
     {
-      "id": "f1a7fb584e",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-24T23:30:00+00:00",
-      "title": "Common mistakes you should avoid when setting up your home network",
-      "summary": "Setting up a home network is rewarding, but you should be aware of common missteps to avoid hassle in the future.",
-      "url": "https://www.engadget.com/2292817/common-mistakes-avoid-setting-up-home-network/",
+      "id": "7ed88f9d74",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "TechCrunch",
+      "published": "2026-10-25T21:31:16+00:00",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
       "tickers": []
     },
     {
-      "id": "bafede3222",
+      "id": "a8e7e95c17",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-25T21:08:09+00:00",
+      "title": "Scott Walker’s The Drift will get under your skin",
+      "summary": "In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then there is the genuinely terrifying: Throbbing Gristle, The Body, or Scott Walker's The Drift. This 2006…",
+      "url": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+      "tickers": []
+    },
+    {
+      "id": "a1786b7270",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-25T20:20:08+00:00",
+      "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+      "summary": "\"That's a 12-year-old view of the world.\"",
+      "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+      "tickers": []
+    },
+    {
+      "id": "3f48394f77",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-25T20:16:19+00:00",
+      "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+      "summary": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then audibly crack and break the screen.…",
+      "url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "dbb6013018",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-25T19:24:50+00:00",
+      "title": "Zen Browser is the Arc replacement I was looking for",
+      "summary": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its even more AI-focused…",
+      "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+      "tickers": []
+    },
+    {
+      "id": "d4cd650b63",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-25T18:45:00+00:00",
+      "title": "What does the bell icon mean on your CarPlay screen?",
+      "summary": "Even as a simplified interface, CarPlay has a few icons that aren't so obvious, like its bell that appears on the app switcher.",
+      "url": "https://www.engadget.com/2293911/what-bell-icon-means-carplay-announce-notifications-feature/",
+      "tickers": []
+    },
+    {
+      "id": "e3960029f6",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-25T18:30:00+00:00",
+      "title": "The most unexpected everyday tool can be found on your phone",
+      "summary": "If you have an iPhone, that is.",
+      "url": "https://www.engadget.com/2294275/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "364d6140a9",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-25T18:23:54+00:00",
+      "title": "Dolly Parton's Imagination Library",
+      "summary": "With today's news, I thought I'd share this great program: “When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister.…",
+      "url": "https://imaginationlibrary.com/",
+      "tickers": []
+    },
+    {
+      "id": "c8614b08e9",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-25T18:04:11+00:00",
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "summary": "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/ Comments URL: https://news.ycombinator.com/item?id=50234232 Points: 295 # Comments: 74",
+      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "tickers": []
+    },
+    {
+      "id": "1b3fa666c8",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-25T18:00:00+00:00",
+      "title": "Even the best mesh Wi-Fi system can be easily improved with a simple cable",
+      "summary": "Mesh systems generally provide better Wi-Fi coverage than standalone routers, but you can make the mesh signal even stronger.",
+      "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+      "tickers": []
+    },
+    {
+      "id": "f468c758ef",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-25T17:30:55+00:00",
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "summary": "Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Points: 310 # Comments: 166",
+      "url": "https://talkweb.eu/openweb/4558/",
+      "tickers": []
+    },
+    {
+      "id": "56820e7648",
       "topic": "AI",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-10-24T23:11:54+00:00",
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 380 # Comments: 387",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "published": "2026-10-25T17:15:38+00:00",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "summary": "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 332 # Comments: 173",
+      "url": "https://lynchlab.net/llm-skin-cancer",
       "tickers": []
     },
     {
-      "id": "ffb5ffc194",
-      "topic": "Tech",
+      "id": "831dcb2c75",
+      "topic": "Devices",
       "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-24T23:00:00+00:00",
-      "title": "Why your EV battery still loses charge while it's parked",
-      "summary": "Electric vehicles lose battery when they're left unused for long periods. There are a number of reasons why, and some might be totally out of your control.",
-      "url": "https://www.engadget.com/2292646/ev-battery-why-it-loses-charge-when-parked/",
+      "source": "The Verge",
+      "published": "2026-10-25T17:00:00+00:00",
+      "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
+      "summary": "The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The Nitro Deck 2, made for both the original Switch and the…",
+      "url": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
       "tickers": []
     },
     {
-      "id": "619ef41d8b",
-      "topic": "Tech",
+      "id": "e65d003672",
+      "topic": "AI",
       "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-24T22:45:00+00:00",
-      "title": "What kind of cooling system do EV batteries use and how does it work?",
-      "summary": "Electric cars need incredibly large batteries that offer long driving ranges and charge quickly, but remain cool when under load. This is how they do so.",
-      "url": "https://www.engadget.com/2292606/ev-battery-cooling-system-how-works/",
+      "source": "TechCrunch",
+      "published": "2026-10-25T16:57:32+00:00",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
       "tickers": []
     },
     {
-      "id": "7d63b0101b",
+      "id": "95579be7e7",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-25T16:45:00+00:00",
+      "title": "What features do you lose if you use Apple AirPods with a Samsung Galaxy phone?",
+      "summary": "AirPods work with any Bluetooth device, but they lose almost all of Apple's fancy features.",
+      "url": "https://www.engadget.com/2293387/features-lost-use-apple-airpods-with-samsung-galaxy-phone/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "6f66542e65",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-24T22:30:00+00:00",
-      "title": "What are the different types of digital wallets?",
-      "summary": "Digital wallets can completely remove the need to carry cards and cash, but there's a lot more to them than just your usual Apple, Samsung and Google offerings.",
-      "url": "https://www.engadget.com/2292582/different-types-digital-wallet-explained/",
+      "published": "2026-10-25T16:42:46+00:00",
+      "title": "8BitDo's latest button-only arcade controller is now up for pre-order",
+      "summary": "The Arcade Controller Pro starts at $119.99 and will start shipping in late November.",
+      "url": "https://www.engadget.com/2296362/8bitdos-latest-button-only-arcade-controller-is-now-up-for-preorder/",
+      "tickers": []
+    },
+    {
+      "id": "a5aeb1db83",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-25T16:28:26+00:00",
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 164 # Comments: 250",
+      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "tickers": []
+    },
+    {
+      "id": "08a1aaff1f",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-25T16:20:17+00:00",
+      "title": "Now you can watch Instagram Reels on your Apple TV",
+      "summary": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June…",
+      "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
       "tickers": [
         "AAPL",
-        "GOOGL"
+        "META"
       ]
     },
     {
-      "id": "92d3eb2b88",
+      "id": "e82552760d",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-24T22:00:00+00:00",
-      "title": "The pros and cons of using an eSIM over a physical SIM card",
-      "summary": "eSIMs are more convenient than physical SIM cards in many ways, but they aren't a 100 percent upgrade.",
-      "url": "https://www.engadget.com/2292112/using-esim-vs-physcial-sim-card-pros-and-cons/",
+      "published": "2026-10-25T16:15:00+00:00",
+      "title": "The internet needs IPv6 and so does your home network",
+      "summary": "IPv6 has more available addresses than we could ever hope to use, but not all devices are taking advantage yet.",
+      "url": "https://www.engadget.com/2293285/internet-home-network-needs-ipv6/",
       "tickers": []
     },
     {
-      "id": "324560aff5",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-24T21:47:31+00:00",
-      "title": "We should be more ambitious with the software we build",
-      "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 465 # Comments: 410",
-      "url": "https://danluu.com/ambitious/",
-      "tickers": []
-    },
-    {
-      "id": "999489798b",
-      "topic": "AI",
-      "kind": "Founder",
-      "source": "The Verge",
-      "published": "2026-10-24T21:29:12+00:00",
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "tickers": []
-    },
-    {
-      "id": "3987412d74",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-24T20:46:34+00:00",
-      "title": "Starlink seems to be working normally again in Ukraine",
-      "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
-      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-      "tickers": []
-    },
-    {
-      "id": "456687c105",
+      "id": "3449a65ac9",
       "topic": "AI",
       "kind": "Company",
       "source": "TechCrunch",
-      "published": "2026-10-24T20:15:33+00:00",
-      "title": "Will AI expose the rickety infrastructure of the internet?",
-      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
-      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "published": "2026-10-25T16:05:00+00:00",
+      "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
       "tickers": []
     },
     {
-      "id": "dd225aa38b",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-24T19:19:43+00:00",
-      "title": "SpeedCrunch 1.1",
-      "summary": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 161 # Comments: 29",
-      "url": "https://www.speedcrunch.org/",
-      "tickers": []
-    },
-    {
-      "id": "f63fc2216a",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-24T19:06:55+00:00",
-      "title": "The Goose Programming Language",
-      "summary": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 430 # Comments: 263",
-      "url": "https://aardappel.github.io/goose/",
-      "tickers": []
-    },
-    {
-      "id": "3b2689ff43",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-10-24T19:00:00+00:00",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "0c97041a49",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-24T18:45:00+00:00",
-      "title": "Google is quietly linking your phone number to other Android accounts",
-      "summary": "Adding a new SIM to your phone links it to all Google accounts, and any new Google accounts you add all inherit your phone number.",
-      "url": "https://www.engadget.com/2292018/google-quietly-linking-phone-number-to-android-accounts/",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "9c18cec527",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-24T18:32:21+00:00",
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "tickers": []
-    },
-    {
-      "id": "f1bdb4caed",
+      "id": "89d512fa45",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-24T18:30:00+00:00",
-      "title": "Why the wires in your ethernet cables are twisted",
-      "summary": "There's a good reason for that arrangement.",
-      "url": "https://www.engadget.com/2294278/why-wires-in-ethernet-cable-twisted-explained/",
+      "published": "2026-10-25T15:45:00+00:00",
+      "title": "Here's how much PlayStation Plus cost in 2010 vs. 2026",
+      "summary": "Sony's gaming service has changed a lot in recent years, and the price reflects that.",
+      "url": "https://www.engadget.com/2293248/how-much-playstation-plus-cost-2010-vs-2026/",
       "tickers": []
     },
     {
-      "id": "9d9c85a79d",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "Engadget",
-      "published": "2026-10-24T18:09:54+00:00",
-      "title": "Steam rolls out Personal Calendar feature that constantly updates recommended games",
-      "summary": "You can try out the new feature on the Steam store's homepage.",
-      "url": "https://www.engadget.com/2296237/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games/",
-      "tickers": []
-    },
-    {
-      "id": "fa4767dc29",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-24T18:00:00+00:00",
-      "title": "Xbox Game Pass could let you pick which features you pay for",
-      "summary": "Microsoft is reportedly planning to let subscribers build their own Game Pass bundle rather than pay for set tiers.",
-      "url": "https://www.engadget.com/2296222/xbox-game-pass-pick-which-features/",
-      "tickers": [
-        "MSFT"
-      ]
-    },
-    {
-      "id": "e38056d008",
+      "id": "0900aac3a9",
       "topic": "Security",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-24T16:40:45+00:00",
-      "title": "Capcom confirms data breach that affected 11.7 million users",
-      "summary": "Capcom ID is still available to use, but users may see more phishing scam emails.",
-      "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+      "published": "2026-10-25T15:15:00+00:00",
+      "title": "4 Ray-Ban Meta privacy settings you should change before wearing them",
+      "summary": "Ray-Ban Meta smart glasses have rightly been criticized for the many ways they can violate people's privacy.",
+      "url": "https://www.engadget.com/2293112/meta-ray-ban-settings-change-before-wearing/",
+      "tickers": []
+    },
+    {
+      "id": "0b4ae5cba6",
+      "topic": "Security",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-25T14:45:00+00:00",
+      "title": "Get the ultimate security for your MacBook by changing these privacy settings",
+      "summary": "Your Mac comes with a fairly robust suite of built-in privacy tools.",
+      "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
       "tickers": []
     }
   ],
@@ -319,24 +319,8 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 3,
+      "days": 4,
       "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "5931c8560a",
-      "topic": "Devices",
-      "status": "Just surfaced",
-      "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
-      "detail": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen MacBook. Like the Apple silicon in…",
-      "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [
-        "AAPL"
-      ],
       "score": 15
     },
     {
@@ -349,24 +333,10 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 0,
+      "days": 1,
       "tickers": [
         "UBER"
       ],
-      "score": 15
-    },
-    {
-      "id": "fa4767dc29",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Xbox Game Pass could let you pick which features you pay for",
-      "detail": "Microsoft is reportedly planning to let subscribers build their own Game Pass bundle rather than pay for set tiers.",
-      "url": "https://www.engadget.com/2296222/xbox-game-pass-pick-which-features/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
       "score": 15
     },
     {
@@ -379,23 +349,65 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
+      "days": 1,
+      "tickers": [],
+      "score": 15
+    },
+    {
+      "id": "e6a0b3bbe7",
+      "topic": "AI",
+      "status": "Just surfaced",
+      "title": "When AI glasses could be a worthy headphones replacement",
+      "detail": "Smart AI glasses are everywhere, but is the audio any good? It really depends on what you're using them for.",
+      "url": "https://www.engadget.com/2292076/when-ai-glasses-worth-headphones-replacement/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
       "days": 0,
       "tickers": [],
       "score": 15
     },
     {
-      "id": "3bba76b8fd",
-      "topic": "AI",
+      "id": "8cfd53a538",
+      "topic": "Devices",
       "status": "Just surfaced",
-      "title": "Leaked video exposes how industrial-scale Chinese factories are dismantling RTX 5090s by the thousands to fuel AI servers — GPU die and memory desoldered and transplanted to blower designs; custom…",
-      "detail": "submitted by /u/Logical_Welder3467 [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1xe8awx/leaked_video_exposes_how_industrialscale_chinese/",
+      "title": "Samsung probably isn't rebranding One UI as Galaxy OS",
+      "detail": "A bunch of recent rumors have suggested Samsung has some changes in store for its smartphone interface.",
+      "url": "https://www.engadget.com/2292973/samsung-probably-not-rebranding-one-ui-as-galaxy-os/",
       "sources": 1,
       "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 15
+    },
+    {
+      "id": "eb0220da8b",
+      "topic": "Policy",
+      "status": "Just surfaced",
+      "title": "Your devices could be on the wrong Wi-Fi band, and it's slowing them down",
+      "detail": "Your router has two or perhaps three bands, and choosing the right one for each device is vital for performance.",
+      "url": "https://www.engadget.com/2294022/devices-could-be-wrong-wifi-band-slowing-them-down/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 15
+    },
+    {
+      "id": "c49e2318df",
+      "topic": "Cloud",
+      "status": "Just surfaced",
+      "title": "Ukrainian drone attacks hammer Russia's finance ministry data center, damaged facility reportedly holds tax databases — facility also holds other important state registry data",
+      "detail": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1xf3eb5/ukrainian_drone_attacks_hammer_russias_finance/",
+      "sources": 1,
+      "mentions": 2,
       "credible": 0,
       "days": 0,
       "tickers": [],
-      "score": 8
+      "score": 11
     }
   ],
   "watchlist": [
@@ -409,7 +421,7 @@
       "when": "Wed",
       "signals": [
         "Earnings",
-        "4 headlines",
+        "2 headlines",
         "Big price move"
       ],
       "spark": [
@@ -514,16 +526,16 @@
       "earnings": "2026-10-28",
       "headlines": [
         {
-          "title": "Google is quietly linking your phone number to other Android accounts",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2292018/google-quietly-linking-phone-number-to-android-accounts/",
-          "published": "2026-10-24T18:45:00+00:00"
+          "title": "Google’s AI search changes upended online publishing",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+          "published": "2026-10-25T12:00:00+00:00"
         }
       ],
-      "score": 72.0,
+      "score": 62.0,
       "brief": {
-        "what": "1 recent headline mentions Alphabet. Latest: Google is quietly linking your phone number to other Android accounts",
-        "why": "Signals: earnings, 4 headlines, big price move. The stock is down 6.0% this week and down 6.5% over the month.",
+        "what": "1 recent headline mentions Alphabet. Latest: Google’s AI search changes upended online publishing",
+        "why": "Signals: earnings, 2 headlines, big price move. The stock is down 6.0% this week and down 6.5% over the month.",
         "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
         "ai": false
       }
