@@ -1,12 +1,218 @@
 {
-  "weekOf": "2026-10-19",
-  "updated": "2026-10-25T22:37:09+00:00",
+  "weekOf": "2026-10-26",
+  "updated": "2026-10-26T12:35:43+00:00",
   "summary": [
-    "Tech leads the news with 11 of 25 stories. Top headline: Don't throw away your old, unsupported Nest gadgets — Do this instead",
-    "Earnings this week from GOOGL, COIN, MSFT, INTC, AMZN.",
+    "Tech leads the news with 16 of 25 stories. Top headline: Elvis Presley's estate is suing Anthropic over copyright infringement",
+    "Earnings this week from AAPL, GOOGL, MSFT, PLTR, COIN.",
     "Strongest rumor: PHP warns it plans to release 2 emergency patches imminently"
   ],
   "stories": [
+    {
+      "id": "65ea8ce768",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-26T11:23:48+00:00",
+      "title": "Elvis Presley's estate is suing Anthropic over copyright infringement",
+      "summary": "The latest AI copyright infringement suit centers around a single music artist from decades past: Elvis.",
+      "url": "https://www.engadget.com/2296535/elvis-presley-estate-suing-ai-company-for-copyright-infringement/",
+      "tickers": []
+    },
+    {
+      "id": "b39f1d3ec1",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Wired",
+      "published": "2026-10-26T11:00:00+00:00",
+      "title": "The Hottest New Side Hustle Is Stripping Copper Wire and Posting About It",
+      "summary": "Copper prices are at record highs, but for TikTok creators, the real money may be in teaching others how to strip wire—and selling them the tools to do it.",
+      "url": "https://www.wired.com/story/the-hottest-new-side-hustle-is-stripping-copper-wire-and-posting-about-it/",
+      "tickers": []
+    },
+    {
+      "id": "51ce9da8b9",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-26T10:00:00+00:00",
+      "title": "The city that fought Flock",
+      "summary": "It was about to be a long night in Huntington, West Virginia. Mayor Patrick Farrell stood before 10 members of city council in a white dress shirt and dark blazer studded with an American flag pin. Behind him sat his constituents and residents from neighboring towns. Some had…",
+      "url": "https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure",
+      "tickers": []
+    },
+    {
+      "id": "b83dbd7242",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-26T09:31:44+00:00",
+      "title": "iFixit's teardown of the iPhone Duo shows potential causes for cracked screens",
+      "summary": "iFixit's teardown of the iPhone Duo has arrived and it's especially interesting because of the device's complex folding display.",
+      "url": "https://www.engadget.com/2296498/ifixit-teardown-of-iphone-duo-shows-potential-causes-for-cracked-screens/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "96feba5939",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Wired",
+      "published": "2026-10-26T09:30:00+00:00",
+      "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+      "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
+      "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+      "tickers": []
+    },
+    {
+      "id": "1b0ece5bf0",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-26T08:46:09+00:00",
+      "title": "Switzerland. Block by block. At 1:1 scale",
+      "summary": "Article URL: https://blocks.manifold3d.ch/ Comments URL: https://news.ycombinator.com/item?id=50240922 Points: 211 # Comments: 84",
+      "url": "https://blocks.manifold3d.ch/",
+      "tickers": []
+    },
+    {
+      "id": "abe23fa4fa",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-26T03:31:11+00:00",
+      "title": "Behind the scenes at the NeXT Computer office",
+      "summary": "Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry Comments URL: https://news.ycombinator.com/item?id=50238763 Points: 155 # Comments: 79",
+      "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+      "tickers": []
+    },
+    {
+      "id": "a348f1f493",
+      "topic": "Cloud",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-26T03:29:05+00:00",
+      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "summary": "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 167 # Comments: 55",
+      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "tickers": []
+    },
+    {
+      "id": "344fe330ca",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-26T03:23:57+00:00",
+      "title": "Show HN: TitleArt – Make text like it's 1997",
+      "summary": "Article URL: https://titleart.dvy.io/ Comments URL: https://news.ycombinator.com/item?id=50238708 Points: 274 # Comments: 46",
+      "url": "https://titleart.dvy.io/",
+      "tickers": []
+    },
+    {
+      "id": "19574555d0",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "Hacker News",
+      "published": "2026-10-26T01:47:46+00:00",
+      "title": "IBM CEO says open weight models are now good and cheap on-prem",
+      "summary": "Article URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640 Comments URL: https://news.ycombinator.com/item?id=50238088 Points: 302 # Comments: 209",
+      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "tickers": [
+        "IBM"
+      ]
+    },
+    {
+      "id": "4357499a94",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-26T01:10:00+00:00",
+      "title": "The best apps for tracking your reading and discovering new books",
+      "summary": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
+      "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+      "tickers": []
+    },
+    {
+      "id": "f2e8500416",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-26T01:03:39+00:00",
+      "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+      "summary": "Article URL: https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category Comments URL: https://news.ycombinator.com/item?id=50237712 Points: 158 # Comments: 94",
+      "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+      "tickers": []
+    },
+    {
+      "id": "d84464b762",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-26T00:30:00+00:00",
+      "title": "Fitbit Air vs. Whoop: Which screenless fitness tracker is better for you?",
+      "summary": "How locked in do you want to be?",
+      "url": "https://www.engadget.com/2294284/fitbit-air-vs-whoop-which-better-fitness-tracking-wearable-screen-less/",
+      "tickers": []
+    },
+    {
+      "id": "674b822472",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-26T00:00:00+00:00",
+      "title": "Can you run regular Ethernet cables outside?",
+      "summary": "Just because you can do something doesn't mean you should.",
+      "url": "https://www.engadget.com/2294283/ethernet-cables-use-outside-explained/",
+      "tickers": []
+    },
+    {
+      "id": "0200f77942",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-25T23:45:00+00:00",
+      "title": "Which Android phone is the closest equivalent to the iPhone Duo?",
+      "summary": "Can we find the iPhone Duo's perfect Android match?",
+      "url": "https://www.engadget.com/2294282/android-phone-closest-equivalent-to-iphone-duo/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "f8a683b491",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-25T23:30:00+00:00",
+      "title": "Why Google chrome is always using so much RAM",
+      "summary": "Chrome is known for being a memory hog, but it may be more urban myth than reality. Here's how Google Chrome manages RAM.",
+      "url": "https://www.engadget.com/2294261/why-google-chrome-using-so-much-ram/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "9f9e85ed33",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-25T23:00:00+00:00",
+      "title": "Most Windows users are seriously underusing this powerful desktop feature",
+      "summary": "Windows has an option to give you more working desktop space, but you might have overlooked it.",
+      "url": "https://www.engadget.com/2294241/why-should-use-multiple-desktop-windows/",
+      "tickers": []
+    },
+    {
+      "id": "cadd605b80",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-25T22:45:00+00:00",
+      "title": "Does TSA actually allow AirTags in your luggage? Here's what the rules say",
+      "summary": "Airlines don't want you to put batteries in your checked luggage, but how does this affect tiny batteries like those in AirTags?",
+      "url": "https://www.engadget.com/2294102/does-tsa-allow-airtags-in-luggage-what-rules-say/",
+      "tickers": []
+    },
     {
       "id": "539a3b4145",
       "topic": "Tech",
@@ -43,6 +249,17 @@
       "tickers": []
     },
     {
+      "id": "ac72841d6c",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-25T21:11:31+00:00",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 350 # Comments: 335",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "tickers": []
+    },
+    {
       "id": "a8e7e95c17",
       "topic": "Tech",
       "kind": "Company",
@@ -54,243 +271,25 @@
       "tickers": []
     },
     {
-      "id": "a1786b7270",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-25T20:20:08+00:00",
-      "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
-      "summary": "\"That's a 12-year-old view of the world.\"",
-      "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
-      "tickers": []
-    },
-    {
-      "id": "3f48394f77",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-25T20:16:19+00:00",
-      "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
-      "summary": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then audibly crack and break the screen.…",
-      "url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "dbb6013018",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-25T19:24:50+00:00",
-      "title": "Zen Browser is the Arc replacement I was looking for",
-      "summary": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its even more AI-focused…",
-      "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
-      "tickers": []
-    },
-    {
-      "id": "d4cd650b63",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-25T18:45:00+00:00",
-      "title": "What does the bell icon mean on your CarPlay screen?",
-      "summary": "Even as a simplified interface, CarPlay has a few icons that aren't so obvious, like its bell that appears on the app switcher.",
-      "url": "https://www.engadget.com/2293911/what-bell-icon-means-carplay-announce-notifications-feature/",
-      "tickers": []
-    },
-    {
-      "id": "e3960029f6",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-25T18:30:00+00:00",
-      "title": "The most unexpected everyday tool can be found on your phone",
-      "summary": "If you have an iPhone, that is.",
-      "url": "https://www.engadget.com/2294275/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "364d6140a9",
+      "id": "af2a1c97b0",
       "topic": "Tech",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-10-25T18:23:54+00:00",
-      "title": "Dolly Parton's Imagination Library",
-      "summary": "With today's news, I thought I'd share this great program: “When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister.…",
-      "url": "https://imaginationlibrary.com/",
+      "published": "2026-10-25T20:32:31+00:00",
+      "title": "The State of Context Engineering",
+      "summary": "Article URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html Comments URL: https://news.ycombinator.com/item?id=50235780 Points: 205 # Comments: 49",
+      "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
       "tickers": []
     },
     {
-      "id": "c8614b08e9",
+      "id": "75842720ad",
       "topic": "Tech",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-10-25T18:04:11+00:00",
-      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-      "summary": "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/ Comments URL: https://news.ycombinator.com/item?id=50234232 Points: 295 # Comments: 74",
-      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-      "tickers": []
-    },
-    {
-      "id": "1b3fa666c8",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-25T18:00:00+00:00",
-      "title": "Even the best mesh Wi-Fi system can be easily improved with a simple cable",
-      "summary": "Mesh systems generally provide better Wi-Fi coverage than standalone routers, but you can make the mesh signal even stronger.",
-      "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
-      "tickers": []
-    },
-    {
-      "id": "f468c758ef",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-25T17:30:55+00:00",
-      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-      "summary": "Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Points: 310 # Comments: 166",
-      "url": "https://talkweb.eu/openweb/4558/",
-      "tickers": []
-    },
-    {
-      "id": "56820e7648",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-25T17:15:38+00:00",
-      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-      "summary": "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 332 # Comments: 173",
-      "url": "https://lynchlab.net/llm-skin-cancer",
-      "tickers": []
-    },
-    {
-      "id": "831dcb2c75",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-25T17:00:00+00:00",
-      "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
-      "summary": "The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The Nitro Deck 2, made for both the original Switch and the…",
-      "url": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
-      "tickers": []
-    },
-    {
-      "id": "e65d003672",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-25T16:57:32+00:00",
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "tickers": []
-    },
-    {
-      "id": "95579be7e7",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-25T16:45:00+00:00",
-      "title": "What features do you lose if you use Apple AirPods with a Samsung Galaxy phone?",
-      "summary": "AirPods work with any Bluetooth device, but they lose almost all of Apple's fancy features.",
-      "url": "https://www.engadget.com/2293387/features-lost-use-apple-airpods-with-samsung-galaxy-phone/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "6f66542e65",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-25T16:42:46+00:00",
-      "title": "8BitDo's latest button-only arcade controller is now up for pre-order",
-      "summary": "The Arcade Controller Pro starts at $119.99 and will start shipping in late November.",
-      "url": "https://www.engadget.com/2296362/8bitdos-latest-button-only-arcade-controller-is-now-up-for-preorder/",
-      "tickers": []
-    },
-    {
-      "id": "a5aeb1db83",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-25T16:28:26+00:00",
-      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 164 # Comments: 250",
-      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-      "tickers": []
-    },
-    {
-      "id": "08a1aaff1f",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-25T16:20:17+00:00",
-      "title": "Now you can watch Instagram Reels on your Apple TV",
-      "summary": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June…",
-      "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
-      "tickers": [
-        "AAPL",
-        "META"
-      ]
-    },
-    {
-      "id": "e82552760d",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-25T16:15:00+00:00",
-      "title": "The internet needs IPv6 and so does your home network",
-      "summary": "IPv6 has more available addresses than we could ever hope to use, but not all devices are taking advantage yet.",
-      "url": "https://www.engadget.com/2293285/internet-home-network-needs-ipv6/",
-      "tickers": []
-    },
-    {
-      "id": "3449a65ac9",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-25T16:05:00+00:00",
-      "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
-      "tickers": []
-    },
-    {
-      "id": "89d512fa45",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-25T15:45:00+00:00",
-      "title": "Here's how much PlayStation Plus cost in 2010 vs. 2026",
-      "summary": "Sony's gaming service has changed a lot in recent years, and the price reflects that.",
-      "url": "https://www.engadget.com/2293248/how-much-playstation-plus-cost-2010-vs-2026/",
-      "tickers": []
-    },
-    {
-      "id": "0900aac3a9",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-25T15:15:00+00:00",
-      "title": "4 Ray-Ban Meta privacy settings you should change before wearing them",
-      "summary": "Ray-Ban Meta smart glasses have rightly been criticized for the many ways they can violate people's privacy.",
-      "url": "https://www.engadget.com/2293112/meta-ray-ban-settings-change-before-wearing/",
-      "tickers": []
-    },
-    {
-      "id": "0b4ae5cba6",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-25T14:45:00+00:00",
-      "title": "Get the ultimate security for your MacBook by changing these privacy settings",
-      "summary": "Your Mac comes with a fairly robust suite of built-in privacy tools.",
-      "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+      "published": "2026-10-25T20:27:09+00:00",
+      "title": "What goes into making an animated film?",
+      "summary": "Article URL: https://www.disneyanimation.com/process/ Comments URL: https://news.ycombinator.com/item?id=50235738 Points: 157 # Comments: 67",
+      "url": "https://www.disneyanimation.com/process/",
       "tickers": []
     }
   ],
@@ -305,7 +304,7 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 4,
+      "days": 5,
       "tickers": [],
       "score": 15
     },
@@ -354,34 +353,6 @@
       "score": 15
     },
     {
-      "id": "e6a0b3bbe7",
-      "topic": "AI",
-      "status": "Just surfaced",
-      "title": "When AI glasses could be a worthy headphones replacement",
-      "detail": "Smart AI glasses are everywhere, but is the audio any good? It really depends on what you're using them for.",
-      "url": "https://www.engadget.com/2292076/when-ai-glasses-worth-headphones-replacement/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "8cfd53a538",
-      "topic": "Devices",
-      "status": "Just surfaced",
-      "title": "Samsung probably isn't rebranding One UI as Galaxy OS",
-      "detail": "A bunch of recent rumors have suggested Samsung has some changes in store for its smartphone interface.",
-      "url": "https://www.engadget.com/2292973/samsung-probably-not-rebranding-one-ui-as-galaxy-os/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
-    },
-    {
       "id": "eb0220da8b",
       "topic": "Policy",
       "status": "Just surfaced",
@@ -403,14 +374,206 @@
       "detail": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
       "url": "https://www.reddit.com/r/technology/comments/1xf3eb5/ukrainian_drone_attacks_hammer_russias_finance/",
       "sources": 1,
-      "mentions": 2,
+      "mentions": 1,
       "credible": 0,
       "days": 0,
       "tickers": [],
-      "score": 11
+      "score": 8
+    },
+    {
+      "id": "dd8dcd515d",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say",
+      "detail": "submitted by /u/talkingatoms [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1xfbclq/us_has_for_years_asked_musk_to_alter_starlink/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 0,
+      "days": 0,
+      "tickers": [],
+      "score": 8
+    },
+    {
+      "id": "e963290ff7",
+      "topic": "AI",
+      "status": "Just surfaced",
+      "title": "Report says 'circular financing' shows AI bubble 'primed to pop'",
+      "detail": "submitted by /u/LogicalDirect [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1xfejeo/report_says_circular_financing_shows_ai_bubble/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 0,
+      "days": 0,
+      "tickers": [],
+      "score": 8
     }
   ],
   "watchlist": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "price": 347.73,
+      "changePct": 1.2,
+      "monthChangePct": 3.5,
+      "catalyst": "Earnings report",
+      "when": "Mon",
+      "signals": [
+        "Earnings",
+        "10 headlines"
+      ],
+      "spark": [
+        342.0,
+        343.46,
+        342.94,
+        339.5,
+        343.99,
+        348.22,
+        347.73
+      ],
+      "history": [
+        {
+          "d": "2026-09-24",
+          "c": 335.92
+        },
+        {
+          "d": "2026-09-25",
+          "c": 341.07
+        },
+        {
+          "d": "2026-09-28",
+          "c": 338.4
+        },
+        {
+          "d": "2026-09-29",
+          "c": 329.4
+        },
+        {
+          "d": "2026-09-30",
+          "c": 333.02
+        },
+        {
+          "d": "2026-10-01",
+          "c": 330.32
+        },
+        {
+          "d": "2026-10-02",
+          "c": 333.69
+        },
+        {
+          "d": "2026-10-05",
+          "c": 332.89
+        },
+        {
+          "d": "2026-10-06",
+          "c": 333.63
+        },
+        {
+          "d": "2026-10-07",
+          "c": 336.67
+        },
+        {
+          "d": "2026-10-08",
+          "c": 340.42
+        },
+        {
+          "d": "2026-10-09",
+          "c": 336.64
+        },
+        {
+          "d": "2026-10-12",
+          "c": 340.97
+        },
+        {
+          "d": "2026-10-13",
+          "c": 341.27
+        },
+        {
+          "d": "2026-10-14",
+          "c": 342.96
+        },
+        {
+          "d": "2026-10-15",
+          "c": 342.0
+        },
+        {
+          "d": "2026-10-16",
+          "c": 343.46
+        },
+        {
+          "d": "2026-10-19",
+          "c": 342.94
+        },
+        {
+          "d": "2026-10-20",
+          "c": 339.5
+        },
+        {
+          "d": "2026-10-21",
+          "c": 343.99
+        },
+        {
+          "d": "2026-10-22",
+          "c": 348.22
+        },
+        {
+          "d": "2026-10-23",
+          "c": 347.73
+        }
+      ],
+      "earnings": "2026-11-02",
+      "headlines": [
+        {
+          "title": "iFixit's teardown of the iPhone Duo shows potential causes for cracked screens",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2296498/ifixit-teardown-of-iphone-duo-shows-potential-causes-for-cracked-screens/",
+          "published": "2026-10-26T09:31:44+00:00"
+        },
+        {
+          "title": "Which Android phone is the closest equivalent to the iPhone Duo?",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2294282/android-phone-closest-equivalent-to-iphone-duo/",
+          "published": "2026-10-25T23:45:00+00:00"
+        },
+        {
+          "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+          "published": "2026-10-25T21:40:27+00:00"
+        },
+        {
+          "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+          "published": "2026-10-25T20:16:19+00:00"
+        },
+        {
+          "title": "What features do you lose if you use Apple AirPods with a Samsung Galaxy phone?",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2293387/features-lost-use-apple-airpods-with-samsung-galaxy-phone/",
+          "published": "2026-10-25T16:45:00+00:00"
+        },
+        {
+          "title": "Now you can watch Instagram Reels on your Apple TV",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+          "published": "2026-10-25T16:20:17+00:00"
+        },
+        {
+          "title": "These clever apps show off the iPhone Duo’s potential",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+          "published": "2026-10-24T15:00:00+00:00"
+        }
+      ],
+      "score": 72.7,
+      "brief": {
+        "what": "7 recent headlines mention Apple. Latest: iFixit's teardown of the iPhone Duo shows potential causes for cracked screens",
+        "why": "Signals: earnings, 10 headlines. The stock is up 1.2% this week and up 3.5% over the month.",
+        "watch": "Next earnings expected Mon Nov 2. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
     {
       "ticker": "GOOGL",
       "name": "Alphabet",
@@ -421,7 +584,7 @@
       "when": "Wed",
       "signals": [
         "Earnings",
-        "2 headlines",
+        "4 headlines",
         "Big price move"
       ],
       "spark": [
@@ -526,17 +689,265 @@
       "earnings": "2026-10-28",
       "headlines": [
         {
+          "title": "Why Google chrome is always using so much RAM",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2294261/why-google-chrome-using-so-much-ram/",
+          "published": "2026-10-25T23:30:00+00:00"
+        },
+        {
           "title": "Google’s AI search changes upended online publishing",
           "source": "The Verge",
           "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
           "published": "2026-10-25T12:00:00+00:00"
         }
       ],
-      "score": 62.0,
+      "score": 72.0,
       "brief": {
-        "what": "1 recent headline mentions Alphabet. Latest: Google’s AI search changes upended online publishing",
-        "why": "Signals: earnings, 2 headlines, big price move. The stock is down 6.0% this week and down 6.5% over the month.",
+        "what": "2 recent headlines mention Alphabet. Latest: Why Google chrome is always using so much RAM",
+        "why": "Signals: earnings, 4 headlines, big price move. The stock is down 6.0% this week and down 6.5% over the month.",
         "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "price": 524.51,
+      "changePct": -0.9,
+      "monthChangePct": 5.3,
+      "catalyst": "Earnings report",
+      "when": "Wed",
+      "signals": [
+        "Earnings",
+        "2 headlines"
+      ],
+      "spark": [
+        539.44,
+        529.05,
+        533.52,
+        531.87,
+        532.95,
+        521.08,
+        524.51
+      ],
+      "history": [
+        {
+          "d": "2026-09-24",
+          "c": 497.93
+        },
+        {
+          "d": "2026-09-25",
+          "c": 516.17
+        },
+        {
+          "d": "2026-09-28",
+          "c": 509.22
+        },
+        {
+          "d": "2026-09-29",
+          "c": 508.96
+        },
+        {
+          "d": "2026-09-30",
+          "c": 512.9
+        },
+        {
+          "d": "2026-10-01",
+          "c": 512.8
+        },
+        {
+          "d": "2026-10-02",
+          "c": 517.53
+        },
+        {
+          "d": "2026-10-05",
+          "c": 525.18
+        },
+        {
+          "d": "2026-10-06",
+          "c": 529.3
+        },
+        {
+          "d": "2026-10-07",
+          "c": 529.76
+        },
+        {
+          "d": "2026-10-08",
+          "c": 522.61
+        },
+        {
+          "d": "2026-10-09",
+          "c": 535.07
+        },
+        {
+          "d": "2026-10-12",
+          "c": 541.15
+        },
+        {
+          "d": "2026-10-13",
+          "c": 543.45
+        },
+        {
+          "d": "2026-10-14",
+          "c": 533.69
+        },
+        {
+          "d": "2026-10-15",
+          "c": 539.44
+        },
+        {
+          "d": "2026-10-16",
+          "c": 529.05
+        },
+        {
+          "d": "2026-10-19",
+          "c": 533.52
+        },
+        {
+          "d": "2026-10-20",
+          "c": 531.87
+        },
+        {
+          "d": "2026-10-21",
+          "c": 532.95
+        },
+        {
+          "d": "2026-10-22",
+          "c": 521.08
+        },
+        {
+          "d": "2026-10-23",
+          "c": 524.51
+        }
+      ],
+      "earnings": "2026-10-28",
+      "headlines": [],
+      "score": 51.7,
+      "brief": {
+        "what": "No major headlines about Microsoft in the last two weeks.",
+        "why": "Signals: earnings, 2 headlines. The stock is down 0.9% this week and up 5.3% over the month.",
+        "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "price": 196.75,
+      "changePct": 5.8,
+      "monthChangePct": 2.2,
+      "catalyst": "Earnings report",
+      "when": "Mon",
+      "signals": [
+        "Earnings",
+        "Big price move"
+      ],
+      "spark": [
+        200.5,
+        186.03,
+        194.15,
+        192.6,
+        201.72,
+        196.19,
+        196.75
+      ],
+      "history": [
+        {
+          "d": "2026-09-24",
+          "c": 192.59
+        },
+        {
+          "d": "2026-09-25",
+          "c": 189.67
+        },
+        {
+          "d": "2026-09-28",
+          "c": 187.48
+        },
+        {
+          "d": "2026-09-29",
+          "c": 186.97
+        },
+        {
+          "d": "2026-09-30",
+          "c": 187.05
+        },
+        {
+          "d": "2026-10-01",
+          "c": 190.04
+        },
+        {
+          "d": "2026-10-02",
+          "c": 188.75
+        },
+        {
+          "d": "2026-10-05",
+          "c": 189.4
+        },
+        {
+          "d": "2026-10-06",
+          "c": 192.07
+        },
+        {
+          "d": "2026-10-07",
+          "c": 194.12
+        },
+        {
+          "d": "2026-10-08",
+          "c": 198.78
+        },
+        {
+          "d": "2026-10-09",
+          "c": 209.05
+        },
+        {
+          "d": "2026-10-12",
+          "c": 209.0
+        },
+        {
+          "d": "2026-10-13",
+          "c": 208.67
+        },
+        {
+          "d": "2026-10-14",
+          "c": 200.97
+        },
+        {
+          "d": "2026-10-15",
+          "c": 200.5
+        },
+        {
+          "d": "2026-10-16",
+          "c": 186.03
+        },
+        {
+          "d": "2026-10-19",
+          "c": 194.15
+        },
+        {
+          "d": "2026-10-20",
+          "c": 192.6
+        },
+        {
+          "d": "2026-10-21",
+          "c": 201.72
+        },
+        {
+          "d": "2026-10-22",
+          "c": 196.19
+        },
+        {
+          "d": "2026-10-23",
+          "c": 196.75
+        }
+      ],
+      "earnings": "2026-11-02",
+      "headlines": [],
+      "score": 51.5,
+      "brief": {
+        "what": "No major headlines about Palantir in the last two weeks.",
+        "why": "Signals: earnings, big price move. The stock is up 5.8% this week and up 2.2% over the month.",
+        "watch": "Next earnings expected Mon Nov 2. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
@@ -657,366 +1068,6 @@
       "brief": {
         "what": "No major headlines about Coinbase in the last two weeks.",
         "why": "Signals: earnings, big price move. The stock is down 5.0% this week and down 17.4% over the month.",
-        "watch": "Next earnings expected Thu Oct 29. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft",
-      "price": 524.51,
-      "changePct": -0.9,
-      "monthChangePct": 5.3,
-      "catalyst": "Earnings report",
-      "when": "Wed",
-      "signals": [
-        "Earnings"
-      ],
-      "spark": [
-        539.44,
-        529.05,
-        533.52,
-        531.87,
-        532.95,
-        521.08,
-        524.51
-      ],
-      "history": [
-        {
-          "d": "2026-09-24",
-          "c": 497.93
-        },
-        {
-          "d": "2026-09-25",
-          "c": 516.17
-        },
-        {
-          "d": "2026-09-28",
-          "c": 509.22
-        },
-        {
-          "d": "2026-09-29",
-          "c": 508.96
-        },
-        {
-          "d": "2026-09-30",
-          "c": 512.9
-        },
-        {
-          "d": "2026-10-01",
-          "c": 512.8
-        },
-        {
-          "d": "2026-10-02",
-          "c": 517.53
-        },
-        {
-          "d": "2026-10-05",
-          "c": 525.18
-        },
-        {
-          "d": "2026-10-06",
-          "c": 529.3
-        },
-        {
-          "d": "2026-10-07",
-          "c": 529.76
-        },
-        {
-          "d": "2026-10-08",
-          "c": 522.61
-        },
-        {
-          "d": "2026-10-09",
-          "c": 535.07
-        },
-        {
-          "d": "2026-10-12",
-          "c": 541.15
-        },
-        {
-          "d": "2026-10-13",
-          "c": 543.45
-        },
-        {
-          "d": "2026-10-14",
-          "c": 533.69
-        },
-        {
-          "d": "2026-10-15",
-          "c": 539.44
-        },
-        {
-          "d": "2026-10-16",
-          "c": 529.05
-        },
-        {
-          "d": "2026-10-19",
-          "c": 533.52
-        },
-        {
-          "d": "2026-10-20",
-          "c": 531.87
-        },
-        {
-          "d": "2026-10-21",
-          "c": 532.95
-        },
-        {
-          "d": "2026-10-22",
-          "c": 521.08
-        },
-        {
-          "d": "2026-10-23",
-          "c": 524.51
-        }
-      ],
-      "earnings": "2026-10-28",
-      "headlines": [],
-      "score": 46.7,
-      "brief": {
-        "what": "No major headlines about Microsoft in the last two weeks.",
-        "why": "Signals: earnings. The stock is down 0.9% this week and up 5.3% over the month.",
-        "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "INTC",
-      "name": "Intel",
-      "price": 86.96,
-      "changePct": -3.2,
-      "monthChangePct": -31.7,
-      "catalyst": "Earnings report",
-      "when": "Thu",
-      "signals": [
-        "Earnings"
-      ],
-      "spark": [
-        95.37,
-        89.85,
-        92.03,
-        91.69,
-        92.96,
-        85.49,
-        86.96
-      ],
-      "history": [
-        {
-          "d": "2026-09-24",
-          "c": 127.39
-        },
-        {
-          "d": "2026-09-25",
-          "c": 123.0
-        },
-        {
-          "d": "2026-09-28",
-          "c": 116.03
-        },
-        {
-          "d": "2026-09-29",
-          "c": 115.93
-        },
-        {
-          "d": "2026-09-30",
-          "c": 120.23
-        },
-        {
-          "d": "2026-10-01",
-          "c": 120.0
-        },
-        {
-          "d": "2026-10-02",
-          "c": 119.33
-        },
-        {
-          "d": "2026-10-05",
-          "c": 116.19
-        },
-        {
-          "d": "2026-10-06",
-          "c": 112.5
-        },
-        {
-          "d": "2026-10-07",
-          "c": 113.12
-        },
-        {
-          "d": "2026-10-08",
-          "c": 107.08
-        },
-        {
-          "d": "2026-10-09",
-          "c": 104.7
-        },
-        {
-          "d": "2026-10-12",
-          "c": 101.35
-        },
-        {
-          "d": "2026-10-13",
-          "c": 102.81
-        },
-        {
-          "d": "2026-10-14",
-          "c": 98.12
-        },
-        {
-          "d": "2026-10-15",
-          "c": 95.37
-        },
-        {
-          "d": "2026-10-16",
-          "c": 89.85
-        },
-        {
-          "d": "2026-10-19",
-          "c": 92.03
-        },
-        {
-          "d": "2026-10-20",
-          "c": 91.69
-        },
-        {
-          "d": "2026-10-21",
-          "c": 92.96
-        },
-        {
-          "d": "2026-10-22",
-          "c": 85.49
-        },
-        {
-          "d": "2026-10-23",
-          "c": 86.96
-        }
-      ],
-      "earnings": "2026-10-29",
-      "headlines": [],
-      "score": 46.4,
-      "brief": {
-        "what": "No major headlines about Intel in the last two weeks.",
-        "why": "Signals: earnings. The stock is down 3.2% this week and down 31.7% over the month.",
-        "watch": "Next earnings expected Thu Oct 29. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "price": 248.0,
-      "changePct": -0.8,
-      "monthChangePct": -0.6,
-      "catalyst": "Earnings report",
-      "when": "Thu",
-      "signals": [
-        "Earnings"
-      ],
-      "spark": [
-        254.76,
-        250.0,
-        262.45,
-        262.63,
-        262.37,
-        250.38,
-        248.0
-      ],
-      "history": [
-        {
-          "d": "2026-09-24",
-          "c": 249.38
-        },
-        {
-          "d": "2026-09-25",
-          "c": 249.67
-        },
-        {
-          "d": "2026-09-28",
-          "c": 246.15
-        },
-        {
-          "d": "2026-09-29",
-          "c": 246.67
-        },
-        {
-          "d": "2026-09-30",
-          "c": 249.15
-        },
-        {
-          "d": "2026-10-01",
-          "c": 248.23
-        },
-        {
-          "d": "2026-10-02",
-          "c": 251.52
-        },
-        {
-          "d": "2026-10-05",
-          "c": 251.4
-        },
-        {
-          "d": "2026-10-06",
-          "c": 256.29
-        },
-        {
-          "d": "2026-10-07",
-          "c": 259.92
-        },
-        {
-          "d": "2026-10-08",
-          "c": 254.06
-        },
-        {
-          "d": "2026-10-09",
-          "c": 262.43
-        },
-        {
-          "d": "2026-10-12",
-          "c": 259.53
-        },
-        {
-          "d": "2026-10-13",
-          "c": 258.58
-        },
-        {
-          "d": "2026-10-14",
-          "c": 254.08
-        },
-        {
-          "d": "2026-10-15",
-          "c": 254.76
-        },
-        {
-          "d": "2026-10-16",
-          "c": 250.0
-        },
-        {
-          "d": "2026-10-19",
-          "c": 262.45
-        },
-        {
-          "d": "2026-10-20",
-          "c": 262.63
-        },
-        {
-          "d": "2026-10-21",
-          "c": 262.37
-        },
-        {
-          "d": "2026-10-22",
-          "c": 250.38
-        },
-        {
-          "d": "2026-10-23",
-          "c": 248.0
-        }
-      ],
-      "earnings": "2026-10-29",
-      "headlines": [],
-      "score": 41.6,
-      "brief": {
-        "what": "No major headlines about Amazon in the last two weeks.",
-        "why": "Signals: earnings. The stock is down 0.8% this week and down 0.6% over the month.",
         "watch": "Next earnings expected Thu Oct 29. Results and guidance usually move the stock most.",
         "ai": false
       }
