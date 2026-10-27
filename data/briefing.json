@@ -1,322 +1,306 @@
 {
   "weekOf": "2026-10-26",
-  "updated": "2026-10-27T11:45:09+00:00",
+  "updated": "2026-10-27T22:43:11+00:00",
   "summary": [
-    "AI leads the news with 11 of 25 stories. Top headline: Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-    "Earnings this week from AAPL, MSFT, GOOGL, COIN, AMZN.",
-    "Strongest rumor: Microsoft reportedly offers voluntary buyouts to 60,000 employees as an attempt to trim costs"
+    "AI leads the news with 12 of 25 stories. Top headline: The best ways to tell if someone is using AI glasses",
+    "Earnings this week from GOOGL, AAPL, MSFT, AMZN, SMCI.",
+    "Strongest rumor: Grand Theft Auto VI reportedly requires a 210GB download"
   ],
   "stories": [
     {
-      "id": "0ab58282d1",
-      "topic": "AI",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-27T11:00:00+00:00",
-      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
-      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "2e06dc6176",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-10-27T11:00:00+00:00",
-      "title": "Sterling Anderson doesn’t think humanoid robots should be building cars",
-      "summary": "At a splashy event in New York City last week, General Motors unveiled its new tech roadmap centered on AI-driven vehicle development, advanced battery tech, high-powered car computers, and autonomous driving. Some of this was old news: We already knew the automaker was…",
-      "url": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
-      "tickers": []
-    },
-    {
-      "id": "d6feca4c61",
+      "id": "38981e02d2",
       "topic": "AI",
       "kind": "Company",
-      "source": "Wired",
-      "published": "2026-10-27T11:00:00+00:00",
-      "title": "AI Agents Are Media’s New Favorite Audience",
-      "summary": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
-      "url": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
+      "source": "Engadget",
+      "published": "2026-10-27T22:30:00+00:00",
+      "title": "The best ways to tell if someone is using AI glasses",
+      "summary": "While it can be jarring to discover that your companion is using AI glasses, there are some steps you can take to recognize them ASAP.",
+      "url": "https://www.engadget.com/2296049/best-ways-tell-if-someone-wearing-ai-glasses/",
       "tickers": []
     },
     {
-      "id": "62ad97dd19",
+      "id": "77a01b8214",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-27T22:26:03+00:00",
+      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+      "summary": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.",
+      "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+      "tickers": []
+    },
+    {
+      "id": "f77d794cda",
+      "topic": "Startups",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-27T22:17:18+00:00",
+      "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
+      "summary": "A whole crop of venture capital firms are raising significant new funds.",
+      "url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
+      "tickers": []
+    },
+    {
+      "id": "720a935087",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-27T11:00:00+00:00",
-      "title": "Slate teams up with Smarties to add candy colors to its EV trucks",
-      "summary": "Fancy making your Slate EV look like halloween candy? Now you can.",
-      "url": "https://www.engadget.com/2295050/slate-ev-smarties-candy-color-wraps/",
+      "published": "2026-10-27T22:00:00+00:00",
+      "title": "What are wrong number text scams, and how can you avoid them?",
+      "summary": "It's not an honest mistake; it's the start of an attack on your wallet.",
+      "url": "https://www.engadget.com/2296048/wrong-number-text-scams-how-avoid/",
       "tickers": []
     },
     {
-      "id": "1d557638f5",
-      "topic": "Devices",
+      "id": "4ac749a9cd",
+      "topic": "Tech",
       "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-27T11:00:00+00:00",
-      "title": "20 Years of MacBook: How Apple shaped the laptops we use today",
-      "summary": "Apple has influenced everything from unibody laptop cases to high-res screens.",
-      "url": "https://www.engadget.com/2297565/20-years-of-macbook-how-apple-shaped-the-laptops-we-use-today/",
-      "tickers": [
-        "AAPL"
-      ]
+      "source": "TechCrunch",
+      "published": "2026-10-27T21:47:02+00:00",
+      "title": "GM is embracing hybrids now",
+      "summary": "GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs.",
+      "url": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
+      "tickers": []
     },
     {
-      "id": "510de8b064",
+      "id": "6c86ddaf10",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-27T21:44:34+00:00",
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "tickers": []
+    },
+    {
+      "id": "df17d92690",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-27T21:38:28+00:00",
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "tickers": []
+    },
+    {
+      "id": "c44e594eb3",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-27T21:35:22+00:00",
+      "title": "Why is there a random arm taking over the X composer?",
+      "summary": "The animation is pushing users to pay to promote their posts.",
+      "url": "https://www.engadget.com/2299052/why-is-there-a-random-arm-taking-over-the-x-composer/",
+      "tickers": []
+    },
+    {
+      "id": "e8d3b27143",
       "topic": "Cloud",
       "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-27T10:00:00+00:00",
-      "title": "Data center backlash is uniting America",
-      "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across…",
-      "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+      "source": "TechCrunch",
+      "published": "2026-10-27T21:22:35+00:00",
+      "title": "Discord is making its public communities more searchable, and people have concerns",
+      "summary": "In December, messages from Discord's public discoverable servers will begin appearing in search engine results.",
+      "url": "https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/",
       "tickers": []
     },
     {
-      "id": "bf659b0cf2",
+      "id": "fbef467f03",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-27T21:13:59+00:00",
+      "title": "ChatGPT can work with your iCloud Mail and Calendar thanks to new plugin support",
+      "summary": "You can use the AI assistant to update calendar events and search your inbox, among other things.",
+      "url": "https://www.engadget.com/2299026/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support/",
+      "tickers": []
+    },
+    {
+      "id": "f70278df4f",
       "topic": "AI",
       "kind": "Launch",
       "source": "The Verge",
-      "published": "2026-10-27T09:54:22+00:00",
-      "title": "Acer is bringing a Predator gaming handheld to the US for the first time",
-      "summary": "It's been several months since Acer unveiled its Predator Atlas 8 gaming handheld, but now we finally know that it's coming to the US, and how much it'll cost. The Intel Arc G3 Extreme variant - the more powerful of the two models announced in May - will be available exclusively…",
-      "url": "https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price",
-      "tickers": [
-        "INTC"
-      ]
-    },
-    {
-      "id": "06ebe356d9",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "Engadget",
-      "published": "2026-10-27T08:18:16+00:00",
-      "title": "OpenAI announces new discoveries in mathematics, computer science and physics",
-      "summary": "OpenAI said its models generated proof that the Exponential Time Hypothesis is false. It also released new results for math and physics problems.",
-      "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/",
+      "published": "2026-10-27T20:48:58+00:00",
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
       "tickers": []
     },
     {
-      "id": "c3fd8a6011",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-27T06:34:44+00:00",
-      "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
-      "summary": "Whose hand is behind this travesty?",
-      "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
-      "tickers": []
-    },
-    {
-      "id": "436dd6b33d",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-27T06:25:37+00:00",
-      "title": "The Mythical Man-Month in the Age of AI",
-      "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 203 # Comments: 142",
-      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-      "tickers": []
-    },
-    {
-      "id": "224d53b141",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-27T02:00:00+00:00",
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-      "tickers": []
-    },
-    {
-      "id": "074891bedf",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-27T01:12:21+00:00",
-      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
-      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-      "tickers": []
-    },
-    {
-      "id": "258678b55d",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-27T00:30:00+00:00",
-      "title": "iPhone Lockdown Mode: The pros and cons of enabling Apple's security feature",
-      "summary": "Lockdown Mode enables extreme protections for those most at risk, but it's overkill for most people.",
-      "url": "https://www.engadget.com/2295333/iphone-lockdown-mode-pros-cons/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "cbd7584edc",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-26T23:30:00+00:00",
-      "title": "The most popular streaming platforms in the US might not be what you think",
-      "summary": "You might be surprised at the rankings of some streaming services when it comes to what Americans watch on their TVs.",
-      "url": "https://www.engadget.com/2295216/most-popular-streaming-platforms-united-states-not-what-you-think/",
-      "tickers": []
-    },
-    {
-      "id": "0a1d4d7840",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-26T23:00:00+00:00",
-      "title": "6+ ways you can use your PlayStation 5's USB ports",
-      "summary": "You can do more than charge your controllers with the USB ports on your PS5. Here are some of the possibilities.",
-      "url": "https://www.engadget.com/2294767/ways-to-use-playstation-5-usb-ports/",
-      "tickers": []
-    },
-    {
-      "id": "d05d6569da",
-      "topic": "Devices",
-      "kind": "Launch",
-      "source": "Engadget",
-      "published": "2026-10-26T22:51:46+00:00",
-      "title": "Halide releases its first batch of updates for the iPhone Duo",
-      "summary": "Camera app Halide released a new update for the iPhone Duo that adds three different shooting modes based on what position the foldable is in.",
-      "url": "https://www.engadget.com/2297806/halide-releases-its-first-batch-of-updates-for-the-iphone-duo/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "0d2dd05f83",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-26T22:30:00+00:00",
-      "title": "What are the leading causes of EV battery damage?",
-      "summary": "Charging behaviors and heat are the things to pay attention to.",
-      "url": "https://www.engadget.com/2290322/leading-causing-ev-battery-damage/",
-      "tickers": []
-    },
-    {
-      "id": "ae116ba5ca",
-      "topic": "Tech",
+      "id": "f3dc142325",
+      "topic": "Startups",
       "kind": "Founder",
       "source": "TechCrunch",
-      "published": "2026-10-26T22:00:00+00:00",
-      "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
-      "summary": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
-      "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
+      "published": "2026-10-27T20:31:17+00:00",
+      "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+      "summary": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
+      "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
       "tickers": []
     },
     {
-      "id": "be6af63911",
-      "topic": "Devices",
-      "kind": "Company",
+      "id": "faa072254a",
+      "topic": "Tech",
+      "kind": "Launch",
       "source": "Engadget",
-      "published": "2026-10-26T22:00:00+00:00",
-      "title": "The mistake iPhone Duo buyers can easily avoid",
-      "summary": "An iPhone Duo can become even more expensive if you have to repair it, so it's vital to plan for that ahead of time.",
-      "url": "https://www.engadget.com/2294592/mistake-iphone-duo-buyers-can-avoid/",
-      "tickers": [
-        "AAPL"
-      ]
+      "published": "2026-10-27T19:55:04+00:00",
+      "title": "Rockstar workers in the UK will hold a union vote just as GTA 6 is released",
+      "summary": "A legal case alleging union-busting at the game developer will also wrap next month.",
+      "url": "https://www.engadget.com/2298907/rockstar-workers-in-uk-hold-union-vote-as-gta-6-release/",
+      "tickers": []
     },
     {
-      "id": "cf38a109f3",
+      "id": "0cd2ce3923",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "Wired",
+      "published": "2026-10-27T19:39:04+00:00",
+      "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
+      "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
+      "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+      "tickers": []
+    },
+    {
+      "id": "007815ae28",
       "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-27T19:24:06+00:00",
+      "title": "Elon Musk says Ukraine’s military violated Starlink’s terms of service",
+      "summary": "Elon Musk claims Ukraine violated Starlink's terms of service before the recent slowdown, as reported earlier by Ars Technica. According to Musk, \"Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed…",
+      "url": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service",
+      "tickers": []
+    },
+    {
+      "id": "b4bbe341db",
+      "topic": "Startups",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-10-27T18:55:35+00:00",
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "tickers": []
+    },
+    {
+      "id": "dd47f4a348",
+      "topic": "Cloud",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-10-26T21:59:15+00:00",
-      "title": "The Exponential Time Hypothesis Is False [pdf]",
-      "summary": "See also: Announcing three new discoveries in mathematics, computer science, and physics - https://news.ycombinator.com/item?id=50251344 Comments URL: https://news.ycombinator.com/item?id=50251661 Points: 655 # Comments: 247",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-      "tickers": []
-    },
-    {
-      "id": "f1f348b0a7",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-26T21:56:36+00:00",
-      "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
-      "summary": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&H Photo) and the 512GB version $99 (Amazon, B&H Photo). The smaller card typically sells for…",
-      "url": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
+      "published": "2026-10-27T18:44:17+00:00",
+      "title": "Discord will soon let anyone find public server messages through Google",
+      "summary": "Article URL: https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover Comments URL: https://news.ycombinator.com/item?id=50263854 Points: 168 # Comments: 105",
+      "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
       "tickers": [
-        "AMZN"
+        "GOOGL"
       ]
     },
     {
-      "id": "1bb0325fa5",
+      "id": "b403ffb5ea",
       "topic": "AI",
       "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-26T21:45:31+00:00",
-      "title": "Anthropic is burning gas to feed the AI boom",
-      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "source": "Engadget",
+      "published": "2026-10-27T18:30:00+00:00",
+      "title": "This old Nokia phone got an AI Upgrade it was never designed for",
+      "summary": "The GOAT of dumb phones gets a new lease on life.",
+      "url": "https://www.engadget.com/2295625/old-nokia-phone-ai-upgrade-never-designed-for/",
       "tickers": []
     },
     {
-      "id": "a434e9011b",
+      "id": "2b1ed5d98f",
       "topic": "AI",
       "kind": "Company",
       "source": "Wired",
-      "published": "2026-10-26T21:27:15+00:00",
-      "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
-      "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
-      "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
+      "published": "2026-10-27T18:20:28+00:00",
+      "title": "Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks",
+      "summary": "The data center buildout could cause a massive increase in gas prices as companies scramble for limited supplies and infrastructure fails to meet demand.",
+      "url": "https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/",
       "tickers": []
     },
     {
-      "id": "6b7c612c46",
+      "id": "6e509917e1",
       "topic": "Devices",
       "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-26T21:05:11+00:00",
-      "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
-      "summary": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.",
-      "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
-      "tickers": [
-        "META"
-      ]
-    },
-    {
-      "id": "5374300d22",
-      "topic": "AI",
-      "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-26T19:47:56+00:00",
-      "title": "Apple adds more Siri AI tools in its 27.2 system updates, out today",
-      "summary": "Apple has rolled out software updates for all its platforms today.",
-      "url": "https://www.engadget.com/2297577/apple-adds-more-siri-ai-tools-in-27-2-system-updates-out-today/",
+      "published": "2026-10-27T18:00:00+00:00",
+      "title": "Why buying a Mac mini over a MacBook might be the smarter move",
+      "summary": "Apple's smallest desktop delivers better performance and value for those willing to leave the laptop behind.",
+      "url": "https://www.engadget.com/2296036/why-buying-mac-mini-over-macbook-smarter-move/",
       "tickers": [
         "AAPL"
       ]
+    },
+    {
+      "id": "732b29f563",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "The Verge",
+      "published": "2026-10-27T17:30:00+00:00",
+      "title": "VisionQuest is what happens when AI really goes rogue",
+      "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+      "tickers": []
+    },
+    {
+      "id": "1a8a560dee",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-27T17:08:08+00:00",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "tickers": []
+    },
+    {
+      "id": "6ec19605de",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-10-27T17:00:00+00:00",
+      "title": "The Super Mouse puts a touchscreen macro pad under your hand",
+      "summary": "A company called Arctic Fox Technologies has announced a new multifunction mouse that forgoes a myriad of customizable shortcut buttons peppered across its surface for a compact touchscreen sitting beneath your hand. The Super Mouse may not prioritize ergonomics with its boxy…",
+      "url": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter",
+      "tickers": []
+    },
+    {
+      "id": "94a166880d",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-27T16:57:44+00:00",
+      "title": "Pokémon Unite is shutting down",
+      "summary": "Its journey ends in March 2027.",
+      "url": "https://www.engadget.com/2298514/pokemon-unite-is-shutting-down/",
+      "tickers": []
+    },
+    {
+      "id": "f3d686286b",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-27T16:51:22+00:00",
+      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+      "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "tickers": []
     }
   ],
   "rumors": [
     {
-      "id": "0e2ae818e1",
+      "id": "2f10b90582",
       "topic": "Tech",
       "status": "Just surfaced",
-      "title": "Microsoft reportedly offers voluntary buyouts to 60,000 employees as an attempt to trim costs",
-      "detail": "That's over a quarter of the company's global workforce.",
-      "url": "https://www.engadget.com/2297175/microsoft-reportedly-offers-voluntary-buyouts-to-60000-employees/",
+      "title": "Grand Theft Auto VI reportedly requires a 210GB download",
+      "detail": "Be prepared to surrender a significant portion of your console's hard drive.",
+      "url": "https://www.engadget.com/2298872/gta-6-download-size-reportedly-210-gb/",
       "sources": 1,
-      "mentions": 5,
+      "mentions": 2,
       "credible": 1,
       "days": 0,
-      "tickers": [
-        "MSFT"
-      ],
-      "score": 22
+      "tickers": [],
+      "score": 18
     },
     {
       "id": "b87b2ee891",
@@ -342,17 +326,17 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 5,
+      "days": 6,
       "tickers": [],
       "score": 15
     },
     {
-      "id": "b87dfbb6d5",
+      "id": "0ae2d44e23",
       "topic": "Tech",
       "status": "Just surfaced",
-      "title": "Ghost of Yōtei studio Sucker Punch reportedly lays off 24 workers",
-      "detail": "Developer Sucker Punch just released a well-received expansion for Ghost of Yōtei a few weeks ago.",
-      "url": "https://www.engadget.com/2297486/ghost-of-yotei-studio-sucker-punch-lays-off-24-workers/",
+      "title": "Trump is making it easier for fossil fuel companies to leak methane",
+      "detail": "In its latest gift to oil and gas companies, the Trump administration is expected to announce plans today to weaken rules that guard against methane leaks. Methane is a smog-forming pollutant and a powerful greenhouse gas that's up to 80 times as potent as carbon dioxide on a…",
+      "url": "https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump",
       "sources": 1,
       "mentions": 1,
       "credible": 1,
@@ -361,12 +345,28 @@
       "score": 15
     },
     {
-      "id": "bded6d44be",
+      "id": "0949fff7e6",
+      "topic": "Chips",
+      "status": "Just surfaced",
+      "title": "iPhone 18e reportedly comes with 2nm A20 chip and 60Hz screen",
+      "detail": "The leaks suggest the front camera could also see a boost.",
+      "url": "https://www.engadget.com/2299043/iphone-18e-reportedly-comes-with-2nm-a20-chip-and-60hz-screen/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [
+        "AAPL"
+      ],
+      "score": 15
+    },
+    {
+      "id": "9ba1aa0fd1",
       "topic": "Tech",
       "status": "Just surfaced",
-      "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn’t Real / In comments at a private police conference, Garrett Langley also said his wife advised him to never apologize.",
-      "detail": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1xg3s88/in_leaked_audio_flock_ceo_tells_cops_backlash_to/",
+      "title": "Brazil's Flavio Bolsonaro headed to US, sources say",
+      "detail": "Article URL: https://www.reuters.com/world/americas/brazil-wonders-where-earth-is-flavio-bolsonaro-2026-10-27/ Comments URL: https://news.ycombinator.com/item?id=50262942 Points: 54 # Comments: 50",
+      "url": "https://www.reuters.com/world/americas/brazil-wonders-where-earth-is-flavio-bolsonaro-2026-10-27/",
       "sources": 1,
       "mentions": 1,
       "credible": 0,
@@ -377,342 +377,28 @@
   ],
   "watchlist": [
     {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "price": 343.91,
-      "changePct": 0.3,
-      "monthChangePct": 0.8,
-      "catalyst": "Earnings report",
-      "when": "Mon",
-      "signals": [
-        "Earnings",
-        "13 headlines"
-      ],
-      "spark": [
-        343.46,
-        342.94,
-        339.5,
-        343.99,
-        348.22,
-        347.73,
-        343.91
-      ],
-      "history": [
-        {
-          "d": "2026-09-25",
-          "c": 341.07
-        },
-        {
-          "d": "2026-09-28",
-          "c": 338.4
-        },
-        {
-          "d": "2026-09-29",
-          "c": 329.4
-        },
-        {
-          "d": "2026-09-30",
-          "c": 333.02
-        },
-        {
-          "d": "2026-10-01",
-          "c": 330.32
-        },
-        {
-          "d": "2026-10-02",
-          "c": 333.69
-        },
-        {
-          "d": "2026-10-05",
-          "c": 332.89
-        },
-        {
-          "d": "2026-10-06",
-          "c": 333.63
-        },
-        {
-          "d": "2026-10-07",
-          "c": 336.67
-        },
-        {
-          "d": "2026-10-08",
-          "c": 340.42
-        },
-        {
-          "d": "2026-10-09",
-          "c": 336.64
-        },
-        {
-          "d": "2026-10-12",
-          "c": 340.97
-        },
-        {
-          "d": "2026-10-13",
-          "c": 341.27
-        },
-        {
-          "d": "2026-10-14",
-          "c": 342.96
-        },
-        {
-          "d": "2026-10-15",
-          "c": 342.0
-        },
-        {
-          "d": "2026-10-16",
-          "c": 343.46
-        },
-        {
-          "d": "2026-10-19",
-          "c": 342.94
-        },
-        {
-          "d": "2026-10-20",
-          "c": 339.5
-        },
-        {
-          "d": "2026-10-21",
-          "c": 343.99
-        },
-        {
-          "d": "2026-10-22",
-          "c": 348.22
-        },
-        {
-          "d": "2026-10-23",
-          "c": 347.73
-        },
-        {
-          "d": "2026-10-26",
-          "c": 343.91
-        }
-      ],
-      "earnings": "2026-11-02",
-      "headlines": [
-        {
-          "title": "20 Years of MacBook: How Apple shaped the laptops we use today",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2297565/20-years-of-macbook-how-apple-shaped-the-laptops-we-use-today/",
-          "published": "2026-10-27T11:00:00+00:00"
-        },
-        {
-          "title": "iPhone Lockdown Mode: The pros and cons of enabling Apple's security feature",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2295333/iphone-lockdown-mode-pros-cons/",
-          "published": "2026-10-27T00:30:00+00:00"
-        },
-        {
-          "title": "Halide releases its first batch of updates for the iPhone Duo",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2297806/halide-releases-its-first-batch-of-updates-for-the-iphone-duo/",
-          "published": "2026-10-26T22:51:46+00:00"
-        },
-        {
-          "title": "The mistake iPhone Duo buyers can easily avoid",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2294592/mistake-iphone-duo-buyers-can-avoid/",
-          "published": "2026-10-26T22:00:00+00:00"
-        },
-        {
-          "title": "Apple adds more Siri AI tools in its 27.2 system updates, out today",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2297577/apple-adds-more-siri-ai-tools-in-27-2-system-updates-out-today/",
-          "published": "2026-10-26T19:47:56+00:00"
-        },
-        {
-          "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
-          "published": "2026-10-26T19:22:40+00:00"
-        },
-        {
-          "title": "Apple responds to reports of the iPhone Duo's inner display cracking",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2297433/apple-responds-to-reports-of-the-iphone-duo-inner-display-cracking/",
-          "published": "2026-10-26T18:52:02+00:00"
-        },
-        {
-          "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
-          "published": "2026-10-26T18:51:06+00:00"
-        },
-        {
-          "title": "Your Apple TV remote has handy shortcuts most people never use",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2295146/handy-apple-tv-remote-shortcuts/",
-          "published": "2026-10-26T18:30:00+00:00"
-        },
-        {
-          "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
-          "published": "2026-10-26T14:25:43+00:00"
-        }
-      ],
-      "score": 71.1,
-      "brief": {
-        "what": "10 recent headlines mention Apple. Latest: 20 Years of MacBook: How Apple shaped the laptops we use today",
-        "why": "Signals: earnings, 13 headlines. The stock is up 0.3% this week and up 0.8% over the month.",
-        "watch": "Next earnings expected Mon Nov 2. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft",
-      "price": 532.6,
-      "changePct": -0.2,
-      "monthChangePct": 3.2,
-      "catalyst": "Earnings report",
-      "when": "Wed",
-      "signals": [
-        "Earnings",
-        "6 headlines"
-      ],
-      "spark": [
-        529.05,
-        533.52,
-        531.87,
-        532.95,
-        521.08,
-        524.51,
-        532.6
-      ],
-      "history": [
-        {
-          "d": "2026-09-25",
-          "c": 516.17
-        },
-        {
-          "d": "2026-09-28",
-          "c": 509.22
-        },
-        {
-          "d": "2026-09-29",
-          "c": 508.96
-        },
-        {
-          "d": "2026-09-30",
-          "c": 512.9
-        },
-        {
-          "d": "2026-10-01",
-          "c": 512.8
-        },
-        {
-          "d": "2026-10-02",
-          "c": 517.53
-        },
-        {
-          "d": "2026-10-05",
-          "c": 525.18
-        },
-        {
-          "d": "2026-10-06",
-          "c": 529.3
-        },
-        {
-          "d": "2026-10-07",
-          "c": 529.76
-        },
-        {
-          "d": "2026-10-08",
-          "c": 522.61
-        },
-        {
-          "d": "2026-10-09",
-          "c": 535.07
-        },
-        {
-          "d": "2026-10-12",
-          "c": 541.15
-        },
-        {
-          "d": "2026-10-13",
-          "c": 543.45
-        },
-        {
-          "d": "2026-10-14",
-          "c": 533.69
-        },
-        {
-          "d": "2026-10-15",
-          "c": 539.44
-        },
-        {
-          "d": "2026-10-16",
-          "c": 529.05
-        },
-        {
-          "d": "2026-10-19",
-          "c": 533.52
-        },
-        {
-          "d": "2026-10-20",
-          "c": 531.87
-        },
-        {
-          "d": "2026-10-21",
-          "c": 532.95
-        },
-        {
-          "d": "2026-10-22",
-          "c": 521.08
-        },
-        {
-          "d": "2026-10-23",
-          "c": 524.51
-        },
-        {
-          "d": "2026-10-26",
-          "c": 532.6
-        }
-      ],
-      "earnings": "2026-10-28",
-      "headlines": [
-        {
-          "title": "Microsoft offers buyouts to around 60,000 employees",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
-          "published": "2026-10-26T15:58:25+00:00"
-        }
-      ],
-      "score": 70.3,
-      "brief": {
-        "what": "1 recent headline mentions Microsoft. Latest: Microsoft offers buyouts to around 60,000 employees There is also a rumor making the rounds: Microsoft reportedly offers voluntary buyouts to 60,000 employees as an attempt to trim costs",
-        "why": "Signals: earnings, 6 headlines. The stock is down 0.2% this week and up 3.2% over the month.",
-        "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
       "ticker": "GOOGL",
       "name": "Alphabet",
-      "price": 316.8,
-      "changePct": -8.0,
-      "monthChangePct": -7.9,
+      "price": 320.58,
+      "changePct": -5.8,
+      "monthChangePct": -6.5,
       "catalyst": "Earnings report",
       "when": "Wed",
       "signals": [
         "Earnings",
-        "2 headlines",
+        "9 headlines",
         "Big price move"
       ],
       "spark": [
-        340.59,
         344.18,
         340.28,
         334.76,
         324.22,
         320.21,
-        316.8
+        316.8,
+        320.58
       ],
       "history": [
-        {
-          "d": "2026-09-25",
-          "c": 343.92
-        },
         {
           "d": "2026-09-28",
           "c": 342.75
@@ -796,172 +482,355 @@
         {
           "d": "2026-10-26",
           "c": 316.8
+        },
+        {
+          "d": "2026-10-27",
+          "c": 320.58
         }
       ],
       "earnings": "2026-10-28",
       "headlines": [
         {
-          "title": "Fitbit Edge review: Google strikes the right balance",
+          "title": "Discord will soon let anyone find public server messages through Google",
+          "source": "Hacker News",
+          "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+          "published": "2026-10-27T18:44:17+00:00"
+        },
+        {
+          "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+          "published": "2026-10-27T16:30:57+00:00"
+        },
+        {
+          "title": "Apple iPhone Duo vs Google Pixel 11 Pro Fold: The differences beyond foldable style",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2296678/fitbit-edge-review/",
-          "published": "2026-10-26T17:00:00+00:00"
+          "url": "https://www.engadget.com/2296032/apple-iphone-duo-vs-google-pixel-11-pro-fold/",
+          "published": "2026-10-27T16:15:00+00:00"
+        },
+        {
+          "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+          "published": "2026-10-27T14:59:09+00:00"
         }
       ],
-      "score": 66.0,
+      "score": 82.5,
       "brief": {
-        "what": "1 recent headline mentions Alphabet. Latest: Fitbit Edge review: Google strikes the right balance",
-        "why": "Signals: earnings, 2 headlines, big price move. The stock is down 8.0% this week and down 7.9% over the month.",
+        "what": "4 recent headlines mention Alphabet. Latest: Discord will soon let anyone find public server messages through Google",
+        "why": "Signals: earnings, 9 headlines, big price move. The stock is down 5.8% this week and down 6.5% over the month.",
         "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
     {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 159.6,
-      "changePct": -5.3,
-      "monthChangePct": -18.2,
+      "ticker": "AAPL",
+      "name": "Apple",
+      "price": 347.1,
+      "changePct": 2.2,
+      "monthChangePct": 2.6,
       "catalyst": "Earnings report",
-      "when": "Thu",
+      "when": "Mon",
       "signals": [
         "Earnings",
-        "Big price move"
+        "10 headlines"
       ],
       "spark": [
-        173.16,
-        168.45,
-        170.85,
-        177.08,
-        169.09,
-        164.45,
-        159.6
+        342.94,
+        339.5,
+        343.99,
+        348.22,
+        347.73,
+        343.91,
+        347.1
       ],
       "history": [
         {
-          "d": "2026-09-25",
-          "c": 195.11
-        },
-        {
           "d": "2026-09-28",
-          "c": 191.79
+          "c": 338.4
         },
         {
           "d": "2026-09-29",
-          "c": 190.02
+          "c": 329.4
         },
         {
           "d": "2026-09-30",
-          "c": 186.41
+          "c": 333.02
         },
         {
           "d": "2026-10-01",
-          "c": 189.29
+          "c": 330.32
         },
         {
           "d": "2026-10-02",
-          "c": 183.0
+          "c": 333.69
         },
         {
           "d": "2026-10-05",
-          "c": 188.22
+          "c": 332.89
         },
         {
           "d": "2026-10-06",
-          "c": 185.74
+          "c": 333.63
         },
         {
           "d": "2026-10-07",
-          "c": 178.45
+          "c": 336.67
         },
         {
           "d": "2026-10-08",
-          "c": 172.0
+          "c": 340.42
         },
         {
           "d": "2026-10-09",
-          "c": 179.39
+          "c": 336.64
         },
         {
           "d": "2026-10-12",
-          "c": 180.39
+          "c": 340.97
         },
         {
           "d": "2026-10-13",
-          "c": 181.79
+          "c": 341.27
         },
         {
           "d": "2026-10-14",
-          "c": 172.89
+          "c": 342.96
         },
         {
           "d": "2026-10-15",
-          "c": 183.81
+          "c": 342.0
         },
         {
           "d": "2026-10-16",
-          "c": 173.16
+          "c": 343.46
         },
         {
           "d": "2026-10-19",
-          "c": 168.45
+          "c": 342.94
         },
         {
           "d": "2026-10-20",
-          "c": 170.85
+          "c": 339.5
         },
         {
           "d": "2026-10-21",
-          "c": 177.08
+          "c": 343.99
         },
         {
           "d": "2026-10-22",
-          "c": 169.09
+          "c": 348.22
         },
         {
           "d": "2026-10-23",
-          "c": 164.45
+          "c": 347.73
         },
         {
           "d": "2026-10-26",
-          "c": 159.6
+          "c": 343.91
+        },
+        {
+          "d": "2026-10-27",
+          "c": 347.1
         }
       ],
-      "earnings": "2026-10-29",
-      "headlines": [],
-      "score": 50.5,
+      "earnings": "2026-11-02",
+      "headlines": [
+        {
+          "title": "Apple Creator Studio update adds MotionVFX to Final Cut, and AI to everywhere",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2298428/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/",
+          "published": "2026-10-27T16:21:44+00:00"
+        },
+        {
+          "title": "Apple iPhone Duo vs Google Pixel 11 Pro Fold: The differences beyond foldable style",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2296032/apple-iphone-duo-vs-google-pixel-11-pro-fold/",
+          "published": "2026-10-27T16:15:00+00:00"
+        },
+        {
+          "title": "Why some iPhone apps don't appear in Apple CarPlay",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2295883/why-some-iphone-apps-dont-appear-carplay/",
+          "published": "2026-10-27T14:45:00+00:00"
+        },
+        {
+          "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "published": "2026-10-27T14:25:11+00:00"
+        },
+        {
+          "title": "Everything Apple announced this week so far: New iPad and MacBooks",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2298220/everything-apple-announced-ipad-macbook-pro-and-tell-event/",
+          "published": "2026-10-27T14:23:09+00:00"
+        },
+        {
+          "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+          "published": "2026-10-27T13:54:51+00:00"
+        }
+      ],
+      "score": 74.5,
       "brief": {
-        "what": "No major headlines about Coinbase in the last two weeks.",
-        "why": "Signals: earnings, big price move. The stock is down 5.3% this week and down 18.2% over the month.",
-        "watch": "Next earnings expected Thu Oct 29. Results and guidance usually move the stock most.",
+        "what": "6 recent headlines mention Apple. Latest: Apple Creator Studio update adds MotionVFX to Final Cut, and AI to everywhere There is also a rumor making the rounds: iPhone 18e reportedly comes with 2nm A20 chip and 60Hz screen",
+        "why": "Signals: earnings, 10 headlines. The stock is up 2.2% this week and up 2.6% over the month.",
+        "watch": "Next earnings expected Mon Nov 2. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "price": 531.33,
+      "changePct": -0.1,
+      "monthChangePct": 4.3,
+      "catalyst": "Earnings report",
+      "when": "Wed",
+      "signals": [
+        "Earnings",
+        "4 headlines"
+      ],
+      "spark": [
+        533.52,
+        531.87,
+        532.95,
+        521.08,
+        524.51,
+        532.6,
+        531.33
+      ],
+      "history": [
+        {
+          "d": "2026-09-28",
+          "c": 509.22
+        },
+        {
+          "d": "2026-09-29",
+          "c": 508.96
+        },
+        {
+          "d": "2026-09-30",
+          "c": 512.9
+        },
+        {
+          "d": "2026-10-01",
+          "c": 512.8
+        },
+        {
+          "d": "2026-10-02",
+          "c": 517.53
+        },
+        {
+          "d": "2026-10-05",
+          "c": 525.18
+        },
+        {
+          "d": "2026-10-06",
+          "c": 529.3
+        },
+        {
+          "d": "2026-10-07",
+          "c": 529.76
+        },
+        {
+          "d": "2026-10-08",
+          "c": 522.61
+        },
+        {
+          "d": "2026-10-09",
+          "c": 535.07
+        },
+        {
+          "d": "2026-10-12",
+          "c": 541.15
+        },
+        {
+          "d": "2026-10-13",
+          "c": 543.45
+        },
+        {
+          "d": "2026-10-14",
+          "c": 533.69
+        },
+        {
+          "d": "2026-10-15",
+          "c": 539.44
+        },
+        {
+          "d": "2026-10-16",
+          "c": 529.05
+        },
+        {
+          "d": "2026-10-19",
+          "c": 533.52
+        },
+        {
+          "d": "2026-10-20",
+          "c": 531.87
+        },
+        {
+          "d": "2026-10-21",
+          "c": 532.95
+        },
+        {
+          "d": "2026-10-22",
+          "c": 521.08
+        },
+        {
+          "d": "2026-10-23",
+          "c": 524.51
+        },
+        {
+          "d": "2026-10-26",
+          "c": 532.6
+        },
+        {
+          "d": "2026-10-27",
+          "c": 531.33
+        }
+      ],
+      "earnings": "2026-10-28",
+      "headlines": [
+        {
+          "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+          "published": "2026-10-27T14:59:09+00:00"
+        }
+      ],
+      "score": 60.2,
+      "brief": {
+        "what": "1 recent headline mentions Microsoft. Latest: Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+        "why": "Signals: earnings, 4 headlines. The stock is down 0.1% this week and up 4.3% over the month.",
+        "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
     {
       "ticker": "AMZN",
       "name": "Amazon",
-      "price": 249.09,
-      "changePct": -5.1,
-      "monthChangePct": -0.2,
+      "price": 253.1,
+      "changePct": -3.6,
+      "monthChangePct": 2.8,
       "catalyst": "Earnings report",
       "when": "Thu",
       "signals": [
         "Earnings",
-        "Big price move"
+        "2 headlines"
       ],
       "spark": [
-        250.0,
         262.45,
         262.63,
         262.37,
         250.38,
         248.0,
-        249.09
+        249.09,
+        253.1
       ],
       "history": [
-        {
-          "d": "2026-09-25",
-          "c": 249.67
-        },
         {
           "d": "2026-09-28",
           "c": 246.15
@@ -1045,15 +914,147 @@
         {
           "d": "2026-10-26",
           "c": 249.09
+        },
+        {
+          "d": "2026-10-27",
+          "c": 253.1
         }
       ],
       "earnings": "2026-10-29",
-      "headlines": [],
-      "score": 50.2,
+      "headlines": [
+        {
+          "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+          "source": "Hacker News",
+          "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+          "published": "2026-10-27T16:25:30+00:00"
+        }
+      ],
+      "score": 57.3,
       "brief": {
-        "what": "No major headlines about Amazon in the last two weeks.",
-        "why": "Signals: earnings, big price move. The stock is down 5.1% this week and down 0.2% over the month.",
+        "what": "1 recent headline mentions Amazon. Latest: Amazon Is Gutting Its AI Division After Sustained Failure",
+        "why": "Signals: earnings, 2 headlines. The stock is down 3.6% this week and up 2.8% over the month.",
         "watch": "Next earnings expected Thu Oct 29. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "SMCI",
+      "name": "Supermicro",
+      "price": 35.09,
+      "changePct": 8.1,
+      "monthChangePct": -16.0,
+      "catalyst": "Earnings report",
+      "when": "Tue",
+      "signals": [
+        "Earnings",
+        "Big price move"
+      ],
+      "spark": [
+        32.1,
+        32.47,
+        35.57,
+        33.72,
+        32.94,
+        32.69,
+        35.09
+      ],
+      "history": [
+        {
+          "d": "2026-09-28",
+          "c": 41.78
+        },
+        {
+          "d": "2026-09-29",
+          "c": 41.02
+        },
+        {
+          "d": "2026-09-30",
+          "c": 41.07
+        },
+        {
+          "d": "2026-10-01",
+          "c": 41.92
+        },
+        {
+          "d": "2026-10-02",
+          "c": 43.69
+        },
+        {
+          "d": "2026-10-05",
+          "c": 43.19
+        },
+        {
+          "d": "2026-10-06",
+          "c": 43.46
+        },
+        {
+          "d": "2026-10-07",
+          "c": 44.94
+        },
+        {
+          "d": "2026-10-08",
+          "c": 42.77
+        },
+        {
+          "d": "2026-10-09",
+          "c": 41.86
+        },
+        {
+          "d": "2026-10-12",
+          "c": 39.98
+        },
+        {
+          "d": "2026-10-13",
+          "c": 39.07
+        },
+        {
+          "d": "2026-10-14",
+          "c": 35.78
+        },
+        {
+          "d": "2026-10-15",
+          "c": 35.09
+        },
+        {
+          "d": "2026-10-16",
+          "c": 31.63
+        },
+        {
+          "d": "2026-10-19",
+          "c": 32.1
+        },
+        {
+          "d": "2026-10-20",
+          "c": 32.47
+        },
+        {
+          "d": "2026-10-21",
+          "c": 35.57
+        },
+        {
+          "d": "2026-10-22",
+          "c": 33.72
+        },
+        {
+          "d": "2026-10-23",
+          "c": 32.94
+        },
+        {
+          "d": "2026-10-26",
+          "c": 32.69
+        },
+        {
+          "d": "2026-10-27",
+          "c": 35.09
+        }
+      ],
+      "earnings": "2026-11-03",
+      "headlines": [],
+      "score": 56.1,
+      "brief": {
+        "what": "No major headlines about Supermicro in the last two weeks.",
+        "why": "Signals: earnings, big price move. The stock is up 8.1% this week and down 16.0% over the month.",
+        "watch": "Next earnings expected Tue Nov 3. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
