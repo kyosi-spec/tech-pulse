@@ -1,20 +1,217 @@
 {
   "weekOf": "2026-10-26",
-  "updated": "2026-10-26T22:42:39+00:00",
+  "updated": "2026-10-27T11:45:09+00:00",
   "summary": [
-    "AI leads the news with 8 of 25 stories. Top headline: Databricks co-founder shares his secrets for winning big enterprises customers",
+    "AI leads the news with 11 of 25 stories. Top headline: Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
     "Earnings this week from AAPL, MSFT, GOOGL, COIN, AMZN.",
     "Strongest rumor: Microsoft reportedly offers voluntary buyouts to 60,000 employees as an attempt to trim costs"
   ],
   "stories": [
     {
-      "id": "4f8d6f67b4",
+      "id": "0ab58282d1",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-10-27T11:00:00+00:00",
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "2e06dc6176",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-10-27T11:00:00+00:00",
+      "title": "Sterling Anderson doesn’t think humanoid robots should be building cars",
+      "summary": "At a splashy event in New York City last week, General Motors unveiled its new tech roadmap centered on AI-driven vehicle development, advanced battery tech, high-powered car computers, and autonomous driving. Some of this was old news: We already knew the automaker was…",
+      "url": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
+      "tickers": []
+    },
+    {
+      "id": "d6feca4c61",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Wired",
+      "published": "2026-10-27T11:00:00+00:00",
+      "title": "AI Agents Are Media’s New Favorite Audience",
+      "summary": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
+      "url": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
+      "tickers": []
+    },
+    {
+      "id": "62ad97dd19",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-27T11:00:00+00:00",
+      "title": "Slate teams up with Smarties to add candy colors to its EV trucks",
+      "summary": "Fancy making your Slate EV look like halloween candy? Now you can.",
+      "url": "https://www.engadget.com/2295050/slate-ev-smarties-candy-color-wraps/",
+      "tickers": []
+    },
+    {
+      "id": "1d557638f5",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-27T11:00:00+00:00",
+      "title": "20 Years of MacBook: How Apple shaped the laptops we use today",
+      "summary": "Apple has influenced everything from unibody laptop cases to high-res screens.",
+      "url": "https://www.engadget.com/2297565/20-years-of-macbook-how-apple-shaped-the-laptops-we-use-today/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "510de8b064",
+      "topic": "Cloud",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-27T10:00:00+00:00",
+      "title": "Data center backlash is uniting America",
+      "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across…",
+      "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+      "tickers": []
+    },
+    {
+      "id": "bf659b0cf2",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-10-27T09:54:22+00:00",
+      "title": "Acer is bringing a Predator gaming handheld to the US for the first time",
+      "summary": "It's been several months since Acer unveiled its Predator Atlas 8 gaming handheld, but now we finally know that it's coming to the US, and how much it'll cost. The Intel Arc G3 Extreme variant - the more powerful of the two models announced in May - will be available exclusively…",
+      "url": "https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price",
+      "tickers": [
+        "INTC"
+      ]
+    },
+    {
+      "id": "06ebe356d9",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "Engadget",
+      "published": "2026-10-27T08:18:16+00:00",
+      "title": "OpenAI announces new discoveries in mathematics, computer science and physics",
+      "summary": "OpenAI said its models generated proof that the Exponential Time Hypothesis is false. It also released new results for math and physics problems.",
+      "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/",
+      "tickers": []
+    },
+    {
+      "id": "c3fd8a6011",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-27T06:34:44+00:00",
+      "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
+      "summary": "Whose hand is behind this travesty?",
+      "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
+      "tickers": []
+    },
+    {
+      "id": "436dd6b33d",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-27T06:25:37+00:00",
+      "title": "The Mythical Man-Month in the Age of AI",
+      "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 203 # Comments: 142",
+      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "tickers": []
+    },
+    {
+      "id": "224d53b141",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-27T02:00:00+00:00",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "tickers": []
+    },
+    {
+      "id": "074891bedf",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-27T01:12:21+00:00",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "tickers": []
+    },
+    {
+      "id": "258678b55d",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-27T00:30:00+00:00",
+      "title": "iPhone Lockdown Mode: The pros and cons of enabling Apple's security feature",
+      "summary": "Lockdown Mode enables extreme protections for those most at risk, but it's overkill for most people.",
+      "url": "https://www.engadget.com/2295333/iphone-lockdown-mode-pros-cons/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "cbd7584edc",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-26T23:30:00+00:00",
+      "title": "The most popular streaming platforms in the US might not be what you think",
+      "summary": "You might be surprised at the rankings of some streaming services when it comes to what Americans watch on their TVs.",
+      "url": "https://www.engadget.com/2295216/most-popular-streaming-platforms-united-states-not-what-you-think/",
+      "tickers": []
+    },
+    {
+      "id": "0a1d4d7840",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-26T23:00:00+00:00",
+      "title": "6+ ways you can use your PlayStation 5's USB ports",
+      "summary": "You can do more than charge your controllers with the USB ports on your PS5. Here are some of the possibilities.",
+      "url": "https://www.engadget.com/2294767/ways-to-use-playstation-5-usb-ports/",
+      "tickers": []
+    },
+    {
+      "id": "d05d6569da",
+      "topic": "Devices",
+      "kind": "Launch",
+      "source": "Engadget",
+      "published": "2026-10-26T22:51:46+00:00",
+      "title": "Halide releases its first batch of updates for the iPhone Duo",
+      "summary": "Camera app Halide released a new update for the iPhone Duo that adds three different shooting modes based on what position the foldable is in.",
+      "url": "https://www.engadget.com/2297806/halide-releases-its-first-batch-of-updates-for-the-iphone-duo/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "0d2dd05f83",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-26T22:30:00+00:00",
+      "title": "What are the leading causes of EV battery damage?",
+      "summary": "Charging behaviors and heat are the things to pay attention to.",
+      "url": "https://www.engadget.com/2290322/leading-causing-ev-battery-damage/",
+      "tickers": []
+    },
+    {
+      "id": "ae116ba5ca",
       "topic": "Tech",
       "kind": "Founder",
       "source": "TechCrunch",
       "published": "2026-10-26T22:00:00+00:00",
-      "title": "Databricks co-founder shares his secrets for winning big enterprises customers",
-      "summary": "Turns out selling to big companies isn’t about having the shiniest tech: it’s about hitching a ride on a giant’s sales team.",
+      "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
+      "summary": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
       "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
       "tickers": []
     },
@@ -30,6 +227,17 @@
       "tickers": [
         "AAPL"
       ]
+    },
+    {
+      "id": "cf38a109f3",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-26T21:59:15+00:00",
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "summary": "See also: Announcing three new discoveries in mathematics, computer science, and physics - https://news.ycombinator.com/item?id=50251344 Comments URL: https://news.ycombinator.com/item?id=50251661 Points: 655 # Comments: 247",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "tickers": []
     },
     {
       "id": "f1f348b0a7",
@@ -91,216 +299,6 @@
       "tickers": [
         "AAPL"
       ]
-    },
-    {
-      "id": "4f48681f75",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-26T19:22:40+00:00",
-      "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
-      "summary": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.",
-      "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "f27cc7c244",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-26T19:05:41+00:00",
-      "title": "The EPA Is Quietly Killing Its Web Archive",
-      "summary": "Article URL: https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/ Comments URL: https://news.ycombinator.com/item?id=50249275 Points: 177 # Comments: 27",
-      "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
-      "tickers": []
-    },
-    {
-      "id": "cf2ed0a608",
-      "topic": "Startups",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-26T18:59:52+00:00",
-      "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
-      "summary": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
-      "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
-      "tickers": []
-    },
-    {
-      "id": "9ea6f3fa97",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-26T18:52:02+00:00",
-      "title": "Apple responds to reports of the iPhone Duo's inner display cracking",
-      "summary": "Impacted users can contact AppleCare for a replacement.",
-      "url": "https://www.engadget.com/2297433/apple-responds-to-reports-of-the-iphone-duo-inner-display-cracking/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "9742c308e7",
-      "topic": "Devices",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-10-26T18:51:06+00:00",
-      "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
-      "summary": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls. Apple previously said the iPhone Duo would add support for…",
-      "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "c6b2eb8b69",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-26T18:30:00+00:00",
-      "title": "Your Apple TV remote has handy shortcuts most people never use",
-      "summary": "Getting to know your remote a little better makes it a lot easier to navigate the Apple TV menus.",
-      "url": "https://www.engadget.com/2295146/handy-apple-tv-remote-shortcuts/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "441d76ce99",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-10-26T18:22:06+00:00",
-      "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
-      "summary": "From the bright minds that brought you FTX Arena and NBA Top Shot NFT maketplace (where sales last month dropped to $762,781, which is a 99.66 percent decrease compared to the February 2021 peak of $226,350,843), the NBA announced Monday that it has new \"preferred\" prediction…",
-      "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
-      "tickers": []
-    },
-    {
-      "id": "54e78e65f9",
-      "topic": "Cloud",
-      "kind": "Launch",
-      "source": "Hacker News",
-      "published": "2026-10-26T18:14:49+00:00",
-      "title": "Type Server Protocol",
-      "summary": "Article URL: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md Comments URL: https://news.ycombinator.com/item?id=50248371 Points: 164 # Comments: 122",
-      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-      "tickers": [
-        "MSFT"
-      ]
-    },
-    {
-      "id": "efff7dca4d",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-26T18:01:17+00:00",
-      "title": "GPT-6.1 Terra",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-terra/ Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 429 # Comments: 271",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-      "tickers": []
-    },
-    {
-      "id": "775b7fa993",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-26T18:00:00+00:00",
-      "title": "How to use your Samsung Galaxy phone to wirelessly charge other devices",
-      "summary": "If you're in desperate need of power, lots of newer Samsung phones can wirelessly charge other devices.",
-      "url": "https://www.engadget.com/2294444/how-to-use-samsung-galaxy-phone-wireless-powershare-charging/",
-      "tickers": []
-    },
-    {
-      "id": "0b22434f85",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-26T17:56:55+00:00",
-      "title": "Oldest GUI application that still runs on Windows 11",
-      "summary": "Article URL: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/ Comments URL: https://news.ycombinator.com/item?id=50248055 Points: 209 # Comments: 120",
-      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-      "tickers": []
-    },
-    {
-      "id": "7fdfbc356e",
-      "topic": "Startups",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-26T17:45:00+00:00",
-      "title": "This startup’s self-driving excavators help dig up $600M in new funding",
-      "summary": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
-      "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
-      "tickers": []
-    },
-    {
-      "id": "982b3f20f7",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-26T17:32:16+00:00",
-      "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
-      "summary": "Article URL: https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/ Comments URL: https://news.ycombinator.com/item?id=50247630 Points: 193 # Comments: 73",
-      "url": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
-      "tickers": []
-    },
-    {
-      "id": "710f670f31",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-26T17:30:55+00:00",
-      "title": "The RealReal won’t let AI agents hog designer clothing",
-      "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The…",
-      "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-      "tickers": []
-    },
-    {
-      "id": "5b154fb704",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-26T17:25:34+00:00",
-      "title": "Nothing’s eye-catching Ear 3A earbuds are matching their best price to date",
-      "summary": "If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they’re an even better value now that all four colors are on sale at Amazon, Walmart, and Best…",
-      "url": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
-      "tickers": [
-        "AMZN"
-      ]
-    },
-    {
-      "id": "3d0970de5b",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "Engadget",
-      "published": "2026-10-26T17:13:20+00:00",
-      "title": "Dutch government to cut 16 percent of workforce as part of AI efficiency push",
-      "summary": "The cabinet announced that it wants to get rid of 25,000 full-time jobs by 2035.",
-      "url": "https://www.engadget.com/2297180/dutch-government-to-cut-16-percent-of-workforce-as-part-of-ai-efficiency-push/",
-      "tickers": []
-    },
-    {
-      "id": "4ec437395d",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-26T17:10:23+00:00",
-      "title": "Five weird details from Anthropic’s IPO filing",
-      "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-      "tickers": []
-    },
-    {
-      "id": "a78b3bcc0a",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-26T17:00:00+00:00",
-      "title": "Everything old is new again with the Fitbit Edge",
-      "summary": "Last week, I sank into my living room couch and watched a bedraggled, nihilistic Matthew McConaughey take a drag of a cigarette in season 1 of True Detective. \"You know, someone once told me time is a flat circle. Everything we've done, or will do, we're gonna do over and over…",
-      "url": "https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health",
-      "tickers": []
     }
   ],
   "rumors": [
@@ -321,20 +319,6 @@
       "score": 22
     },
     {
-      "id": "dcd094bb2f",
-      "topic": "Tech",
-      "status": "Unconfirmed",
-      "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
-      "detail": "Article URL: https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/ Comments URL: https://news.ycombinator.com/item?id=50248005 Points: 217 # Comments: 130",
-      "url": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
-      "sources": 3,
-      "mentions": 3,
-      "credible": 0,
-      "days": 0,
-      "tickers": [],
-      "score": 21
-    },
-    {
       "id": "b87b2ee891",
       "topic": "Tech",
       "status": "Unconfirmed",
@@ -344,7 +328,7 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 5,
+      "days": 6,
       "tickers": [],
       "score": 15
     },
@@ -363,50 +347,6 @@
       "score": 15
     },
     {
-      "id": "3987412d74",
-      "topic": "Tech",
-      "status": "Unconfirmed",
-      "title": "Starlink seems to be working normally again in Ukraine",
-      "detail": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
-      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 2,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "d11371b77f",
-      "topic": "Devices",
-      "status": "Just surfaced",
-      "title": "Apple will reportedly run diagnostics on returned iPhones without opening the packaging",
-      "detail": "Apple soon won't need to physically access iPhones like the new Duo before updating them or checking returns.",
-      "url": "https://www.engadget.com/2296630/apple-will-reportedly-run-diagnostics-on-returned-iphones-without-opening-the-packaging/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [
-        "AAPL"
-      ],
-      "score": 15
-    },
-    {
-      "id": "5b154fb704",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Nothing’s eye-catching Ear 3A earbuds are matching their best price to date",
-      "detail": "If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they’re an even better value now that all four colors are on sale at Amazon, Walmart, and Best…",
-      "url": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
-    },
-    {
       "id": "b87dfbb6d5",
       "topic": "Tech",
       "status": "Just surfaced",
@@ -419,6 +359,20 @@
       "days": 0,
       "tickers": [],
       "score": 15
+    },
+    {
+      "id": "bded6d44be",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn’t Real / In comments at a private police conference, Garrett Langley also said his wife advised him to never apologize.",
+      "detail": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1xg3s88/in_leaked_audio_flock_ceo_tells_cops_backlash_to/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 0,
+      "days": 0,
+      "tickers": [],
+      "score": 8
     }
   ],
   "watchlist": [
@@ -536,6 +490,24 @@
       "earnings": "2026-11-02",
       "headlines": [
         {
+          "title": "20 Years of MacBook: How Apple shaped the laptops we use today",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2297565/20-years-of-macbook-how-apple-shaped-the-laptops-we-use-today/",
+          "published": "2026-10-27T11:00:00+00:00"
+        },
+        {
+          "title": "iPhone Lockdown Mode: The pros and cons of enabling Apple's security feature",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2295333/iphone-lockdown-mode-pros-cons/",
+          "published": "2026-10-27T00:30:00+00:00"
+        },
+        {
+          "title": "Halide releases its first batch of updates for the iPhone Duo",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2297806/halide-releases-its-first-batch-of-updates-for-the-iphone-duo/",
+          "published": "2026-10-26T22:51:46+00:00"
+        },
+        {
           "title": "The mistake iPhone Duo buyers can easily avoid",
           "source": "Engadget",
           "url": "https://www.engadget.com/2294592/mistake-iphone-duo-buyers-can-avoid/",
@@ -580,7 +552,7 @@
       ],
       "score": 71.1,
       "brief": {
-        "what": "7 recent headlines mention Apple. Latest: The mistake iPhone Duo buyers can easily avoid There is also a rumor making the rounds: Apple will reportedly run diagnostics on returned iPhones without opening the packaging",
+        "what": "10 recent headlines mention Apple. Latest: 20 Years of MacBook: How Apple shaped the laptops we use today",
         "why": "Signals: earnings, 13 headlines. The stock is up 0.3% this week and up 0.8% over the month.",
         "watch": "Next earnings expected Mon Nov 2. Results and guidance usually move the stock most.",
         "ai": false
@@ -835,7 +807,7 @@
           "published": "2026-10-26T17:00:00+00:00"
         }
       ],
-      "score": 65.9,
+      "score": 66.0,
       "brief": {
         "what": "1 recent headline mentions Alphabet. Latest: Fitbit Edge review: Google strikes the right balance",
         "why": "Signals: earnings, 2 headlines, big price move. The stock is down 8.0% this week and down 7.9% over the month.",
