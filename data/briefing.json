@@ -1,12 +1,174 @@
 {
   "weekOf": "2026-10-26",
-  "updated": "2026-10-27T22:43:11+00:00",
+  "updated": "2026-10-28T11:51:55+00:00",
   "summary": [
-    "AI leads the news with 12 of 25 stories. Top headline: The best ways to tell if someone is using AI glasses",
-    "Earnings this week from GOOGL, AAPL, MSFT, AMZN, SMCI.",
+    "AI leads the news with 11 of 25 stories. Top headline: Meta considered a ‘whisper strategy’ to turn academics against Jonathan Haidt",
+    "Earnings this week from GOOGL, AAPL, SMCI, MSFT, AMZN.",
     "Strongest rumor: Grand Theft Auto VI reportedly requires a 210GB download"
   ],
   "stories": [
+    {
+      "id": "5d7c516491",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-28T11:30:00+00:00",
+      "title": "Meta considered a ‘whisper strategy’ to turn academics against Jonathan Haidt",
+      "summary": "As Meta was feeling public pressure over teen mental health, and facing an impending onslaught of kids safety trials, the company considered a campaign to discredit a key critic: social psychologist Jonathan Haidt. Newly filed court documents show that in March 2023, Meta…",
+      "url": "https://www.theverge.com/policy/1020012/meta-jonathan-haidt-social-media-mental-health",
+      "tickers": []
+    },
+    {
+      "id": "a289adab73",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-10-28T11:27:30+00:00",
+      "title": "Meta quietly launched an ‘AI pet journal’ app",
+      "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "afc79d1eac",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-28T08:48:21+00:00",
+      "title": "Wealth Inequality in America drawn to scale",
+      "summary": "Article URL: https://dreamagainusa.org/ Comments URL: https://news.ycombinator.com/item?id=50270764 Points: 217 # Comments: 160",
+      "url": "https://dreamagainusa.org/",
+      "tickers": []
+    },
+    {
+      "id": "bca27fa231",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Wired",
+      "published": "2026-10-28T06:00:00+00:00",
+      "title": "Should AI Decide Your Court Case? This Judge Says Yes",
+      "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
+      "url": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
+      "tickers": []
+    },
+    {
+      "id": "dd879d1305",
+      "topic": "Startups",
+      "kind": "Launch",
+      "source": "TechCrunch",
+      "published": "2026-10-28T05:20:32+00:00",
+      "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+      "summary": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
+      "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+      "tickers": []
+    },
+    {
+      "id": "331585df77",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-28T03:51:54+00:00",
+      "title": "iOS 27.2 brings two new features to Apple's CarPlay",
+      "summary": "iOS 27.2 comes with some changes for Apple CarPlay, too.",
+      "url": "https://www.engadget.com/2299185/ios-27-2-two-new-features-apple-carplay/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "d1ccf063f7",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-28T01:47:50+00:00",
+      "title": "Git for the US Code",
+      "summary": "Article URL: https://lexifina.com/blog/git-for-the-us-code Comments URL: https://news.ycombinator.com/item?id=50268380 Points: 298 # Comments: 143",
+      "url": "https://lexifina.com/blog/git-for-the-us-code",
+      "tickers": []
+    },
+    {
+      "id": "23b2be4119",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-28T01:15:28+00:00",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "tickers": [
+        "AMZN"
+      ]
+    },
+    {
+      "id": "1ebb2ed38b",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-28T00:00:00+00:00",
+      "title": "Don't throw away your old Kindle — repurpose it instead",
+      "summary": "You can probably still read on it, and, with some finessing, you can turn it into a useful display.",
+      "url": "https://www.engadget.com/2296053/dont-throw-away-your-old-kindle-repurpose-it/",
+      "tickers": []
+    },
+    {
+      "id": "03f987fe0f",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-27T23:34:27+00:00",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "tickers": []
+    },
+    {
+      "id": "0b223de975",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-27T23:30:00+00:00",
+      "title": "This one missing feature from the Slate truck might be a dealbreaker for truck enthusiasts",
+      "summary": "The Slate Truck is known for offering hundreds of customization options, but one common truck option isn't available (yet.)",
+      "url": "https://www.engadget.com/2296050/slate-truck-missing-4wd-feature-possible-dealbreaker/",
+      "tickers": []
+    },
+    {
+      "id": "66435afb3e",
+      "topic": "Cloud",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-27T23:04:49+00:00",
+      "title": "Discord public server messages may be soon searchable on Google, but you can opt out",
+      "summary": "The platform's Discoverable Servers are about to get a lot more discoverable.",
+      "url": "https://www.engadget.com/2299126/discord-server-messages-google-searchable-opt-out/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "d6da0da469",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-27T23:00:00+00:00",
+      "title": "How to change and customize your Android Auto display",
+      "summary": "Tailor your tech to fit your daily drive seamlessly.",
+      "url": "https://www.engadget.com/2296047/how-to-change-customize-android-auto-display/",
+      "tickers": []
+    },
+    {
+      "id": "dc246ab999",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-27T22:55:41+00:00",
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "tickers": []
+    },
     {
       "id": "38981e02d2",
       "topic": "AI",
@@ -118,172 +280,14 @@
       "tickers": []
     },
     {
-      "id": "f70278df4f",
+      "id": "8a145f00a3",
       "topic": "AI",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-10-27T20:48:58+00:00",
-      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-      "tickers": []
-    },
-    {
-      "id": "f3dc142325",
-      "topic": "Startups",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-27T20:31:17+00:00",
-      "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
-      "summary": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
-      "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
-      "tickers": []
-    },
-    {
-      "id": "faa072254a",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "Engadget",
-      "published": "2026-10-27T19:55:04+00:00",
-      "title": "Rockstar workers in the UK will hold a union vote just as GTA 6 is released",
-      "summary": "A legal case alleging union-busting at the game developer will also wrap next month.",
-      "url": "https://www.engadget.com/2298907/rockstar-workers-in-uk-hold-union-vote-as-gta-6-release/",
-      "tickers": []
-    },
-    {
-      "id": "0cd2ce3923",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "Wired",
-      "published": "2026-10-27T19:39:04+00:00",
-      "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
-      "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
-      "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
-      "tickers": []
-    },
-    {
-      "id": "007815ae28",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-27T19:24:06+00:00",
-      "title": "Elon Musk says Ukraine’s military violated Starlink’s terms of service",
-      "summary": "Elon Musk claims Ukraine violated Starlink's terms of service before the recent slowdown, as reported earlier by Ars Technica. According to Musk, \"Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed…",
-      "url": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service",
-      "tickers": []
-    },
-    {
-      "id": "b4bbe341db",
-      "topic": "Startups",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-27T18:55:35+00:00",
-      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-      "tickers": []
-    },
-    {
-      "id": "dd47f4a348",
-      "topic": "Cloud",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-10-27T18:44:17+00:00",
-      "title": "Discord will soon let anyone find public server messages through Google",
-      "summary": "Article URL: https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover Comments URL: https://news.ycombinator.com/item?id=50263854 Points: 168 # Comments: 105",
-      "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "b403ffb5ea",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-27T18:30:00+00:00",
-      "title": "This old Nokia phone got an AI Upgrade it was never designed for",
-      "summary": "The GOAT of dumb phones gets a new lease on life.",
-      "url": "https://www.engadget.com/2295625/old-nokia-phone-ai-upgrade-never-designed-for/",
-      "tickers": []
-    },
-    {
-      "id": "2b1ed5d98f",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Wired",
-      "published": "2026-10-27T18:20:28+00:00",
-      "title": "Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks",
-      "summary": "The data center buildout could cause a massive increase in gas prices as companies scramble for limited supplies and infrastructure fails to meet demand.",
-      "url": "https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/",
-      "tickers": []
-    },
-    {
-      "id": "6e509917e1",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-27T18:00:00+00:00",
-      "title": "Why buying a Mac mini over a MacBook might be the smarter move",
-      "summary": "Apple's smallest desktop delivers better performance and value for those willing to leave the laptop behind.",
-      "url": "https://www.engadget.com/2296036/why-buying-mac-mini-over-macbook-smarter-move/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "732b29f563",
-      "topic": "AI",
-      "kind": "Founder",
-      "source": "The Verge",
-      "published": "2026-10-27T17:30:00+00:00",
-      "title": "VisionQuest is what happens when AI really goes rogue",
-      "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-      "tickers": []
-    },
-    {
-      "id": "1a8a560dee",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-27T17:08:08+00:00",
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-      "tickers": []
-    },
-    {
-      "id": "6ec19605de",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-10-27T17:00:00+00:00",
-      "title": "The Super Mouse puts a touchscreen macro pad under your hand",
-      "summary": "A company called Arctic Fox Technologies has announced a new multifunction mouse that forgoes a myriad of customizable shortcut buttons peppered across its surface for a compact touchscreen sitting beneath your hand. The Super Mouse may not prioritize ergonomics with its boxy…",
-      "url": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter",
-      "tickers": []
-    },
-    {
-      "id": "94a166880d",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-27T16:57:44+00:00",
-      "title": "Pokémon Unite is shutting down",
-      "summary": "Its journey ends in March 2027.",
-      "url": "https://www.engadget.com/2298514/pokemon-unite-is-shutting-down/",
-      "tickers": []
-    },
-    {
-      "id": "f3d686286b",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-27T16:51:22+00:00",
-      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-      "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "published": "2026-10-27T20:50:42+00:00",
+      "title": "Early progress on accelerating drug development with Claude",
+      "summary": "Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments URL: https://news.ycombinator.com/item?id=50265609 Points: 241 # Comments: 235",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
       "tickers": []
     }
   ],
@@ -312,21 +316,7 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 6,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "cf747dfb47",
-      "topic": "Tech",
-      "status": "Unconfirmed",
-      "title": "Telehealth Giant Hims Wants to Test Every Dude for Low Testosterone",
-      "detail": "The company plans to offer testosterone replacement therapy, marking its first foray into prescribing controlled substances.",
-      "url": "https://www.wired.com/story/telehealth-giant-hims-testosterone-therapy/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 6,
+      "days": 7,
       "tickers": [],
       "score": 15
     },
@@ -361,12 +351,28 @@
       "score": 15
     },
     {
-      "id": "9ba1aa0fd1",
+      "id": "be5ff1a025",
+      "topic": "Devices",
+      "status": "Just surfaced",
+      "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
+      "detail": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen…",
+      "url": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [
+        "AAPL"
+      ],
+      "score": 15
+    },
+    {
+      "id": "c33c8f6d61",
       "topic": "Tech",
       "status": "Just surfaced",
-      "title": "Brazil's Flavio Bolsonaro headed to US, sources say",
-      "detail": "Article URL: https://www.reuters.com/world/americas/brazil-wonders-where-earth-is-flavio-bolsonaro-2026-10-27/ Comments URL: https://news.ycombinator.com/item?id=50262942 Points: 54 # Comments: 50",
-      "url": "https://www.reuters.com/world/americas/brazil-wonders-where-earth-is-flavio-bolsonaro-2026-10-27/",
+      "title": "Ghost of Yotei developer Sucker Punch reportedly hit with layoffs, despite selling millions and \"significantly\" contributing to Sony's financials: \"After carefully observing challenges in the market…",
+      "detail": "submitted by /u/ControlCAD [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1xh7s2e/ghost_of_yotei_developer_sucker_punch_reportedly/",
       "sources": 1,
       "mentions": 1,
       "credible": 0,
@@ -386,7 +392,7 @@
       "when": "Wed",
       "signals": [
         "Earnings",
-        "9 headlines",
+        "7 headlines",
         "Big price move"
       ],
       "spark": [
@@ -491,10 +497,10 @@
       "earnings": "2026-10-28",
       "headlines": [
         {
-          "title": "Discord will soon let anyone find public server messages through Google",
-          "source": "Hacker News",
-          "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
-          "published": "2026-10-27T18:44:17+00:00"
+          "title": "Discord public server messages may be soon searchable on Google, but you can opt out",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2299126/discord-server-messages-google-searchable-opt-out/",
+          "published": "2026-10-27T23:04:49+00:00"
         },
         {
           "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
@@ -517,8 +523,8 @@
       ],
       "score": 82.5,
       "brief": {
-        "what": "4 recent headlines mention Alphabet. Latest: Discord will soon let anyone find public server messages through Google",
-        "why": "Signals: earnings, 9 headlines, big price move. The stock is down 5.8% this week and down 6.5% over the month.",
+        "what": "4 recent headlines mention Alphabet. Latest: Discord public server messages may be soon searchable on Google, but you can opt out",
+        "why": "Signals: earnings, 7 headlines, big price move. The stock is down 5.8% this week and down 6.5% over the month.",
         "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
         "ai": false
       }
@@ -533,7 +539,7 @@
       "when": "Mon",
       "signals": [
         "Earnings",
-        "10 headlines"
+        "9 headlines"
       ],
       "spark": [
         342.94,
@@ -637,6 +643,12 @@
       "earnings": "2026-11-02",
       "headlines": [
         {
+          "title": "iOS 27.2 brings two new features to Apple's CarPlay",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2299185/ios-27-2-two-new-features-apple-carplay/",
+          "published": "2026-10-28T03:51:54+00:00"
+        },
+        {
           "title": "Apple Creator Studio update adds MotionVFX to Final Cut, and AI to everywhere",
           "source": "Engadget",
           "url": "https://www.engadget.com/2298428/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/",
@@ -649,22 +661,10 @@
           "published": "2026-10-27T16:15:00+00:00"
         },
         {
-          "title": "Why some iPhone apps don't appear in Apple CarPlay",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2295883/why-some-iphone-apps-dont-appear-carplay/",
-          "published": "2026-10-27T14:45:00+00:00"
-        },
-        {
           "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
           "published": "2026-10-27T14:25:11+00:00"
-        },
-        {
-          "title": "Everything Apple announced this week so far: New iPad and MacBooks",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2298220/everything-apple-announced-ipad-macbook-pro-and-tell-event/",
-          "published": "2026-10-27T14:23:09+00:00"
         },
         {
           "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
@@ -673,267 +673,11 @@
           "published": "2026-10-27T13:54:51+00:00"
         }
       ],
-      "score": 74.5,
+      "score": 74.6,
       "brief": {
-        "what": "6 recent headlines mention Apple. Latest: Apple Creator Studio update adds MotionVFX to Final Cut, and AI to everywhere There is also a rumor making the rounds: iPhone 18e reportedly comes with 2nm A20 chip and 60Hz screen",
-        "why": "Signals: earnings, 10 headlines. The stock is up 2.2% this week and up 2.6% over the month.",
+        "what": "5 recent headlines mention Apple. Latest: iOS 27.2 brings two new features to Apple's CarPlay There is also a rumor making the rounds: iPhone 18e reportedly comes with 2nm A20 chip and 60Hz screen",
+        "why": "Signals: earnings, 9 headlines. The stock is up 2.2% this week and up 2.6% over the month.",
         "watch": "Next earnings expected Mon Nov 2. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft",
-      "price": 531.33,
-      "changePct": -0.1,
-      "monthChangePct": 4.3,
-      "catalyst": "Earnings report",
-      "when": "Wed",
-      "signals": [
-        "Earnings",
-        "4 headlines"
-      ],
-      "spark": [
-        533.52,
-        531.87,
-        532.95,
-        521.08,
-        524.51,
-        532.6,
-        531.33
-      ],
-      "history": [
-        {
-          "d": "2026-09-28",
-          "c": 509.22
-        },
-        {
-          "d": "2026-09-29",
-          "c": 508.96
-        },
-        {
-          "d": "2026-09-30",
-          "c": 512.9
-        },
-        {
-          "d": "2026-10-01",
-          "c": 512.8
-        },
-        {
-          "d": "2026-10-02",
-          "c": 517.53
-        },
-        {
-          "d": "2026-10-05",
-          "c": 525.18
-        },
-        {
-          "d": "2026-10-06",
-          "c": 529.3
-        },
-        {
-          "d": "2026-10-07",
-          "c": 529.76
-        },
-        {
-          "d": "2026-10-08",
-          "c": 522.61
-        },
-        {
-          "d": "2026-10-09",
-          "c": 535.07
-        },
-        {
-          "d": "2026-10-12",
-          "c": 541.15
-        },
-        {
-          "d": "2026-10-13",
-          "c": 543.45
-        },
-        {
-          "d": "2026-10-14",
-          "c": 533.69
-        },
-        {
-          "d": "2026-10-15",
-          "c": 539.44
-        },
-        {
-          "d": "2026-10-16",
-          "c": 529.05
-        },
-        {
-          "d": "2026-10-19",
-          "c": 533.52
-        },
-        {
-          "d": "2026-10-20",
-          "c": 531.87
-        },
-        {
-          "d": "2026-10-21",
-          "c": 532.95
-        },
-        {
-          "d": "2026-10-22",
-          "c": 521.08
-        },
-        {
-          "d": "2026-10-23",
-          "c": 524.51
-        },
-        {
-          "d": "2026-10-26",
-          "c": 532.6
-        },
-        {
-          "d": "2026-10-27",
-          "c": 531.33
-        }
-      ],
-      "earnings": "2026-10-28",
-      "headlines": [
-        {
-          "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-          "published": "2026-10-27T14:59:09+00:00"
-        }
-      ],
-      "score": 60.2,
-      "brief": {
-        "what": "1 recent headline mentions Microsoft. Latest: Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-        "why": "Signals: earnings, 4 headlines. The stock is down 0.1% this week and up 4.3% over the month.",
-        "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "price": 253.1,
-      "changePct": -3.6,
-      "monthChangePct": 2.8,
-      "catalyst": "Earnings report",
-      "when": "Thu",
-      "signals": [
-        "Earnings",
-        "2 headlines"
-      ],
-      "spark": [
-        262.45,
-        262.63,
-        262.37,
-        250.38,
-        248.0,
-        249.09,
-        253.1
-      ],
-      "history": [
-        {
-          "d": "2026-09-28",
-          "c": 246.15
-        },
-        {
-          "d": "2026-09-29",
-          "c": 246.67
-        },
-        {
-          "d": "2026-09-30",
-          "c": 249.15
-        },
-        {
-          "d": "2026-10-01",
-          "c": 248.23
-        },
-        {
-          "d": "2026-10-02",
-          "c": 251.52
-        },
-        {
-          "d": "2026-10-05",
-          "c": 251.4
-        },
-        {
-          "d": "2026-10-06",
-          "c": 256.29
-        },
-        {
-          "d": "2026-10-07",
-          "c": 259.92
-        },
-        {
-          "d": "2026-10-08",
-          "c": 254.06
-        },
-        {
-          "d": "2026-10-09",
-          "c": 262.43
-        },
-        {
-          "d": "2026-10-12",
-          "c": 259.53
-        },
-        {
-          "d": "2026-10-13",
-          "c": 258.58
-        },
-        {
-          "d": "2026-10-14",
-          "c": 254.08
-        },
-        {
-          "d": "2026-10-15",
-          "c": 254.76
-        },
-        {
-          "d": "2026-10-16",
-          "c": 250.0
-        },
-        {
-          "d": "2026-10-19",
-          "c": 262.45
-        },
-        {
-          "d": "2026-10-20",
-          "c": 262.63
-        },
-        {
-          "d": "2026-10-21",
-          "c": 262.37
-        },
-        {
-          "d": "2026-10-22",
-          "c": 250.38
-        },
-        {
-          "d": "2026-10-23",
-          "c": 248.0
-        },
-        {
-          "d": "2026-10-26",
-          "c": 249.09
-        },
-        {
-          "d": "2026-10-27",
-          "c": 253.1
-        }
-      ],
-      "earnings": "2026-10-29",
-      "headlines": [
-        {
-          "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-          "source": "Hacker News",
-          "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-          "published": "2026-10-27T16:25:30+00:00"
-        }
-      ],
-      "score": 57.3,
-      "brief": {
-        "what": "1 recent headline mentions Amazon. Latest: Amazon Is Gutting Its AI Division After Sustained Failure",
-        "why": "Signals: earnings, 2 headlines. The stock is down 3.6% this week and up 2.8% over the month.",
-        "watch": "Next earnings expected Thu Oct 29. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
@@ -1055,6 +799,261 @@
         "what": "No major headlines about Supermicro in the last two weeks.",
         "why": "Signals: earnings, big price move. The stock is up 8.1% this week and down 16.0% over the month.",
         "watch": "Next earnings expected Tue Nov 3. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "price": 531.33,
+      "changePct": -0.1,
+      "monthChangePct": 4.3,
+      "catalyst": "Earnings report",
+      "when": "Wed",
+      "signals": [
+        "Earnings",
+        "3 headlines"
+      ],
+      "spark": [
+        533.52,
+        531.87,
+        532.95,
+        521.08,
+        524.51,
+        532.6,
+        531.33
+      ],
+      "history": [
+        {
+          "d": "2026-09-28",
+          "c": 509.22
+        },
+        {
+          "d": "2026-09-29",
+          "c": 508.96
+        },
+        {
+          "d": "2026-09-30",
+          "c": 512.9
+        },
+        {
+          "d": "2026-10-01",
+          "c": 512.8
+        },
+        {
+          "d": "2026-10-02",
+          "c": 517.53
+        },
+        {
+          "d": "2026-10-05",
+          "c": 525.18
+        },
+        {
+          "d": "2026-10-06",
+          "c": 529.3
+        },
+        {
+          "d": "2026-10-07",
+          "c": 529.76
+        },
+        {
+          "d": "2026-10-08",
+          "c": 522.61
+        },
+        {
+          "d": "2026-10-09",
+          "c": 535.07
+        },
+        {
+          "d": "2026-10-12",
+          "c": 541.15
+        },
+        {
+          "d": "2026-10-13",
+          "c": 543.45
+        },
+        {
+          "d": "2026-10-14",
+          "c": 533.69
+        },
+        {
+          "d": "2026-10-15",
+          "c": 539.44
+        },
+        {
+          "d": "2026-10-16",
+          "c": 529.05
+        },
+        {
+          "d": "2026-10-19",
+          "c": 533.52
+        },
+        {
+          "d": "2026-10-20",
+          "c": 531.87
+        },
+        {
+          "d": "2026-10-21",
+          "c": 532.95
+        },
+        {
+          "d": "2026-10-22",
+          "c": 521.08
+        },
+        {
+          "d": "2026-10-23",
+          "c": 524.51
+        },
+        {
+          "d": "2026-10-26",
+          "c": 532.6
+        },
+        {
+          "d": "2026-10-27",
+          "c": 531.33
+        }
+      ],
+      "earnings": "2026-10-28",
+      "headlines": [
+        {
+          "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+          "published": "2026-10-27T14:59:09+00:00"
+        }
+      ],
+      "score": 55.2,
+      "brief": {
+        "what": "1 recent headline mentions Microsoft. Latest: Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+        "why": "Signals: earnings, 3 headlines. The stock is down 0.1% this week and up 4.3% over the month.",
+        "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "price": 253.1,
+      "changePct": -3.6,
+      "monthChangePct": 2.8,
+      "catalyst": "Earnings report",
+      "when": "Thu",
+      "signals": [
+        "Earnings"
+      ],
+      "spark": [
+        262.45,
+        262.63,
+        262.37,
+        250.38,
+        248.0,
+        249.09,
+        253.1
+      ],
+      "history": [
+        {
+          "d": "2026-09-28",
+          "c": 246.15
+        },
+        {
+          "d": "2026-09-29",
+          "c": 246.67
+        },
+        {
+          "d": "2026-09-30",
+          "c": 249.15
+        },
+        {
+          "d": "2026-10-01",
+          "c": 248.23
+        },
+        {
+          "d": "2026-10-02",
+          "c": 251.52
+        },
+        {
+          "d": "2026-10-05",
+          "c": 251.4
+        },
+        {
+          "d": "2026-10-06",
+          "c": 256.29
+        },
+        {
+          "d": "2026-10-07",
+          "c": 259.92
+        },
+        {
+          "d": "2026-10-08",
+          "c": 254.06
+        },
+        {
+          "d": "2026-10-09",
+          "c": 262.43
+        },
+        {
+          "d": "2026-10-12",
+          "c": 259.53
+        },
+        {
+          "d": "2026-10-13",
+          "c": 258.58
+        },
+        {
+          "d": "2026-10-14",
+          "c": 254.08
+        },
+        {
+          "d": "2026-10-15",
+          "c": 254.76
+        },
+        {
+          "d": "2026-10-16",
+          "c": 250.0
+        },
+        {
+          "d": "2026-10-19",
+          "c": 262.45
+        },
+        {
+          "d": "2026-10-20",
+          "c": 262.63
+        },
+        {
+          "d": "2026-10-21",
+          "c": 262.37
+        },
+        {
+          "d": "2026-10-22",
+          "c": 250.38
+        },
+        {
+          "d": "2026-10-23",
+          "c": 248.0
+        },
+        {
+          "d": "2026-10-26",
+          "c": 249.09
+        },
+        {
+          "d": "2026-10-27",
+          "c": 253.1
+        }
+      ],
+      "earnings": "2026-10-29",
+      "headlines": [
+        {
+          "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+          "published": "2026-10-28T01:15:28+00:00"
+        }
+      ],
+      "score": 52.3,
+      "brief": {
+        "what": "1 recent headline mentions Amazon. Latest: VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+        "why": "Signals: earnings. The stock is down 3.6% this week and up 2.8% over the month.",
+        "watch": "Next earnings expected Thu Oct 29. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
