@@ -1,12 +1,142 @@
 {
   "weekOf": "2026-10-26",
-  "updated": "2026-10-28T22:48:13+00:00",
+  "updated": "2026-10-29T11:52:22+00:00",
   "summary": [
-    "AI leads the news with 8 of 25 stories. Top headline: Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
-    "Earnings this week from GOOGL, AMZN, AAPL, MSFT, COIN.",
-    "Strongest rumor: Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents"
+    "AI leads the news with 8 of 25 stories. Top headline: Apple and Google fined in South Korea over app store violations",
+    "Earnings this week from AAPL, COIN, AMZN, AMD, ARM.",
+    "Strongest rumor: Hackers leaked details of more than 41,000 Homeland Security personnel"
   ],
   "stories": [
+    {
+      "id": "5a213f5d54",
+      "topic": "Policy",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-29T10:42:26+00:00",
+      "title": "Apple and Google fined in South Korea over app store violations",
+      "summary": "South Korean regulators found that Apple and Google violated the country's Telecommunications Business Act.",
+      "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+      "tickers": [
+        "AAPL",
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "bb4e202c4b",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-29T10:00:04+00:00",
+      "title": "AI has come for Arizona’s water",
+      "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the…",
+      "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+      "tickers": []
+    },
+    {
+      "id": "05d4e7d3b9",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-29T09:41:58+00:00",
+      "title": "Google's Gemini 4 Carbon promises 'significant leap' in AI coding and cybersecurity",
+      "summary": "Google's latest Gemini 4 Carbon AI model boasts top benchmark scores in areas like cybersecurity and coding.",
+      "url": "https://www.engadget.com/2300677/google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "fcbb0561b7",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-29T03:33:42+00:00",
+      "title": "Claude Code regularly sends each background agent’s transcript to its model",
+      "summary": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce Comments URL: https://news.ycombinator.com/item?id=50284255 Points: 419 # Comments: 154",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "tickers": []
+    },
+    {
+      "id": "faaa935896",
+      "topic": "Devices",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-10-29T02:22:46+00:00",
+      "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+      "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply…",
+      "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+      "tickers": [
+        "QCOM"
+      ]
+    },
+    {
+      "id": "cbec5f771a",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-29T00:25:45+00:00",
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "summary": "Article URL: https://divagr.com/blog/qwenputer Comments URL: https://news.ycombinator.com/item?id=50282838 Points: 517 # Comments: 106",
+      "url": "https://divagr.com/blog/qwenputer",
+      "tickers": []
+    },
+    {
+      "id": "0819870710",
+      "topic": "Security",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-28T23:45:46+00:00",
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "summary": "Article URL: https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html Comments URL: https://news.ycombinator.com/item?id=50282544 Points: 192 # Comments: 89",
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "tickers": []
+    },
+    {
+      "id": "5114360e2f",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-28T23:35:02+00:00",
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1 Comments URL: https://news.ycombinator.com/item?id=50282454 Points: 519 # Comments: 431",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+      "tickers": []
+    },
+    {
+      "id": "4df23156b1",
+      "topic": "Startups",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-10-28T23:15:00+00:00",
+      "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+      "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+      "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+      "tickers": []
+    },
+    {
+      "id": "5132e120ec",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-28T23:09:22+00:00",
+      "title": "FCC chair wants to let prisons jam illegal cellphones",
+      "summary": "The agency will vote next month on relaxing its long-standing opposition to jammers.",
+      "url": "https://www.engadget.com/2300569/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones/",
+      "tickers": []
+    },
+    {
+      "id": "2b560b4f28",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "The Verge",
+      "published": "2026-10-28T23:05:39+00:00",
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "tickers": [
+        "META"
+      ]
+    },
     {
       "id": "31132cf92f",
       "topic": "Devices",
@@ -96,6 +226,17 @@
       ]
     },
     {
+      "id": "a8024e3e2d",
+      "topic": "Tech",
+      "kind": "Founder",
+      "source": "Hacker News",
+      "published": "2026-10-28T21:19:30+00:00",
+      "title": "Formlabs Studio 1 $699 Resin Printer",
+      "summary": "Article URL: https://formlabs.com/products/form-studio-1-basic-founders-edition/ Comments URL: https://news.ycombinator.com/item?id=50281044 Points: 196 # Comments: 131",
+      "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+      "tickers": []
+    },
+    {
       "id": "736f675774",
       "topic": "Tech",
       "kind": "Company",
@@ -104,6 +245,17 @@
       "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
       "summary": "For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise, which stores and categorizes your Kindle highlights to help you remember what you've read. There's Readwise Reader, an app for reading newsletters, PDFs, and…",
       "url": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
+      "tickers": []
+    },
+    {
+      "id": "1b0a8ad0e2",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-28T21:13:21+00:00",
+      "title": "A Health Update",
+      "summary": "Article URL: https://furbo.org/2026/10/28/a-health-update/ Comments URL: https://news.ycombinator.com/item?id=50280974 Points: 282 # Comments: 43",
+      "url": "https://furbo.org/2026/10/28/a-health-update/",
       "tickers": []
     },
     {
@@ -146,19 +298,6 @@
       ]
     },
     {
-      "id": "e601a2528f",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-10-28T20:03:00+00:00",
-      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with…",
-      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
       "id": "0d6a691534",
       "topic": "Security",
       "kind": "Company",
@@ -168,156 +307,22 @@
       "summary": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
       "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
       "tickers": []
-    },
-    {
-      "id": "057e55bd93",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-28T19:42:27+00:00",
-      "title": "Meta weighs delaying 'alarming' new business terms as backlash grows",
-      "summary": "The company says it won't make \"policy changes\" until it consults with publishers.",
-      "url": "https://www.engadget.com/2300293/meta-weighs-delaying-alarming-new-business-terms-as-backlash-grows/",
-      "tickers": []
-    },
-    {
-      "id": "a5fd9b9148",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-28T19:39:47+00:00",
-      "title": "The PlayStation 5 just might be Sony's final Blu-Ray player",
-      "summary": "Between Sony's plan to end PlayStation disc production and discontinuing its Blu-ray players, the future looks grim for physical media.",
-      "url": "https://www.engadget.com/2300289/playstation-5-might-be-sony-final-blu-ray-player/",
-      "tickers": []
-    },
-    {
-      "id": "530d0123a2",
-      "topic": "Policy",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-28T19:37:31+00:00",
-      "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
-      "summary": "What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance — and they might not be the last.…",
-      "url": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
-      "tickers": []
-    },
-    {
-      "id": "14e0a659be",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-10-28T19:19:58+00:00",
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-      "tickers": []
-    },
-    {
-      "id": "0f4637c5cb",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-10-28T19:18:58+00:00",
-      "title": "Hands-on with the new OLED iPad Mini",
-      "summary": "Apple announced a new iPad Mini with a larger OLED display this week, and we've just gotten to try it out at Apple's \"Pro and tell\" event. It's an iPad for sure, but the new OLED on the Mini looks exceptional, and the optional nano-texture matte finish is awesome. The \"Pro and…",
-      "url": "https://www.theverge.com/tech/1017932/hands-on-ipad-mini-8th-generation-pro-and-tell",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "0fb2de0dfb",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-28T19:15:00+00:00",
-      "title": "OpenAI now lets you text your Dot agent",
-      "summary": "The feature works with both iMessage and RCS messaging.",
-      "url": "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/",
-      "tickers": []
-    },
-    {
-      "id": "2d260fb657",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-28T19:05:46+00:00",
-      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities…",
-      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-      "tickers": []
-    },
-    {
-      "id": "ee318cccc8",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-28T19:05:46+00:00",
-      "title": "Engadget is hiring writers!",
-      "summary": "We're looking for freelance journalists who know their way around a tech blog.",
-      "url": "https://www.engadget.com/2300216/engadget-is-hiring-writers-october-2026/",
-      "tickers": []
-    },
-    {
-      "id": "2ad8edb8fe",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-28T18:38:17+00:00",
-      "title": "Sony's new see-through DualSense controllers let you game like its 1999",
-      "summary": "The company is also releasing matching PS5 console covers.",
-      "url": "https://www.engadget.com/2300152/sonys-new-see-through-dualsense-controllers-let-you-game-like-its-1999/",
-      "tickers": []
-    },
-    {
-      "id": "021bed4710",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Wired",
-      "published": "2026-10-28T18:30:00+00:00",
-      "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
-      "summary": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
-      "url": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
-      "tickers": []
-    },
-    {
-      "id": "83a7cb387b",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-28T17:35:24+00:00",
-      "title": "Here's how the touchscreen on the MacBook Pro with PROLED display works",
-      "summary": "The touch sensor isn't a separate layer of the screen.",
-      "url": "https://www.engadget.com/2300009/heres-how-the-touchscreen-on-the-macbook-pro-with-proled-display-works/",
-      "tickers": []
-    },
-    {
-      "id": "757bdf1ce2",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-28T17:13:29+00:00",
-      "title": "Why is this fingerprinting script creating bioweapons?",
-      "summary": "Article URL: https://nullpt.rs/fingerprinting-bioweapons Comments URL: https://news.ycombinator.com/item?id=50276998 Points: 580 # Comments: 129",
-      "url": "https://nullpt.rs/fingerprinting-bioweapons",
-      "tickers": []
     }
   ],
   "rumors": [
     {
-      "id": "41554573a6",
-      "topic": "AI",
+      "id": "18f8e37d93",
+      "topic": "Security",
       "status": "Unconfirmed",
-      "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
-      "detail": "Article URL: https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/ Comments URL: https://news.ycombinator.com/item?id=50280864 Points: 163 # Comments: 54",
-      "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+      "title": "Hackers leaked details of more than 41,000 Homeland Security personnel",
+      "detail": "A hacktivist group stole the information of ICE agents and border police from Homeland Security.",
+      "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
       "sources": 3,
       "mentions": 5,
-      "credible": 0,
+      "credible": 1,
       "days": 0,
       "tickers": [],
-      "score": 23
+      "score": 30
     },
     {
       "id": "b87b2ee891",
@@ -329,37 +334,9 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 7,
+      "days": 8,
       "tickers": [],
       "score": 15
-    },
-    {
-      "id": "099f61835d",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Brendan Carr plans to let prisons jam cellphone signals",
-      "detail": "FCC Chairman Brendan Carr announced the agency will vote on November 19th on rules that would allow prisons to use signal jamming. Radiofrequency jammers are generally banned under Section 333 and the Communications Act of 1934, with few exceptions, and Carr has noted they've…",
-      "url": "https://www.theverge.com/policy/1021165/fcc-brendan-carr-prison-phone-jamming",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "c33c8f6d61",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Ghost of Yotei developer Sucker Punch reportedly hit with layoffs, despite selling millions and \"significantly\" contributing to Sony's financials: \"After carefully observing challenges in the market…",
-      "detail": "submitted by /u/ControlCAD [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1xh7s2e/ghost_of_yotei_developer_sucker_punch_reportedly/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 0,
-      "days": 0,
-      "tickers": [],
-      "score": 8
     },
     {
       "id": "7a096772c9",
@@ -374,302 +351,23 @@
       "days": 0,
       "tickers": [],
       "score": 8
+    },
+    {
+      "id": "3c39fd7ba4",
+      "topic": "AI",
+      "status": "Just surfaced",
+      "title": "Details of thousands of US immigration agents leaked in major hack",
+      "detail": "submitted by /u/RaspberryMotorZZZ [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1xie8dv/details_of_thousands_of_us_immigration_agents/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 0,
+      "days": 0,
+      "tickers": [],
+      "score": 8
     }
   ],
   "watchlist": [
-    {
-      "ticker": "GOOGL",
-      "name": "Alphabet",
-      "price": 324.89,
-      "changePct": -2.9,
-      "monthChangePct": -4.7,
-      "catalyst": "Earnings report",
-      "when": "Wed",
-      "signals": [
-        "Earnings",
-        "7 headlines",
-        "Volume up"
-      ],
-      "spark": [
-        340.28,
-        334.76,
-        324.22,
-        320.21,
-        316.8,
-        320.58,
-        324.89
-      ],
-      "history": [
-        {
-          "d": "2026-09-29",
-          "c": 340.92
-        },
-        {
-          "d": "2026-09-30",
-          "c": 344.08
-        },
-        {
-          "d": "2026-10-01",
-          "c": 338.24
-        },
-        {
-          "d": "2026-10-02",
-          "c": 343.5
-        },
-        {
-          "d": "2026-10-05",
-          "c": 346.47
-        },
-        {
-          "d": "2026-10-06",
-          "c": 347.68
-        },
-        {
-          "d": "2026-10-07",
-          "c": 350.5
-        },
-        {
-          "d": "2026-10-08",
-          "c": 348.29
-        },
-        {
-          "d": "2026-10-09",
-          "c": 351.66
-        },
-        {
-          "d": "2026-10-12",
-          "c": 352.72
-        },
-        {
-          "d": "2026-10-13",
-          "c": 353.78
-        },
-        {
-          "d": "2026-10-14",
-          "c": 347.64
-        },
-        {
-          "d": "2026-10-15",
-          "c": 349.22
-        },
-        {
-          "d": "2026-10-16",
-          "c": 340.59
-        },
-        {
-          "d": "2026-10-19",
-          "c": 344.18
-        },
-        {
-          "d": "2026-10-20",
-          "c": 340.28
-        },
-        {
-          "d": "2026-10-21",
-          "c": 334.76
-        },
-        {
-          "d": "2026-10-22",
-          "c": 324.22
-        },
-        {
-          "d": "2026-10-23",
-          "c": 320.21
-        },
-        {
-          "d": "2026-10-26",
-          "c": 316.8
-        },
-        {
-          "d": "2026-10-27",
-          "c": 320.58
-        },
-        {
-          "d": "2026-10-28",
-          "c": 324.89
-        }
-      ],
-      "earnings": "2026-10-28",
-      "headlines": [
-        {
-          "title": "Google expands AI Search ads globally as core ad growth slows",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-          "published": "2026-10-28T21:48:37+00:00"
-        },
-        {
-          "title": "Google says its investments in AI are driving more searches",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
-          "published": "2026-10-28T20:22:26+00:00"
-        },
-        {
-          "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-          "published": "2026-10-28T20:03:00+00:00"
-        },
-        {
-          "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-          "published": "2026-10-28T17:00:00+00:00"
-        }
-      ],
-      "score": 82.0,
-      "brief": {
-        "what": "4 recent headlines mention Alphabet. Latest: Google expands AI Search ads globally as core ad growth slows",
-        "why": "Signals: earnings, 7 headlines, volume up. The stock is down 2.9% this week and down 4.7% over the month.",
-        "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "price": 254.6,
-      "changePct": -3.0,
-      "monthChangePct": 3.2,
-      "catalyst": "Earnings report",
-      "when": "Thu",
-      "signals": [
-        "Earnings",
-        "7 headlines"
-      ],
-      "spark": [
-        262.63,
-        262.37,
-        250.38,
-        248.0,
-        249.09,
-        253.1,
-        254.6
-      ],
-      "history": [
-        {
-          "d": "2026-09-29",
-          "c": 246.67
-        },
-        {
-          "d": "2026-09-30",
-          "c": 249.15
-        },
-        {
-          "d": "2026-10-01",
-          "c": 248.23
-        },
-        {
-          "d": "2026-10-02",
-          "c": 251.52
-        },
-        {
-          "d": "2026-10-05",
-          "c": 251.4
-        },
-        {
-          "d": "2026-10-06",
-          "c": 256.29
-        },
-        {
-          "d": "2026-10-07",
-          "c": 259.92
-        },
-        {
-          "d": "2026-10-08",
-          "c": 254.06
-        },
-        {
-          "d": "2026-10-09",
-          "c": 262.43
-        },
-        {
-          "d": "2026-10-12",
-          "c": 259.53
-        },
-        {
-          "d": "2026-10-13",
-          "c": 258.58
-        },
-        {
-          "d": "2026-10-14",
-          "c": 254.08
-        },
-        {
-          "d": "2026-10-15",
-          "c": 254.76
-        },
-        {
-          "d": "2026-10-16",
-          "c": 250.0
-        },
-        {
-          "d": "2026-10-19",
-          "c": 262.45
-        },
-        {
-          "d": "2026-10-20",
-          "c": 262.63
-        },
-        {
-          "d": "2026-10-21",
-          "c": 262.37
-        },
-        {
-          "d": "2026-10-22",
-          "c": 250.38
-        },
-        {
-          "d": "2026-10-23",
-          "c": 248.0
-        },
-        {
-          "d": "2026-10-26",
-          "c": 249.09
-        },
-        {
-          "d": "2026-10-27",
-          "c": 253.1
-        },
-        {
-          "d": "2026-10-28",
-          "c": 254.6
-        }
-      ],
-      "earnings": "2026-10-29",
-      "headlines": [
-        {
-          "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
-          "published": "2026-10-28T14:34:25+00:00"
-        },
-        {
-          "title": "FCC clears Amazon Leo to acquire mobile-satellite operator Globalstar",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2299367/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar/",
-          "published": "2026-10-28T13:13:19+00:00"
-        },
-        {
-          "title": "Amazon launches its first digital photo frame with built-in Alexa",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2299247/amazon-alexa-photo-frame/",
-          "published": "2026-10-28T12:00:00+00:00"
-        },
-        {
-          "title": "US agency approves Amazon Leo’s $11.5B acquisition of Globalstar",
-          "source": "Hacker News",
-          "url": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
-          "published": "2026-10-28T11:54:23+00:00"
-        }
-      ],
-      "score": 75.9,
-      "brief": {
-        "what": "4 recent headlines mention Amazon. Latest: Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
-        "why": "Signals: earnings, 7 headlines. The stock is down 3.0% this week and up 3.2% over the month.",
-        "watch": "Next earnings expected Thu Oct 29. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
     {
       "ticker": "AAPL",
       "name": "Apple",
@@ -784,6 +482,12 @@
       "earnings": "2026-11-02",
       "headlines": [
         {
+          "title": "Apple and Google fined in South Korea over app store violations",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+          "published": "2026-10-29T10:42:26+00:00"
+        },
+        {
           "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
@@ -802,12 +506,6 @@
           "published": "2026-10-28T17:13:10+00:00"
         },
         {
-          "title": "Apple Pro and Tell event: Live updates as we wait to see a MacBook Pro with a touch screen",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2299176/apple-pro-and-tell-macbook-event-live-blog/",
-          "published": "2026-10-28T12:30:00+00:00"
-        },
-        {
           "title": "Apple's git still trusts the compromised eMudhra certificates",
           "source": "Hacker News",
           "url": "https://emudhra.we-have-a-problem.com/apple.html",
@@ -816,155 +514,9 @@
       ],
       "score": 70.1,
       "brief": {
-        "what": "5 recent headlines mention Apple. Latest: Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+        "what": "5 recent headlines mention Apple. Latest: Apple and Google fined in South Korea over app store violations",
         "why": "Signals: earnings, 9 headlines. The stock is flat this week and up 4.4% over the month.",
         "watch": "Next earnings expected Mon Nov 2. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft",
-      "price": 531.01,
-      "changePct": -0.4,
-      "monthChangePct": 4.3,
-      "catalyst": "Earnings report",
-      "when": "Wed",
-      "signals": [
-        "Earnings",
-        "4 headlines"
-      ],
-      "spark": [
-        531.87,
-        532.95,
-        521.08,
-        524.51,
-        532.6,
-        531.33,
-        531.01
-      ],
-      "history": [
-        {
-          "d": "2026-09-29",
-          "c": 508.96
-        },
-        {
-          "d": "2026-09-30",
-          "c": 512.9
-        },
-        {
-          "d": "2026-10-01",
-          "c": 512.8
-        },
-        {
-          "d": "2026-10-02",
-          "c": 517.53
-        },
-        {
-          "d": "2026-10-05",
-          "c": 525.18
-        },
-        {
-          "d": "2026-10-06",
-          "c": 529.3
-        },
-        {
-          "d": "2026-10-07",
-          "c": 529.76
-        },
-        {
-          "d": "2026-10-08",
-          "c": 522.61
-        },
-        {
-          "d": "2026-10-09",
-          "c": 535.07
-        },
-        {
-          "d": "2026-10-12",
-          "c": 541.15
-        },
-        {
-          "d": "2026-10-13",
-          "c": 543.45
-        },
-        {
-          "d": "2026-10-14",
-          "c": 533.69
-        },
-        {
-          "d": "2026-10-15",
-          "c": 539.44
-        },
-        {
-          "d": "2026-10-16",
-          "c": 529.05
-        },
-        {
-          "d": "2026-10-19",
-          "c": 533.52
-        },
-        {
-          "d": "2026-10-20",
-          "c": 531.87
-        },
-        {
-          "d": "2026-10-21",
-          "c": 532.95
-        },
-        {
-          "d": "2026-10-22",
-          "c": 521.08
-        },
-        {
-          "d": "2026-10-23",
-          "c": 524.51
-        },
-        {
-          "d": "2026-10-26",
-          "c": 532.6
-        },
-        {
-          "d": "2026-10-27",
-          "c": 531.33
-        },
-        {
-          "d": "2026-10-28",
-          "c": 531.01
-        }
-      ],
-      "earnings": "2026-10-28",
-      "headlines": [
-        {
-          "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-          "published": "2026-10-28T21:58:32+00:00"
-        },
-        {
-          "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-          "published": "2026-10-28T21:34:30+00:00"
-        },
-        {
-          "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-          "published": "2026-10-28T21:25:30+00:00"
-        },
-        {
-          "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
-          "published": "2026-10-28T20:20:00+00:00"
-        }
-      ],
-      "score": 62.0,
-      "brief": {
-        "what": "4 recent headlines mention Microsoft. Latest: Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-        "why": "Signals: earnings, 4 headlines. The stock is down 0.4% this week and up 4.3% over the month.",
-        "watch": "Next earnings expected Wed Oct 28. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
@@ -1086,6 +638,380 @@
         "what": "No major headlines about Coinbase in the last two weeks.",
         "why": "Signals: earnings, big price move. The stock is down 8.3% this week and down 14.6% over the month.",
         "watch": "Next earnings expected Thu Oct 29. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "price": 254.6,
+      "changePct": -3.0,
+      "monthChangePct": 3.2,
+      "catalyst": "Earnings report",
+      "when": "Thu",
+      "signals": [
+        "Earnings",
+        "2 headlines"
+      ],
+      "spark": [
+        262.63,
+        262.37,
+        250.38,
+        248.0,
+        249.09,
+        253.1,
+        254.6
+      ],
+      "history": [
+        {
+          "d": "2026-09-29",
+          "c": 246.67
+        },
+        {
+          "d": "2026-09-30",
+          "c": 249.15
+        },
+        {
+          "d": "2026-10-01",
+          "c": 248.23
+        },
+        {
+          "d": "2026-10-02",
+          "c": 251.52
+        },
+        {
+          "d": "2026-10-05",
+          "c": 251.4
+        },
+        {
+          "d": "2026-10-06",
+          "c": 256.29
+        },
+        {
+          "d": "2026-10-07",
+          "c": 259.92
+        },
+        {
+          "d": "2026-10-08",
+          "c": 254.06
+        },
+        {
+          "d": "2026-10-09",
+          "c": 262.43
+        },
+        {
+          "d": "2026-10-12",
+          "c": 259.53
+        },
+        {
+          "d": "2026-10-13",
+          "c": 258.58
+        },
+        {
+          "d": "2026-10-14",
+          "c": 254.08
+        },
+        {
+          "d": "2026-10-15",
+          "c": 254.76
+        },
+        {
+          "d": "2026-10-16",
+          "c": 250.0
+        },
+        {
+          "d": "2026-10-19",
+          "c": 262.45
+        },
+        {
+          "d": "2026-10-20",
+          "c": 262.63
+        },
+        {
+          "d": "2026-10-21",
+          "c": 262.37
+        },
+        {
+          "d": "2026-10-22",
+          "c": 250.38
+        },
+        {
+          "d": "2026-10-23",
+          "c": 248.0
+        },
+        {
+          "d": "2026-10-26",
+          "c": 249.09
+        },
+        {
+          "d": "2026-10-27",
+          "c": 253.1
+        },
+        {
+          "d": "2026-10-28",
+          "c": 254.6
+        }
+      ],
+      "earnings": "2026-10-29",
+      "headlines": [
+        {
+          "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+          "published": "2026-10-28T14:34:25+00:00"
+        },
+        {
+          "title": "FCC clears Amazon Leo to acquire mobile-satellite operator Globalstar",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2299367/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar/",
+          "published": "2026-10-28T13:13:19+00:00"
+        }
+      ],
+      "score": 55.9,
+      "brief": {
+        "what": "2 recent headlines mention Amazon. Latest: Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
+        "why": "Signals: earnings, 2 headlines. The stock is down 3.0% this week and up 3.2% over the month.",
+        "watch": "Next earnings expected Thu Oct 29. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD",
+      "price": 578.44,
+      "changePct": 4.7,
+      "monthChangePct": -4.8,
+      "catalyst": "Earnings report",
+      "when": "Tue",
+      "signals": [
+        "Earnings"
+      ],
+      "spark": [
+        534.74,
+        552.72,
+        507.93,
+        516.79,
+        531.28,
+        560.26,
+        578.44
+      ],
+      "history": [
+        {
+          "d": "2026-09-29",
+          "c": 607.57
+        },
+        {
+          "d": "2026-09-30",
+          "c": 611.76
+        },
+        {
+          "d": "2026-10-01",
+          "c": 615.73
+        },
+        {
+          "d": "2026-10-02",
+          "c": 633.91
+        },
+        {
+          "d": "2026-10-05",
+          "c": 631.75
+        },
+        {
+          "d": "2026-10-06",
+          "c": 649.42
+        },
+        {
+          "d": "2026-10-07",
+          "c": 645.86
+        },
+        {
+          "d": "2026-10-08",
+          "c": 620.68
+        },
+        {
+          "d": "2026-10-09",
+          "c": 608.1
+        },
+        {
+          "d": "2026-10-12",
+          "c": 594.24
+        },
+        {
+          "d": "2026-10-13",
+          "c": 605.53
+        },
+        {
+          "d": "2026-10-14",
+          "c": 570.82
+        },
+        {
+          "d": "2026-10-15",
+          "c": 562.23
+        },
+        {
+          "d": "2026-10-16",
+          "c": 528.75
+        },
+        {
+          "d": "2026-10-19",
+          "c": 538.05
+        },
+        {
+          "d": "2026-10-20",
+          "c": 534.74
+        },
+        {
+          "d": "2026-10-21",
+          "c": 552.72
+        },
+        {
+          "d": "2026-10-22",
+          "c": 507.93
+        },
+        {
+          "d": "2026-10-23",
+          "c": 516.79
+        },
+        {
+          "d": "2026-10-26",
+          "c": 531.28
+        },
+        {
+          "d": "2026-10-27",
+          "c": 560.26
+        },
+        {
+          "d": "2026-10-28",
+          "c": 578.44
+        }
+      ],
+      "earnings": "2026-11-03",
+      "headlines": [],
+      "score": 54.3,
+      "brief": {
+        "what": "No major headlines about AMD in the last two weeks.",
+        "why": "Signals: earnings. The stock is up 4.7% this week and down 4.8% over the month.",
+        "watch": "Next earnings expected Tue Nov 3. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "ARM",
+      "name": "Arm Holdings",
+      "price": 235.9,
+      "changePct": 4.1,
+      "monthChangePct": -19.7,
+      "catalyst": "Earnings report",
+      "when": "Wed",
+      "signals": [
+        "Earnings"
+      ],
+      "spark": [
+        221.06,
+        226.59,
+        210.1,
+        210.33,
+        223.35,
+        226.6,
+        235.9
+      ],
+      "history": [
+        {
+          "d": "2026-09-29",
+          "c": 293.67
+        },
+        {
+          "d": "2026-09-30",
+          "c": 289.66
+        },
+        {
+          "d": "2026-10-01",
+          "c": 292.34
+        },
+        {
+          "d": "2026-10-02",
+          "c": 307.49
+        },
+        {
+          "d": "2026-10-05",
+          "c": 302.9
+        },
+        {
+          "d": "2026-10-06",
+          "c": 302.56
+        },
+        {
+          "d": "2026-10-07",
+          "c": 294.37
+        },
+        {
+          "d": "2026-10-08",
+          "c": 275.29
+        },
+        {
+          "d": "2026-10-09",
+          "c": 266.28
+        },
+        {
+          "d": "2026-10-12",
+          "c": 255.24
+        },
+        {
+          "d": "2026-10-13",
+          "c": 255.39
+        },
+        {
+          "d": "2026-10-14",
+          "c": 238.01
+        },
+        {
+          "d": "2026-10-15",
+          "c": 244.79
+        },
+        {
+          "d": "2026-10-16",
+          "c": 227.8
+        },
+        {
+          "d": "2026-10-19",
+          "c": 228.05
+        },
+        {
+          "d": "2026-10-20",
+          "c": 221.06
+        },
+        {
+          "d": "2026-10-21",
+          "c": 226.59
+        },
+        {
+          "d": "2026-10-22",
+          "c": 210.1
+        },
+        {
+          "d": "2026-10-23",
+          "c": 210.33
+        },
+        {
+          "d": "2026-10-26",
+          "c": 223.35
+        },
+        {
+          "d": "2026-10-27",
+          "c": 226.6
+        },
+        {
+          "d": "2026-10-28",
+          "c": 235.9
+        }
+      ],
+      "earnings": "2026-11-04",
+      "headlines": [],
+      "score": 48.2,
+      "brief": {
+        "what": "No major headlines about Arm Holdings in the last two weeks.",
+        "why": "Signals: earnings. The stock is up 4.1% this week and down 19.7% over the month.",
+        "watch": "Next earnings expected Wed Nov 4. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
