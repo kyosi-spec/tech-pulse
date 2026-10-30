@@ -1,314 +1,317 @@
 {
   "weekOf": "2026-10-26",
-  "updated": "2026-10-30T11:49:37+00:00",
+  "updated": "2026-10-30T22:45:45+00:00",
   "summary": [
-    "Tech leads the news with 11 of 25 stories. Top headline: Binance hackers stole $6.3 billion in record-breaking crypto heist",
-    "Earnings this week from AMD, ARM, QCOM, UBER.",
-    "Strongest rumor: NVIDIA CEO Jensen Huang may have been the target of a Chinese government spy"
+    "AI leads the news with 12 of 25 stories. Top headline: Apple Intelligence is finally coming to China with iOS 27.3",
+    "Earnings this week from AAPL, NET, QCOM, SHOP.",
+    "Strongest rumor: Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says"
   ],
   "stories": [
     {
-      "id": "66f19dcdda",
-      "topic": "Security",
-      "kind": "Founder",
-      "source": "The Verge",
-      "published": "2026-10-30T11:44:53+00:00",
-      "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
-      "summary": "Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what's believed to be the biggest cryptocurrency hack on record. In a series of updates posted to X, the crypto exchange said that user funds are safe, and that around $3 billion…",
-      "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
-      "tickers": []
-    },
-    {
-      "id": "9c3f802671",
-      "topic": "Cloud",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-30T11:00:00+00:00",
-      "title": "Maine’s data center revolt will decide who controls the Senate",
-      "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-      "tickers": []
-    },
-    {
-      "id": "d8a89d19a0",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-30T10:23:52+00:00",
-      "title": "Waymo and Toyota will soon start testing their robotaxis in Japan",
-      "summary": "Waymo and Toyota will start testing autonomous bZ4X vehicles in Japan next year. (edited)",
-      "url": "https://www.engadget.com/2301972/waymo-toyota-soon-start-testing-bz4x-robotaxis-japan/",
-      "tickers": []
-    },
-    {
-      "id": "e48d92380f",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-30T10:08:13+00:00",
-      "title": "Senators are looking into 'serious privacy risks' with Meta's AI glasses",
-      "summary": "US senators have asked Meta to explain how it's mitigating 'serious' privacy risks with its AI glasses.",
-      "url": "https://www.engadget.com/2301968/senators-looking-into-serious-privacy-risks-with-meta-ai-glasses/",
-      "tickers": []
-    },
-    {
-      "id": "d805336269",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-30T09:00:00+00:00",
-      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling…",
-      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-      "tickers": []
-    },
-    {
-      "id": "73a0ce7f6c",
-      "topic": "Policy",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-30T07:44:26+00:00",
-      "title": "General Motors agrees to pay $220 million to settle multi-state data privacy lawsuit",
-      "summary": "GM has settled the Smart Driver program lawsuit brought by 35 attorneys general.",
-      "url": "https://www.engadget.com/2301934/general-motors-220-million-settle-multi-state-data-privacy-lawsuit/",
-      "tickers": []
-    },
-    {
-      "id": "d12f70806c",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-30T01:58:44+00:00",
-      "title": "Pico CSS is no longer maintained",
-      "summary": "Article URL: https://github.com/picocss/pico/discussions/754 Comments URL: https://news.ycombinator.com/item?id=50298964 Points: 154 # Comments: 72",
-      "url": "https://github.com/picocss/pico/discussions/754",
-      "tickers": []
-    },
-    {
-      "id": "04fffb7074",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-30T01:20:48+00:00",
-      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "tickers": []
-    },
-    {
-      "id": "f2312d11d5",
+      "id": "5075fb51f9",
       "topic": "Tech",
       "kind": "Launch",
-      "source": "Hacker News",
-      "published": "2026-10-30T00:42:41+00:00",
-      "title": "Herdr has released native app",
-      "summary": "Article URL: https://github.com/herdrdev/herdr-app Comments URL: https://news.ycombinator.com/item?id=50298436 Points: 236 # Comments: 155",
-      "url": "https://github.com/herdrdev/herdr-app",
-      "tickers": []
-    },
-    {
-      "id": "a83664b237",
-      "topic": "Devices",
-      "kind": "Company",
       "source": "The Verge",
-      "published": "2026-10-29T23:57:18+00:00",
-      "title": "The director of Obsession put a new horror short on YouTube",
-      "summary": "Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled \"Mama Bear,\" is nearly five minutes long. The video is pretty unnerving, and fair warning that it gets a little graphic, but it's a fun one to watch…",
-      "url": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
-      "tickers": []
-    },
-    {
-      "id": "e56d88f8ad",
-      "topic": "Tech",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-29T23:44:56+00:00",
-      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
-      "summary": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says.",
-      "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+      "published": "2026-10-30T22:32:53+00:00",
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3…",
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
       "tickers": [
-        "AMZN"
+        "AAPL"
       ]
     },
     {
-      "id": "f47673c15d",
-      "topic": "Cloud",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-29T23:42:22+00:00",
-      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "tickers": [
-        "AMZN"
-      ]
-    },
-    {
-      "id": "a189736694",
+      "id": "9f1fa1593d",
       "topic": "Chips",
-      "kind": "Founder",
-      "source": "The Verge",
-      "published": "2026-10-29T23:42:21+00:00",
-      "title": "Intel says it’s selling every affordable laptop chip it can make",
-      "summary": "During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips \"is outstripping supply.\" According to CFO David Zinsner, the chips are now sold out. Zinsner said Intel has \"seen significant growth in Wildcat Lake. It's coming…",
-      "url": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-30T21:54:34+00:00",
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
       "tickers": [
         "INTC"
       ]
     },
     {
-      "id": "63b4f5dac8",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-29T22:52:36+00:00",
-      "title": "Sony is working on a film adaptation of viral indie horror game Mouthwashing",
-      "summary": "The adaptation will be directed by Karyn Kusama, and scripted by the writers of The Invitation.",
-      "url": "https://www.engadget.com/2301826/sony-is-working-on-a-film-adaptation-of-viral-indie-horror-game-mouthwashing/",
-      "tickers": []
-    },
-    {
-      "id": "33277ca627",
-      "topic": "Tech",
+      "id": "002d650165",
+      "topic": "Security",
       "kind": "Company",
       "source": "TechCrunch",
-      "published": "2026-10-29T22:27:23+00:00",
-      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
-      "summary": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
-      "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
+      "published": "2026-10-30T21:48:53+00:00",
+      "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
+      "summary": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
+      "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
       "tickers": []
     },
     {
-      "id": "768768fd4f",
+      "id": "0a8f9548b7",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-30T21:26:59+00:00",
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "tickers": []
+    },
+    {
+      "id": "0cd9828418",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Wired",
+      "published": "2026-10-30T21:19:26+00:00",
+      "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
+      "summary": "This week on Uncanny Valley, we also discuss Anthropic’s IPO filing and the volunteers gearing up to counter ICE at the midterms.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+      "tickers": []
+    },
+    {
+      "id": "6b40843223",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-30T21:17:40+00:00",
+      "title": "Cracks are emerging in the AI spending boom",
+      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "tickers": []
+    },
+    {
+      "id": "de50e0a398",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Ars Technica",
+      "published": "2026-10-30T21:09:54+00:00",
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "tickers": []
+    },
+    {
+      "id": "7f9a7e11df",
+      "topic": "Security",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-10-30T21:01:32+00:00",
+      "title": "Exclusive details about Akai’s MPC Sample Key",
+      "summary": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has…",
+      "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+      "tickers": [
+        "META"
+      ]
+    },
+    {
+      "id": "fae5c6bc9b",
       "topic": "AI",
       "kind": "Founder",
       "source": "The Verge",
-      "published": "2026-10-29T22:19:32+00:00",
-      "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
-      "summary": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026 earnings, Reddit revealed that search traffic in October has…",
-      "url": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
+      "published": "2026-10-30T20:48:43+00:00",
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "tickers": []
+    },
+    {
+      "id": "91e73326aa",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-30T20:26:10+00:00",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI…",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "tickers": [
+        "MSFT",
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "d00b198a39",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-30T20:21:28+00:00",
+      "title": "Meta settles another social media addiction case just before trial",
+      "summary": "Snap is now the only defendant in the case.",
+      "url": "https://www.engadget.com/2302956/meta-settles-another-social-media-addiction-case-just-before-trial/",
+      "tickers": []
+    },
+    {
+      "id": "dabf87ca45",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-30T20:07:00+00:00",
+      "title": "Bluesky now has a dedicated 'moderation inbox'",
+      "summary": "The beta feature makes it easier to stay on top of reports and account strikes.",
+      "url": "https://www.engadget.com/2302932/bluesky-now-has-a-dedicated-moderation-inbox/",
+      "tickers": []
+    },
+    {
+      "id": "7f6f67f39c",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-30T19:55:13+00:00",
+      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+      "summary": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal & Manges has been the talk of the legal industry. And now an AI firm has entered the picture.",
+      "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+      "tickers": []
+    },
+    {
+      "id": "6a9ce179a9",
+      "topic": "Security",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-30T19:05:22+00:00",
+      "title": "Bunny CDN Security Incident",
+      "summary": "Article URL: https://status.bunny.net/incidents/p6gf1by9kr7m Comments URL: https://news.ycombinator.com/item?id=50308697 Points: 155 # Comments: 34",
+      "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
+      "tickers": []
+    },
+    {
+      "id": "13b9e6152f",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-30T19:00:00+00:00",
+      "title": "Everything you need to know about Googlebooks",
+      "summary": "Despite good initial hardware, the Googlebook OS still needs a lot of work.",
+      "url": "https://www.engadget.com/2302681/everything-you-need-to-know-about-googlebooks/",
+      "tickers": []
+    },
+    {
+      "id": "bfad1f3cd2",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-30T18:21:38+00:00",
+      "title": "Google’s satellite AI server transmits its first response to Earth",
+      "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku…",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
       "tickers": [
         "GOOGL"
       ]
     },
     {
-      "id": "3f7a597181",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-29T22:05:39+00:00",
-      "title": "Meta is testing 'Threads Friends' for sharing posts with smaller groups",
-      "summary": "Twitter Circle, anyone?",
-      "url": "https://www.engadget.com/2301804/meta-is-testing-threads-friends-for-sharing-posts-with-smaller-groups/",
-      "tickers": []
-    },
-    {
-      "id": "d1085d670d",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-29T21:51:29+00:00",
-      "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
-      "summary": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.",
-      "url": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
-      "tickers": []
-    },
-    {
-      "id": "f0a5a1365e",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-29T21:48:05+00:00",
-      "title": "VRChat says it's not adding AI labels despite user survey showing people want that",
-      "summary": "Trying to make everyone happy could make no one happy.",
-      "url": "https://www.engadget.com/2301786/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that/",
-      "tickers": []
-    },
-    {
-      "id": "9d133fc32a",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-29T21:40:28+00:00",
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 309 # Comments: 113",
-      "url": "https://labs.ycombinator.com/projects/games/index.html",
-      "tickers": []
-    },
-    {
-      "id": "0cfce0e2f9",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-29T21:38:59+00:00",
-      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-      "summary": "Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8 Comments URL: https://news.ycombinator.com/item?id=50296470 Points: 1454 # Comments: 948",
-      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-      "tickers": []
-    },
-    {
-      "id": "d6575eeddb",
+      "id": "98426c921e",
       "topic": "Cloud",
       "kind": "Company",
       "source": "TechCrunch",
-      "published": "2026-10-29T21:20:47+00:00",
-      "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
-      "summary": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
-      "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
+      "published": "2026-10-30T18:01:24+00:00",
+      "title": "Satlyt takes another step toward turning satellites into space data centers",
+      "summary": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites, into virtual data centers.",
+      "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+      "tickers": []
+    },
+    {
+      "id": "4110c3ae85",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-30T17:47:12+00:00",
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "tickers": []
+    },
+    {
+      "id": "3a6d75de17",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "The Verge",
+      "published": "2026-10-30T17:38:04+00:00",
+      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+      "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "tickers": []
+    },
+    {
+      "id": "d3636a1cf0",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-30T17:27:25+00:00",
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "summary": "Article URL: https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f Comments URL: https://news.ycombinator.com/item?id=50307219 Points: 260 # Comments: 195",
+      "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+      "tickers": []
+    },
+    {
+      "id": "4229b6a26d",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-30T17:25:20+00:00",
+      "title": "The delightfully messy state of Apple gadgets",
+      "summary": "The iPhone has more screens! The MacBook has a touchscreen! The HomeView does CarPlay apps! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results aren't always perfect, it's fun to watch the most successful…",
+      "url": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
       "tickers": [
-        "AMZN"
+        "AAPL"
       ]
     },
     {
-      "id": "6222b3bc43",
+      "id": "cbf4bb0b9e",
       "topic": "Tech",
       "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-29T21:18:22+00:00",
-      "title": "Fan fiction website AO3 is down, and it could take weeks to recover",
-      "summary": "The site's data is reportedly intact, but the cause of the outage is still unknown.",
-      "url": "https://www.engadget.com/2301753/ao3-fanfiction-website-down-for-weeks/",
+      "source": "Hacker News",
+      "published": "2026-10-30T17:25:15+00:00",
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "summary": "Article URL: https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/ Comments URL: https://news.ycombinator.com/item?id=50307190 Points: 192 # Comments: 50",
+      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
       "tickers": []
     },
     {
-      "id": "f12ba46137",
+      "id": "fb6059d7dc",
       "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-29T21:01:04+00:00",
-      "title": "GM reaches $220M settlement over selling drivers’ private data",
-      "summary": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.",
-      "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
+      "kind": "Founder",
+      "source": "The Verge",
+      "published": "2026-10-30T17:16:09+00:00",
+      "title": "Rivian’s autonomy gamble faces its first real test",
+      "summary": "During an hourlong earnings call last night, Rivian CEO RJ Scaringe spent less time talking about the production ramp of the all-important R2 SUV than he did hyping the company's still-unproven autonomous vehicle ambitions. But the company faces a crucial test later this year…",
+      "url": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
       "tickers": []
     },
     {
-      "id": "496f8fdcd2",
+      "id": "289bfedca8",
+      "topic": "Security",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-30T17:01:07+00:00",
+      "title": "Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts",
+      "summary": "Modern smart TVs let you skip the streaming device, which is convenient, but they also come with their own issues, including privacy concerns and frequent updates. The Vizio Mini LED Quantum TV lets you cut out the rigamarole and just get straight to the HDMI ports. And right…",
+      "url": "https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale",
+      "tickers": []
+    },
+    {
+      "id": "ca5ba522b3",
       "topic": "AI",
       "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-29T20:32:49+00:00",
-      "title": "Reddit will force users to log in as AI is killing search traffic",
-      "summary": "The company is starting with tests outside of the US.",
-      "url": "https://www.engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/",
-      "tickers": []
+      "source": "TechCrunch",
+      "published": "2026-10-30T17:00:00+00:00",
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "tickers": [
+        "GOOGL"
+      ]
     }
   ],
   "rumors": [
     {
-      "id": "60ef82b7cb",
-      "topic": "Chips",
+      "id": "596d0e3a3e",
+      "topic": "AI",
       "status": "Just surfaced",
-      "title": "NVIDIA CEO Jensen Huang may have been the target of a Chinese government spy",
-      "detail": "President Trump reportedly chose to do nothing in response.",
-      "url": "https://www.engadget.com/2301447/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-chinese-government-spy/",
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "detail": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
       "sources": 1,
-      "mentions": 2,
+      "mentions": 3,
       "credible": 1,
       "days": 0,
-      "tickers": [
-        "NVDA"
-      ],
-      "score": 18
+      "tickers": [],
+      "score": 20
     },
     {
       "id": "b87b2ee891",
@@ -325,34 +328,6 @@
       "score": 15
     },
     {
-      "id": "977e0ca740",
-      "topic": "AI",
-      "status": "Just surfaced",
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "detail": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "a64fa4f68a",
-      "topic": "Security",
-      "status": "Just surfaced",
-      "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
-      "detail": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.",
-      "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
-    },
-    {
       "id": "6222b3bc43",
       "topic": "Tech",
       "status": "Just surfaced",
@@ -362,435 +337,318 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 0,
+      "days": 1,
       "tickers": [],
       "score": 15
     },
     {
-      "id": "11925bd15a",
-      "topic": "Security",
+      "id": "7f9a7e11df",
+      "topic": "Tech",
       "status": "Just surfaced",
-      "title": "Hackers leak details of 41,000 Homeland Security employees, exposing undercover operations and surveillance tools",
-      "detail": "submitted by /u/ArgentineBeauty [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1xilmdr/hackers_leak_details_of_41000_homeland_security/",
+      "title": "Exclusive details about Akai’s MPC Sample Key",
+      "detail": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has…",
+      "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
       "sources": 1,
       "mentions": 1,
-      "credible": 0,
+      "credible": 1,
       "days": 0,
       "tickers": [],
-      "score": 8
+      "score": 15
     }
   ],
   "watchlist": [
     {
-      "ticker": "AMD",
-      "name": "AMD",
-      "price": 566.42,
-      "changePct": 11.5,
-      "monthChangePct": -7.4,
+      "ticker": "AAPL",
+      "name": "Apple",
+      "price": 344.63,
+      "changePct": -0.9,
+      "monthChangePct": 4.3,
       "catalyst": "Earnings report",
-      "when": "Tue",
+      "when": "Mon",
       "signals": [
         "Earnings",
-        "Big price move"
+        "4 headlines",
+        "Volume up"
       ],
       "spark": [
-        552.72,
-        507.93,
-        516.79,
-        531.28,
-        560.26,
-        578.44,
-        566.42
+        348.22,
+        347.73,
+        343.91,
+        347.1,
+        343.83,
+        348.91,
+        344.63
       ],
       "history": [
         {
-          "d": "2026-09-30",
-          "c": 611.76
-        },
-        {
           "d": "2026-10-01",
-          "c": 615.73
+          "c": 330.32
         },
         {
           "d": "2026-10-02",
-          "c": 633.91
+          "c": 333.69
         },
         {
           "d": "2026-10-05",
-          "c": 631.75
+          "c": 332.89
         },
         {
           "d": "2026-10-06",
-          "c": 649.42
+          "c": 333.63
         },
         {
           "d": "2026-10-07",
-          "c": 645.86
+          "c": 336.67
         },
         {
           "d": "2026-10-08",
-          "c": 620.68
+          "c": 340.42
         },
         {
           "d": "2026-10-09",
-          "c": 608.1
+          "c": 336.64
         },
         {
           "d": "2026-10-12",
-          "c": 594.24
+          "c": 340.97
         },
         {
           "d": "2026-10-13",
-          "c": 605.53
+          "c": 341.27
         },
         {
           "d": "2026-10-14",
-          "c": 570.82
+          "c": 342.96
         },
         {
           "d": "2026-10-15",
-          "c": 562.23
+          "c": 342.0
         },
         {
           "d": "2026-10-16",
-          "c": 528.75
+          "c": 343.46
         },
         {
           "d": "2026-10-19",
-          "c": 538.05
+          "c": 342.94
         },
         {
           "d": "2026-10-20",
-          "c": 534.74
+          "c": 339.5
         },
         {
           "d": "2026-10-21",
-          "c": 552.72
+          "c": 343.99
         },
         {
           "d": "2026-10-22",
-          "c": 507.93
+          "c": 348.22
         },
         {
           "d": "2026-10-23",
-          "c": 516.79
+          "c": 347.73
         },
         {
           "d": "2026-10-26",
-          "c": 531.28
+          "c": 343.91
         },
         {
           "d": "2026-10-27",
-          "c": 560.26
+          "c": 347.1
         },
         {
           "d": "2026-10-28",
-          "c": 578.44
+          "c": 343.83
         },
         {
           "d": "2026-10-29",
-          "c": 566.42
+          "c": 348.91
+        },
+        {
+          "d": "2026-10-30",
+          "c": 344.63
         }
       ],
-      "earnings": "2026-11-03",
-      "headlines": [],
-      "score": 60.0,
+      "earnings": "2026-11-02",
+      "headlines": [
+        {
+          "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+          "published": "2026-10-30T22:32:53+00:00"
+        },
+        {
+          "title": "The delightfully messy state of Apple gadgets",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
+          "published": "2026-10-30T17:25:20+00:00"
+        },
+        {
+          "title": "New tvOS 27.2 features to try for an upgraded Apple TV experience",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2302449/tvos-27-2-features-try-upgraded-apple-tv-experience/",
+          "published": "2026-10-30T16:22:49+00:00"
+        },
+        {
+          "title": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
+          "published": "2026-10-30T15:00:00+00:00"
+        }
+      ],
+      "score": 65.6,
       "brief": {
-        "what": "No major headlines about AMD in the last two weeks.",
-        "why": "Signals: earnings, big price move. The stock is up 11.5% this week and down 7.4% over the month.",
-        "watch": "Next earnings expected Tue Nov 3. Results and guidance usually move the stock most.",
+        "what": "4 recent headlines mention Apple. Latest: Apple Intelligence is finally coming to China with iOS 27.3",
+        "why": "Signals: earnings, 4 headlines, volume up. The stock is down 0.9% this week and up 4.3% over the month.",
+        "watch": "Next earnings expected Mon Nov 2. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
     {
-      "ticker": "GOOGL",
-      "name": "Alphabet",
-      "price": 283.82,
-      "changePct": -12.5,
-      "monthChangePct": -17.5,
-      "catalyst": "Google owner Alphabet suffers its worst-ever day on stock market as value plunges $500bn",
-      "when": "In the news",
+      "ticker": "NET",
+      "name": "Cloudflare",
+      "price": 280.7,
+      "changePct": -13.8,
+      "monthChangePct": -20.0,
+      "catalyst": "Earnings report",
+      "when": "Thu",
       "signals": [
-        "10 headlines",
+        "Earnings",
         "Big price move",
         "Volume up"
       ],
       "spark": [
-        334.76,
-        324.22,
-        320.21,
-        316.8,
-        320.58,
-        324.89,
-        283.82
+        303.61,
+        325.73,
+        331.86,
+        327.8,
+        318.72,
+        310.3,
+        280.7
       ],
       "history": [
         {
-          "d": "2026-09-30",
-          "c": 344.08
-        },
-        {
           "d": "2026-10-01",
-          "c": 338.24
+          "c": 351.0
         },
         {
           "d": "2026-10-02",
-          "c": 343.5
+          "c": 349.07
         },
         {
           "d": "2026-10-05",
-          "c": 346.47
+          "c": 359.49
         },
         {
           "d": "2026-10-06",
-          "c": 347.68
+          "c": 355.01
         },
         {
           "d": "2026-10-07",
-          "c": 350.5
+          "c": 342.97
         },
         {
           "d": "2026-10-08",
-          "c": 348.29
+          "c": 341.89
         },
         {
           "d": "2026-10-09",
-          "c": 351.66
+          "c": 360.93
         },
         {
           "d": "2026-10-12",
-          "c": 352.72
+          "c": 350.87
         },
         {
           "d": "2026-10-13",
-          "c": 353.78
+          "c": 347.7
         },
         {
           "d": "2026-10-14",
-          "c": 347.64
+          "c": 324.33
         },
         {
           "d": "2026-10-15",
-          "c": 349.22
+          "c": 316.32
         },
         {
           "d": "2026-10-16",
-          "c": 340.59
+          "c": 296.3
         },
         {
           "d": "2026-10-19",
-          "c": 344.18
+          "c": 297.58
         },
         {
           "d": "2026-10-20",
-          "c": 340.28
+          "c": 291.69
         },
         {
           "d": "2026-10-21",
-          "c": 334.76
+          "c": 307.22
         },
         {
           "d": "2026-10-22",
-          "c": 324.22
+          "c": 303.61
         },
         {
           "d": "2026-10-23",
-          "c": 320.21
+          "c": 325.73
         },
         {
           "d": "2026-10-26",
-          "c": 316.8
+          "c": 331.86
         },
         {
           "d": "2026-10-27",
-          "c": 320.58
+          "c": 327.8
         },
         {
           "d": "2026-10-28",
-          "c": 324.89
+          "c": 318.72
         },
         {
           "d": "2026-10-29",
-          "c": 283.82
+          "c": 310.3
+        },
+        {
+          "d": "2026-10-30",
+          "c": 280.7
         }
       ],
-      "earnings": null,
-      "headlines": [
-        {
-          "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
-          "published": "2026-10-29T22:19:32+00:00"
-        },
-        {
-          "title": "Google fixes an annoying Photos bug that hid edited images from other apps",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2301675/google-fixes-an-annoying-photos-bug-that-hid-edited-images-from-other-apps/",
-          "published": "2026-10-29T20:26:24+00:00"
-        },
-        {
-          "title": "Google brings AI Mode advertisements to more countries",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2301660/google-brings-ai-mode-advertisements-to-more-countries/",
-          "published": "2026-10-29T20:18:24+00:00"
-        }
-      ],
-      "score": 60,
-      "brief": {
-        "what": "3 recent headlines mention Alphabet. Latest: Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
-        "why": "Signals: 10 headlines, big price move, volume up. The stock is down 12.5% this week and down 17.5% over the month.",
-        "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "ARM",
-      "name": "Arm Holdings",
-      "price": 228.77,
-      "changePct": 8.9,
-      "monthChangePct": -21.0,
-      "catalyst": "Earnings report",
-      "when": "Wed",
-      "signals": [
-        "Earnings",
-        "Big price move"
-      ],
-      "spark": [
-        226.59,
-        210.1,
-        210.33,
-        223.35,
-        226.6,
-        235.9,
-        228.77
-      ],
-      "history": [
-        {
-          "d": "2026-09-30",
-          "c": 289.66
-        },
-        {
-          "d": "2026-10-01",
-          "c": 292.34
-        },
-        {
-          "d": "2026-10-02",
-          "c": 307.49
-        },
-        {
-          "d": "2026-10-05",
-          "c": 302.9
-        },
-        {
-          "d": "2026-10-06",
-          "c": 302.56
-        },
-        {
-          "d": "2026-10-07",
-          "c": 294.37
-        },
-        {
-          "d": "2026-10-08",
-          "c": 275.29
-        },
-        {
-          "d": "2026-10-09",
-          "c": 266.28
-        },
-        {
-          "d": "2026-10-12",
-          "c": 255.24
-        },
-        {
-          "d": "2026-10-13",
-          "c": 255.39
-        },
-        {
-          "d": "2026-10-14",
-          "c": 238.01
-        },
-        {
-          "d": "2026-10-15",
-          "c": 244.79
-        },
-        {
-          "d": "2026-10-16",
-          "c": 227.8
-        },
-        {
-          "d": "2026-10-19",
-          "c": 228.05
-        },
-        {
-          "d": "2026-10-20",
-          "c": 221.06
-        },
-        {
-          "d": "2026-10-21",
-          "c": 226.59
-        },
-        {
-          "d": "2026-10-22",
-          "c": 210.1
-        },
-        {
-          "d": "2026-10-23",
-          "c": 210.33
-        },
-        {
-          "d": "2026-10-26",
-          "c": 223.35
-        },
-        {
-          "d": "2026-10-27",
-          "c": 226.6
-        },
-        {
-          "d": "2026-10-28",
-          "c": 235.9
-        },
-        {
-          "d": "2026-10-29",
-          "c": 228.77
-        }
-      ],
-      "earnings": "2026-11-04",
+      "earnings": "2026-11-05",
       "headlines": [],
-      "score": 57.8,
+      "score": 63.2,
       "brief": {
-        "what": "No major headlines about Arm Holdings in the last two weeks.",
-        "why": "Signals: earnings, big price move. The stock is up 8.9% this week and down 21.0% over the month.",
-        "watch": "Next earnings expected Wed Nov 4. Results and guidance usually move the stock most.",
+        "what": "No major headlines about Cloudflare in the last two weeks.",
+        "why": "Signals: earnings, big price move, volume up. The stock is down 13.8% this week and down 20.0% over the month.",
+        "watch": "Next earnings expected Thu Nov 5. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
     {
       "ticker": "QCOM",
       "name": "Qualcomm",
-      "price": 185.41,
-      "changePct": 7.3,
-      "monthChangePct": 0.7,
+      "price": 164.79,
+      "changePct": -6.3,
+      "monthChangePct": -9.5,
       "catalyst": "Earnings report",
       "when": "Wed",
       "signals": [
         "Earnings",
-        "Big price move"
+        "Big price move",
+        "Volume up"
       ],
       "spark": [
-        177.96,
         172.83,
         175.91,
         179.6,
         184.17,
         182.97,
-        185.41
+        185.41,
+        164.79
       ],
       "history": [
-        {
-          "d": "2026-09-30",
-          "c": 184.04
-        },
         {
           "d": "2026-10-01",
           "c": 182.09
@@ -874,135 +732,293 @@
         {
           "d": "2026-10-29",
           "c": 185.41
+        },
+        {
+          "d": "2026-10-30",
+          "c": 164.79
         }
       ],
       "earnings": "2026-11-04",
       "headlines": [],
-      "score": 54.6,
+      "score": 59.9,
       "brief": {
         "what": "No major headlines about Qualcomm in the last two weeks.",
-        "why": "Signals: earnings, big price move. The stock is up 7.3% this week and up 0.7% over the month.",
+        "why": "Signals: earnings, big price move, volume up. The stock is down 6.3% this week and down 9.5% over the month.",
         "watch": "Next earnings expected Wed Nov 4. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
     {
-      "ticker": "UBER",
-      "name": "Uber",
-      "price": 65.74,
-      "changePct": -4.8,
-      "monthChangePct": -4.0,
-      "catalyst": "Earnings report",
-      "when": "Wed",
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "price": 279.84,
+      "changePct": -12.6,
+      "monthChangePct": -17.3,
+      "catalyst": "Google’s satellite AI server transmits its first response to Earth",
+      "when": "In the news",
       "signals": [
-        "Earnings"
+        "10 headlines",
+        "Big price move",
+        "Volume up"
       ],
       "spark": [
-        67.62,
-        69.07,
-        66.7,
-        66.13,
-        65.78,
-        65.27,
-        65.74
+        324.22,
+        320.21,
+        316.8,
+        320.58,
+        324.89,
+        283.82,
+        279.84
       ],
       "history": [
         {
-          "d": "2026-09-30",
-          "c": 68.51
-        },
-        {
           "d": "2026-10-01",
-          "c": 67.88
+          "c": 338.24
         },
         {
           "d": "2026-10-02",
-          "c": 68.11
+          "c": 343.5
         },
         {
           "d": "2026-10-05",
-          "c": 69.48
+          "c": 346.47
         },
         {
           "d": "2026-10-06",
-          "c": 69.08
+          "c": 347.68
         },
         {
           "d": "2026-10-07",
-          "c": 68.45
+          "c": 350.5
         },
         {
           "d": "2026-10-08",
-          "c": 70.24
+          "c": 348.29
         },
         {
           "d": "2026-10-09",
-          "c": 71.51
+          "c": 351.66
         },
         {
           "d": "2026-10-12",
-          "c": 71.5
+          "c": 352.72
         },
         {
           "d": "2026-10-13",
-          "c": 71.32
+          "c": 353.78
         },
         {
           "d": "2026-10-14",
-          "c": 69.29
+          "c": 347.64
         },
         {
           "d": "2026-10-15",
-          "c": 71.27
+          "c": 349.22
         },
         {
           "d": "2026-10-16",
-          "c": 70.35
+          "c": 340.59
         },
         {
           "d": "2026-10-19",
-          "c": 69.96
+          "c": 344.18
         },
         {
           "d": "2026-10-20",
-          "c": 68.94
+          "c": 340.28
         },
         {
           "d": "2026-10-21",
-          "c": 67.62
+          "c": 334.76
         },
         {
           "d": "2026-10-22",
-          "c": 69.07
+          "c": 324.22
         },
         {
           "d": "2026-10-23",
-          "c": 66.7
+          "c": 320.21
         },
         {
           "d": "2026-10-26",
-          "c": 66.13
+          "c": 316.8
         },
         {
           "d": "2026-10-27",
-          "c": 65.78
+          "c": 320.58
         },
         {
           "d": "2026-10-28",
-          "c": 65.27
+          "c": 324.89
         },
         {
           "d": "2026-10-29",
-          "c": 65.74
+          "c": 283.82
+        },
+        {
+          "d": "2026-10-30",
+          "c": 279.84
         }
       ],
-      "earnings": "2026-11-04",
-      "headlines": [],
-      "score": 49.7,
+      "earnings": null,
+      "headlines": [
+        {
+          "title": "Google’s satellite AI server transmits its first response to Earth",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+          "published": "2026-10-30T18:21:38+00:00"
+        },
+        {
+          "title": "Google’s first data center satellite is online and writing poetry",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+          "published": "2026-10-30T17:00:00+00:00"
+        },
+        {
+          "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
+          "published": "2026-10-30T15:29:02+00:00"
+        },
+        {
+          "title": "Google fixes an annoying Photos bug that hid edited images from other apps",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2301675/google-fixes-an-annoying-photos-bug-that-hid-edited-images-from-other-apps/",
+          "published": "2026-10-29T20:26:24+00:00"
+        },
+        {
+          "title": "Google brings AI Mode advertisements to more countries",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2301660/google-brings-ai-mode-advertisements-to-more-countries/",
+          "published": "2026-10-29T20:18:24+00:00"
+        }
+      ],
+      "score": 55.6,
       "brief": {
-        "what": "No major headlines about Uber in the last two weeks.",
-        "why": "Signals: earnings. The stock is down 4.8% this week and down 4.0% over the month.",
-        "watch": "Next earnings expected Wed Nov 4. Results and guidance usually move the stock most.",
+        "what": "5 recent headlines mention Alphabet. Latest: Google’s satellite AI server transmits its first response to Earth",
+        "why": "Signals: 10 headlines, big price move, volume up. The stock is down 12.6% this week and down 17.3% over the month.",
+        "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "SHOP",
+      "name": "Shopify",
+      "price": 157.49,
+      "changePct": -6.6,
+      "monthChangePct": 5.6,
+      "catalyst": "Earnings report",
+      "when": "Tue",
+      "signals": [
+        "Earnings",
+        "Big price move"
+      ],
+      "spark": [
+        168.81,
+        168.68,
+        168.18,
+        165.81,
+        168.22,
+        166.89,
+        157.49
+      ],
+      "history": [
+        {
+          "d": "2026-10-01",
+          "c": 149.09
+        },
+        {
+          "d": "2026-10-02",
+          "c": 151.39
+        },
+        {
+          "d": "2026-10-05",
+          "c": 160.11
+        },
+        {
+          "d": "2026-10-06",
+          "c": 164.44
+        },
+        {
+          "d": "2026-10-07",
+          "c": 166.03
+        },
+        {
+          "d": "2026-10-08",
+          "c": 164.56
+        },
+        {
+          "d": "2026-10-09",
+          "c": 170.85
+        },
+        {
+          "d": "2026-10-12",
+          "c": 179.22
+        },
+        {
+          "d": "2026-10-13",
+          "c": 176.52
+        },
+        {
+          "d": "2026-10-14",
+          "c": 172.5
+        },
+        {
+          "d": "2026-10-15",
+          "c": 178.14
+        },
+        {
+          "d": "2026-10-16",
+          "c": 169.52
+        },
+        {
+          "d": "2026-10-19",
+          "c": 171.06
+        },
+        {
+          "d": "2026-10-20",
+          "c": 173.48
+        },
+        {
+          "d": "2026-10-21",
+          "c": 174.29
+        },
+        {
+          "d": "2026-10-22",
+          "c": 168.81
+        },
+        {
+          "d": "2026-10-23",
+          "c": 168.68
+        },
+        {
+          "d": "2026-10-26",
+          "c": 168.18
+        },
+        {
+          "d": "2026-10-27",
+          "c": 165.81
+        },
+        {
+          "d": "2026-10-28",
+          "c": 168.22
+        },
+        {
+          "d": "2026-10-29",
+          "c": 166.89
+        },
+        {
+          "d": "2026-10-30",
+          "c": 157.49
+        }
+      ],
+      "earnings": "2026-11-03",
+      "headlines": [],
+      "score": 55.0,
+      "brief": {
+        "what": "No major headlines about Shopify in the last two weeks.",
+        "why": "Signals: earnings, big price move. The stock is down 6.6% this week and up 5.6% over the month.",
+        "watch": "Next earnings expected Tue Nov 3. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
