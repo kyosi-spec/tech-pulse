@@ -1,12 +1,172 @@
 {
   "weekOf": "2026-10-26",
-  "updated": "2026-10-29T22:49:38+00:00",
+  "updated": "2026-10-30T11:49:37+00:00",
   "summary": [
-    "Tech leads the news with 14 of 25 stories. Top headline: Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
-    "Earnings this week from AMD, ARM, AMZN, INTC.",
+    "Tech leads the news with 11 of 25 stories. Top headline: Binance hackers stole $6.3 billion in record-breaking crypto heist",
+    "Earnings this week from AMD, ARM, QCOM, UBER.",
     "Strongest rumor: NVIDIA CEO Jensen Huang may have been the target of a Chinese government spy"
   ],
   "stories": [
+    {
+      "id": "66f19dcdda",
+      "topic": "Security",
+      "kind": "Founder",
+      "source": "The Verge",
+      "published": "2026-10-30T11:44:53+00:00",
+      "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
+      "summary": "Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what's believed to be the biggest cryptocurrency hack on record. In a series of updates posted to X, the crypto exchange said that user funds are safe, and that around $3 billion…",
+      "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+      "tickers": []
+    },
+    {
+      "id": "9c3f802671",
+      "topic": "Cloud",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-30T11:00:00+00:00",
+      "title": "Maine’s data center revolt will decide who controls the Senate",
+      "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+      "tickers": []
+    },
+    {
+      "id": "d8a89d19a0",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-30T10:23:52+00:00",
+      "title": "Waymo and Toyota will soon start testing their robotaxis in Japan",
+      "summary": "Waymo and Toyota will start testing autonomous bZ4X vehicles in Japan next year. (edited)",
+      "url": "https://www.engadget.com/2301972/waymo-toyota-soon-start-testing-bz4x-robotaxis-japan/",
+      "tickers": []
+    },
+    {
+      "id": "e48d92380f",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-30T10:08:13+00:00",
+      "title": "Senators are looking into 'serious privacy risks' with Meta's AI glasses",
+      "summary": "US senators have asked Meta to explain how it's mitigating 'serious' privacy risks with its AI glasses.",
+      "url": "https://www.engadget.com/2301968/senators-looking-into-serious-privacy-risks-with-meta-ai-glasses/",
+      "tickers": []
+    },
+    {
+      "id": "d805336269",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-30T09:00:00+00:00",
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling…",
+      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "tickers": []
+    },
+    {
+      "id": "73a0ce7f6c",
+      "topic": "Policy",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-30T07:44:26+00:00",
+      "title": "General Motors agrees to pay $220 million to settle multi-state data privacy lawsuit",
+      "summary": "GM has settled the Smart Driver program lawsuit brought by 35 attorneys general.",
+      "url": "https://www.engadget.com/2301934/general-motors-220-million-settle-multi-state-data-privacy-lawsuit/",
+      "tickers": []
+    },
+    {
+      "id": "d12f70806c",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-30T01:58:44+00:00",
+      "title": "Pico CSS is no longer maintained",
+      "summary": "Article URL: https://github.com/picocss/pico/discussions/754 Comments URL: https://news.ycombinator.com/item?id=50298964 Points: 154 # Comments: 72",
+      "url": "https://github.com/picocss/pico/discussions/754",
+      "tickers": []
+    },
+    {
+      "id": "04fffb7074",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-30T01:20:48+00:00",
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "tickers": []
+    },
+    {
+      "id": "f2312d11d5",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "Hacker News",
+      "published": "2026-10-30T00:42:41+00:00",
+      "title": "Herdr has released native app",
+      "summary": "Article URL: https://github.com/herdrdev/herdr-app Comments URL: https://news.ycombinator.com/item?id=50298436 Points: 236 # Comments: 155",
+      "url": "https://github.com/herdrdev/herdr-app",
+      "tickers": []
+    },
+    {
+      "id": "a83664b237",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-10-29T23:57:18+00:00",
+      "title": "The director of Obsession put a new horror short on YouTube",
+      "summary": "Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled \"Mama Bear,\" is nearly five minutes long. The video is pretty unnerving, and fair warning that it gets a little graphic, but it's a fun one to watch…",
+      "url": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
+      "tickers": []
+    },
+    {
+      "id": "e56d88f8ad",
+      "topic": "Tech",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-10-29T23:44:56+00:00",
+      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+      "summary": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says.",
+      "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+      "tickers": [
+        "AMZN"
+      ]
+    },
+    {
+      "id": "f47673c15d",
+      "topic": "Cloud",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-10-29T23:42:22+00:00",
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "tickers": [
+        "AMZN"
+      ]
+    },
+    {
+      "id": "a189736694",
+      "topic": "Chips",
+      "kind": "Founder",
+      "source": "The Verge",
+      "published": "2026-10-29T23:42:21+00:00",
+      "title": "Intel says it’s selling every affordable laptop chip it can make",
+      "summary": "During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips \"is outstripping supply.\" According to CFO David Zinsner, the chips are now sold out. Zinsner said Intel has \"seen significant growth in Wildcat Lake. It's coming…",
+      "url": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
+      "tickers": [
+        "INTC"
+      ]
+    },
+    {
+      "id": "63b4f5dac8",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-29T22:52:36+00:00",
+      "title": "Sony is working on a film adaptation of viral indie horror game Mouthwashing",
+      "summary": "The adaptation will be directed by Karyn Kusama, and scripted by the writers of The Invitation.",
+      "url": "https://www.engadget.com/2301826/sony-is-working-on-a-film-adaptation-of-viral-indie-horror-game-mouthwashing/",
+      "tickers": []
+    },
     {
       "id": "33277ca627",
       "topic": "Tech",
@@ -65,13 +225,24 @@
       "tickers": []
     },
     {
+      "id": "9d133fc32a",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-29T21:40:28+00:00",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 309 # Comments: 113",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "tickers": []
+    },
+    {
       "id": "0cfce0e2f9",
       "topic": "Tech",
       "kind": "Company",
       "source": "Hacker News",
       "published": "2026-10-29T21:38:59+00:00",
       "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-      "summary": "Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8 Comments URL: https://news.ycombinator.com/item?id=50296470 Points: 270 # Comments: 148",
+      "summary": "Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8 Comments URL: https://news.ycombinator.com/item?id=50296470 Points: 1454 # Comments: 948",
       "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
       "tickers": []
     },
@@ -120,183 +291,6 @@
       "summary": "The company is starting with tests outside of the US.",
       "url": "https://www.engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/",
       "tickers": []
-    },
-    {
-      "id": "36c562a921",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-29T20:26:24+00:00",
-      "title": "Google fixes an annoying Photos bug that hid edited images from other apps",
-      "summary": "Hey, that's not what Magic Eraser is supposed to do!",
-      "url": "https://www.engadget.com/2301675/google-fixes-an-annoying-photos-bug-that-hid-edited-images-from-other-apps/",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "8f2da9c5ba",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-29T20:18:24+00:00",
-      "title": "Google brings AI Mode advertisements to more countries",
-      "summary": "Adding sponsored content in more markets could make the feature profitable.",
-      "url": "https://www.engadget.com/2301660/google-brings-ai-mode-advertisements-to-more-countries/",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "1465a7304d",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-29T20:10:02+00:00",
-      "title": "Patrick Stewart has died at age 86",
-      "summary": "Patrick Stewart, best known for his roles in Star Trek and X-Men, has died at age 86. A message posted to Stewart's Instagram account says the actor died in his Los Angeles home on Wednesday \"following a brief and poignant journey with Alzheimer's Disease and Lewy Body…",
-      "url": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death",
-      "tickers": [
-        "META"
-      ]
-    },
-    {
-      "id": "426159ea8a",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-10-29T20:08:31+00:00",
-      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "tickers": []
-    },
-    {
-      "id": "26c2c9fb2c",
-      "topic": "Startups",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-29T20:05:47+00:00",
-      "title": "Rivian expands joint venture with VW to include AI assistant",
-      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-      "tickers": []
-    },
-    {
-      "id": "a3812410b0",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-29T20:02:03+00:00",
-      "title": "The R2 SUV is already Rivian’s best-selling vehicle",
-      "summary": "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year.",
-      "url": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/",
-      "tickers": []
-    },
-    {
-      "id": "977e0ca740",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-29T19:56:19+00:00",
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "tickers": []
-    },
-    {
-      "id": "0969fa78db",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Wired",
-      "published": "2026-10-29T19:51:56+00:00",
-      "title": "Polymarket Halted International Trading After Hackers Drained Accounts",
-      "summary": "The company says an unnamed third-party provider was compromised. Trading has resumed, and Polymarket says affected traders will be made whole.",
-      "url": "https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/",
-      "tickers": []
-    },
-    {
-      "id": "a3803f0921",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-29T19:40:27+00:00",
-      "title": "Popcorn bucket innovation is at an all-time low and the Dune: Part Three 'Double Sandworm' is proof",
-      "summary": "Just what the Sandworm bucket needed: a second hole.",
-      "url": "https://www.engadget.com/2301587/popcorn-bucket-innovation-is-at-an-all-time-low-and-the-dune-part-three-double-sandworm-is-proof/",
-      "tickers": []
-    },
-    {
-      "id": "bf4a7f127f",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-29T19:19:28+00:00",
-      "title": "GM to pay $220 million to resolve claims it sold driving habits data",
-      "summary": "General Motors has agreed to pay $220 million to settle claims that it illegally sold driver and location information to data brokers, as reported earlier by Reuters. The agreement, which resolves a complaint from a coalition of 36 US attorneys general, requires GM to limit the…",
-      "url": "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit",
-      "tickers": []
-    },
-    {
-      "id": "8be9b46b83",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-29T19:17:49+00:00",
-      "title": "Where was my invite to the — wait, what? Airbnb had a gala?",
-      "summary": "Airbnb’s nonprofit held its inaugural gala on Wednesday in Los Angeles, and the internet had one reaction — the *what* gala?",
-      "url": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/",
-      "tickers": []
-    },
-    {
-      "id": "8bda83d26e",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-10-29T19:14:36+00:00",
-      "title": "Meta quietly launches an AI fashion app called Style Sketch",
-      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
-      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-      "tickers": [
-        "META"
-      ]
-    },
-    {
-      "id": "8dfbc79fb5",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-29T19:03:18+00:00",
-      "title": "Hacker may have stolen millions in a malware attack against online poker players",
-      "summary": "Wired has the story of a superuser cheating scandal.",
-      "url": "https://www.engadget.com/2301500/hacker-may-have-stolen-millions-in-a-malware-attack-against-online-poker-players/",
-      "tickers": []
-    },
-    {
-      "id": "14b8d3f07e",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-29T18:45:31+00:00",
-      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
-      "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "071b3f8146",
-      "topic": "Tech",
-      "kind": "Founder",
-      "source": "Engadget",
-      "published": "2026-10-29T18:45:00+00:00",
-      "title": "Netflix is making a live-action PUBG show written and directed by Donald Glover",
-      "summary": "The streamer also has an Assassin's Creed series in the works, along with a Gears of War feature film.",
-      "url": "https://www.engadget.com/2301458/netflix-is-making-a-live-action-pubg-show-written-and-directed-by-donald-glover/",
-      "tickers": [
-        "NFLX"
-      ]
     }
   ],
   "rumors": [
@@ -308,26 +302,12 @@
       "detail": "President Trump reportedly chose to do nothing in response.",
       "url": "https://www.engadget.com/2301447/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-chinese-government-spy/",
       "sources": 1,
-      "mentions": 5,
+      "mentions": 2,
       "credible": 1,
       "days": 0,
       "tickers": [
         "NVDA"
       ],
-      "score": 22
-    },
-    {
-      "id": "eaf50adc86",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Fan-fiction site Archive of Our Own could be offline for up to 4 weeks",
-      "detail": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.",
-      "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
-      "sources": 1,
-      "mentions": 2,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
       "score": 18
     },
     {
@@ -340,35 +320,7 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 8,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "18f8e37d93",
-      "topic": "Security",
-      "status": "Just surfaced",
-      "title": "Hackers leaked details of more than 41,000 Homeland Security personnel",
-      "detail": "A hacktivist group stole the information of ICE agents and border police from Homeland Security.",
-      "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "99c22d1d0d",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns",
-      "detail": "The social networking site is facing criticism for blocking access to the site, which identifies thousands of ICE agents and other employees working for Homeland Security.",
-      "url": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
+      "days": 9,
       "tickers": [],
       "score": 15
     },
@@ -379,6 +331,20 @@
       "title": "OpenAI-backed Thrive Holdings acquires ADT",
       "detail": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
       "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 15
+    },
+    {
+      "id": "a64fa4f68a",
+      "topic": "Security",
+      "status": "Just surfaced",
+      "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
+      "detail": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.",
+      "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
       "sources": 1,
       "mentions": 1,
       "credible": 1,
@@ -401,12 +367,12 @@
       "score": 15
     },
     {
-      "id": "3c39fd7ba4",
-      "topic": "AI",
+      "id": "11925bd15a",
+      "topic": "Security",
       "status": "Just surfaced",
-      "title": "Details of thousands of US immigration agents leaked in major hack",
-      "detail": "submitted by /u/RaspberryMotorZZZ [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1xie8dv/details_of_thousands_of_us_immigration_agents/",
+      "title": "Hackers leak details of 41,000 Homeland Security employees, exposing undercover operations and surveillance tools",
+      "detail": "submitted by /u/ArgentineBeauty [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1xilmdr/hackers_leak_details_of_41000_homeland_security/",
       "sources": 1,
       "mentions": 1,
       "credible": 0,
@@ -543,10 +509,10 @@
       "price": 283.82,
       "changePct": -12.5,
       "monthChangePct": -17.5,
-      "catalyst": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+      "catalyst": "Google owner Alphabet suffers its worst-ever day on stock market as value plunges $500bn",
       "when": "In the news",
       "signals": [
-        "12 headlines",
+        "10 headlines",
         "Big price move",
         "Volume up"
       ],
@@ -668,30 +634,12 @@
           "source": "Engadget",
           "url": "https://www.engadget.com/2301660/google-brings-ai-mode-advertisements-to-more-countries/",
           "published": "2026-10-29T20:18:24+00:00"
-        },
-        {
-          "title": "You can generate and edit Google Docs files directly in Gemini chats now",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-          "published": "2026-10-29T18:45:31+00:00"
-        },
-        {
-          "title": "Apple and Google fined in South Korea over app store violations",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
-          "published": "2026-10-29T10:42:26+00:00"
-        },
-        {
-          "title": "Google's Gemini 4 Carbon promises 'significant leap' in AI coding and cybersecurity",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2300677/google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/",
-          "published": "2026-10-29T09:41:58+00:00"
         }
       ],
       "score": 60,
       "brief": {
-        "what": "6 recent headlines mention Alphabet. Latest: Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
-        "why": "Signals: 12 headlines, big price move, volume up. The stock is down 12.5% this week and down 17.5% over the month.",
+        "what": "3 recent headlines mention Alphabet. Latest: Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+        "why": "Signals: 10 headlines, big price move, volume up. The stock is down 12.5% this week and down 17.5% over the month.",
         "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
@@ -818,251 +766,243 @@
       }
     },
     {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "price": 243.79,
-      "changePct": -2.6,
-      "monthChangePct": -2.2,
+      "ticker": "QCOM",
+      "name": "Qualcomm",
+      "price": 185.41,
+      "changePct": 7.3,
+      "monthChangePct": 0.7,
       "catalyst": "Earnings report",
-      "when": "Thu",
-      "signals": [
-        "Earnings",
-        "Volume up"
-      ],
-      "spark": [
-        262.37,
-        250.38,
-        248.0,
-        249.09,
-        253.1,
-        254.6,
-        243.79
-      ],
-      "history": [
-        {
-          "d": "2026-09-30",
-          "c": 249.15
-        },
-        {
-          "d": "2026-10-01",
-          "c": 248.23
-        },
-        {
-          "d": "2026-10-02",
-          "c": 251.52
-        },
-        {
-          "d": "2026-10-05",
-          "c": 251.4
-        },
-        {
-          "d": "2026-10-06",
-          "c": 256.29
-        },
-        {
-          "d": "2026-10-07",
-          "c": 259.92
-        },
-        {
-          "d": "2026-10-08",
-          "c": 254.06
-        },
-        {
-          "d": "2026-10-09",
-          "c": 262.43
-        },
-        {
-          "d": "2026-10-12",
-          "c": 259.53
-        },
-        {
-          "d": "2026-10-13",
-          "c": 258.58
-        },
-        {
-          "d": "2026-10-14",
-          "c": 254.08
-        },
-        {
-          "d": "2026-10-15",
-          "c": 254.76
-        },
-        {
-          "d": "2026-10-16",
-          "c": 250.0
-        },
-        {
-          "d": "2026-10-19",
-          "c": 262.45
-        },
-        {
-          "d": "2026-10-20",
-          "c": 262.63
-        },
-        {
-          "d": "2026-10-21",
-          "c": 262.37
-        },
-        {
-          "d": "2026-10-22",
-          "c": 250.38
-        },
-        {
-          "d": "2026-10-23",
-          "c": 248.0
-        },
-        {
-          "d": "2026-10-26",
-          "c": 249.09
-        },
-        {
-          "d": "2026-10-27",
-          "c": 253.1
-        },
-        {
-          "d": "2026-10-28",
-          "c": 254.6
-        },
-        {
-          "d": "2026-10-29",
-          "c": 243.79
-        }
-      ],
-      "earnings": "2026-10-29",
-      "headlines": [
-        {
-          "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
-          "published": "2026-10-29T21:20:47+00:00"
-        }
-      ],
-      "score": 56.5,
-      "brief": {
-        "what": "1 recent headline mentions Amazon. Latest: Amazon reported booming cloud revenue but otherwise missed expectations",
-        "why": "Signals: earnings, volume up. The stock is down 2.6% this week and down 2.2% over the month.",
-        "watch": "Next earnings expected Thu Oct 29. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "INTC",
-      "name": "Intel",
-      "price": 92.07,
-      "changePct": 7.7,
-      "monthChangePct": -23.4,
-      "catalyst": "Earnings report",
-      "when": "Thu",
+      "when": "Wed",
       "signals": [
         "Earnings",
         "Big price move"
       ],
       "spark": [
-        92.96,
-        85.49,
-        86.96,
-        90.47,
-        93.74,
-        95.53,
-        92.07
+        177.96,
+        172.83,
+        175.91,
+        179.6,
+        184.17,
+        182.97,
+        185.41
       ],
       "history": [
         {
           "d": "2026-09-30",
-          "c": 120.23
+          "c": 184.04
         },
         {
           "d": "2026-10-01",
-          "c": 120.0
+          "c": 182.09
         },
         {
           "d": "2026-10-02",
-          "c": 119.33
+          "c": 184.87
         },
         {
           "d": "2026-10-05",
-          "c": 116.19
+          "c": 180.79
         },
         {
           "d": "2026-10-06",
-          "c": 112.5
+          "c": 181.03
         },
         {
           "d": "2026-10-07",
-          "c": 113.12
+          "c": 177.12
         },
         {
           "d": "2026-10-08",
-          "c": 107.08
+          "c": 176.01
         },
         {
           "d": "2026-10-09",
-          "c": 104.7
+          "c": 175.5
         },
         {
           "d": "2026-10-12",
-          "c": 101.35
+          "c": 174.43
         },
         {
           "d": "2026-10-13",
-          "c": 102.81
+          "c": 176.86
         },
         {
           "d": "2026-10-14",
-          "c": 98.12
+          "c": 172.62
         },
         {
           "d": "2026-10-15",
-          "c": 95.37
+          "c": 178.4
         },
         {
           "d": "2026-10-16",
-          "c": 89.85
+          "c": 172.11
         },
         {
           "d": "2026-10-19",
-          "c": 92.03
+          "c": 173.53
         },
         {
           "d": "2026-10-20",
-          "c": 91.69
+          "c": 175.71
         },
         {
           "d": "2026-10-21",
-          "c": 92.96
+          "c": 177.96
         },
         {
           "d": "2026-10-22",
-          "c": 85.49
+          "c": 172.83
         },
         {
           "d": "2026-10-23",
-          "c": 86.96
+          "c": 175.91
         },
         {
           "d": "2026-10-26",
-          "c": 90.47
+          "c": 179.6
         },
         {
           "d": "2026-10-27",
-          "c": 93.74
+          "c": 184.17
         },
         {
           "d": "2026-10-28",
-          "c": 95.53
+          "c": 182.97
         },
         {
           "d": "2026-10-29",
-          "c": 92.07
+          "c": 185.41
         }
       ],
-      "earnings": "2026-10-29",
+      "earnings": "2026-11-04",
       "headlines": [],
-      "score": 56.2,
+      "score": 54.6,
       "brief": {
-        "what": "No major headlines about Intel in the last two weeks.",
-        "why": "Signals: earnings, big price move. The stock is up 7.7% this week and down 23.4% over the month.",
-        "watch": "Next earnings expected Thu Oct 29. Results and guidance usually move the stock most.",
+        "what": "No major headlines about Qualcomm in the last two weeks.",
+        "why": "Signals: earnings, big price move. The stock is up 7.3% this week and up 0.7% over the month.",
+        "watch": "Next earnings expected Wed Nov 4. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "UBER",
+      "name": "Uber",
+      "price": 65.74,
+      "changePct": -4.8,
+      "monthChangePct": -4.0,
+      "catalyst": "Earnings report",
+      "when": "Wed",
+      "signals": [
+        "Earnings"
+      ],
+      "spark": [
+        67.62,
+        69.07,
+        66.7,
+        66.13,
+        65.78,
+        65.27,
+        65.74
+      ],
+      "history": [
+        {
+          "d": "2026-09-30",
+          "c": 68.51
+        },
+        {
+          "d": "2026-10-01",
+          "c": 67.88
+        },
+        {
+          "d": "2026-10-02",
+          "c": 68.11
+        },
+        {
+          "d": "2026-10-05",
+          "c": 69.48
+        },
+        {
+          "d": "2026-10-06",
+          "c": 69.08
+        },
+        {
+          "d": "2026-10-07",
+          "c": 68.45
+        },
+        {
+          "d": "2026-10-08",
+          "c": 70.24
+        },
+        {
+          "d": "2026-10-09",
+          "c": 71.51
+        },
+        {
+          "d": "2026-10-12",
+          "c": 71.5
+        },
+        {
+          "d": "2026-10-13",
+          "c": 71.32
+        },
+        {
+          "d": "2026-10-14",
+          "c": 69.29
+        },
+        {
+          "d": "2026-10-15",
+          "c": 71.27
+        },
+        {
+          "d": "2026-10-16",
+          "c": 70.35
+        },
+        {
+          "d": "2026-10-19",
+          "c": 69.96
+        },
+        {
+          "d": "2026-10-20",
+          "c": 68.94
+        },
+        {
+          "d": "2026-10-21",
+          "c": 67.62
+        },
+        {
+          "d": "2026-10-22",
+          "c": 69.07
+        },
+        {
+          "d": "2026-10-23",
+          "c": 66.7
+        },
+        {
+          "d": "2026-10-26",
+          "c": 66.13
+        },
+        {
+          "d": "2026-10-27",
+          "c": 65.78
+        },
+        {
+          "d": "2026-10-28",
+          "c": 65.27
+        },
+        {
+          "d": "2026-10-29",
+          "c": 65.74
+        }
+      ],
+      "earnings": "2026-11-04",
+      "headlines": [],
+      "score": 49.7,
+      "brief": {
+        "what": "No major headlines about Uber in the last two weeks.",
+        "why": "Signals: earnings. The stock is down 4.8% this week and down 4.0% over the month.",
+        "watch": "Next earnings expected Wed Nov 4. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
