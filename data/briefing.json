@@ -1,12 +1,107 @@
 {
   "weekOf": "2026-10-26",
-  "updated": "2026-10-30T22:45:45+00:00",
+  "updated": "2026-10-31T11:43:17+00:00",
   "summary": [
-    "AI leads the news with 12 of 25 stories. Top headline: Apple Intelligence is finally coming to China with iOS 27.3",
+    "AI leads the news with 12 of 25 stories. Top headline: Google joins OpenAI and Anthropic in promising new scraping controls",
     "Earnings this week from AAPL, NET, QCOM, SHOP.",
     "Strongest rumor: Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says"
   ],
   "stories": [
+    {
+      "id": "06431fa602",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-31T10:34:31+00:00",
+      "title": "Google joins OpenAI and Anthropic in promising new scraping controls",
+      "summary": "Google, OpenAI, Anthropic and Microsoft pledge to support a new common signal for robots.txt that blocks scraping for AI training.",
+      "url": "https://www.engadget.com/2303225/google-openai-anthropic-ai-crawling-controls/",
+      "tickers": [
+        "MSFT",
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "680dadbf4a",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Wired",
+      "published": "2026-10-31T10:30:00+00:00",
+      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+      "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+      "tickers": []
+    },
+    {
+      "id": "a195d97c0b",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-31T04:16:50+00:00",
+      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "summary": "The money behind the money is thrilled, mostly.",
+      "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+      "tickers": []
+    },
+    {
+      "id": "e15af23fb3",
+      "topic": "Security",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-31T02:46:36+00:00",
+      "title": "Tell HN: Scribd Breached",
+      "summary": "Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026: Subject: Notice of Security Incident This notice is being sent on behalf of Scribd, Inc., the parent company of Scribd, Slideshare, Everand, and Fable, by Epiq, Scribd Inc.’s notification…",
+      "url": "https://news.ycombinator.com/item?id=50312756",
+      "tickers": []
+    },
+    {
+      "id": "141129c869",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-10-31T01:20:05+00:00",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "5a482c8bb6",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-30T23:51:24+00:00",
+      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "summary": "Article URL: https://tng.episodle.com/ Comments URL: https://news.ycombinator.com/item?id=50311686 Points: 197 # Comments: 55",
+      "url": "https://tng.episodle.com/",
+      "tickers": []
+    },
+    {
+      "id": "453b72682e",
+      "topic": "Startups",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-10-30T23:21:23+00:00",
+      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
+      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+      "tickers": [
+        "CRM"
+      ]
+    },
+    {
+      "id": "08927fc85c",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-10-30T22:56:13+00:00",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "tickers": []
+    },
     {
       "id": "5075fb51f9",
       "topic": "Tech",
@@ -160,14 +255,25 @@
       "tickers": []
     },
     {
-      "id": "6a9ce179a9",
-      "topic": "Security",
+      "id": "88c928e4eb",
+      "topic": "Tech",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-10-30T19:05:22+00:00",
-      "title": "Bunny CDN Security Incident",
-      "summary": "Article URL: https://status.bunny.net/incidents/p6gf1by9kr7m Comments URL: https://news.ycombinator.com/item?id=50308697 Points: 155 # Comments: 34",
-      "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
+      "published": "2026-10-30T19:51:33+00:00",
+      "title": "The oldest ice disappears and the Stone Age emerges from it",
+      "summary": "Article URL: https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921 Comments URL: https://news.ycombinator.com/item?id=50309266 Points: 156 # Comments: 60",
+      "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+      "tickers": []
+    },
+    {
+      "id": "3738fdc1a0",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-30T19:30:09+00:00",
+      "title": "Infinite Mac: BeOS",
+      "summary": "Article URL: https://blog.persistent.info/2026/10/infinite-mac-beos.html Comments URL: https://news.ycombinator.com/item?id=50309029 Points: 164 # Comments: 81",
+      "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
       "tickers": []
     },
     {
@@ -193,109 +299,6 @@
       "tickers": [
         "GOOGL"
       ]
-    },
-    {
-      "id": "98426c921e",
-      "topic": "Cloud",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-30T18:01:24+00:00",
-      "title": "Satlyt takes another step toward turning satellites into space data centers",
-      "summary": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites, into virtual data centers.",
-      "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
-      "tickers": []
-    },
-    {
-      "id": "4110c3ae85",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-30T17:47:12+00:00",
-      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "tickers": []
-    },
-    {
-      "id": "3a6d75de17",
-      "topic": "AI",
-      "kind": "Founder",
-      "source": "The Verge",
-      "published": "2026-10-30T17:38:04+00:00",
-      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-      "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-      "tickers": []
-    },
-    {
-      "id": "d3636a1cf0",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-30T17:27:25+00:00",
-      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-      "summary": "Article URL: https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f Comments URL: https://news.ycombinator.com/item?id=50307219 Points: 260 # Comments: 195",
-      "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-      "tickers": []
-    },
-    {
-      "id": "4229b6a26d",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-30T17:25:20+00:00",
-      "title": "The delightfully messy state of Apple gadgets",
-      "summary": "The iPhone has more screens! The MacBook has a touchscreen! The HomeView does CarPlay apps! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results aren't always perfect, it's fun to watch the most successful…",
-      "url": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "cbf4bb0b9e",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-30T17:25:15+00:00",
-      "title": "My favourite PowerMac is a Nintendo Wii",
-      "summary": "Article URL: https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/ Comments URL: https://news.ycombinator.com/item?id=50307190 Points: 192 # Comments: 50",
-      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-      "tickers": []
-    },
-    {
-      "id": "fb6059d7dc",
-      "topic": "Tech",
-      "kind": "Founder",
-      "source": "The Verge",
-      "published": "2026-10-30T17:16:09+00:00",
-      "title": "Rivian’s autonomy gamble faces its first real test",
-      "summary": "During an hourlong earnings call last night, Rivian CEO RJ Scaringe spent less time talking about the production ramp of the all-important R2 SUV than he did hyping the company's still-unproven autonomous vehicle ambitions. But the company faces a crucial test later this year…",
-      "url": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
-      "tickers": []
-    },
-    {
-      "id": "289bfedca8",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-30T17:01:07+00:00",
-      "title": "Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts",
-      "summary": "Modern smart TVs let you skip the streaming device, which is convenient, but they also come with their own issues, including privacy concerns and frequent updates. The Vizio Mini LED Quantum TV lets you cut out the rigamarole and just get straight to the HDMI ports. And right…",
-      "url": "https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale",
-      "tickers": []
-    },
-    {
-      "id": "ca5ba522b3",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-30T17:00:00+00:00",
-      "title": "Google’s first data center satellite is online and writing poetry",
-      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "tickers": [
-        "GOOGL"
-      ]
     }
   ],
   "rumors": [
@@ -312,20 +315,6 @@
       "days": 0,
       "tickers": [],
       "score": 20
-    },
-    {
-      "id": "b87b2ee891",
-      "topic": "Tech",
-      "status": "Unconfirmed",
-      "title": "PHP warns it plans to release 2 emergency patches imminently",
-      "detail": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
-      "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 9,
-      "tickers": [],
-      "score": 15
     },
     {
       "id": "6222b3bc43",
@@ -367,7 +356,7 @@
       "when": "Mon",
       "signals": [
         "Earnings",
-        "4 headlines",
+        "5 headlines",
         "Volume up"
       ],
       "spark": [
@@ -496,10 +485,10 @@
           "published": "2026-10-30T15:00:00+00:00"
         }
       ],
-      "score": 65.6,
+      "score": 70.5,
       "brief": {
         "what": "4 recent headlines mention Apple. Latest: Apple Intelligence is finally coming to China with iOS 27.3",
-        "why": "Signals: earnings, 4 headlines, volume up. The stock is down 0.9% this week and up 4.3% over the month.",
+        "why": "Signals: earnings, 5 headlines, volume up. The stock is down 0.9% this week and up 4.3% over the month.",
         "watch": "Next earnings expected Mon Nov 2. Results and guidance usually move the stock most.",
         "ai": false
       }
@@ -617,10 +606,17 @@
         }
       ],
       "earnings": "2026-11-05",
-      "headlines": [],
-      "score": 63.2,
+      "headlines": [
+        {
+          "title": "Cloudflare Turnstile solver library (no headless browser required)",
+          "source": "Hacker News",
+          "url": "https://github.com/chris124567/cfsolve",
+          "published": "2026-10-28T17:29:23+00:00"
+        }
+      ],
+      "score": 68.3,
       "brief": {
-        "what": "No major headlines about Cloudflare in the last two weeks.",
+        "what": "1 recent headline mentions Cloudflare. Latest: Cloudflare Turnstile solver library (no headless browser required)",
         "why": "Signals: earnings, big price move, volume up. The stock is down 13.8% this week and down 20.0% over the month.",
         "watch": "Next earnings expected Thu Nov 5. Results and guidance usually move the stock most.",
         "ai": false
@@ -754,10 +750,10 @@
       "price": 279.84,
       "changePct": -12.6,
       "monthChangePct": -17.3,
-      "catalyst": "Google’s satellite AI server transmits its first response to Earth",
+      "catalyst": "Google joins OpenAI and Anthropic in promising new scraping controls",
       "when": "In the news",
       "signals": [
-        "10 headlines",
+        "6 headlines",
         "Big price move",
         "Volume up"
       ],
@@ -863,6 +859,12 @@
       "earnings": null,
       "headlines": [
         {
+          "title": "Google joins OpenAI and Anthropic in promising new scraping controls",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2303225/google-openai-anthropic-ai-crawling-controls/",
+          "published": "2026-10-31T10:34:31+00:00"
+        },
+        {
           "title": "Google’s satellite AI server transmits its first response to Earth",
           "source": "The Verge",
           "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
@@ -885,18 +887,12 @@
           "source": "Engadget",
           "url": "https://www.engadget.com/2301675/google-fixes-an-annoying-photos-bug-that-hid-edited-images-from-other-apps/",
           "published": "2026-10-29T20:26:24+00:00"
-        },
-        {
-          "title": "Google brings AI Mode advertisements to more countries",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2301660/google-brings-ai-mode-advertisements-to-more-countries/",
-          "published": "2026-10-29T20:18:24+00:00"
         }
       ],
       "score": 55.6,
       "brief": {
-        "what": "5 recent headlines mention Alphabet. Latest: Google’s satellite AI server transmits its first response to Earth",
-        "why": "Signals: 10 headlines, big price move, volume up. The stock is down 12.6% this week and down 17.3% over the month.",
+        "what": "5 recent headlines mention Alphabet. Latest: Google joins OpenAI and Anthropic in promising new scraping controls",
+        "why": "Signals: 6 headlines, big price move, volume up. The stock is down 12.6% this week and down 17.3% over the month.",
         "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
@@ -1014,7 +1010,7 @@
       ],
       "earnings": "2026-11-03",
       "headlines": [],
-      "score": 55.0,
+      "score": 55.1,
       "brief": {
         "what": "No major headlines about Shopify in the last two weeks.",
         "why": "Signals: earnings, big price move. The stock is down 6.6% this week and up 5.6% over the month.",
