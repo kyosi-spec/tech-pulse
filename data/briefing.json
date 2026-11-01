@@ -1,12 +1,117 @@
 {
   "weekOf": "2026-10-26",
-  "updated": "2026-10-31T22:42:09+00:00",
+  "updated": "2026-11-01T11:42:59+00:00",
   "summary": [
-    "Tech leads the news with 15 of 25 stories. Top headline: The reason most electrical plug prongs have holes in them",
+    "Tech leads the news with 16 of 25 stories. Top headline: Data centers are now a midterm issue, even in Brooklyn",
     "Earnings this week from AAPL, NET, QCOM, SHOP, PLTR.",
     "Strongest rumor: Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says"
   ],
   "stories": [
+    {
+      "id": "7b47a3f50f",
+      "topic": "Cloud",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-01T02:22:10+00:00",
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "tickers": []
+    },
+    {
+      "id": "decf19fd0a",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-01T00:30:00+00:00",
+      "title": "5 expensive hobbies where owning a 3D printer actually saves you money",
+      "summary": "While a personal 3D printer is certainly an investment, if you regularly engage with an expensive hobby, it might actually save you some cash.",
+      "url": "https://www.engadget.com/2300213/3d-printer-expensive-hobbies-where-it-saves-money/",
+      "tickers": []
+    },
+    {
+      "id": "0ecadfd0ec",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-01T00:00:00+00:00",
+      "title": "Amazon made the AUX input on older Alexa devices less useful",
+      "summary": "Amazon has made a quiet change to older Echo speakers that will leave owners rethinking how they use their devices and manage their home audio setups.",
+      "url": "https://www.engadget.com/2300219/amazon-made-alexa-devices-aux-port-less-useful/",
+      "tickers": [
+        "AMZN"
+      ]
+    },
+    {
+      "id": "0c56b405a0",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-31T23:45:00+00:00",
+      "title": "How big and powerful is SpaceX's Starship rocket?",
+      "summary": "SpaceX's Starship has a big role to play in NASA's plans to land astronauts on the Moon. Here's how big this rocket is and how its two stages work together.",
+      "url": "https://www.engadget.com/2300227/how-big-powerful-spacex-starship-rocket/",
+      "tickers": []
+    },
+    {
+      "id": "264eef1be1",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-31T23:30:00+00:00",
+      "title": "Why your Apple AirPods' battery drains so fast and how to make it last longer",
+      "summary": "It's annoying when your Apple AirPods run out of juice, but the culprit might not be what you think. Here's what's going on and what you can do about it.",
+      "url": "https://www.engadget.com/2300231/why-airpods-battery-drains-fast-how-to-fix/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "42b28421c1",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-31T23:00:00+00:00",
+      "title": "The Slate vs Ford Fathom debate might be settled by this one key tech feature",
+      "summary": "Slate and Ford are both building affordable electric pickups, and that means compromises. But the two automakers are taking very different paths to get there.",
+      "url": "https://www.engadget.com/2300238/slate-vs-ford-fathom-android-auto-carplay-support/",
+      "tickers": []
+    },
+    {
+      "id": "f97351f030",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-31T22:46:12+00:00",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "summary": "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve Comments URL: https://news.ycombinator.com/item?id=50320995 Points: 257 # Comments: 119",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "tickers": []
+    },
+    {
+      "id": "665d9ef51b",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-10-31T22:45:00+00:00",
+      "title": "4 important features you should know if you use Microsoft Teams",
+      "summary": "A wealth of not-so-well-known features on Microsoft Teams make the experience easier and more stress-free than you may have previously thought.",
+      "url": "https://www.engadget.com/2300242/important-features-should-know-microsoft-teams/",
+      "tickers": [
+        "MSFT"
+      ]
+    },
+    {
+      "id": "bafc51fa00",
+      "topic": "Tech",
+      "kind": "Founder",
+      "source": "Hacker News",
+      "published": "2026-10-31T22:41:06+00:00",
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ Comments URL: https://news.ycombinator.com/item?id=50320963 Points: 481 # Comments: 144",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "tickers": []
+    },
     {
       "id": "b7085422c1",
       "topic": "Tech",
@@ -30,6 +135,17 @@
       "tickers": [
         "NFLX"
       ]
+    },
+    {
+      "id": "0302eaf093",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-31T21:49:07+00:00",
+      "title": "ChatGPT and Codex usage limits merging",
+      "summary": "Article URL: https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits Comments URL: https://news.ycombinator.com/item?id=50320588 Points: 153 # Comments: 92",
+      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "tickers": []
     },
     {
       "id": "a504a4c34e",
@@ -108,8 +224,19 @@
       "source": "Hacker News",
       "published": "2026-10-31T19:56:53+00:00",
       "title": "HackerTube: YouTube built from videos recommended by HN",
-      "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 360 # Comments: 144",
+      "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 1424 # Comments: 385",
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "tickers": []
+    },
+    {
+      "id": "b4ca48befc",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-10-31T19:39:19+00:00",
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "summary": "Article URL: https://twitter.com/jiahaoshao1/status/2116475922190922088 Comments URL: https://news.ycombinator.com/item?id=50319358 Points: 376 # Comments: 217",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
       "tickers": []
     },
     {
@@ -130,7 +257,7 @@
       "source": "Hacker News",
       "published": "2026-10-31T19:16:30+00:00",
       "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "summary": "Article URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf Comments URL: https://news.ycombinator.com/item?id=50319143 Points: 210 # Comments: 97",
+      "summary": "Article URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf Comments URL: https://news.ycombinator.com/item?id=50319143 Points: 526 # Comments: 243",
       "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
       "tickers": []
     },
@@ -166,131 +293,6 @@
       "summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds…",
       "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
       "tickers": []
-    },
-    {
-      "id": "97258f5322",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "Engadget",
-      "published": "2026-10-31T18:30:00+00:00",
-      "title": "How to use Claude Duet when it rolls out to you",
-      "summary": "For now, you'll need to first join a waitlist.",
-      "url": "https://www.engadget.com/2300253/how-to-use-claude-duet/",
-      "tickers": []
-    },
-    {
-      "id": "b606657fbf",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-31T18:00:00+00:00",
-      "title": "4 drawbacks you should know before buying a PlayStation 5",
-      "summary": "The PS5 isn't as good of a buy today as it was early in its life, so you should be aware of the drawbacks in this awkward console generation.",
-      "url": "https://www.engadget.com/2300257/drawbacks-you-should-know-before-buying-playstation-5/",
-      "tickers": []
-    },
-    {
-      "id": "e5a5906696",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-10-31T17:50:12+00:00",
-      "title": "Happy Pikmin Day Eve",
-      "summary": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom, and announced the…",
-      "url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
-      "tickers": []
-    },
-    {
-      "id": "41295b9dcb",
-      "topic": "Chips",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-31T17:30:00+00:00",
-      "title": "Bolt Graphics powers on its first Zeus GPU",
-      "summary": "Bolt Graphics has been working on its simulation-centric Zeus GPU for a while now and has reached a significant milestone: a successful test run.",
-      "url": "https://www.engadget.com/2301962/bolt-graphics-powers-on-first-zeus-gpu/",
-      "tickers": []
-    },
-    {
-      "id": "7060868a66",
-      "topic": "Devices",
-      "kind": "Launch",
-      "source": "Engadget",
-      "published": "2026-10-31T17:15:00+00:00",
-      "title": "These Samsung Galaxy Watches won't be getting the new One UI update",
-      "summary": "Samsung has released the latest version of its wearable OS, One UI 9 Watch, and most of its watch lineup will get the update - except these.",
-      "url": "https://www.engadget.com/2301961/samsung-galaxy-watches-not-getting-one-ui-update/",
-      "tickers": []
-    },
-    {
-      "id": "db55bab6bc",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-31T17:00:00+00:00",
-      "title": "How to fix your phone screen when it's unresponsive to touch​",
-      "summary": "Few things are more annoying than an unresponsive touchscreen. Before you give up on your phone, here's what to try to get it working again.",
-      "url": "https://www.engadget.com/2301246/how-to-fix-phone-screen-unresponsive-to-touch/",
-      "tickers": []
-    },
-    {
-      "id": "9d81cb7fb9",
-      "topic": "Cloud",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-31T16:45:00+00:00",
-      "title": "How building a cheap home server could save you money in the long run",
-      "summary": "Using an old PC to create your own server can save you quite a bit of money through a couple of avenues. Here's what it can do.",
-      "url": "https://www.engadget.com/2301243/how-building-cheap-home-server-save-money/",
-      "tickers": []
-    },
-    {
-      "id": "813da6713b",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-31T16:30:00+00:00",
-      "title": "Why your Spotify might be using so much storage",
-      "summary": "Spotify can be a storage hog if you don't have your device's settings optimized. Here's what you can do if Spotify is taking up too much storage.",
-      "url": "https://www.engadget.com/2300259/why-spotify-uses-so-much-storage/",
-      "tickers": [
-        "SPOT"
-      ]
-    },
-    {
-      "id": "dc23c0ed29",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-31T16:15:00+00:00",
-      "title": "How long is too long for a USB cable?",
-      "summary": "USB cables, much like their HDMI cousins, have limits on how long they can be. The thing is, those limits are probably much lower than you expected.",
-      "url": "https://www.engadget.com/2301242/how-long-should-usb-cable-be-maximum-length/",
-      "tickers": []
-    },
-    {
-      "id": "e3c680eb1d",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-31T16:07:17+00:00",
-      "title": "NASA's second year-long Mars simulation mission ends today",
-      "summary": "The second crew that spent a year inside NASA's simulated Mars habitat is emerging today, and the agency will stream it live.",
-      "url": "https://www.engadget.com/2303277/nasa-second-year-long-mars-simulation-mission-ends-today/",
-      "tickers": []
-    },
-    {
-      "id": "a58c062caa",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-31T16:05:00+00:00",
-      "title": "I built an AI Tamagotchi before Meta could",
-      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It…",
-      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-      "tickers": [
-        "META"
-      ]
     }
   ],
   "rumors": [
@@ -337,12 +339,54 @@
       "score": 15
     },
     {
+      "id": "0c56b405a0",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "How big and powerful is SpaceX's Starship rocket?",
+      "detail": "SpaceX's Starship has a big role to play in NASA's plans to land astronauts on the Moon. Here's how big this rocket is and how its two stages work together.",
+      "url": "https://www.engadget.com/2300227/how-big-powerful-spacex-starship-rocket/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 15
+    },
+    {
       "id": "b24ff6eaf0",
       "topic": "Tech",
       "status": "Just surfaced",
       "title": "Scientists have found an enormous new dwarf planet beyond Pluto. And there could be many more",
       "detail": "submitted by /u/Hi_all_hwru [link] [comments]",
       "url": "https://www.reddit.com/r/technology/comments/1xk8sm9/scientists_have_found_an_enormous_new_dwarf/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 0,
+      "days": 0,
+      "tickers": [],
+      "score": 8
+    },
+    {
+      "id": "ed31453aed",
+      "topic": "Security",
+      "status": "Just surfaced",
+      "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+      "detail": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1xkpdbd/binance_says_90_of_63_billion_hack_losses_are_now/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 0,
+      "days": 0,
+      "tickers": [],
+      "score": 8
+    },
+    {
+      "id": "22a1902d05",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+      "detail": "Article URL: https://arxiv.org/abs/2409.02292 Comments URL: https://news.ycombinator.com/item?id=50322022 Points: 94 # Comments: 48",
+      "url": "https://arxiv.org/abs/2409.02292",
       "sources": 1,
       "mentions": 1,
       "credible": 0,
@@ -362,7 +406,7 @@
       "when": "Mon",
       "signals": [
         "Earnings",
-        "5 headlines",
+        "7 headlines",
         "Volume up"
       ],
       "spark": [
@@ -467,6 +511,12 @@
       "earnings": "2026-11-02",
       "headlines": [
         {
+          "title": "Why your Apple AirPods' battery drains so fast and how to make it last longer",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2300231/why-airpods-battery-drains-fast-how-to-fix/",
+          "published": "2026-10-31T23:30:00+00:00"
+        },
+        {
           "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
@@ -491,10 +541,10 @@
           "published": "2026-10-30T15:00:00+00:00"
         }
       ],
-      "score": 70.5,
+      "score": 75.5,
       "brief": {
-        "what": "4 recent headlines mention Apple. Latest: Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-        "why": "Signals: earnings, 5 headlines, volume up. The stock is down 0.9% this week and up 4.3% over the month.",
+        "what": "5 recent headlines mention Apple. Latest: Why your Apple AirPods' battery drains so fast and how to make it last longer",
+        "why": "Signals: earnings, 7 headlines, volume up. The stock is down 0.9% this week and up 4.3% over the month.",
         "watch": "Next earnings expected Mon Nov 2. Results and guidance usually move the stock most.",
         "ai": false
       }
