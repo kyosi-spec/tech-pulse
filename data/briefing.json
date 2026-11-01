@@ -1,326 +1,322 @@
 {
   "weekOf": "2026-10-26",
-  "updated": "2026-11-01T11:42:59+00:00",
+  "updated": "2026-11-01T22:43:13+00:00",
   "summary": [
-    "Tech leads the news with 16 of 25 stories. Top headline: Data centers are now a midterm issue, even in Brooklyn",
+    "Tech leads the news with 12 of 25 stories. Top headline: OpenAI might rebrand its data centers as ‘AI compute campuses’",
     "Earnings this week from AAPL, NET, QCOM, SHOP, PLTR.",
-    "Strongest rumor: Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says"
+    "Strongest rumor: A fully playable version of Portal prequel F-Stop leaked"
   ],
   "stories": [
     {
-      "id": "7b47a3f50f",
-      "topic": "Cloud",
+      "id": "471be95c63",
+      "topic": "AI",
       "kind": "Company",
       "source": "TechCrunch",
-      "published": "2026-11-01T02:22:10+00:00",
-      "title": "Data centers are now a midterm issue, even in Brooklyn",
-      "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
-      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "published": "2026-11-01T21:55:23+00:00",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
       "tickers": []
     },
     {
-      "id": "decf19fd0a",
+      "id": "5b371f79bd",
       "topic": "Tech",
       "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-01T00:30:00+00:00",
-      "title": "5 expensive hobbies where owning a 3D printer actually saves you money",
-      "summary": "While a personal 3D printer is certainly an investment, if you regularly engage with an expensive hobby, it might actually save you some cash.",
-      "url": "https://www.engadget.com/2300213/3d-printer-expensive-hobbies-where-it-saves-money/",
+      "source": "The Verge",
+      "published": "2026-11-01T21:09:21+00:00",
+      "title": "NASA hopes the commercial space industry can help save Hubble",
+      "summary": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted. So NASA…",
+      "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
       "tickers": []
     },
     {
-      "id": "0ecadfd0ec",
+      "id": "c2e47475c1",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-01T21:08:32+00:00",
+      "title": "Anthropic updates Claude to stop it from recreating existing video games",
+      "summary": "Users can still lean on Claude to help with designing original or genre games.",
+      "url": "https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/",
+      "tickers": []
+    },
+    {
+      "id": "bed69793ae",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-01T21:00:00+00:00",
+      "title": "Ceramic vs Titanium Apple Watch: Which material is better for overall durability?",
+      "summary": "An Apple Watch is a handy accessory for your iPhone, but choosing the most durable material can be challenging. This one is better suited to your needs.",
+      "url": "https://www.engadget.com/2300397/apple-watch-ceramic-vs-titanium-which-is-better-material-overall-durability/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "4eb3f2147f",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-11-01T20:57:58+00:00",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "tickers": []
+    },
+    {
+      "id": "5f2a46ce3b",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-01T00:00:00+00:00",
-      "title": "Amazon made the AUX input on older Alexa devices less useful",
-      "summary": "Amazon has made a quiet change to older Echo speakers that will leave owners rethinking how they use their devices and manage their home audio setups.",
-      "url": "https://www.engadget.com/2300219/amazon-made-alexa-devices-aux-port-less-useful/",
+      "published": "2026-11-01T20:00:00+00:00",
+      "title": "How to know if a USB-C cable is waterproof",
+      "summary": "If you need extra protection for your USB cables, knowing how to tell if they're waterproof beforehand is important. Here's how to check a cable's rating.",
+      "url": "https://www.engadget.com/2300388/how-to-know-usb-c-cable-waterproof/",
+      "tickers": []
+    },
+    {
+      "id": "d5ec742096",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-01T19:58:02+00:00",
+      "title": "Flock keeps ignoring requests to cancel its contracts",
+      "summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to the city's request.…",
+      "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+      "tickers": []
+    },
+    {
+      "id": "e943e8c29e",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-01T19:45:00+00:00",
+      "title": "5 ways to get Amazon Prime for free (or way cheaper)",
+      "summary": "Don't pay full price; you might already qualify for cheaper Prime or have another benefit that covers the membership fee",
+      "url": "https://www.engadget.com/2301057/ways-get-amazon-prime-free-cheaper/",
       "tickers": [
         "AMZN"
       ]
     },
     {
-      "id": "0c56b405a0",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-31T23:45:00+00:00",
-      "title": "How big and powerful is SpaceX's Starship rocket?",
-      "summary": "SpaceX's Starship has a big role to play in NASA's plans to land astronauts on the Moon. Here's how big this rocket is and how its two stages work together.",
-      "url": "https://www.engadget.com/2300227/how-big-powerful-spacex-starship-rocket/",
-      "tickers": []
-    },
-    {
-      "id": "264eef1be1",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-31T23:30:00+00:00",
-      "title": "Why your Apple AirPods' battery drains so fast and how to make it last longer",
-      "summary": "It's annoying when your Apple AirPods run out of juice, but the culprit might not be what you think. Here's what's going on and what you can do about it.",
-      "url": "https://www.engadget.com/2300231/why-airpods-battery-drains-fast-how-to-fix/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "42b28421c1",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-31T23:00:00+00:00",
-      "title": "The Slate vs Ford Fathom debate might be settled by this one key tech feature",
-      "summary": "Slate and Ford are both building affordable electric pickups, and that means compromises. But the two automakers are taking very different paths to get there.",
-      "url": "https://www.engadget.com/2300238/slate-vs-ford-fathom-android-auto-carplay-support/",
-      "tickers": []
-    },
-    {
-      "id": "f97351f030",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-31T22:46:12+00:00",
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "summary": "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve Comments URL: https://news.ycombinator.com/item?id=50320995 Points: 257 # Comments: 119",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "tickers": []
-    },
-    {
-      "id": "665d9ef51b",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-31T22:45:00+00:00",
-      "title": "4 important features you should know if you use Microsoft Teams",
-      "summary": "A wealth of not-so-well-known features on Microsoft Teams make the experience easier and more stress-free than you may have previously thought.",
-      "url": "https://www.engadget.com/2300242/important-features-should-know-microsoft-teams/",
-      "tickers": [
-        "MSFT"
-      ]
-    },
-    {
-      "id": "bafc51fa00",
-      "topic": "Tech",
-      "kind": "Founder",
-      "source": "Hacker News",
-      "published": "2026-10-31T22:41:06+00:00",
-      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ Comments URL: https://news.ycombinator.com/item?id=50320963 Points: 481 # Comments: 144",
-      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "tickers": []
-    },
-    {
-      "id": "b7085422c1",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-31T22:30:00+00:00",
-      "title": "The reason most electrical plug prongs have holes in them",
-      "summary": "If you've ever looked at the end of a plug, you've probably wondered why some have holes, and some don't - and no, it's not actually a big conspiracy theory.",
-      "url": "https://www.engadget.com/2300248/reason-most-electrical-plug-prongs-have-holes/",
-      "tickers": []
-    },
-    {
-      "id": "ac02a6de50",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-10-31T22:00:00+00:00",
-      "title": "5 Netflix tips we all wish we knew sooner",
-      "summary": "If there are aspects of Netflix streaming that aren't to your liking, there are several changes you can make to optimize your viewing experience.",
-      "url": "https://www.engadget.com/2300249/netflix-download-speeds-offline-tricks-wish-knew-sooner/",
-      "tickers": [
-        "NFLX"
-      ]
-    },
-    {
-      "id": "0302eaf093",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-31T21:49:07+00:00",
-      "title": "ChatGPT and Codex usage limits merging",
-      "summary": "Article URL: https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits Comments URL: https://news.ycombinator.com/item?id=50320588 Points: 153 # Comments: 92",
-      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-      "tickers": []
-    },
-    {
-      "id": "a504a4c34e",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-10-31T21:41:00+00:00",
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "2209cb6eb8",
-      "topic": "Startups",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-10-31T21:36:07+00:00",
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
-      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "tickers": []
-    },
-    {
-      "id": "f16e41803f",
-      "topic": "Policy",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-10-31T21:17:03+00:00",
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "tickers": []
-    },
-    {
-      "id": "9bd6dc4774",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-31T21:06:58+00:00",
-      "title": "Get in the spirit with these horrors from YouTube",
-      "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a…",
-      "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
-      "tickers": []
-    },
-    {
-      "id": "93adf263d0",
+      "id": "6184937640",
       "topic": "Devices",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-31T21:00:00+00:00",
-      "title": "Why your Apple AirPods won't connect to your iPhone and how can you fix it",
-      "summary": "When your AirPods refuse to show up on your iPhone, the cause is usually simpler than you'd think. Here's where to look first and what to try next.",
-      "url": "https://www.engadget.com/2302450/why-apple-airpods-wont-connect-to-iphone-fixes/",
+      "published": "2026-11-01T19:30:00+00:00",
+      "title": "How to turn on the flashlight on your Android phone without unlocking it",
+      "summary": "You can easily access your flashlight on Samsung Galaxy and Google Pixel devices - here's how.",
+      "url": "https://www.engadget.com/2300305/how-to-turn-on-andoird-phone-flashlight-without-unlocking/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "3c681c5156",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-01T19:19:22+00:00",
+      "title": "Judge says xAI must face NAACP lawsuit on data center pollution",
+      "summary": "The legal battle revolves around the AI company's operations in southern Memphis.",
+      "url": "https://www.engadget.com/2303462/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution/",
+      "tickers": []
+    },
+    {
+      "id": "e14edbd8ff",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-01T19:00:00+00:00",
+      "title": "This hidden Windows 11 menu can save you valuable time when troubleshooting",
+      "summary": "Windows 11 has a sneaky menu that connects you with Settings, Task Manager, Event Viewer, and more in one place.",
+      "url": "https://www.engadget.com/2300300/hidden-windows-11-menu-saves-time-troubleshooting/",
+      "tickers": []
+    },
+    {
+      "id": "e202a4cfc4",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-01T18:30:00+00:00",
+      "title": "The biggest problem with trying to directly power EVs with solar roofs",
+      "summary": "Solar roofs promise a future where EVs rarely need plugging in, but turning that vision into reality presents some surprisingly difficult challenges.",
+      "url": "https://www.engadget.com/2300413/biggest-problem-directly-powering-evs-with-solar-roofs/",
+      "tickers": []
+    },
+    {
+      "id": "b4aecad8b3",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-01T18:28:42+00:00",
+      "title": "Mathematics has changed. Let's act like it",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/ Comments URL: https://news.ycombinator.com/item?id=50328251 Points: 158 # Comments: 184",
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "tickers": []
+    },
+    {
+      "id": "4c62fac80e",
+      "topic": "Devices",
+      "kind": "Founder",
+      "source": "Engadget",
+      "published": "2026-11-01T18:15:00+00:00",
+      "title": "How much would it cost to build a PC similar to the Xbox Series S?",
+      "summary": "The Xbox Series S offers a solid entry-level experience for those interested in console gaming. Here's what an equivalent gaming PC would cost you.",
+      "url": "https://www.engadget.com/2300614/xbox-series-s-pc-similar-how-much-to-build/",
+      "tickers": []
+    },
+    {
+      "id": "b57de2ef02",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-01T18:00:00+00:00",
+      "title": "5 safety practices to know before vibe coding",
+      "summary": "Here's what beginners need to know to vibe code securely.",
+      "url": "https://www.engadget.com/2302658/vibe-coding-safety-practices/",
+      "tickers": []
+    },
+    {
+      "id": "933c66d53c",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-01T17:45:00+00:00",
+      "title": "The reason why your Xbox controller still uses AA batteries",
+      "summary": "Xbox controllers use AA batteries, which may seem like an outdated way of powering a device, but there are reasons for this intentional choice.",
+      "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+      "tickers": []
+    },
+    {
+      "id": "46bd2d91ba",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-01T17:30:00+00:00",
+      "title": "5 nifty ways you can reuse your old laptop",
+      "summary": "You can do so much more with an old laptop than just throwing it away or leaving it to rot in a drawer. Here are some clever ways to reuse one.",
+      "url": "https://www.engadget.com/2300621/nifty-ways-reuse-old-laptop/",
+      "tickers": []
+    },
+    {
+      "id": "bac526c2aa",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-01T17:28:16+00:00",
+      "title": "Patrick Stewart taught us what good men do with power",
+      "summary": "Article URL: https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism Comments URL: https://news.ycombinator.com/item?id=50327650 Points: 308 # Comments: 216",
+      "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+      "tickers": []
+    },
+    {
+      "id": "c9835ec7c1",
+      "topic": "Security",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-01T17:16:07+00:00",
+      "title": "Apple’s HomeView could add security camera features",
+      "summary": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as privacy functions.…",
+      "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
       "tickers": [
         "AAPL"
       ]
     },
     {
-      "id": "26ff386dac",
+      "id": "c86dd4acdd",
       "topic": "AI",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-31T20:00:00+00:00",
-      "title": "Xbox manager says AI is already being used in game development",
-      "summary": "Brandon Stirrup deleted his comments from X a day after saying that AI usage is widespread in the gaming industry.",
-      "url": "https://www.engadget.com/2302431/brandon-stirrup-xbox-manager-says-ai-used-game-development/",
+      "published": "2026-11-01T17:15:00+00:00",
+      "title": "Here's how to tell which gen AirPods you own",
+      "summary": "AirPods are difficult to identify from looks alone, so you'll need to check the model number in one of several places.",
+      "url": "https://www.engadget.com/2300295/how-to-tell-which-airpods-gen-you-own/",
       "tickers": []
     },
     {
-      "id": "e384a7bb66",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-31T19:56:53+00:00",
-      "title": "HackerTube: YouTube built from videos recommended by HN",
-      "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 1424 # Comments: 385",
-      "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "tickers": []
-    },
-    {
-      "id": "b4ca48befc",
+      "id": "5c72f1324d",
       "topic": "AI",
       "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-31T19:39:19+00:00",
-      "title": "Anthropic blocks users for anything touching training larger models",
-      "summary": "Article URL: https://twitter.com/jiahaoshao1/status/2116475922190922088 Comments URL: https://news.ycombinator.com/item?id=50319358 Points: 376 # Comments: 217",
-      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "source": "TechCrunch",
+      "published": "2026-11-01T17:04:00+00:00",
+      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
       "tickers": []
     },
     {
-      "id": "f2f498e177",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-10-31T19:30:00+00:00",
-      "title": "Keyboards of The Verge",
-      "summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard. We've written…",
-      "url": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
-      "tickers": []
-    },
-    {
-      "id": "1963a6f442",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-10-31T19:16:30+00:00",
-      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "summary": "Article URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf Comments URL: https://news.ycombinator.com/item?id=50319143 Points: 526 # Comments: 243",
-      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "tickers": []
-    },
-    {
-      "id": "9acc1b9e35",
+      "id": "789b1809c8",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-31T19:00:00+00:00",
-      "title": "The best Roku Streaming Stick depends on your picture quality needs",
-      "summary": "Roku only sells one streaming device that doesn't support 4K output.",
-      "url": "https://www.engadget.com/2302428/best-roku-streaming-stick-depends-on-picture-quality-needs/",
+      "published": "2026-11-01T17:00:00+00:00",
+      "title": "Whatever happened to 8K TVs?",
+      "summary": "8K TVs sounded like the inevitable upgrade to 4K, but they've barely sold and most companies aren't bothering to make them anymore.",
+      "url": "https://www.engadget.com/2302734/what-happened-to-8k-tvs/",
       "tickers": []
     },
     {
-      "id": "855fa8c505",
+      "id": "3596cf6638",
+      "topic": "Security",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-01T16:46:33+00:00",
+      "title": "Frontier Airlines Likely Breached",
+      "summary": "Article URL: https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/ Comments URL: https://news.ycombinator.com/item?id=50327266 Points: 152 # Comments: 50",
+      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+      "tickers": []
+    },
+    {
+      "id": "c707805423",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-10-31T18:45:00+00:00",
-      "title": "Why your AirPods keep disconnecting without warning: These settings can fix it",
-      "summary": "Handy features of your AirPods can be overzealous, leading to disconnections and unwanted device swapping.",
-      "url": "https://www.engadget.com/2298547/why-mac-keeps-disconnecting-airpods/",
+      "published": "2026-11-01T16:45:00+00:00",
+      "title": "Here's what your Fitbit heart rate variability actually tells you",
+      "summary": "Your Fitbit's HRV reading can offer clues about stress and recovery, but your usual numbers matter more than anyone else's.",
+      "url": "https://www.engadget.com/2300292/what-fitbit-heart-rate-variability-tells-you/",
       "tickers": []
     },
     {
-      "id": "876d4b1030",
-      "topic": "Tech",
-      "kind": "Founder",
-      "source": "The Verge",
-      "published": "2026-10-31T18:40:32+00:00",
-      "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
-      "summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds…",
-      "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+      "id": "15ab8683a3",
+      "topic": "Security",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-01T16:30:00+00:00",
+      "title": "How to tell if your smart TV has a camera (and how to disable it)",
+      "summary": "If you're concerned about privacy, then you'll want to make sure that your smart TV doesn't have a camera - and that you disable it if it does.",
+      "url": "https://www.engadget.com/2302466/how-to-tell-if-smart-tv-has-camera/",
       "tickers": []
     }
   ],
   "rumors": [
     {
+      "id": "97efa8c46c",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "A fully playable version of Portal prequel F-Stop leaked",
+      "detail": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those final pieces apparently hit the Valve Cut…",
+      "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+      "sources": 2,
+      "mentions": 2,
+      "credible": 2,
+      "days": 0,
+      "tickers": [],
+      "score": 29
+    },
+    {
       "id": "596d0e3a3e",
       "topic": "AI",
-      "status": "Just surfaced",
+      "status": "Unconfirmed",
       "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
       "detail": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
       "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 1,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "bec684ab47",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
-      "detail": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to exit gaming mode. The search improvements are quite…",
-      "url": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
+      "days": 2,
       "tickers": [],
       "score": 15
     },
@@ -334,17 +330,17 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 0,
+      "days": 1,
       "tickers": [],
       "score": 15
     },
     {
-      "id": "0c56b405a0",
-      "topic": "Tech",
+      "id": "5141d046e8",
+      "topic": "Cloud",
       "status": "Just surfaced",
-      "title": "How big and powerful is SpaceX's Starship rocket?",
-      "detail": "SpaceX's Starship has a big role to play in NASA's plans to land astronauts on the Moon. Here's how big this rocket is and how its two stages work together.",
-      "url": "https://www.engadget.com/2300227/how-big-powerful-spacex-starship-rocket/",
+      "title": "Prop 45 in California could be hiding a loophole for data centers",
+      "detail": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn. Proposition 45 would shorten timelines for state-mandated environmental…",
+      "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
       "sources": 1,
       "mentions": 1,
       "credible": 1,
@@ -353,18 +349,34 @@
       "score": 15
     },
     {
-      "id": "b24ff6eaf0",
-      "topic": "Tech",
+      "id": "c9835ec7c1",
+      "topic": "Security",
       "status": "Just surfaced",
-      "title": "Scientists have found an enormous new dwarf planet beyond Pluto. And there could be many more",
-      "detail": "submitted by /u/Hi_all_hwru [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1xk8sm9/scientists_have_found_an_enormous_new_dwarf/",
+      "title": "Apple’s HomeView could add security camera features",
+      "detail": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as privacy functions.…",
+      "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
       "sources": 1,
       "mentions": 1,
-      "credible": 0,
+      "credible": 1,
+      "days": 0,
+      "tickers": [
+        "AAPL"
+      ],
+      "score": 15
+    },
+    {
+      "id": "3309b33900",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "Meta reportedly built a humanoid robot prototype that can do household chores",
+      "detail": "A report said the company is already working on the second version that's codenamed Max 2.",
+      "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
       "days": 0,
       "tickers": [],
-      "score": 8
+      "score": 15
     },
     {
       "id": "ed31453aed",
@@ -374,19 +386,19 @@
       "detail": "submitted by /u/Logical_Welder3467 [link] [comments]",
       "url": "https://www.reddit.com/r/technology/comments/1xkpdbd/binance_says_90_of_63_billion_hack_losses_are_now/",
       "sources": 1,
-      "mentions": 1,
+      "mentions": 2,
       "credible": 0,
       "days": 0,
       "tickers": [],
-      "score": 8
+      "score": 11
     },
     {
-      "id": "22a1902d05",
-      "topic": "Tech",
+      "id": "40fb1558a3",
+      "topic": "AI",
       "status": "Just surfaced",
-      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
-      "detail": "Article URL: https://arxiv.org/abs/2409.02292 Comments URL: https://news.ycombinator.com/item?id=50322022 Points: 94 # Comments: 48",
-      "url": "https://arxiv.org/abs/2409.02292",
+      "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
+      "detail": "URL deleted for malware concerns. Comments URL: https://news.ycombinator.com/item?id=50326727 Points: 44 # Comments: 46",
+      "url": "https://news.ycombinator.com/item?id=50326727",
       "sources": 1,
       "mentions": 1,
       "credible": 0,
@@ -511,22 +523,22 @@
       "earnings": "2026-11-02",
       "headlines": [
         {
-          "title": "Why your Apple AirPods' battery drains so fast and how to make it last longer",
+          "title": "Ceramic vs Titanium Apple Watch: Which material is better for overall durability?",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2300231/why-airpods-battery-drains-fast-how-to-fix/",
-          "published": "2026-10-31T23:30:00+00:00"
+          "url": "https://www.engadget.com/2300397/apple-watch-ceramic-vs-titanium-which-is-better-material-overall-durability/",
+          "published": "2026-11-01T21:00:00+00:00"
+        },
+        {
+          "title": "Apple’s HomeView could add security camera features",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+          "published": "2026-11-01T17:16:07+00:00"
         },
         {
           "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
           "published": "2026-10-31T21:41:00+00:00"
-        },
-        {
-          "title": "Why your Apple AirPods won't connect to your iPhone and how can you fix it",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2302450/why-apple-airpods-wont-connect-to-iphone-fixes/",
-          "published": "2026-10-31T21:00:00+00:00"
         },
         {
           "title": "I took two iPhones on vacation. The Duo won me over.",
@@ -543,7 +555,7 @@
       ],
       "score": 75.5,
       "brief": {
-        "what": "5 recent headlines mention Apple. Latest: Why your Apple AirPods' battery drains so fast and how to make it last longer",
+        "what": "5 recent headlines mention Apple. Latest: Ceramic vs Titanium Apple Watch: Which material is better for overall durability? There is also a rumor making the rounds: Apple’s HomeView could add security camera features",
         "why": "Signals: earnings, 7 headlines, volume up. The stock is down 0.9% this week and up 4.3% over the month.",
         "watch": "Next earnings expected Mon Nov 2. Results and guidance usually move the stock most.",
         "ai": false
