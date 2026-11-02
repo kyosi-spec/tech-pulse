@@ -1,12 +1,183 @@
 {
-  "weekOf": "2026-10-26",
-  "updated": "2026-11-01T22:43:13+00:00",
+  "weekOf": "2026-11-02",
+  "updated": "2026-11-02T11:59:33+00:00",
   "summary": [
-    "Tech leads the news with 12 of 25 stories. Top headline: OpenAI might rebrand its data centers as ‘AI compute campuses’",
+    "Tech leads the news with 13 of 25 stories. Top headline: Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
     "Earnings this week from AAPL, NET, QCOM, SHOP, PLTR.",
-    "Strongest rumor: A fully playable version of Portal prequel F-Stop leaked"
+    "Strongest rumor: OpenAI reportedly lowers funding target for new round"
   ],
   "stories": [
+    {
+      "id": "8194b45dcd",
+      "topic": "Security",
+      "kind": "Launch",
+      "source": "TechCrunch",
+      "published": "2026-11-02T11:00:00+00:00",
+      "title": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
+      "summary": "Ford said it's making an \"explicit commitment\" to its customers that \"their vehicle data is safe\" with the company.",
+      "url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
+      "tickers": []
+    },
+    {
+      "id": "59ab336391",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-02T05:06:30+00:00",
+      "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+      "summary": "After seeing Karpathy's Hackertube and Hackerbooks, I just had to make Wikihack. I scraped all mentions of wikipedia on hackernews and ranked them, and turn them into a scrollable feed to make it a bit more easy to digest / interact with. You can see where people submitted the…",
+      "url": "https://wikihack.netlify.app",
+      "tickers": []
+    },
+    {
+      "id": "4f48ba6b0a",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-11-02T05:00:00+00:00",
+      "title": "Jackery made its portable power stations even smaller",
+      "summary": "Jackery announced a new portable power station that uses the safer and longer-lasting lithium iron phosphate (LFP) batteries the company first introduced in 2023. But what makes the new Explorer 100D stand out is that it's Jackery's smallest power station to date, measuring only…",
+      "url": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate",
+      "tickers": []
+    },
+    {
+      "id": "000549c4da",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-02T04:23:48+00:00",
+      "title": "Borrowed reading: stories from our extended colleagues",
+      "summary": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.",
+      "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
+      "tickers": []
+    },
+    {
+      "id": "efc3bb8b0b",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-02T01:30:00+00:00",
+      "title": "How long is a new Apple TV actually supposed to last?",
+      "summary": "Past Apple TV models have seen excellent support from Apple compared to some other product lines, but it's not a guarantee.",
+      "url": "https://www.engadget.com/2300332/how-long-new-apple-tv-last-lifespan/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "e0f843a8cf",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-02T01:00:00+00:00",
+      "title": "6 Google Maps features that work better on Android Auto vs. CarPlay",
+      "summary": "You would think that Maps would be the same regardless of your phone's brand, but there are some differences between the Android Auto and CarPlay experiences.",
+      "url": "https://www.engadget.com/2300327/google-maps-features-work-better-android-auto-vs-carplay/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "cb42befad5",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-02T00:45:00+00:00",
+      "title": "How to add and rearrange apps on your Samsung smart TV",
+      "summary": "Though your Samsung smart TV comes pre-loaded with the most popular streaming apps, you may want to add others and do some reorganizing while you're at it.",
+      "url": "https://www.engadget.com/2300335/how-to-add-rearrange-apps-samsung-smart-tv/",
+      "tickers": []
+    },
+    {
+      "id": "1066e16a1d",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-02T00:30:00+00:00",
+      "title": "Android Auto could upset your work-life balance with its next update",
+      "summary": "A hidden toggle buried in the Android Auto app's code isn't functional yet. Here's what it could do, what it might not, and what Google hasn't said so far.",
+      "url": "https://www.engadget.com/2300324/android-auto-next-update-could-upset-work-life-balance/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "51141dbf16",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-02T00:17:27+00:00",
+      "title": "OccupySaaS",
+      "summary": "Article URL: https://occupysaas.com/ Comments URL: https://news.ycombinator.com/item?id=50331402 Points: 284 # Comments: 166",
+      "url": "https://occupysaas.com/",
+      "tickers": []
+    },
+    {
+      "id": "8b70db9d48",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-02T00:15:00+00:00",
+      "title": "10 iPad widgets you probably didn't realize existed",
+      "summary": "Widgets take advantage of your iPad's large screen, and some of the best ones are often overlooked.",
+      "url": "https://www.engadget.com/2299525/ipad-widgets-didnt-realize-existed/",
+      "tickers": []
+    },
+    {
+      "id": "0689a9786a",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-02T00:00:00+00:00",
+      "title": "AI glasses can replace your prescription glasses, but should they?",
+      "summary": "You can easily get AI glasses with prescription if you need them, but before making the investment, it's recommended to learn the pros and cons of them.",
+      "url": "https://www.engadget.com/2300320/ai-glasses-replace-prescription-should-they/",
+      "tickers": []
+    },
+    {
+      "id": "ebe8dd8262",
+      "topic": "Chips",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-01T23:45:00+00:00",
+      "title": "How using one earbud more than the other can cause uneven wear and tear",
+      "summary": "Using one earbud may feel like the natural choice at times, but the reality is that it can chip away at their lifespan if you don't kick the habit.",
+      "url": "https://www.engadget.com/2301054/using-one-earbud-more-than-other-cause-uneven-wear-and-tear/",
+      "tickers": []
+    },
+    {
+      "id": "213018bd68",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-01T23:30:00+00:00",
+      "title": "This is the right way to clean your vinyl records",
+      "summary": "The answer depends on your budget - and how hardcore you want to get.",
+      "url": "https://www.engadget.com/2300311/this-is-the-right-way-to-clean-your-vinyl-records/",
+      "tickers": []
+    },
+    {
+      "id": "dd3b93fb90",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-01T23:00:00+00:00",
+      "title": "How to clean your PlayStation 5 without damaging it",
+      "summary": "Your PS5 requires occasional maintenance to run at its best, but it only needs a light touch.",
+      "url": "https://www.engadget.com/2300309/how-to-clean-playstation-5-without-damaging/",
+      "tickers": []
+    },
+    {
+      "id": "7ad051e254",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-01T22:00:00+00:00",
+      "title": "Which Samsung S Pens can be located using SmartThings Find?",
+      "summary": "Not all of Samsung's S Pens are made the same. Only one of them can be found through the SmartThings Find network.",
+      "url": "https://www.engadget.com/2300395/which-samsung-s-pens-located-with-smartthings-find/",
+      "tickers": []
+    },
     {
       "id": "471be95c63",
       "topic": "AI",
@@ -100,6 +271,17 @@
       ]
     },
     {
+      "id": "9cb5c0dbb7",
+      "topic": "Security",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-01T19:35:27+00:00",
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "summary": "I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with at least 60hz display. I don’t mind paying a premium. I have heard good things…",
+      "url": "https://news.ycombinator.com/item?id=50328896",
+      "tickers": []
+    },
+    {
       "id": "6184937640",
       "topic": "Devices",
       "kind": "Company",
@@ -111,215 +293,9 @@
       "tickers": [
         "GOOGL"
       ]
-    },
-    {
-      "id": "3c681c5156",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-01T19:19:22+00:00",
-      "title": "Judge says xAI must face NAACP lawsuit on data center pollution",
-      "summary": "The legal battle revolves around the AI company's operations in southern Memphis.",
-      "url": "https://www.engadget.com/2303462/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution/",
-      "tickers": []
-    },
-    {
-      "id": "e14edbd8ff",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-01T19:00:00+00:00",
-      "title": "This hidden Windows 11 menu can save you valuable time when troubleshooting",
-      "summary": "Windows 11 has a sneaky menu that connects you with Settings, Task Manager, Event Viewer, and more in one place.",
-      "url": "https://www.engadget.com/2300300/hidden-windows-11-menu-saves-time-troubleshooting/",
-      "tickers": []
-    },
-    {
-      "id": "e202a4cfc4",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-01T18:30:00+00:00",
-      "title": "The biggest problem with trying to directly power EVs with solar roofs",
-      "summary": "Solar roofs promise a future where EVs rarely need plugging in, but turning that vision into reality presents some surprisingly difficult challenges.",
-      "url": "https://www.engadget.com/2300413/biggest-problem-directly-powering-evs-with-solar-roofs/",
-      "tickers": []
-    },
-    {
-      "id": "b4aecad8b3",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-01T18:28:42+00:00",
-      "title": "Mathematics has changed. Let's act like it",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/ Comments URL: https://news.ycombinator.com/item?id=50328251 Points: 158 # Comments: 184",
-      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
-      "tickers": []
-    },
-    {
-      "id": "4c62fac80e",
-      "topic": "Devices",
-      "kind": "Founder",
-      "source": "Engadget",
-      "published": "2026-11-01T18:15:00+00:00",
-      "title": "How much would it cost to build a PC similar to the Xbox Series S?",
-      "summary": "The Xbox Series S offers a solid entry-level experience for those interested in console gaming. Here's what an equivalent gaming PC would cost you.",
-      "url": "https://www.engadget.com/2300614/xbox-series-s-pc-similar-how-much-to-build/",
-      "tickers": []
-    },
-    {
-      "id": "b57de2ef02",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-01T18:00:00+00:00",
-      "title": "5 safety practices to know before vibe coding",
-      "summary": "Here's what beginners need to know to vibe code securely.",
-      "url": "https://www.engadget.com/2302658/vibe-coding-safety-practices/",
-      "tickers": []
-    },
-    {
-      "id": "933c66d53c",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-01T17:45:00+00:00",
-      "title": "The reason why your Xbox controller still uses AA batteries",
-      "summary": "Xbox controllers use AA batteries, which may seem like an outdated way of powering a device, but there are reasons for this intentional choice.",
-      "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
-      "tickers": []
-    },
-    {
-      "id": "46bd2d91ba",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-01T17:30:00+00:00",
-      "title": "5 nifty ways you can reuse your old laptop",
-      "summary": "You can do so much more with an old laptop than just throwing it away or leaving it to rot in a drawer. Here are some clever ways to reuse one.",
-      "url": "https://www.engadget.com/2300621/nifty-ways-reuse-old-laptop/",
-      "tickers": []
-    },
-    {
-      "id": "bac526c2aa",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-01T17:28:16+00:00",
-      "title": "Patrick Stewart taught us what good men do with power",
-      "summary": "Article URL: https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism Comments URL: https://news.ycombinator.com/item?id=50327650 Points: 308 # Comments: 216",
-      "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
-      "tickers": []
-    },
-    {
-      "id": "c9835ec7c1",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-01T17:16:07+00:00",
-      "title": "Apple’s HomeView could add security camera features",
-      "summary": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as privacy functions.…",
-      "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "c86dd4acdd",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-01T17:15:00+00:00",
-      "title": "Here's how to tell which gen AirPods you own",
-      "summary": "AirPods are difficult to identify from looks alone, so you'll need to check the model number in one of several places.",
-      "url": "https://www.engadget.com/2300295/how-to-tell-which-airpods-gen-you-own/",
-      "tickers": []
-    },
-    {
-      "id": "5c72f1324d",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-01T17:04:00+00:00",
-      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
-      "tickers": []
-    },
-    {
-      "id": "789b1809c8",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-01T17:00:00+00:00",
-      "title": "Whatever happened to 8K TVs?",
-      "summary": "8K TVs sounded like the inevitable upgrade to 4K, but they've barely sold and most companies aren't bothering to make them anymore.",
-      "url": "https://www.engadget.com/2302734/what-happened-to-8k-tvs/",
-      "tickers": []
-    },
-    {
-      "id": "3596cf6638",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-01T16:46:33+00:00",
-      "title": "Frontier Airlines Likely Breached",
-      "summary": "Article URL: https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/ Comments URL: https://news.ycombinator.com/item?id=50327266 Points: 152 # Comments: 50",
-      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
-      "tickers": []
-    },
-    {
-      "id": "c707805423",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-01T16:45:00+00:00",
-      "title": "Here's what your Fitbit heart rate variability actually tells you",
-      "summary": "Your Fitbit's HRV reading can offer clues about stress and recovery, but your usual numbers matter more than anyone else's.",
-      "url": "https://www.engadget.com/2300292/what-fitbit-heart-rate-variability-tells-you/",
-      "tickers": []
-    },
-    {
-      "id": "15ab8683a3",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-01T16:30:00+00:00",
-      "title": "How to tell if your smart TV has a camera (and how to disable it)",
-      "summary": "If you're concerned about privacy, then you'll want to make sure that your smart TV doesn't have a camera - and that you disable it if it does.",
-      "url": "https://www.engadget.com/2302466/how-to-tell-if-smart-tv-has-camera/",
-      "tickers": []
     }
   ],
   "rumors": [
-    {
-      "id": "97efa8c46c",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "A fully playable version of Portal prequel F-Stop leaked",
-      "detail": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those final pieces apparently hit the Valve Cut…",
-      "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
-      "sources": 2,
-      "mentions": 2,
-      "credible": 2,
-      "days": 0,
-      "tickers": [],
-      "score": 29
-    },
-    {
-      "id": "596d0e3a3e",
-      "topic": "AI",
-      "status": "Unconfirmed",
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "detail": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 2,
-      "tickers": [],
-      "score": 15
-    },
     {
       "id": "18d69c6c75",
       "topic": "AI",
@@ -349,6 +325,20 @@
       "score": 15
     },
     {
+      "id": "97efa8c46c",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "A fully playable version of Portal prequel F-Stop leaked",
+      "detail": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those final pieces apparently hit the Valve Cut…",
+      "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 15
+    },
+    {
       "id": "c9835ec7c1",
       "topic": "Security",
       "status": "Just surfaced",
@@ -365,44 +355,32 @@
       "score": 15
     },
     {
-      "id": "3309b33900",
+      "id": "5129f1ae06",
       "topic": "Tech",
       "status": "Just surfaced",
-      "title": "Meta reportedly built a humanoid robot prototype that can do household chores",
-      "detail": "A report said the company is already working on the second version that's codenamed Max 2.",
-      "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+      "title": "Apple is reportedly launching three new iPads early next year",
+      "detail": "Follow its iPad mini launch last week, Apple may unveil three new iPad models early next year.",
+      "url": "https://www.engadget.com/2303590/apple-is-reportedly-launching-three-new-ipads-early-next-year/",
       "sources": 1,
       "mentions": 1,
       "credible": 1,
       "days": 0,
-      "tickers": [],
+      "tickers": [
+        "AAPL"
+      ],
       "score": 15
     },
     {
-      "id": "ed31453aed",
-      "topic": "Security",
+      "id": "22a1902d05",
+      "topic": "Tech",
       "status": "Just surfaced",
-      "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
-      "detail": "submitted by /u/Logical_Welder3467 [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1xkpdbd/binance_says_90_of_63_billion_hack_losses_are_now/",
-      "sources": 1,
-      "mentions": 2,
-      "credible": 0,
-      "days": 0,
-      "tickers": [],
-      "score": 11
-    },
-    {
-      "id": "40fb1558a3",
-      "topic": "AI",
-      "status": "Just surfaced",
-      "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
-      "detail": "URL deleted for malware concerns. Comments URL: https://news.ycombinator.com/item?id=50326727 Points: 44 # Comments: 46",
-      "url": "https://news.ycombinator.com/item?id=50326727",
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+      "detail": "Article URL: https://arxiv.org/abs/2409.02292 Comments URL: https://news.ycombinator.com/item?id=50322022 Points: 202 # Comments: 96",
+      "url": "https://arxiv.org/abs/2409.02292",
       "sources": 1,
       "mentions": 1,
       "credible": 0,
-      "days": 0,
+      "days": 1,
       "tickers": [],
       "score": 8
     }
@@ -418,7 +396,7 @@
       "when": "Mon",
       "signals": [
         "Earnings",
-        "7 headlines",
+        "9 headlines",
         "Volume up"
       ],
       "spark": [
@@ -523,6 +501,12 @@
       "earnings": "2026-11-02",
       "headlines": [
         {
+          "title": "How long is a new Apple TV actually supposed to last?",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2300332/how-long-new-apple-tv-last-lifespan/",
+          "published": "2026-11-02T01:30:00+00:00"
+        },
+        {
           "title": "Ceramic vs Titanium Apple Watch: Which material is better for overall durability?",
           "source": "Engadget",
           "url": "https://www.engadget.com/2300397/apple-watch-ceramic-vs-titanium-which-is-better-material-overall-durability/",
@@ -555,8 +539,8 @@
       ],
       "score": 75.5,
       "brief": {
-        "what": "5 recent headlines mention Apple. Latest: Ceramic vs Titanium Apple Watch: Which material is better for overall durability? There is also a rumor making the rounds: Apple’s HomeView could add security camera features",
-        "why": "Signals: earnings, 7 headlines, volume up. The stock is down 0.9% this week and up 4.3% over the month.",
+        "what": "6 recent headlines mention Apple. Latest: How long is a new Apple TV actually supposed to last? There is also a rumor making the rounds: Apple’s HomeView could add security camera features",
+        "why": "Signals: earnings, 9 headlines, volume up. The stock is down 0.9% this week and up 4.3% over the month.",
         "watch": "Next earnings expected Mon Nov 2. Results and guidance usually move the stock most.",
         "ai": false
       }
