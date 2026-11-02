@@ -1,358 +1,321 @@
 {
   "weekOf": "2026-11-02",
-  "updated": "2026-11-02T11:59:33+00:00",
+  "updated": "2026-11-02T22:50:13+00:00",
   "summary": [
-    "Tech leads the news with 13 of 25 stories. Top headline: Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
-    "Earnings this week from AAPL, NET, QCOM, SHOP, PLTR.",
-    "Strongest rumor: OpenAI reportedly lowers funding target for new round"
+    "Devices leads the news with 7 of 25 stories. Top headline: Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+    "Earnings this week from AAPL, AMD, PLTR, NET, ARM.",
+    "Strongest rumor: SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon"
   ],
   "stories": [
     {
-      "id": "8194b45dcd",
-      "topic": "Security",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-11-02T11:00:00+00:00",
-      "title": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
-      "summary": "Ford said it's making an \"explicit commitment\" to its customers that \"their vehicle data is safe\" with the company.",
-      "url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
-      "tickers": []
-    },
-    {
-      "id": "59ab336391",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-02T05:06:30+00:00",
-      "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
-      "summary": "After seeing Karpathy's Hackertube and Hackerbooks, I just had to make Wikihack. I scraped all mentions of wikipedia on hackernews and ranked them, and turn them into a scrollable feed to make it a bit more easy to digest / interact with. You can see where people submitted the…",
-      "url": "https://wikihack.netlify.app",
-      "tickers": []
-    },
-    {
-      "id": "4f48ba6b0a",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-11-02T05:00:00+00:00",
-      "title": "Jackery made its portable power stations even smaller",
-      "summary": "Jackery announced a new portable power station that uses the safer and longer-lasting lithium iron phosphate (LFP) batteries the company first introduced in 2023. But what makes the new Explorer 100D stand out is that it's Jackery's smallest power station to date, measuring only…",
-      "url": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate",
-      "tickers": []
-    },
-    {
-      "id": "000549c4da",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-02T04:23:48+00:00",
-      "title": "Borrowed reading: stories from our extended colleagues",
-      "summary": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.",
-      "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
-      "tickers": []
-    },
-    {
-      "id": "efc3bb8b0b",
+      "id": "1aaa0e645c",
       "topic": "AI",
       "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-02T01:30:00+00:00",
-      "title": "How long is a new Apple TV actually supposed to last?",
-      "summary": "Past Apple TV models have seen excellent support from Apple compared to some other product lines, but it's not a guarantee.",
-      "url": "https://www.engadget.com/2300332/how-long-new-apple-tv-last-lifespan/",
+      "source": "TechCrunch",
+      "published": "2026-11-02T22:14:50+00:00",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "tickers": []
+    },
+    {
+      "id": "0788ffbf58",
+      "topic": "Devices",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-11-02T22:02:36+00:00",
+      "title": "Apple set an iPhone sales record even without a new standard iPhone",
+      "summary": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iPhone revenue, marking a 17 percent jump from the same time…",
+      "url": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
       "tickers": [
         "AAPL"
       ]
     },
     {
-      "id": "e0f843a8cf",
+      "id": "687b7aed21",
       "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-02T01:00:00+00:00",
-      "title": "6 Google Maps features that work better on Android Auto vs. CarPlay",
-      "summary": "You would think that Maps would be the same regardless of your phone's brand, but there are some differences between the Android Auto and CarPlay experiences.",
-      "url": "https://www.engadget.com/2300327/google-maps-features-work-better-android-auto-vs-carplay/",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "cb42befad5",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-02T00:45:00+00:00",
-      "title": "How to add and rearrange apps on your Samsung smart TV",
-      "summary": "Though your Samsung smart TV comes pre-loaded with the most popular streaming apps, you may want to add others and do some reorganizing while you're at it.",
-      "url": "https://www.engadget.com/2300335/how-to-add-rearrange-apps-samsung-smart-tv/",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-11-02T21:04:20+00:00",
+      "title": "Meta will end Quest 2 OS updates in 2027",
+      "summary": "Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today. The last OS update for those devices is planned to be v213, and after that, Meta will continue to ship security patches and critical bug fixes…",
+      "url": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
       "tickers": []
     },
     {
-      "id": "1066e16a1d",
+      "id": "4b3c2a6037",
       "topic": "Devices",
       "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-02T00:30:00+00:00",
-      "title": "Android Auto could upset your work-life balance with its next update",
-      "summary": "A hidden toggle buried in the Android Auto app's code isn't functional yet. Here's what it could do, what it might not, and what Google hasn't said so far.",
-      "url": "https://www.engadget.com/2300324/android-auto-next-update-could-upset-work-life-balance/",
+      "source": "The Verge",
+      "published": "2026-11-02T20:37:49+00:00",
+      "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
+      "summary": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co.…",
+      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
       "tickers": [
         "GOOGL"
       ]
     },
     {
-      "id": "51141dbf16",
+      "id": "445836d0b9",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-11-02T20:03:52+00:00",
+      "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
+      "summary": "BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow. The new system can help steer, speed up, and slow down the vehicle on both highways and…",
+      "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
+      "tickers": [
+        "TSLA"
+      ]
+    },
+    {
+      "id": "cc8b0c7bfc",
+      "topic": "Security",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-02T19:45:54+00:00",
+      "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
+      "summary": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
+      "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "5471c751fd",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-02T19:41:36+00:00",
+      "title": "Casio's new keyboard lets anyone play along to songs without ever hitting a wrong note",
+      "summary": "Casio's new Feel Sync technology helps keep new players in tune.",
+      "url": "https://www.engadget.com/2304552/casio-new-keyboard-lets-anyone-play-along-to-songs-without-ever-hitting-a-wrong-note/",
+      "tickers": []
+    },
+    {
+      "id": "a339d4734a",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-02T19:30:00+00:00",
+      "title": "Your Apple AirPods' chirping noise doesn't just mean low battery",
+      "summary": "Learn why your Apple AirPods are making a noise - and how to turn the sound off.",
+      "url": "https://www.engadget.com/2300367/what-apple-airpods-chirping-noise-means-battery/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "563b870052",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-02T19:25:59+00:00",
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "tickers": []
+    },
+    {
+      "id": "a3e5f24b8a",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-02T19:24:09+00:00",
+      "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
+      "summary": "The Apple Watch Ultra 4 is the company’s most capable smartwatch. Whether you intend to put its many tracking features to the test, or you simply want the longest battery life of any Apple Watch, it’s currently on sale for $699.99 ($100 off) in multiple colors at Amazon…",
+      "url": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
+      "tickers": [
+        "AAPL",
+        "AMZN"
+      ]
+    },
+    {
+      "id": "bd3e7d8841",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-02T19:19:17+00:00",
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "tickers": []
+    },
+    {
+      "id": "2ecb66e51b",
+      "topic": "Policy",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-02T19:11:49+00:00",
+      "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
+      "summary": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.",
+      "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
+      "tickers": []
+    },
+    {
+      "id": "df3e7746aa",
+      "topic": "Policy",
+      "kind": "Founder",
+      "source": "Engadget",
+      "published": "2026-11-02T19:09:53+00:00",
+      "title": "Snap settles social media addiction lawsuit to avoid trial",
+      "summary": "Snap CEO Evan Spiegel was due to testify in the upcoming trial.",
+      "url": "https://www.engadget.com/2304464/snap-settles-social-media-addiction-lawsuit-to-avoid-trial/",
+      "tickers": []
+    },
+    {
+      "id": "afdad48061",
+      "topic": "Security",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-02T19:05:46+00:00",
+      "title": "Ford promises not to sell your driving habits to data brokers",
+      "summary": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing telematics with data brokers without authorization. As part…",
+      "url": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
+      "tickers": []
+    },
+    {
+      "id": "f0b0ffb3c5",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-02T19:00:00+00:00",
+      "title": "Why some websites are blocking AI agents from accessing the web",
+      "summary": "AI agents can be a great tool to help make purchases for you online - but it can become a frustrating problem if the website you're using blocks their access.",
+      "url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/",
+      "tickers": []
+    },
+    {
+      "id": "0d283f7363",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-02T18:56:02+00:00",
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
+      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "tickers": []
+    },
+    {
+      "id": "f4f7860e13",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-02T18:43:24+00:00",
+      "title": "Xbox’s former COO has ‘serious concerns’ about her abrupt departure",
+      "summary": "Xbox's former chief operating officer, Helen Chiang, suddenly left Microsoft less than two weeks ago after being promoted into the role in July. I wrote in my Notepad newsletter last week that it seemed very weird for Chiang to suddenly depart Microsoft after 21 years with a…",
+      "url": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments",
+      "tickers": [
+        "MSFT"
+      ]
+    },
+    {
+      "id": "efac8b1ce9",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "Hacker News",
+      "published": "2026-11-02T18:39:38+00:00",
+      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "summary": "Article URL: https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432 Comments URL: https://news.ycombinator.com/item?id=50341462 Points: 202 # Comments: 34",
+      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "tickers": []
+    },
+    {
+      "id": "2e6634e8b1",
       "topic": "Tech",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-11-02T00:17:27+00:00",
-      "title": "OccupySaaS",
-      "summary": "Article URL: https://occupysaas.com/ Comments URL: https://news.ycombinator.com/item?id=50331402 Points: 284 # Comments: 166",
-      "url": "https://occupysaas.com/",
+      "published": "2026-11-02T18:21:28+00:00",
+      "title": "Astra can read and write weights to improve Qwen",
+      "summary": "Article URL: https://rikiyat.github.io/blog/weight-space-programming/ Comments URL: https://news.ycombinator.com/item?id=50341174 Points: 1444 # Comments: 465",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
       "tickers": []
     },
     {
-      "id": "8b70db9d48",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-02T00:15:00+00:00",
-      "title": "10 iPad widgets you probably didn't realize existed",
-      "summary": "Widgets take advantage of your iPad's large screen, and some of the best ones are often overlooked.",
-      "url": "https://www.engadget.com/2299525/ipad-widgets-didnt-realize-existed/",
-      "tickers": []
-    },
-    {
-      "id": "0689a9786a",
+      "id": "915d4aca41",
       "topic": "Devices",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-02T00:00:00+00:00",
-      "title": "AI glasses can replace your prescription glasses, but should they?",
-      "summary": "You can easily get AI glasses with prescription if you need them, but before making the investment, it's recommended to learn the pros and cons of them.",
-      "url": "https://www.engadget.com/2300320/ai-glasses-replace-prescription-should-they/",
+      "published": "2026-11-02T18:15:00+00:00",
+      "title": "Think twice before putting your gaming console inside a cabinet",
+      "summary": "A cabinet might seem like a convenient spot for your console, but it can't provide enough airflow for the system to run safely.",
+      "url": "https://www.engadget.com/2302571/think-twice-before-putting-gaming-console-inside-cabinet/",
       "tickers": []
     },
     {
-      "id": "ebe8dd8262",
+      "id": "0f4d760df0",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-02T18:01:30+00:00",
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "tickers": []
+    },
+    {
+      "id": "70c6c911d1",
       "topic": "Chips",
       "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-01T23:45:00+00:00",
-      "title": "How using one earbud more than the other can cause uneven wear and tear",
-      "summary": "Using one earbud may feel like the natural choice at times, but the reality is that it can chip away at their lifespan if you don't kick the habit.",
-      "url": "https://www.engadget.com/2301054/using-one-earbud-more-than-other-cause-uneven-wear-and-tear/",
-      "tickers": []
-    },
-    {
-      "id": "213018bd68",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-01T23:30:00+00:00",
-      "title": "This is the right way to clean your vinyl records",
-      "summary": "The answer depends on your budget - and how hardcore you want to get.",
-      "url": "https://www.engadget.com/2300311/this-is-the-right-way-to-clean-your-vinyl-records/",
-      "tickers": []
-    },
-    {
-      "id": "dd3b93fb90",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-01T23:00:00+00:00",
-      "title": "How to clean your PlayStation 5 without damaging it",
-      "summary": "Your PS5 requires occasional maintenance to run at its best, but it only needs a light touch.",
-      "url": "https://www.engadget.com/2300309/how-to-clean-playstation-5-without-damaging/",
-      "tickers": []
-    },
-    {
-      "id": "7ad051e254",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-01T22:00:00+00:00",
-      "title": "Which Samsung S Pens can be located using SmartThings Find?",
-      "summary": "Not all of Samsung's S Pens are made the same. Only one of them can be found through the SmartThings Find network.",
-      "url": "https://www.engadget.com/2300395/which-samsung-s-pens-located-with-smartthings-find/",
-      "tickers": []
-    },
-    {
-      "id": "471be95c63",
-      "topic": "AI",
-      "kind": "Company",
       "source": "TechCrunch",
-      "published": "2026-11-01T21:55:23+00:00",
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "tickers": []
-    },
-    {
-      "id": "5b371f79bd",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-01T21:09:21+00:00",
-      "title": "NASA hopes the commercial space industry can help save Hubble",
-      "summary": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted. So NASA…",
-      "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
-      "tickers": []
-    },
-    {
-      "id": "c2e47475c1",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-01T21:08:32+00:00",
-      "title": "Anthropic updates Claude to stop it from recreating existing video games",
-      "summary": "Users can still lean on Claude to help with designing original or genre games.",
-      "url": "https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/",
-      "tickers": []
-    },
-    {
-      "id": "bed69793ae",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-01T21:00:00+00:00",
-      "title": "Ceramic vs Titanium Apple Watch: Which material is better for overall durability?",
-      "summary": "An Apple Watch is a handy accessory for your iPhone, but choosing the most durable material can be challenging. This one is better suited to your needs.",
-      "url": "https://www.engadget.com/2300397/apple-watch-ceramic-vs-titanium-which-is-better-material-overall-durability/",
+      "published": "2026-11-02T17:54:11+00:00",
+      "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+      "summary": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
+      "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
       "tickers": [
-        "AAPL"
+        "NVDA"
       ]
     },
     {
-      "id": "4eb3f2147f",
+      "id": "fde84a7d8c",
       "topic": "AI",
-      "kind": "Founder",
+      "kind": "Company",
       "source": "TechCrunch",
-      "published": "2026-11-01T20:57:58+00:00",
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "tickers": []
-    },
-    {
-      "id": "5f2a46ce3b",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-01T20:00:00+00:00",
-      "title": "How to know if a USB-C cable is waterproof",
-      "summary": "If you need extra protection for your USB cables, knowing how to tell if they're waterproof beforehand is important. Here's how to check a cable's rating.",
-      "url": "https://www.engadget.com/2300388/how-to-know-usb-c-cable-waterproof/",
-      "tickers": []
-    },
-    {
-      "id": "d5ec742096",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-01T19:58:02+00:00",
-      "title": "Flock keeps ignoring requests to cancel its contracts",
-      "summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to the city's request.…",
-      "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
-      "tickers": []
-    },
-    {
-      "id": "e943e8c29e",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-01T19:45:00+00:00",
-      "title": "5 ways to get Amazon Prime for free (or way cheaper)",
-      "summary": "Don't pay full price; you might already qualify for cheaper Prime or have another benefit that covers the membership fee",
-      "url": "https://www.engadget.com/2301057/ways-get-amazon-prime-free-cheaper/",
+      "published": "2026-11-02T17:49:41+00:00",
+      "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
+      "summary": "Readwise Books combines an e-book store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
+      "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
       "tickers": [
         "AMZN"
       ]
     },
     {
-      "id": "9cb5c0dbb7",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-01T19:35:27+00:00",
-      "title": "Ask HN: Which TV do you recommend for privacy?",
-      "summary": "I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with at least 60hz display. I don’t mind paying a premium. I have heard good things…",
-      "url": "https://news.ycombinator.com/item?id=50328896",
-      "tickers": []
-    },
-    {
-      "id": "6184937640",
+      "id": "b7197681f6",
       "topic": "Devices",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-01T19:30:00+00:00",
-      "title": "How to turn on the flashlight on your Android phone without unlocking it",
-      "summary": "You can easily access your flashlight on Samsung Galaxy and Google Pixel devices - here's how.",
-      "url": "https://www.engadget.com/2300305/how-to-turn-on-andoird-phone-flashlight-without-unlocking/",
-      "tickers": [
-        "GOOGL"
-      ]
+      "published": "2026-11-02T17:45:00+00:00",
+      "title": "This Samsung Galaxy problem sadly still exists in 2026, but you can easily fix it",
+      "summary": "Your premium Samsung Galaxy phone likely has a bunch of preinstalled software you don't want that just takes up space.",
+      "url": "https://www.engadget.com/2300355/samsung-galaxy-phones-bloatware-problem-easy-fix/",
+      "tickers": []
+    },
+    {
+      "id": "176cd5f3f2",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-02T17:16:17+00:00",
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "summary": "Hi HN, we're Aarush and Arnav from The Subvocal Company (YC F26) ( https://subvocal.company/ ). We’re building smart glasses that let you talk to your computer without talking out loud. You can mouth words silently and discreetly and the glasses decode them to text at the speed…",
+      "url": "https://news.ycombinator.com/item?id=50340088",
+      "tickers": []
     }
   ],
   "rumors": [
     {
-      "id": "18d69c6c75",
-      "topic": "AI",
-      "status": "Just surfaced",
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "detail": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 1,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "5141d046e8",
-      "topic": "Cloud",
-      "status": "Just surfaced",
-      "title": "Prop 45 in California could be hiding a loophole for data centers",
-      "detail": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn. Proposition 45 would shorten timelines for state-mandated environmental…",
-      "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "97efa8c46c",
+      "id": "d4f6d75446",
       "topic": "Tech",
       "status": "Just surfaced",
-      "title": "A fully playable version of Portal prequel F-Stop leaked",
-      "detail": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those final pieces apparently hit the Valve Cut…",
-      "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
+      "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
+      "detail": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
+      "url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
+      "sources": 2,
+      "mentions": 2,
+      "credible": 2,
       "days": 0,
       "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "c9835ec7c1",
-      "topic": "Security",
-      "status": "Just surfaced",
-      "title": "Apple’s HomeView could add security camera features",
-      "detail": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as privacy functions.…",
-      "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [
-        "AAPL"
-      ],
-      "score": 15
+      "score": 29
     },
     {
       "id": "5129f1ae06",
@@ -371,17 +334,33 @@
       "score": 15
     },
     {
-      "id": "22a1902d05",
-      "topic": "Tech",
+      "id": "4db64ba25c",
+      "topic": "AI",
       "status": "Just surfaced",
-      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
-      "detail": "Article URL: https://arxiv.org/abs/2409.02292 Comments URL: https://news.ycombinator.com/item?id=50322022 Points: 202 # Comments: 96",
-      "url": "https://arxiv.org/abs/2409.02292",
+      "title": "Gemini could be poking through your emails - here's how to stop it",
+      "detail": "Gemini can read your emails, summarize them and draft replies. If you'd rather it didn't, here's what Google actually does with your data and how to opt out.",
+      "url": "https://www.engadget.com/2300353/google-gemini-poking-through-email-how-to-stop/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 15
+    },
+    {
+      "id": "c5187cc417",
+      "topic": "AI",
+      "status": "Just surfaced",
+      "title": "Spotify plans to let users remix artists' songs using AI next year, but it'll cost up to $5 extra per month",
+      "detail": "submitted by /u/Hi_all_hwru [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1xlwkog/spotify_plans_to_let_users_remix_artists_songs/",
       "sources": 1,
       "mentions": 1,
       "credible": 0,
-      "days": 1,
-      "tickers": [],
+      "days": 0,
+      "tickers": [
+        "SPOT"
+      ],
       "score": 8
     }
   ],
@@ -389,30 +368,25 @@
     {
       "ticker": "AAPL",
       "name": "Apple",
-      "price": 344.63,
-      "changePct": -0.9,
-      "monthChangePct": 4.3,
+      "price": 338.32,
+      "changePct": -1.6,
+      "monthChangePct": 1.4,
       "catalyst": "Earnings report",
       "when": "Mon",
       "signals": [
         "Earnings",
-        "9 headlines",
-        "Volume up"
+        "9 headlines"
       ],
       "spark": [
-        348.22,
         347.73,
         343.91,
         347.1,
         343.83,
         348.91,
-        344.63
+        344.63,
+        338.32
       ],
       "history": [
-        {
-          "d": "2026-10-01",
-          "c": 330.32
-        },
         {
           "d": "2026-10-02",
           "c": 333.69
@@ -496,39 +470,49 @@
         {
           "d": "2026-10-30",
           "c": 344.63
+        },
+        {
+          "d": "2026-11-02",
+          "c": 338.32
         }
       ],
       "earnings": "2026-11-02",
       "headlines": [
         {
+          "title": "Apple set an iPhone sales record even without a new standard iPhone",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
+          "published": "2026-11-02T22:02:36+00:00"
+        },
+        {
+          "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+          "published": "2026-11-02T19:45:54+00:00"
+        },
+        {
+          "title": "Your Apple AirPods' chirping noise doesn't just mean low battery",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2300367/what-apple-airpods-chirping-noise-means-battery/",
+          "published": "2026-11-02T19:30:00+00:00"
+        },
+        {
+          "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
+          "published": "2026-11-02T19:24:09+00:00"
+        },
+        {
+          "title": "One annoying problem with the iPhone Messages app has an easy fix",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2300351/one-problem-iphone-messages-additional-options-easy-fix/",
+          "published": "2026-11-02T16:45:00+00:00"
+        },
+        {
           "title": "How long is a new Apple TV actually supposed to last?",
           "source": "Engadget",
           "url": "https://www.engadget.com/2300332/how-long-new-apple-tv-last-lifespan/",
           "published": "2026-11-02T01:30:00+00:00"
-        },
-        {
-          "title": "Ceramic vs Titanium Apple Watch: Which material is better for overall durability?",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2300397/apple-watch-ceramic-vs-titanium-which-is-better-material-overall-durability/",
-          "published": "2026-11-01T21:00:00+00:00"
-        },
-        {
-          "title": "Apple’s HomeView could add security camera features",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
-          "published": "2026-11-01T17:16:07+00:00"
-        },
-        {
-          "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-          "published": "2026-10-31T21:41:00+00:00"
-        },
-        {
-          "title": "I took two iPhones on vacation. The Duo won me over.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
-          "published": "2026-10-31T14:00:00+00:00"
         },
         {
           "title": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
@@ -537,375 +521,132 @@
           "published": "2026-10-30T15:00:00+00:00"
         }
       ],
-      "score": 75.5,
+      "score": 75.4,
       "brief": {
-        "what": "6 recent headlines mention Apple. Latest: How long is a new Apple TV actually supposed to last? There is also a rumor making the rounds: Apple’s HomeView could add security camera features",
-        "why": "Signals: earnings, 9 headlines, volume up. The stock is down 0.9% this week and up 4.3% over the month.",
+        "what": "7 recent headlines mention Apple. Latest: Apple set an iPhone sales record even without a new standard iPhone There is also a rumor making the rounds: Apple is reportedly launching three new iPads early next year",
+        "why": "Signals: earnings, 9 headlines. The stock is down 1.6% this week and up 1.4% over the month.",
         "watch": "Next earnings expected Mon Nov 2. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
     {
-      "ticker": "NET",
-      "name": "Cloudflare",
-      "price": 280.7,
-      "changePct": -13.8,
-      "monthChangePct": -20.0,
-      "catalyst": "Earnings report",
-      "when": "Thu",
-      "signals": [
-        "Earnings",
-        "Big price move",
-        "Volume up"
-      ],
-      "spark": [
-        303.61,
-        325.73,
-        331.86,
-        327.8,
-        318.72,
-        310.3,
-        280.7
-      ],
-      "history": [
-        {
-          "d": "2026-10-01",
-          "c": 351.0
-        },
-        {
-          "d": "2026-10-02",
-          "c": 349.07
-        },
-        {
-          "d": "2026-10-05",
-          "c": 359.49
-        },
-        {
-          "d": "2026-10-06",
-          "c": 355.01
-        },
-        {
-          "d": "2026-10-07",
-          "c": 342.97
-        },
-        {
-          "d": "2026-10-08",
-          "c": 341.89
-        },
-        {
-          "d": "2026-10-09",
-          "c": 360.93
-        },
-        {
-          "d": "2026-10-12",
-          "c": 350.87
-        },
-        {
-          "d": "2026-10-13",
-          "c": 347.7
-        },
-        {
-          "d": "2026-10-14",
-          "c": 324.33
-        },
-        {
-          "d": "2026-10-15",
-          "c": 316.32
-        },
-        {
-          "d": "2026-10-16",
-          "c": 296.3
-        },
-        {
-          "d": "2026-10-19",
-          "c": 297.58
-        },
-        {
-          "d": "2026-10-20",
-          "c": 291.69
-        },
-        {
-          "d": "2026-10-21",
-          "c": 307.22
-        },
-        {
-          "d": "2026-10-22",
-          "c": 303.61
-        },
-        {
-          "d": "2026-10-23",
-          "c": 325.73
-        },
-        {
-          "d": "2026-10-26",
-          "c": 331.86
-        },
-        {
-          "d": "2026-10-27",
-          "c": 327.8
-        },
-        {
-          "d": "2026-10-28",
-          "c": 318.72
-        },
-        {
-          "d": "2026-10-29",
-          "c": 310.3
-        },
-        {
-          "d": "2026-10-30",
-          "c": 280.7
-        }
-      ],
-      "earnings": "2026-11-05",
-      "headlines": [],
-      "score": 63.3,
-      "brief": {
-        "what": "No major headlines about Cloudflare in the last two weeks.",
-        "why": "Signals: earnings, big price move, volume up. The stock is down 13.8% this week and down 20.0% over the month.",
-        "watch": "Next earnings expected Thu Nov 5. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "QCOM",
-      "name": "Qualcomm",
-      "price": 164.79,
-      "changePct": -6.3,
-      "monthChangePct": -9.5,
-      "catalyst": "Earnings report",
-      "when": "Wed",
-      "signals": [
-        "Earnings",
-        "Big price move",
-        "Volume up"
-      ],
-      "spark": [
-        172.83,
-        175.91,
-        179.6,
-        184.17,
-        182.97,
-        185.41,
-        164.79
-      ],
-      "history": [
-        {
-          "d": "2026-10-01",
-          "c": 182.09
-        },
-        {
-          "d": "2026-10-02",
-          "c": 184.87
-        },
-        {
-          "d": "2026-10-05",
-          "c": 180.79
-        },
-        {
-          "d": "2026-10-06",
-          "c": 181.03
-        },
-        {
-          "d": "2026-10-07",
-          "c": 177.12
-        },
-        {
-          "d": "2026-10-08",
-          "c": 176.01
-        },
-        {
-          "d": "2026-10-09",
-          "c": 175.5
-        },
-        {
-          "d": "2026-10-12",
-          "c": 174.43
-        },
-        {
-          "d": "2026-10-13",
-          "c": 176.86
-        },
-        {
-          "d": "2026-10-14",
-          "c": 172.62
-        },
-        {
-          "d": "2026-10-15",
-          "c": 178.4
-        },
-        {
-          "d": "2026-10-16",
-          "c": 172.11
-        },
-        {
-          "d": "2026-10-19",
-          "c": 173.53
-        },
-        {
-          "d": "2026-10-20",
-          "c": 175.71
-        },
-        {
-          "d": "2026-10-21",
-          "c": 177.96
-        },
-        {
-          "d": "2026-10-22",
-          "c": 172.83
-        },
-        {
-          "d": "2026-10-23",
-          "c": 175.91
-        },
-        {
-          "d": "2026-10-26",
-          "c": 179.6
-        },
-        {
-          "d": "2026-10-27",
-          "c": 184.17
-        },
-        {
-          "d": "2026-10-28",
-          "c": 182.97
-        },
-        {
-          "d": "2026-10-29",
-          "c": 185.41
-        },
-        {
-          "d": "2026-10-30",
-          "c": 164.79
-        }
-      ],
-      "earnings": "2026-11-04",
-      "headlines": [],
-      "score": 59.9,
-      "brief": {
-        "what": "No major headlines about Qualcomm in the last two weeks.",
-        "why": "Signals: earnings, big price move, volume up. The stock is down 6.3% this week and down 9.5% over the month.",
-        "watch": "Next earnings expected Wed Nov 4. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "SHOP",
-      "name": "Shopify",
-      "price": 157.49,
-      "changePct": -6.6,
-      "monthChangePct": 5.6,
+      "ticker": "AMD",
+      "name": "AMD",
+      "price": 466.84,
+      "changePct": -12.1,
+      "monthChangePct": -26.4,
       "catalyst": "Earnings report",
       "when": "Tue",
       "signals": [
         "Earnings",
-        "Big price move"
+        "Big price move",
+        "Volume up"
       ],
       "spark": [
-        168.81,
-        168.68,
-        168.18,
-        165.81,
-        168.22,
-        166.89,
-        157.49
+        516.79,
+        531.28,
+        560.26,
+        578.44,
+        566.42,
+        504.8,
+        466.84
       ],
       "history": [
         {
-          "d": "2026-10-01",
-          "c": 149.09
-        },
-        {
           "d": "2026-10-02",
-          "c": 151.39
+          "c": 633.91
         },
         {
           "d": "2026-10-05",
-          "c": 160.11
+          "c": 631.75
         },
         {
           "d": "2026-10-06",
-          "c": 164.44
+          "c": 649.42
         },
         {
           "d": "2026-10-07",
-          "c": 166.03
+          "c": 645.86
         },
         {
           "d": "2026-10-08",
-          "c": 164.56
+          "c": 620.68
         },
         {
           "d": "2026-10-09",
-          "c": 170.85
+          "c": 608.1
         },
         {
           "d": "2026-10-12",
-          "c": 179.22
+          "c": 594.24
         },
         {
           "d": "2026-10-13",
-          "c": 176.52
+          "c": 605.53
         },
         {
           "d": "2026-10-14",
-          "c": 172.5
+          "c": 570.82
         },
         {
           "d": "2026-10-15",
-          "c": 178.14
+          "c": 562.23
         },
         {
           "d": "2026-10-16",
-          "c": 169.52
+          "c": 528.75
         },
         {
           "d": "2026-10-19",
-          "c": 171.06
+          "c": 538.05
         },
         {
           "d": "2026-10-20",
-          "c": 173.48
+          "c": 534.74
         },
         {
           "d": "2026-10-21",
-          "c": 174.29
+          "c": 552.72
         },
         {
           "d": "2026-10-22",
-          "c": 168.81
+          "c": 507.93
         },
         {
           "d": "2026-10-23",
-          "c": 168.68
+          "c": 516.79
         },
         {
           "d": "2026-10-26",
-          "c": 168.18
+          "c": 531.28
         },
         {
           "d": "2026-10-27",
-          "c": 165.81
+          "c": 560.26
         },
         {
           "d": "2026-10-28",
-          "c": 168.22
+          "c": 578.44
         },
         {
           "d": "2026-10-29",
-          "c": 166.89
+          "c": 566.42
         },
         {
           "d": "2026-10-30",
-          "c": 157.49
+          "c": 504.8
+        },
+        {
+          "d": "2026-11-02",
+          "c": 466.84
         }
       ],
       "earnings": "2026-11-03",
       "headlines": [],
-      "score": 55.1,
+      "score": 62.7,
       "brief": {
-        "what": "No major headlines about Shopify in the last two weeks.",
-        "why": "Signals: earnings, big price move. The stock is down 6.6% this week and up 5.6% over the month.",
+        "what": "No major headlines about AMD in the last two weeks.",
+        "why": "Signals: earnings, big price move, volume up. The stock is down 12.1% this week and down 26.4% over the month.",
         "watch": "Next earnings expected Tue Nov 3. Results and guidance usually move the stock most.",
         "ai": false
       }
@@ -913,29 +654,26 @@
     {
       "ticker": "PLTR",
       "name": "Palantir",
-      "price": 184.11,
-      "changePct": -6.4,
-      "monthChangePct": -3.1,
+      "price": 178.34,
+      "changePct": -10.3,
+      "monthChangePct": -5.5,
       "catalyst": "Earnings report",
       "when": "Mon",
       "signals": [
         "Earnings",
-        "Big price move"
+        "Big price move",
+        "Volume up"
       ],
       "spark": [
-        196.19,
         196.75,
         198.84,
         198.73,
         196.81,
         196.42,
-        184.11
+        184.11,
+        178.34
       ],
       "history": [
-        {
-          "d": "2026-10-01",
-          "c": 190.04
-        },
         {
           "d": "2026-10-02",
           "c": 188.75
@@ -1019,15 +757,261 @@
         {
           "d": "2026-10-30",
           "c": 184.11
+        },
+        {
+          "d": "2026-11-02",
+          "c": 178.34
         }
       ],
       "earnings": "2026-11-02",
       "headlines": [],
-      "score": 53.8,
+      "score": 62.5,
       "brief": {
         "what": "No major headlines about Palantir in the last two weeks.",
-        "why": "Signals: earnings, big price move. The stock is down 6.4% this week and down 3.1% over the month.",
+        "why": "Signals: earnings, big price move, volume up. The stock is down 10.3% this week and down 5.5% over the month.",
         "watch": "Next earnings expected Mon Nov 2. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "NET",
+      "name": "Cloudflare",
+      "price": 265.17,
+      "changePct": -20.1,
+      "monthChangePct": -24.0,
+      "catalyst": "Earnings report",
+      "when": "Thu",
+      "signals": [
+        "Earnings",
+        "Big price move"
+      ],
+      "spark": [
+        325.73,
+        331.86,
+        327.8,
+        318.72,
+        310.3,
+        280.7,
+        265.17
+      ],
+      "history": [
+        {
+          "d": "2026-10-02",
+          "c": 349.07
+        },
+        {
+          "d": "2026-10-05",
+          "c": 359.49
+        },
+        {
+          "d": "2026-10-06",
+          "c": 355.01
+        },
+        {
+          "d": "2026-10-07",
+          "c": 342.97
+        },
+        {
+          "d": "2026-10-08",
+          "c": 341.89
+        },
+        {
+          "d": "2026-10-09",
+          "c": 360.93
+        },
+        {
+          "d": "2026-10-12",
+          "c": 350.87
+        },
+        {
+          "d": "2026-10-13",
+          "c": 347.7
+        },
+        {
+          "d": "2026-10-14",
+          "c": 324.33
+        },
+        {
+          "d": "2026-10-15",
+          "c": 316.32
+        },
+        {
+          "d": "2026-10-16",
+          "c": 296.3
+        },
+        {
+          "d": "2026-10-19",
+          "c": 297.58
+        },
+        {
+          "d": "2026-10-20",
+          "c": 291.69
+        },
+        {
+          "d": "2026-10-21",
+          "c": 307.22
+        },
+        {
+          "d": "2026-10-22",
+          "c": 303.61
+        },
+        {
+          "d": "2026-10-23",
+          "c": 325.73
+        },
+        {
+          "d": "2026-10-26",
+          "c": 331.86
+        },
+        {
+          "d": "2026-10-27",
+          "c": 327.8
+        },
+        {
+          "d": "2026-10-28",
+          "c": 318.72
+        },
+        {
+          "d": "2026-10-29",
+          "c": 310.3
+        },
+        {
+          "d": "2026-10-30",
+          "c": 280.7
+        },
+        {
+          "d": "2026-11-02",
+          "c": 265.17
+        }
+      ],
+      "earnings": "2026-11-05",
+      "headlines": [],
+      "score": 61.5,
+      "brief": {
+        "what": "No major headlines about Cloudflare in the last two weeks.",
+        "why": "Signals: earnings, big price move. The stock is down 20.1% this week and down 24.0% over the month.",
+        "watch": "Next earnings expected Thu Nov 5. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "ARM",
+      "name": "Arm Holdings",
+      "price": 196.79,
+      "changePct": -11.9,
+      "monthChangePct": -36.0,
+      "catalyst": "Earnings report",
+      "when": "Wed",
+      "signals": [
+        "Earnings",
+        "Big price move"
+      ],
+      "spark": [
+        210.33,
+        223.35,
+        226.6,
+        235.9,
+        228.77,
+        205.97,
+        196.79
+      ],
+      "history": [
+        {
+          "d": "2026-10-02",
+          "c": 307.49
+        },
+        {
+          "d": "2026-10-05",
+          "c": 302.9
+        },
+        {
+          "d": "2026-10-06",
+          "c": 302.56
+        },
+        {
+          "d": "2026-10-07",
+          "c": 294.37
+        },
+        {
+          "d": "2026-10-08",
+          "c": 275.29
+        },
+        {
+          "d": "2026-10-09",
+          "c": 266.28
+        },
+        {
+          "d": "2026-10-12",
+          "c": 255.24
+        },
+        {
+          "d": "2026-10-13",
+          "c": 255.39
+        },
+        {
+          "d": "2026-10-14",
+          "c": 238.01
+        },
+        {
+          "d": "2026-10-15",
+          "c": 244.79
+        },
+        {
+          "d": "2026-10-16",
+          "c": 227.8
+        },
+        {
+          "d": "2026-10-19",
+          "c": 228.05
+        },
+        {
+          "d": "2026-10-20",
+          "c": 221.06
+        },
+        {
+          "d": "2026-10-21",
+          "c": 226.59
+        },
+        {
+          "d": "2026-10-22",
+          "c": 210.1
+        },
+        {
+          "d": "2026-10-23",
+          "c": 210.33
+        },
+        {
+          "d": "2026-10-26",
+          "c": 223.35
+        },
+        {
+          "d": "2026-10-27",
+          "c": 226.6
+        },
+        {
+          "d": "2026-10-28",
+          "c": 235.9
+        },
+        {
+          "d": "2026-10-29",
+          "c": 228.77
+        },
+        {
+          "d": "2026-10-30",
+          "c": 205.97
+        },
+        {
+          "d": "2026-11-02",
+          "c": 196.79
+        }
+      ],
+      "earnings": "2026-11-04",
+      "headlines": [],
+      "score": 61.4,
+      "brief": {
+        "what": "No major headlines about Arm Holdings in the last two weeks.",
+        "why": "Signals: earnings, big price move. The stock is down 11.9% this week and down 36.0% over the month.",
+        "watch": "Next earnings expected Wed Nov 4. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
