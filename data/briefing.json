@@ -1,12 +1,263 @@
 {
   "weekOf": "2026-11-02",
-  "updated": "2026-11-02T22:50:13+00:00",
+  "updated": "2026-11-03T11:54:45+00:00",
   "summary": [
-    "Devices leads the news with 7 of 25 stories. Top headline: Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-    "Earnings this week from AAPL, AMD, PLTR, NET, ARM.",
+    "AI leads the news with 12 of 25 stories. Top headline: Apple will start mandating age requirements for dating apps",
+    "Earnings this week from NET, AMD, ARM, QCOM, SHOP.",
     "Strongest rumor: SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon"
   ],
   "stories": [
+    {
+      "id": "0ee05bd62d",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-03T10:32:28+00:00",
+      "title": "Apple will start mandating age requirements for dating apps",
+      "summary": "Apple developers will have to declare whether their app enables dating between real people and/or AI companions, so the company can apply the proper age rating.",
+      "url": "https://www.engadget.com/2305017/apple-start-mandating-age-requirements-dating-apps/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "cb9caf328a",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-03T09:21:36+00:00",
+      "title": "Apple's latest watchOS 27 beta enables Siri Recap and Live Rewind audio features",
+      "summary": "First revealed at the company's event in September, Apple's AI-powered Apple Watch features are finally landing in beta.",
+      "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "7f21036e15",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "TechCrunch",
+      "published": "2026-11-03T08:01:00+00:00",
+      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+      "summary": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
+      "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+      "tickers": []
+    },
+    {
+      "id": "f11f80356e",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-03T07:20:00+00:00",
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "e9be741012",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-03T03:30:00+00:00",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "68aff934e0",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-03T01:53:34+00:00",
+      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "summary": "I thought it would be fun to browse HN as if it were a newspaper. The site updates once an hour. Enjoy! Comments URL: https://news.ycombinator.com/item?id=50346981 Points: 310 # Comments: 92",
+      "url": "https://hackertimes.ca/",
+      "tickers": []
+    },
+    {
+      "id": "9ef8b31fdc",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-03T01:49:52+00:00",
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "c38989f622",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-03T01:33:43+00:00",
+      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+      "summary": "Article URL: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio Comments URL: https://news.ycombinator.com/item?id=50346849 Points: 250 # Comments: 50",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "tickers": []
+    },
+    {
+      "id": "9a11fc2bf7",
+      "topic": "Devices",
+      "kind": "Launch",
+      "source": "Engadget",
+      "published": "2026-11-03T01:30:00+00:00",
+      "title": "This Chinese Android phone brand has launched a Harry Potter collab",
+      "summary": "Everything about this latest collectible Android phone is designed to evoke the popular franchise, from its magical packaging to its themed accessories.",
+      "url": "https://www.engadget.com/2300381/chinese-android-phone-brand-realme-harry-potter-collaboration/",
+      "tickers": []
+    },
+    {
+      "id": "954110b80f",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-11-03T01:12:55+00:00",
+      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+      "summary": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.",
+      "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+      "tickers": []
+    },
+    {
+      "id": "60a7e8092e",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-03T00:35:52+00:00",
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "tickers": []
+    },
+    {
+      "id": "52390f006d",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-03T00:30:00+00:00",
+      "title": "Is it actually safe to charge your iPhone at airport USB ports?",
+      "summary": "Using a random USB charger can be unsafe, even though the risk is minimal. Thankfully, you have ways to protect your devices.",
+      "url": "https://www.engadget.com/2279347/is-it-safe-to-charge-phone-with-airport-usb-port/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "53dca6f4a8",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-03T00:14:51+00:00",
+      "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+      "summary": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.",
+      "url": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
+      "tickers": []
+    },
+    {
+      "id": "1f22f1d094",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-03T00:00:00+00:00",
+      "title": "The reason why some iPhone calls don't have a decline option, and others do",
+      "summary": "Sometimes your iPhone lets you decline a call and sometimes it doesn't. Here's why that happens, and a few easy ways to handle the calls you'd rather skip.",
+      "url": "https://www.engadget.com/2300377/some-iphone-calls-decline-option-reason-why/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "7d78ad10dd",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-02T23:47:56+00:00",
+      "title": "Scaling Git at OpenAI",
+      "summary": "Article URL: https://openai.com/index/scaling-git-at-openai/ Comments URL: https://news.ycombinator.com/item?id=50345924 Points: 236 # Comments: 159",
+      "url": "https://openai.com/index/scaling-git-at-openai/",
+      "tickers": []
+    },
+    {
+      "id": "6e7925f5a8",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-02T23:30:00+00:00",
+      "title": "Why it's important to never plug power strips into each other",
+      "summary": "Power strips are lifesavers when you don't have enough outlets to power all of your electronics and some also offer protection from power surges.",
+      "url": "https://www.engadget.com/2300370/why-important-never-plug-power-strip-each-other/",
+      "tickers": []
+    },
+    {
+      "id": "816a7751f8",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-02T23:25:32+00:00",
+      "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
+      "summary": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.",
+      "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "230703540a",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-11-02T23:13:53+00:00",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "summary": "The one-year-old startup is now valued at $300 million.",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "tickers": []
+    },
+    {
+      "id": "9cd86b535b",
+      "topic": "Chips",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-02T23:04:57+00:00",
+      "title": "Apple’s inventory surges 154% as memory chip costs climb",
+      "summary": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
+      "url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "ec542c1371",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-02T23:00:00+00:00",
+      "title": "How to use your phone's camera to translate anything",
+      "summary": "With the aid of a quick picture, you can use your phone's camera to translate pretty much any text while you're traveling across the globe.",
+      "url": "https://www.engadget.com/2300368/how-to-use-phone-camera-built-in-translation-feature-google/",
+      "tickers": []
+    },
+    {
+      "id": "2e77778a02",
+      "topic": "Devices",
+      "kind": "Founder",
+      "source": "The Verge",
+      "published": "2026-11-02T22:56:11+00:00",
+      "title": "Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around",
+      "summary": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"working hard to get it to as many customers as quickly as possible, but at this ​point, we're not able to predict when…",
+      "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
+      "tickers": [
+        "AAPL"
+      ]
+    },
     {
       "id": "1aaa0e645c",
       "topic": "AI",
@@ -25,7 +276,7 @@
       "source": "The Verge",
       "published": "2026-11-02T22:02:36+00:00",
       "title": "Apple set an iPhone sales record even without a new standard iPhone",
-      "summary": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iPhone revenue, marking a 17 percent jump from the same time…",
+      "summary": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iPhone revenue, a 17 percent jump from the same time last…",
       "url": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
       "tickers": [
         "AAPL"
@@ -43,262 +294,14 @@
       "tickers": []
     },
     {
-      "id": "4b3c2a6037",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-02T20:37:49+00:00",
-      "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
-      "summary": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co.…",
-      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "445836d0b9",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-11-02T20:03:52+00:00",
-      "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
-      "summary": "BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow. The new system can help steer, speed up, and slow down the vehicle on both highways and…",
-      "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
-      "tickers": [
-        "TSLA"
-      ]
-    },
-    {
-      "id": "cc8b0c7bfc",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-02T19:45:54+00:00",
-      "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
-      "summary": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
-      "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "5471c751fd",
+      "id": "b79b92fe87",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-02T19:41:36+00:00",
-      "title": "Casio's new keyboard lets anyone play along to songs without ever hitting a wrong note",
-      "summary": "Casio's new Feel Sync technology helps keep new players in tune.",
-      "url": "https://www.engadget.com/2304552/casio-new-keyboard-lets-anyone-play-along-to-songs-without-ever-hitting-a-wrong-note/",
-      "tickers": []
-    },
-    {
-      "id": "a339d4734a",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-02T19:30:00+00:00",
-      "title": "Your Apple AirPods' chirping noise doesn't just mean low battery",
-      "summary": "Learn why your Apple AirPods are making a noise - and how to turn the sound off.",
-      "url": "https://www.engadget.com/2300367/what-apple-airpods-chirping-noise-means-battery/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "563b870052",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-02T19:25:59+00:00",
-      "title": "Web host Squarespace lays off 19% of its employees",
-      "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
-      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-      "tickers": []
-    },
-    {
-      "id": "a3e5f24b8a",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-02T19:24:09+00:00",
-      "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
-      "summary": "The Apple Watch Ultra 4 is the company’s most capable smartwatch. Whether you intend to put its many tracking features to the test, or you simply want the longest battery life of any Apple Watch, it’s currently on sale for $699.99 ($100 off) in multiple colors at Amazon…",
-      "url": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
-      "tickers": [
-        "AAPL",
-        "AMZN"
-      ]
-    },
-    {
-      "id": "bd3e7d8841",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-02T19:19:17+00:00",
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
-      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "tickers": []
-    },
-    {
-      "id": "2ecb66e51b",
-      "topic": "Policy",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-02T19:11:49+00:00",
-      "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
-      "summary": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.",
-      "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
-      "tickers": []
-    },
-    {
-      "id": "df3e7746aa",
-      "topic": "Policy",
-      "kind": "Founder",
-      "source": "Engadget",
-      "published": "2026-11-02T19:09:53+00:00",
-      "title": "Snap settles social media addiction lawsuit to avoid trial",
-      "summary": "Snap CEO Evan Spiegel was due to testify in the upcoming trial.",
-      "url": "https://www.engadget.com/2304464/snap-settles-social-media-addiction-lawsuit-to-avoid-trial/",
-      "tickers": []
-    },
-    {
-      "id": "afdad48061",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-02T19:05:46+00:00",
-      "title": "Ford promises not to sell your driving habits to data brokers",
-      "summary": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing telematics with data brokers without authorization. As part…",
-      "url": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
-      "tickers": []
-    },
-    {
-      "id": "f0b0ffb3c5",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-02T19:00:00+00:00",
-      "title": "Why some websites are blocking AI agents from accessing the web",
-      "summary": "AI agents can be a great tool to help make purchases for you online - but it can become a frustrating problem if the website you're using blocks their access.",
-      "url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/",
-      "tickers": []
-    },
-    {
-      "id": "0d283f7363",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-02T18:56:02+00:00",
-      "title": "Anthropic clamps down on Claude’s AI video game clones",
-      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "tickers": []
-    },
-    {
-      "id": "f4f7860e13",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-02T18:43:24+00:00",
-      "title": "Xbox’s former COO has ‘serious concerns’ about her abrupt departure",
-      "summary": "Xbox's former chief operating officer, Helen Chiang, suddenly left Microsoft less than two weeks ago after being promoted into the role in July. I wrote in my Notepad newsletter last week that it seemed very weird for Chiang to suddenly depart Microsoft after 21 years with a…",
-      "url": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments",
-      "tickers": [
-        "MSFT"
-      ]
-    },
-    {
-      "id": "efac8b1ce9",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "Hacker News",
-      "published": "2026-11-02T18:39:38+00:00",
-      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-      "summary": "Article URL: https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432 Comments URL: https://news.ycombinator.com/item?id=50341462 Points: 202 # Comments: 34",
-      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
-      "tickers": []
-    },
-    {
-      "id": "2e6634e8b1",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-02T18:21:28+00:00",
-      "title": "Astra can read and write weights to improve Qwen",
-      "summary": "Article URL: https://rikiyat.github.io/blog/weight-space-programming/ Comments URL: https://news.ycombinator.com/item?id=50341174 Points: 1444 # Comments: 465",
-      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-      "tickers": []
-    },
-    {
-      "id": "915d4aca41",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-02T18:15:00+00:00",
-      "title": "Think twice before putting your gaming console inside a cabinet",
-      "summary": "A cabinet might seem like a convenient spot for your console, but it can't provide enough airflow for the system to run safely.",
-      "url": "https://www.engadget.com/2302571/think-twice-before-putting-gaming-console-inside-cabinet/",
-      "tickers": []
-    },
-    {
-      "id": "0f4d760df0",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-02T18:01:30+00:00",
-      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-      "tickers": []
-    },
-    {
-      "id": "70c6c911d1",
-      "topic": "Chips",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-02T17:54:11+00:00",
-      "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
-      "summary": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
-      "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "fde84a7d8c",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-02T17:49:41+00:00",
-      "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
-      "summary": "Readwise Books combines an e-book store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
-      "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
-      "tickers": [
-        "AMZN"
-      ]
-    },
-    {
-      "id": "b7197681f6",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-02T17:45:00+00:00",
-      "title": "This Samsung Galaxy problem sadly still exists in 2026, but you can easily fix it",
-      "summary": "Your premium Samsung Galaxy phone likely has a bunch of preinstalled software you don't want that just takes up space.",
-      "url": "https://www.engadget.com/2300355/samsung-galaxy-phones-bloatware-problem-easy-fix/",
-      "tickers": []
-    },
-    {
-      "id": "176cd5f3f2",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-02T17:16:17+00:00",
-      "title": "Show HN: Subvocal – Talk to your computer without making noise",
-      "summary": "Hi HN, we're Aarush and Arnav from The Subvocal Company (YC F26) ( https://subvocal.company/ ). We’re building smart glasses that let you talk to your computer without talking out loud. You can mouth words silently and discreetly and the glasses decode them to text at the speed…",
-      "url": "https://news.ycombinator.com/item?id=50340088",
+      "published": "2026-11-02T21:00:00+00:00",
+      "title": "How long could HDDs and SSDs remain expensive?",
+      "summary": "Thanks to shortages of microchips and other computer components, we've been experiencing high prices for years.",
+      "url": "https://www.engadget.com/2302215/how-long-hdd-ssd-stay-expensive/",
       "tickers": []
     }
   ],
@@ -316,22 +319,6 @@
       "days": 0,
       "tickers": [],
       "score": 29
-    },
-    {
-      "id": "5129f1ae06",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Apple is reportedly launching three new iPads early next year",
-      "detail": "Follow its iPad mini launch last week, Apple may unveil three new iPad models early next year.",
-      "url": "https://www.engadget.com/2303590/apple-is-reportedly-launching-three-new-ipads-early-next-year/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [
-        "AAPL"
-      ],
-      "score": 15
     },
     {
       "id": "4db64ba25c",
@@ -355,177 +342,134 @@
       "detail": "submitted by /u/Hi_all_hwru [link] [comments]",
       "url": "https://www.reddit.com/r/technology/comments/1xlwkog/spotify_plans_to_let_users_remix_artists_songs/",
       "sources": 1,
-      "mentions": 1,
+      "mentions": 2,
       "credible": 0,
       "days": 0,
       "tickers": [
         "SPOT"
       ],
-      "score": 8
+      "score": 11
     }
   ],
   "watchlist": [
     {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "price": 338.32,
-      "changePct": -1.6,
-      "monthChangePct": 1.4,
+      "ticker": "NET",
+      "name": "Cloudflare",
+      "price": 265.17,
+      "changePct": -20.1,
+      "monthChangePct": -24.0,
       "catalyst": "Earnings report",
-      "when": "Mon",
+      "when": "Thu",
       "signals": [
         "Earnings",
-        "9 headlines"
+        "Big price move"
       ],
       "spark": [
-        347.73,
-        343.91,
-        347.1,
-        343.83,
-        348.91,
-        344.63,
-        338.32
+        325.73,
+        331.86,
+        327.8,
+        318.72,
+        310.3,
+        280.7,
+        265.17
       ],
       "history": [
         {
           "d": "2026-10-02",
-          "c": 333.69
+          "c": 349.07
         },
         {
           "d": "2026-10-05",
-          "c": 332.89
+          "c": 359.49
         },
         {
           "d": "2026-10-06",
-          "c": 333.63
+          "c": 355.01
         },
         {
           "d": "2026-10-07",
-          "c": 336.67
+          "c": 342.97
         },
         {
           "d": "2026-10-08",
-          "c": 340.42
+          "c": 341.89
         },
         {
           "d": "2026-10-09",
-          "c": 336.64
+          "c": 360.93
         },
         {
           "d": "2026-10-12",
-          "c": 340.97
+          "c": 350.87
         },
         {
           "d": "2026-10-13",
-          "c": 341.27
+          "c": 347.7
         },
         {
           "d": "2026-10-14",
-          "c": 342.96
+          "c": 324.33
         },
         {
           "d": "2026-10-15",
-          "c": 342.0
+          "c": 316.32
         },
         {
           "d": "2026-10-16",
-          "c": 343.46
+          "c": 296.3
         },
         {
           "d": "2026-10-19",
-          "c": 342.94
+          "c": 297.58
         },
         {
           "d": "2026-10-20",
-          "c": 339.5
+          "c": 291.69
         },
         {
           "d": "2026-10-21",
-          "c": 343.99
+          "c": 307.22
         },
         {
           "d": "2026-10-22",
-          "c": 348.22
+          "c": 303.61
         },
         {
           "d": "2026-10-23",
-          "c": 347.73
+          "c": 325.73
         },
         {
           "d": "2026-10-26",
-          "c": 343.91
+          "c": 331.86
         },
         {
           "d": "2026-10-27",
-          "c": 347.1
+          "c": 327.8
         },
         {
           "d": "2026-10-28",
-          "c": 343.83
+          "c": 318.72
         },
         {
           "d": "2026-10-29",
-          "c": 348.91
+          "c": 310.3
         },
         {
           "d": "2026-10-30",
-          "c": 344.63
+          "c": 280.7
         },
         {
           "d": "2026-11-02",
-          "c": 338.32
+          "c": 265.17
         }
       ],
-      "earnings": "2026-11-02",
-      "headlines": [
-        {
-          "title": "Apple set an iPhone sales record even without a new standard iPhone",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
-          "published": "2026-11-02T22:02:36+00:00"
-        },
-        {
-          "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
-          "published": "2026-11-02T19:45:54+00:00"
-        },
-        {
-          "title": "Your Apple AirPods' chirping noise doesn't just mean low battery",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2300367/what-apple-airpods-chirping-noise-means-battery/",
-          "published": "2026-11-02T19:30:00+00:00"
-        },
-        {
-          "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
-          "published": "2026-11-02T19:24:09+00:00"
-        },
-        {
-          "title": "One annoying problem with the iPhone Messages app has an easy fix",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2300351/one-problem-iphone-messages-additional-options-easy-fix/",
-          "published": "2026-11-02T16:45:00+00:00"
-        },
-        {
-          "title": "How long is a new Apple TV actually supposed to last?",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2300332/how-long-new-apple-tv-last-lifespan/",
-          "published": "2026-11-02T01:30:00+00:00"
-        },
-        {
-          "title": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
-          "published": "2026-10-30T15:00:00+00:00"
-        }
-      ],
-      "score": 75.4,
+      "earnings": "2026-11-05",
+      "headlines": [],
+      "score": 66.5,
       "brief": {
-        "what": "7 recent headlines mention Apple. Latest: Apple set an iPhone sales record even without a new standard iPhone There is also a rumor making the rounds: Apple is reportedly launching three new iPads early next year",
-        "why": "Signals: earnings, 9 headlines. The stock is down 1.6% this week and up 1.4% over the month.",
-        "watch": "Next earnings expected Mon Nov 2. Results and guidance usually move the stock most.",
+        "what": "No major headlines about Cloudflare in the last two weeks.",
+        "why": "Signals: earnings, big price move. The stock is down 20.1% this week and down 24.0% over the month.",
+        "watch": "Next earnings expected Thu Nov 5. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
@@ -643,254 +587,11 @@
       ],
       "earnings": "2026-11-03",
       "headlines": [],
-      "score": 62.7,
+      "score": 62.8,
       "brief": {
         "what": "No major headlines about AMD in the last two weeks.",
         "why": "Signals: earnings, big price move, volume up. The stock is down 12.1% this week and down 26.4% over the month.",
         "watch": "Next earnings expected Tue Nov 3. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "PLTR",
-      "name": "Palantir",
-      "price": 178.34,
-      "changePct": -10.3,
-      "monthChangePct": -5.5,
-      "catalyst": "Earnings report",
-      "when": "Mon",
-      "signals": [
-        "Earnings",
-        "Big price move",
-        "Volume up"
-      ],
-      "spark": [
-        196.75,
-        198.84,
-        198.73,
-        196.81,
-        196.42,
-        184.11,
-        178.34
-      ],
-      "history": [
-        {
-          "d": "2026-10-02",
-          "c": 188.75
-        },
-        {
-          "d": "2026-10-05",
-          "c": 189.4
-        },
-        {
-          "d": "2026-10-06",
-          "c": 192.07
-        },
-        {
-          "d": "2026-10-07",
-          "c": 194.12
-        },
-        {
-          "d": "2026-10-08",
-          "c": 198.78
-        },
-        {
-          "d": "2026-10-09",
-          "c": 209.05
-        },
-        {
-          "d": "2026-10-12",
-          "c": 209.0
-        },
-        {
-          "d": "2026-10-13",
-          "c": 208.67
-        },
-        {
-          "d": "2026-10-14",
-          "c": 200.97
-        },
-        {
-          "d": "2026-10-15",
-          "c": 200.5
-        },
-        {
-          "d": "2026-10-16",
-          "c": 186.03
-        },
-        {
-          "d": "2026-10-19",
-          "c": 194.15
-        },
-        {
-          "d": "2026-10-20",
-          "c": 192.6
-        },
-        {
-          "d": "2026-10-21",
-          "c": 201.72
-        },
-        {
-          "d": "2026-10-22",
-          "c": 196.19
-        },
-        {
-          "d": "2026-10-23",
-          "c": 196.75
-        },
-        {
-          "d": "2026-10-26",
-          "c": 198.84
-        },
-        {
-          "d": "2026-10-27",
-          "c": 198.73
-        },
-        {
-          "d": "2026-10-28",
-          "c": 196.81
-        },
-        {
-          "d": "2026-10-29",
-          "c": 196.42
-        },
-        {
-          "d": "2026-10-30",
-          "c": 184.11
-        },
-        {
-          "d": "2026-11-02",
-          "c": 178.34
-        }
-      ],
-      "earnings": "2026-11-02",
-      "headlines": [],
-      "score": 62.5,
-      "brief": {
-        "what": "No major headlines about Palantir in the last two weeks.",
-        "why": "Signals: earnings, big price move, volume up. The stock is down 10.3% this week and down 5.5% over the month.",
-        "watch": "Next earnings expected Mon Nov 2. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "NET",
-      "name": "Cloudflare",
-      "price": 265.17,
-      "changePct": -20.1,
-      "monthChangePct": -24.0,
-      "catalyst": "Earnings report",
-      "when": "Thu",
-      "signals": [
-        "Earnings",
-        "Big price move"
-      ],
-      "spark": [
-        325.73,
-        331.86,
-        327.8,
-        318.72,
-        310.3,
-        280.7,
-        265.17
-      ],
-      "history": [
-        {
-          "d": "2026-10-02",
-          "c": 349.07
-        },
-        {
-          "d": "2026-10-05",
-          "c": 359.49
-        },
-        {
-          "d": "2026-10-06",
-          "c": 355.01
-        },
-        {
-          "d": "2026-10-07",
-          "c": 342.97
-        },
-        {
-          "d": "2026-10-08",
-          "c": 341.89
-        },
-        {
-          "d": "2026-10-09",
-          "c": 360.93
-        },
-        {
-          "d": "2026-10-12",
-          "c": 350.87
-        },
-        {
-          "d": "2026-10-13",
-          "c": 347.7
-        },
-        {
-          "d": "2026-10-14",
-          "c": 324.33
-        },
-        {
-          "d": "2026-10-15",
-          "c": 316.32
-        },
-        {
-          "d": "2026-10-16",
-          "c": 296.3
-        },
-        {
-          "d": "2026-10-19",
-          "c": 297.58
-        },
-        {
-          "d": "2026-10-20",
-          "c": 291.69
-        },
-        {
-          "d": "2026-10-21",
-          "c": 307.22
-        },
-        {
-          "d": "2026-10-22",
-          "c": 303.61
-        },
-        {
-          "d": "2026-10-23",
-          "c": 325.73
-        },
-        {
-          "d": "2026-10-26",
-          "c": 331.86
-        },
-        {
-          "d": "2026-10-27",
-          "c": 327.8
-        },
-        {
-          "d": "2026-10-28",
-          "c": 318.72
-        },
-        {
-          "d": "2026-10-29",
-          "c": 310.3
-        },
-        {
-          "d": "2026-10-30",
-          "c": 280.7
-        },
-        {
-          "d": "2026-11-02",
-          "c": 265.17
-        }
-      ],
-      "earnings": "2026-11-05",
-      "headlines": [],
-      "score": 61.5,
-      "brief": {
-        "what": "No major headlines about Cloudflare in the last two weeks.",
-        "why": "Signals: earnings, big price move. The stock is down 20.1% this week and down 24.0% over the month.",
-        "watch": "Next earnings expected Thu Nov 5. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
@@ -1012,6 +713,249 @@
         "what": "No major headlines about Arm Holdings in the last two weeks.",
         "why": "Signals: earnings, big price move. The stock is down 11.9% this week and down 36.0% over the month.",
         "watch": "Next earnings expected Wed Nov 4. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "QCOM",
+      "name": "Qualcomm",
+      "price": 162.08,
+      "changePct": -9.8,
+      "monthChangePct": -12.3,
+      "catalyst": "Earnings report",
+      "when": "Wed",
+      "signals": [
+        "Earnings",
+        "Big price move"
+      ],
+      "spark": [
+        175.91,
+        179.6,
+        184.17,
+        182.97,
+        185.41,
+        164.79,
+        162.08
+      ],
+      "history": [
+        {
+          "d": "2026-10-02",
+          "c": 184.87
+        },
+        {
+          "d": "2026-10-05",
+          "c": 180.79
+        },
+        {
+          "d": "2026-10-06",
+          "c": 181.03
+        },
+        {
+          "d": "2026-10-07",
+          "c": 177.12
+        },
+        {
+          "d": "2026-10-08",
+          "c": 176.01
+        },
+        {
+          "d": "2026-10-09",
+          "c": 175.5
+        },
+        {
+          "d": "2026-10-12",
+          "c": 174.43
+        },
+        {
+          "d": "2026-10-13",
+          "c": 176.86
+        },
+        {
+          "d": "2026-10-14",
+          "c": 172.62
+        },
+        {
+          "d": "2026-10-15",
+          "c": 178.4
+        },
+        {
+          "d": "2026-10-16",
+          "c": 172.11
+        },
+        {
+          "d": "2026-10-19",
+          "c": 173.53
+        },
+        {
+          "d": "2026-10-20",
+          "c": 175.71
+        },
+        {
+          "d": "2026-10-21",
+          "c": 177.96
+        },
+        {
+          "d": "2026-10-22",
+          "c": 172.83
+        },
+        {
+          "d": "2026-10-23",
+          "c": 175.91
+        },
+        {
+          "d": "2026-10-26",
+          "c": 179.6
+        },
+        {
+          "d": "2026-10-27",
+          "c": 184.17
+        },
+        {
+          "d": "2026-10-28",
+          "c": 182.97
+        },
+        {
+          "d": "2026-10-29",
+          "c": 185.41
+        },
+        {
+          "d": "2026-10-30",
+          "c": 164.79
+        },
+        {
+          "d": "2026-11-02",
+          "c": 162.08
+        }
+      ],
+      "earnings": "2026-11-04",
+      "headlines": [],
+      "score": 59.7,
+      "brief": {
+        "what": "No major headlines about Qualcomm in the last two weeks.",
+        "why": "Signals: earnings, big price move. The stock is down 9.8% this week and down 12.3% over the month.",
+        "watch": "Next earnings expected Wed Nov 4. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "SHOP",
+      "name": "Shopify",
+      "price": 156.22,
+      "changePct": -7.1,
+      "monthChangePct": 3.2,
+      "catalyst": "Earnings report",
+      "when": "Tue",
+      "signals": [
+        "Earnings",
+        "Big price move",
+        "Volume up"
+      ],
+      "spark": [
+        168.68,
+        168.18,
+        165.81,
+        168.22,
+        166.89,
+        157.49,
+        156.22
+      ],
+      "history": [
+        {
+          "d": "2026-10-02",
+          "c": 151.39
+        },
+        {
+          "d": "2026-10-05",
+          "c": 160.11
+        },
+        {
+          "d": "2026-10-06",
+          "c": 164.44
+        },
+        {
+          "d": "2026-10-07",
+          "c": 166.03
+        },
+        {
+          "d": "2026-10-08",
+          "c": 164.56
+        },
+        {
+          "d": "2026-10-09",
+          "c": 170.85
+        },
+        {
+          "d": "2026-10-12",
+          "c": 179.22
+        },
+        {
+          "d": "2026-10-13",
+          "c": 176.52
+        },
+        {
+          "d": "2026-10-14",
+          "c": 172.5
+        },
+        {
+          "d": "2026-10-15",
+          "c": 178.14
+        },
+        {
+          "d": "2026-10-16",
+          "c": 169.52
+        },
+        {
+          "d": "2026-10-19",
+          "c": 171.06
+        },
+        {
+          "d": "2026-10-20",
+          "c": 173.48
+        },
+        {
+          "d": "2026-10-21",
+          "c": 174.29
+        },
+        {
+          "d": "2026-10-22",
+          "c": 168.81
+        },
+        {
+          "d": "2026-10-23",
+          "c": 168.68
+        },
+        {
+          "d": "2026-10-26",
+          "c": 168.18
+        },
+        {
+          "d": "2026-10-27",
+          "c": 165.81
+        },
+        {
+          "d": "2026-10-28",
+          "c": 168.22
+        },
+        {
+          "d": "2026-10-29",
+          "c": 166.89
+        },
+        {
+          "d": "2026-10-30",
+          "c": 157.49
+        },
+        {
+          "d": "2026-11-02",
+          "c": 156.22
+        }
+      ],
+      "earnings": "2026-11-03",
+      "headlines": [],
+      "score": 57.9,
+      "brief": {
+        "what": "No major headlines about Shopify in the last two weeks.",
+        "why": "Signals: earnings, big price move, volume up. The stock is down 7.1% this week and up 3.2% over the month.",
+        "watch": "Next earnings expected Tue Nov 3. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
