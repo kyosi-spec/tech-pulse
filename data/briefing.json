@@ -1,12 +1,187 @@
 {
   "weekOf": "2026-11-02",
-  "updated": "2026-11-05T22:54:32+00:00",
+  "updated": "2026-11-06T11:58:20+00:00",
   "summary": [
-    "Tech leads the news with 12 of 25 stories. Top headline: Airbnb says it’s launching an AI travel agent in the first half of 2027",
-    "Earnings this week from NET.",
-    "Strongest rumor: Blue Origin’s next launch now won’t happen until 2027"
+    "Tech leads the news with 11 of 25 stories. Top headline: Protesters break into Microsoft data center site in Amsterdam",
+    "Biggest catalyst on the watchlist: TSLA, tesla will stop making the cybertruck in 2027.",
+    "Strongest rumor: The New York Times is in talks to buy Letterboxd for around $330 million"
   ],
   "stories": [
+    {
+      "id": "9ead7e9d74",
+      "topic": "Cloud",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-06T11:55:19+00:00",
+      "title": "Protesters break into Microsoft data center site in Amsterdam",
+      "summary": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports…",
+      "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+      "tickers": [
+        "MSFT"
+      ]
+    },
+    {
+      "id": "35c35322ed",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-06T11:50:10+00:00",
+      "title": "Tesla will stop making the Cybertruck in 2027",
+      "summary": "Elon Musk said the company will use the factory space to make more Cybercabs.",
+      "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+      "tickers": [
+        "TSLA"
+      ]
+    },
+    {
+      "id": "d88bf6ea72",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-06T11:40:53+00:00",
+      "title": "Tesla is 'winding down' Cybertruck production at its Texas Gigafactory",
+      "summary": "Tesla Cybertruck production will wind down in the middle of 2027 to make room for the Cybercab robotaxi.",
+      "url": "https://www.engadget.com/2308875/tesla-is-winding-down-cybertruck-production-at-its-texas-gigafactory/",
+      "tickers": [
+        "TSLA"
+      ]
+    },
+    {
+      "id": "ce61432c82",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "Engadget",
+      "published": "2026-11-06T11:18:59+00:00",
+      "title": "Perplexity's 'teammates' are the company's AI agents for daily work tasks",
+      "summary": "Perplexity launches personal AI agents that can act as your 'teammates.'",
+      "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
+      "tickers": []
+    },
+    {
+      "id": "f28b07933f",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "Engadget",
+      "published": "2026-11-06T07:51:42+00:00",
+      "title": "Airbnb is threatening to launch an AI travel agent next year",
+      "summary": "Airbnb is developing an AI travel agent that it says will eventually be able to help plan your whole trip.",
+      "url": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/",
+      "tickers": []
+    },
+    {
+      "id": "cfe0ed84c0",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-06T07:40:35+00:00",
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "summary": "Article URL: https://github.com/ppmpreetham/BUI Comments URL: https://news.ycombinator.com/item?id=50389333 Points: 262 # Comments: 104",
+      "url": "https://github.com/ppmpreetham/BUI",
+      "tickers": []
+    },
+    {
+      "id": "e69ae3b8f9",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-06T07:22:04+00:00",
+      "title": "Britain to make salary disclosure in job ads mandatory",
+      "summary": "Article URL: https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/ Comments URL: https://news.ycombinator.com/item?id=50389222 Points: 237 # Comments: 229",
+      "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+      "tickers": []
+    },
+    {
+      "id": "d10aa9cb12",
+      "topic": "Security",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-06T07:18:44+00:00",
+      "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
+      "summary": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns.",
+      "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
+      "tickers": []
+    },
+    {
+      "id": "c282d2791f",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-06T03:27:14+00:00",
+      "title": "Pwn.college",
+      "summary": "Article URL: https://pwn.college/ Comments URL: https://news.ycombinator.com/item?id=50387796 Points: 173 # Comments: 22",
+      "url": "https://pwn.college/",
+      "tickers": []
+    },
+    {
+      "id": "8956cfab74",
+      "topic": "Cloud",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-11-06T00:37:56+00:00",
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "tickers": []
+    },
+    {
+      "id": "379934e546",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-06T00:01:38+00:00",
+      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+      "summary": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
+      "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "53e37f550b",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-06T00:00:24+00:00",
+      "title": "Inkling 2 Small",
+      "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-small/ Comments URL: https://news.ycombinator.com/item?id=50386338 Points: 214 # Comments: 70",
+      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "tickers": []
+    },
+    {
+      "id": "18f09d7fdd",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-11-05T23:17:10+00:00",
+      "title": "T-Mobile owner on Elon Musk launching a wireless carrier: ‘Welcome to the party’",
+      "summary": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim Höttges says he takes the Elon Musk-owned company \"super serious,\" but that it will cost at…",
+      "url": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
+      "tickers": []
+    },
+    {
+      "id": "c6e6086fc4",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-05T23:09:57+00:00",
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 366 # Comments: 176",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "tickers": [
+        "META"
+      ]
+    },
+    {
+      "id": "7dbfce9c56",
+      "topic": "Security",
+      "kind": "Company",
+      "source": "Ars Technica",
+      "published": "2026-11-05T23:09:36+00:00",
+      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+      "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+      "tickers": []
+    },
     {
       "id": "ab1c761f9a",
       "topic": "AI",
@@ -19,14 +194,14 @@
       "tickers": []
     },
     {
-      "id": "f6cf65a6fd",
+      "id": "c7ccbc97cd",
       "topic": "AI",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-11-05T22:26:50+00:00",
-      "title": "Perplexity launches its own take on AI agents for work",
-      "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-05T22:17:15+00:00",
+      "title": "Claude Code sends your email address to websites",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 1216 # Comments: 384",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
       "tickers": []
     },
     {
@@ -117,186 +292,40 @@
       "source": "Hacker News",
       "published": "2026-11-05T20:43:42+00:00",
       "title": "MS Paint Remote Code Execution Vulnerability",
-      "summary": "Article URL: https://www.cve.org/CVERecord?id=CVE-2026-83844 Comments URL: https://news.ycombinator.com/item?id=50384233 Points: 157 # Comments: 44",
+      "summary": "Article URL: https://www.cve.org/CVERecord?id=CVE-2026-83844 Comments URL: https://news.ycombinator.com/item?id=50384233 Points: 567 # Comments: 206",
       "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-      "tickers": []
-    },
-    {
-      "id": "cbd96490ae",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-05T20:33:13+00:00",
-      "title": "A BioWare documentary is set to arrive next year",
-      "summary": "Massive Effect: The BioWare Story started filming two years before EA shut down the studio.",
-      "url": "https://www.engadget.com/2308483/a-bioware-documentary-is-set-to-arrive-next-year/",
-      "tickers": []
-    },
-    {
-      "id": "7c6427ce62",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-05T20:03:34+00:00",
-      "title": "Kagi Search for Everyone",
-      "summary": "Article URL: https://kagi.com/changelog Comments URL: https://news.ycombinator.com/item?id=50383740 Points: 283 # Comments: 147",
-      "url": "https://kagi.com/changelog",
-      "tickers": []
-    },
-    {
-      "id": "1b499dd055",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-05T20:03:29+00:00",
-      "title": "Goodbye from Salon",
-      "summary": "Article URL: https://www.salon.com/2026/11/05/goodbye-from-salon/ Comments URL: https://news.ycombinator.com/item?id=50383739 Points: 280 # Comments: 101",
-      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
-      "tickers": []
-    },
-    {
-      "id": "aaedb7a3ea",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "Engadget",
-      "published": "2026-11-05T19:58:23+00:00",
-      "title": "TikTok just released a standalone Shop app, but it's not in America just yet",
-      "summary": "It offers exclusive deals and other goodies.",
-      "url": "https://www.engadget.com/2308419/tiktok-just-released-a-standalone-shop-app-but-its-not-in-america-just-yet/",
-      "tickers": []
-    },
-    {
-      "id": "c2ec66a5ad",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "Engadget",
-      "published": "2026-11-05T19:52:39+00:00",
-      "title": "The Xbox PC app is getting a speed boost",
-      "summary": "The updated app, rolling out to Xbox Insiders first, launches up to 60 percent faster.",
-      "url": "https://www.engadget.com/2308407/the-xbox-pc-app-is-getting-a-speed-boost/",
-      "tickers": []
-    },
-    {
-      "id": "c2f8777750",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-11-05T19:48:28+00:00",
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "tickers": []
-    },
-    {
-      "id": "91a3d26c8b",
-      "topic": "Devices",
-      "kind": "Launch",
-      "source": "Engadget",
-      "published": "2026-11-05T19:39:01+00:00",
-      "title": "Warby Parker seemingly spilled the beans on Google's Android XR smart glasses launch",
-      "summary": "\"Intelligent Eyewear\" is apparently only a week away.",
-      "url": "https://www.engadget.com/2308376/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "3253f9dc40",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-05T19:16:43+00:00",
-      "title": "The FAA is finally phasing out floppy disks from air traffic control",
-      "summary": "Seems about time for an upgrade.",
-      "url": "https://www.engadget.com/2308330/the-faa-is-finally-phasing-out-floppy-disks-from-air-traffic-control/",
-      "tickers": []
-    },
-    {
-      "id": "652194d628",
-      "topic": "Devices",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-11-05T19:12:58+00:00",
-      "title": "Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
-      "summary": "Android fans with a bit of iPhone Duo envy, take note: The Samsung Galaxy Z Fold 8 is discounted to $1,599.99 at both Amazon and Best Buy, a hefty $300 markdown from its usual price, and just $50 higher than the lowest we’ve seen. Considering the device only launched a few…",
-      "url": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale",
-      "tickers": [
-        "AAPL",
-        "AMZN"
-      ]
-    },
-    {
-      "id": "d4389379ad",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-05T19:12:39+00:00",
-      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-      "tickers": []
-    },
-    {
-      "id": "beec8115be",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-11-05T19:06:12+00:00",
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "tickers": []
-    },
-    {
-      "id": "068e502293",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-11-05T19:03:04+00:00",
-      "title": "Muse has a voice mode now",
-      "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of…",
-      "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
-      "tickers": [
-        "META"
-      ]
-    },
-    {
-      "id": "a6306f7a13",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-05T18:58:07+00:00",
-      "title": "Google, Meta and TikTok are all suing California to block social media law intended to help kids",
-      "summary": "Assembly Bill 1709 demands that platforms remove \"psychologically exploitative features.\"",
-      "url": "https://www.engadget.com/2308280/google-meta-and-tiktok-are-all-suing-california-to-block-social-media-law-intended-to-help-kids/",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "61e8f80c4a",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-05T18:48:34+00:00",
-      "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
-      "summary": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.",
-      "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
-      "tickers": []
-    },
-    {
-      "id": "812a7e5ebc",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-11-05T18:30:00+00:00",
-      "title": "EA is bringing 25 classic PC games to Steam",
-      "summary": "Electronic Arts is launching 25 classic games on Steam, including \"Anniversary Editions\" of the motorcycle racer Road Rash and six Wing Commander titles. These Anniversary Editions preserve \"the original look, feel and creative intent of the game\" but also have quality-of-life…",
-      "url": "https://www.theverge.com/games/1023553/ea-classic-pc-games-steam-anniversary-edition",
       "tickers": []
     }
   ],
   "rumors": [
+    {
+      "id": "8e25a11a04",
+      "topic": "Tech",
+      "status": "Gaining traction",
+      "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
+      "detail": "The New York Times Company is in talks\"exclusive negotations\" to acquire Letterboxd, the social network for film lovers, for around $330 million, The New York Times reports. The Times Company, Sony Pictures Entertainment, and A24 were all recently rumored to be among those…",
+      "url": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
+      "sources": 3,
+      "mentions": 3,
+      "credible": 3,
+      "days": 0,
+      "tickers": [],
+      "score": 42
+    },
+    {
+      "id": "6b5a727f1b",
+      "topic": "AI",
+      "status": "Just surfaced",
+      "title": "Airbnb is working on an AI travel agent",
+      "detail": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or…",
+      "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "sources": 1,
+      "mentions": 3,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 20
+    },
     {
       "id": "06b8e301f6",
       "topic": "Tech",
@@ -338,128 +367,304 @@
       "days": 0,
       "tickers": [],
       "score": 15
+    },
+    {
+      "id": "18f09d7fdd",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "T-Mobile owner on Elon Musk launching a wireless carrier: ‘Welcome to the party’",
+      "detail": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim Höttges says he takes the Elon Musk-owned company \"super serious,\" but that it will cost at…",
+      "url": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 15
+    },
+    {
+      "id": "591c745c93",
+      "topic": "AI",
+      "status": "Just surfaced",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "detail": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 15
+    },
+    {
+      "id": "a3cf30362b",
+      "topic": "Chips",
+      "status": "Just surfaced",
+      "title": "India targets creating homegrown GPUs within 2 years and plans to commercialize indigenous SHAKTI and VEGA RISC-V processors — sees AI boom as a potential repeat of the Y2K opportunity for its IT…",
+      "detail": "submitted by /u/ThisThat-N-Between [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1xosp57/india_targets_creating_homegrown_gpus_within_2/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 0,
+      "days": 0,
+      "tickers": [],
+      "score": 8
     }
   ],
   "watchlist": [
     {
-      "ticker": "NET",
-      "name": "Cloudflare",
-      "price": 244.51,
-      "changePct": -21.2,
-      "monthChangePct": -28.7,
-      "catalyst": "Earnings report",
-      "when": "Thu",
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "price": 343.69,
+      "changePct": -14.8,
+      "monthChangePct": -9.0,
+      "catalyst": "Tesla will stop making the Cybertruck in 2027",
+      "when": "In the news",
       "signals": [
-        "Earnings",
+        "5 headlines",
         "Big price move",
         "Volume up"
       ],
       "spark": [
-        318.72,
-        310.3,
-        280.7,
-        265.17,
-        273.62,
-        266.58,
-        244.51
+        404.22,
+        403.3,
+        399.81,
+        403.82,
+        398.5,
+        385.19,
+        343.69
       ],
       "history": [
         {
           "d": "2026-10-07",
-          "c": 342.97
+          "c": 377.81
         },
         {
           "d": "2026-10-08",
-          "c": 341.89
+          "c": 375.0
         },
         {
           "d": "2026-10-09",
-          "c": 360.93
+          "c": 382.7
         },
         {
           "d": "2026-10-12",
-          "c": 350.87
+          "c": 378.03
         },
         {
           "d": "2026-10-13",
-          "c": 347.7
+          "c": 375.23
         },
         {
           "d": "2026-10-14",
-          "c": 324.33
+          "c": 367.16
         },
         {
           "d": "2026-10-15",
-          "c": 316.32
+          "c": 362.44
         },
         {
           "d": "2026-10-16",
-          "c": 296.3
+          "c": 354.72
         },
         {
           "d": "2026-10-19",
-          "c": 297.58
+          "c": 368.06
         },
         {
           "d": "2026-10-20",
-          "c": 291.69
+          "c": 373.71
         },
         {
           "d": "2026-10-21",
-          "c": 307.22
+          "c": 386.47
         },
         {
           "d": "2026-10-22",
-          "c": 303.61
+          "c": 374.58
         },
         {
           "d": "2026-10-23",
-          "c": 325.73
+          "c": 372.22
         },
         {
           "d": "2026-10-26",
-          "c": 331.86
+          "c": 391.62
         },
         {
           "d": "2026-10-27",
-          "c": 327.8
+          "c": 407.46
         },
         {
           "d": "2026-10-28",
-          "c": 318.72
+          "c": 404.22
         },
         {
           "d": "2026-10-29",
-          "c": 310.3
+          "c": 403.3
         },
         {
           "d": "2026-10-30",
-          "c": 280.7
+          "c": 399.81
         },
         {
           "d": "2026-11-02",
-          "c": 265.17
+          "c": 403.82
         },
         {
           "d": "2026-11-03",
-          "c": 273.62
+          "c": 398.5
         },
         {
           "d": "2026-11-04",
-          "c": 266.58
+          "c": 385.19
         },
         {
           "d": "2026-11-05",
-          "c": 244.51
+          "c": 343.69
         }
       ],
-      "earnings": "2026-11-05",
-      "headlines": [],
-      "score": 67.6,
+      "earnings": "2027-01-27",
+      "headlines": [
+        {
+          "title": "Tesla will stop making the Cybertruck in 2027",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "published": "2026-11-06T11:50:10+00:00"
+        },
+        {
+          "title": "Tesla is 'winding down' Cybertruck production at its Texas Gigafactory",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2308875/tesla-is-winding-down-cybertruck-production-at-its-texas-gigafactory/",
+          "published": "2026-11-06T11:40:53+00:00"
+        }
+      ],
+      "score": 50.6,
       "brief": {
-        "what": "No major headlines about Cloudflare in the last two weeks.",
-        "why": "Signals: earnings, big price move, volume up. The stock is down 21.2% this week and down 28.7% over the month.",
-        "watch": "Next earnings expected Thu Nov 5. Results and guidance usually move the stock most.",
+        "what": "2 recent headlines mention Tesla. Latest: Tesla will stop making the Cybertruck in 2027",
+        "why": "Signals: 5 headlines, big price move, volume up. The stock is down 14.8% this week and down 9.0% over the month.",
+        "watch": "Next earnings expected Wed Jan 27. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "price": 181.6,
+      "changePct": -15.0,
+      "monthChangePct": -23.5,
+      "catalyst": "Nvidia Kubernetes Engine (NVKE)",
+      "when": "In the news",
+      "signals": [
+        "Big price move",
+        "Volume up"
+      ],
+      "spark": [
+        215.38,
+        213.66,
+        204.64,
+        202.06,
+        206.69,
+        200.13,
+        181.6
+      ],
+      "history": [
+        {
+          "d": "2026-10-07",
+          "c": 237.47
+        },
+        {
+          "d": "2026-10-08",
+          "c": 230.48
+        },
+        {
+          "d": "2026-10-09",
+          "c": 229.28
+        },
+        {
+          "d": "2026-10-12",
+          "c": 226.32
+        },
+        {
+          "d": "2026-10-13",
+          "c": 228.52
+        },
+        {
+          "d": "2026-10-14",
+          "c": 221.3
+        },
+        {
+          "d": "2026-10-15",
+          "c": 217.23
+        },
+        {
+          "d": "2026-10-16",
+          "c": 214.13
+        },
+        {
+          "d": "2026-10-19",
+          "c": 217.09
+        },
+        {
+          "d": "2026-10-20",
+          "c": 216.47
+        },
+        {
+          "d": "2026-10-21",
+          "c": 221.97
+        },
+        {
+          "d": "2026-10-22",
+          "c": 212.21
+        },
+        {
+          "d": "2026-10-23",
+          "c": 210.96
+        },
+        {
+          "d": "2026-10-26",
+          "c": 216.0
+        },
+        {
+          "d": "2026-10-27",
+          "c": 217.94
+        },
+        {
+          "d": "2026-10-28",
+          "c": 215.38
+        },
+        {
+          "d": "2026-10-29",
+          "c": 213.66
+        },
+        {
+          "d": "2026-10-30",
+          "c": 204.64
+        },
+        {
+          "d": "2026-11-02",
+          "c": 202.06
+        },
+        {
+          "d": "2026-11-03",
+          "c": 206.69
+        },
+        {
+          "d": "2026-11-04",
+          "c": 200.13
+        },
+        {
+          "d": "2026-11-05",
+          "c": 181.6
+        }
+      ],
+      "earnings": "2026-11-17",
+      "headlines": [],
+      "score": 34.6,
+      "brief": {
+        "what": "No major headlines about NVIDIA in the last two weeks.",
+        "why": "Signals: big price move, volume up. The stock is down 15.0% this week and down 23.5% over the month.",
+        "watch": "Next earnings expected Tue Nov 17. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
@@ -469,7 +674,7 @@
       "price": 282.57,
       "changePct": -0.4,
       "monthChangePct": -19.4,
-      "catalyst": "Google is ditching Firebase Studio soon, and it wants you to use its newer AI tools instead",
+      "catalyst": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
       "when": "In the news",
       "signals": [
         "8 headlines"
@@ -576,6 +781,12 @@
       "earnings": null,
       "headlines": [
         {
+          "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+          "published": "2026-11-06T00:01:38+00:00"
+        },
+        {
           "title": "Google is ditching Firebase Studio soon, and it wants you to use its newer AI tools instead",
           "source": "Engadget",
           "url": "https://www.engadget.com/2308541/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/",
@@ -586,12 +797,6 @@
           "source": "Engadget",
           "url": "https://www.engadget.com/2308376/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/",
           "published": "2026-11-05T19:39:01+00:00"
-        },
-        {
-          "title": "Google, Meta and TikTok are all suing California to block social media law intended to help kids",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2308280/google-meta-and-tiktok-are-all-suing-california-to-block-social-media-law-intended-to-help-kids/",
-          "published": "2026-11-05T18:58:07+00:00"
         },
         {
           "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
@@ -608,130 +813,9 @@
       ],
       "score": 33.1,
       "brief": {
-        "what": "5 recent headlines mention Alphabet. Latest: Google is ditching Firebase Studio soon, and it wants you to use its newer AI tools instead",
+        "what": "5 recent headlines mention Alphabet. Latest: Meta, Google, and TikTok sue California AG over teen social media law",
         "why": "Signals: 8 headlines. The stock is down 0.4% this week and down 19.4% over the month.",
         "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla",
-      "price": 343.69,
-      "changePct": -14.8,
-      "monthChangePct": -9.0,
-      "catalyst": "Tesla and SpaceX lose over $420 billion in combined market cap in the two days after midterms",
-      "when": "In the news",
-      "signals": [
-        "Big price move",
-        "Volume up"
-      ],
-      "spark": [
-        404.22,
-        403.3,
-        399.81,
-        403.82,
-        398.5,
-        385.19,
-        343.69
-      ],
-      "history": [
-        {
-          "d": "2026-10-07",
-          "c": 377.81
-        },
-        {
-          "d": "2026-10-08",
-          "c": 375.0
-        },
-        {
-          "d": "2026-10-09",
-          "c": 382.7
-        },
-        {
-          "d": "2026-10-12",
-          "c": 378.03
-        },
-        {
-          "d": "2026-10-13",
-          "c": 375.23
-        },
-        {
-          "d": "2026-10-14",
-          "c": 367.16
-        },
-        {
-          "d": "2026-10-15",
-          "c": 362.44
-        },
-        {
-          "d": "2026-10-16",
-          "c": 354.72
-        },
-        {
-          "d": "2026-10-19",
-          "c": 368.06
-        },
-        {
-          "d": "2026-10-20",
-          "c": 373.71
-        },
-        {
-          "d": "2026-10-21",
-          "c": 386.47
-        },
-        {
-          "d": "2026-10-22",
-          "c": 374.58
-        },
-        {
-          "d": "2026-10-23",
-          "c": 372.22
-        },
-        {
-          "d": "2026-10-26",
-          "c": 391.62
-        },
-        {
-          "d": "2026-10-27",
-          "c": 407.46
-        },
-        {
-          "d": "2026-10-28",
-          "c": 404.22
-        },
-        {
-          "d": "2026-10-29",
-          "c": 403.3
-        },
-        {
-          "d": "2026-10-30",
-          "c": 399.81
-        },
-        {
-          "d": "2026-11-02",
-          "c": 403.82
-        },
-        {
-          "d": "2026-11-03",
-          "c": 398.5
-        },
-        {
-          "d": "2026-11-04",
-          "c": 385.19
-        },
-        {
-          "d": "2026-11-05",
-          "c": 343.69
-        }
-      ],
-      "earnings": "2027-01-27",
-      "headlines": [],
-      "score": 30.5,
-      "brief": {
-        "what": "No major headlines about Tesla in the last two weeks.",
-        "why": "Signals: big price move, volume up. The stock is down 14.8% this week and down 9.0% over the month.",
-        "watch": "Next earnings expected Wed Jan 27. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
