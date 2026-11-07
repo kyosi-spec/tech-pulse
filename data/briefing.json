@@ -1,358 +1,332 @@
 {
   "weekOf": "2026-11-02",
-  "updated": "2026-11-06T11:58:20+00:00",
+  "updated": "2026-11-07T01:54:53+00:00",
   "summary": [
-    "Tech leads the news with 11 of 25 stories. Top headline: Protesters break into Microsoft data center site in Amsterdam",
-    "Biggest catalyst on the watchlist: TSLA, tesla will stop making the cybertruck in 2027.",
-    "Strongest rumor: The New York Times is in talks to buy Letterboxd for around $330 million"
+    "AI leads the news with 7 of 25 stories. Top headline: Crusoe sells troubled Wyoming data center project to Google",
+    "Biggest catalyst on the watchlist: TSLA, tesla to wind down cybertruck production.",
+    "Strongest rumor: The New York Times reportedly in talks to buy Letterboxd for $330 million"
   ],
   "stories": [
     {
-      "id": "9ead7e9d74",
+      "id": "542c23b0fd",
       "topic": "Cloud",
       "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-06T11:55:19+00:00",
-      "title": "Protesters break into Microsoft data center site in Amsterdam",
-      "summary": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports…",
-      "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
-      "tickers": [
-        "MSFT"
-      ]
-    },
-    {
-      "id": "35c35322ed",
-      "topic": "Tech",
-      "kind": "Company",
       "source": "TechCrunch",
-      "published": "2026-11-06T11:50:10+00:00",
-      "title": "Tesla will stop making the Cybertruck in 2027",
-      "summary": "Elon Musk said the company will use the factory space to make more Cybercabs.",
-      "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
-      "tickers": [
-        "TSLA"
-      ]
-    },
-    {
-      "id": "d88bf6ea72",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-06T11:40:53+00:00",
-      "title": "Tesla is 'winding down' Cybertruck production at its Texas Gigafactory",
-      "summary": "Tesla Cybertruck production will wind down in the middle of 2027 to make room for the Cybercab robotaxi.",
-      "url": "https://www.engadget.com/2308875/tesla-is-winding-down-cybertruck-production-at-its-texas-gigafactory/",
-      "tickers": [
-        "TSLA"
-      ]
-    },
-    {
-      "id": "ce61432c82",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "Engadget",
-      "published": "2026-11-06T11:18:59+00:00",
-      "title": "Perplexity's 'teammates' are the company's AI agents for daily work tasks",
-      "summary": "Perplexity launches personal AI agents that can act as your 'teammates.'",
-      "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
-      "tickers": []
-    },
-    {
-      "id": "f28b07933f",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "Engadget",
-      "published": "2026-11-06T07:51:42+00:00",
-      "title": "Airbnb is threatening to launch an AI travel agent next year",
-      "summary": "Airbnb is developing an AI travel agent that it says will eventually be able to help plan your whole trip.",
-      "url": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/",
-      "tickers": []
-    },
-    {
-      "id": "cfe0ed84c0",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-06T07:40:35+00:00",
-      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-      "summary": "Article URL: https://github.com/ppmpreetham/BUI Comments URL: https://news.ycombinator.com/item?id=50389333 Points: 262 # Comments: 104",
-      "url": "https://github.com/ppmpreetham/BUI",
-      "tickers": []
-    },
-    {
-      "id": "e69ae3b8f9",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-06T07:22:04+00:00",
-      "title": "Britain to make salary disclosure in job ads mandatory",
-      "summary": "Article URL: https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/ Comments URL: https://news.ycombinator.com/item?id=50389222 Points: 237 # Comments: 229",
-      "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
-      "tickers": []
-    },
-    {
-      "id": "d10aa9cb12",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-06T07:18:44+00:00",
-      "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
-      "summary": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns.",
-      "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
-      "tickers": []
-    },
-    {
-      "id": "c282d2791f",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-06T03:27:14+00:00",
-      "title": "Pwn.college",
-      "summary": "Article URL: https://pwn.college/ Comments URL: https://news.ycombinator.com/item?id=50387796 Points: 173 # Comments: 22",
-      "url": "https://pwn.college/",
-      "tickers": []
-    },
-    {
-      "id": "8956cfab74",
-      "topic": "Cloud",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-11-06T00:37:56+00:00",
-      "title": "OpenAI is stepping back from NDAs for data center projects",
-      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-      "tickers": []
-    },
-    {
-      "id": "379934e546",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-06T00:01:38+00:00",
-      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
-      "summary": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
-      "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+      "published": "2026-11-07T01:40:28+00:00",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
       "tickers": [
         "GOOGL"
       ]
     },
     {
-      "id": "53e37f550b",
+      "id": "de41e52939",
       "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-06T00:00:24+00:00",
-      "title": "Inkling 2 Small",
-      "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-small/ Comments URL: https://news.ycombinator.com/item?id=50386338 Points: 214 # Comments: 70",
-      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
-      "tickers": []
-    },
-    {
-      "id": "18f09d7fdd",
-      "topic": "Tech",
-      "kind": "Launch",
+      "kind": "Founder",
       "source": "The Verge",
-      "published": "2026-11-05T23:17:10+00:00",
-      "title": "T-Mobile owner on Elon Musk launching a wireless carrier: ‘Welcome to the party’",
-      "summary": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim Höttges says he takes the Elon Musk-owned company \"super serious,\" but that it will cost at…",
-      "url": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
+      "published": "2026-11-06T23:46:18+00:00",
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
       "tickers": []
     },
     {
-      "id": "c6e6086fc4",
-      "topic": "AI",
+      "id": "0c594a3e3e",
+      "topic": "Tech",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-11-05T23:09:57+00:00",
-      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 366 # Comments: 176",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "published": "2026-11-06T23:30:52+00:00",
+      "title": "Libghostty 1.0",
+      "summary": "Article URL: https://mitchellh.com/writing/libghostty-1-0 Comments URL: https://news.ycombinator.com/item?id=50399933 Points: 157 # Comments: 18",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "tickers": []
+    },
+    {
+      "id": "60e3e6ef53",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-06T22:45:43+00:00",
+      "title": "Starlink Mobile: All the news on SpaceX’s major mobile carrier ambitions",
+      "summary": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of its plans to rival…",
+      "url": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
+      "tickers": []
+    },
+    {
+      "id": "44aac495db",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-06T21:50:32+00:00",
+      "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
+      "summary": "Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated flick in 4K. But at just $24.99 from Barnes and Noble and…",
+      "url": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
       "tickers": [
-        "META"
+        "NFLX"
       ]
     },
     {
-      "id": "7dbfce9c56",
-      "topic": "Security",
+      "id": "49b9eb255e",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-06T21:38:05+00:00",
+      "title": "The Duo apps are coming, says Apple",
+      "summary": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
+      "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "bd76a80f24",
+      "topic": "AI",
       "kind": "Company",
       "source": "Ars Technica",
-      "published": "2026-11-05T23:09:36+00:00",
-      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-      "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
-      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+      "published": "2026-11-06T20:56:41+00:00",
+      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+      "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
       "tickers": []
     },
     {
-      "id": "ab1c761f9a",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-11-05T22:40:55+00:00",
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "tickers": []
-    },
-    {
-      "id": "c7ccbc97cd",
+      "id": "e04051ecb9",
       "topic": "AI",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-11-05T22:17:15+00:00",
-      "title": "Claude Code sends your email address to websites",
-      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 1216 # Comments: 384",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "published": "2026-11-06T20:27:23+00:00",
+      "title": "AI is dramatically accelerating AI research",
+      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 199 # Comments: 152",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "tickers": []
     },
     {
-      "id": "d18603f3f6",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "Engadget",
-      "published": "2026-11-05T22:10:09+00:00",
-      "title": "Blue Origin's New Glenn launch delay will continue into 2027",
-      "summary": "Repairs have been slow after an explosion earlier this year.",
-      "url": "https://www.engadget.com/2308647/blue-origin-new-glenn-launch-delay-will-continue-into-2027/",
-      "tickers": []
-    },
-    {
-      "id": "6b333aa861",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-11-05T22:08:14+00:00",
-      "title": "Salon is shutting down after 31 years",
-      "summary": "Salon launched 31 years ago as one of the first online-only news magazine outlets, and it announced today in an unsigned post that it's ceasing publication. The company said that the \"business realities of independent digital journalism have changed profoundly over the years,\"…",
-      "url": "https://www.theverge.com/news/1028281/salon-dot-com-shuts-down",
-      "tickers": []
-    },
-    {
-      "id": "baf35929e8",
-      "topic": "Tech",
+      "id": "557f5a61a1",
+      "topic": "Cloud",
       "kind": "Company",
       "source": "The Verge",
-      "published": "2026-11-05T21:55:00+00:00",
-      "title": "The midterms proved once and for all that X is not real life",
-      "summary": "A week before the midterm elections, Vice President JD Vance hosted a town hall in Texas with Fox News host Jesse Watters. It was a friendly event with a friendly audience in what should have been a friendly state, and maybe that's why Vance couldn't help himself. When a college…",
-      "url": "https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes",
+      "published": "2026-11-06T20:02:22+00:00",
+      "title": "All the latest updates on AI data centers",
+      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
       "tickers": []
     },
     {
-      "id": "dac7d4fcdb",
+      "id": "c6e1a1639c",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-06T19:48:51+00:00",
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "summary": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 329 # Comments: 70",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "tickers": []
+    },
+    {
+      "id": "55553348cf",
       "topic": "Tech",
       "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-05T21:39:22+00:00",
-      "title": "Bose recalls S1 Pro battery packs due to fire and overheating risks",
-      "summary": "Over 670,000 units are being recalled in the US and Canada.",
-      "url": "https://www.engadget.com/2308609/bose-recalls-s1-pro-battery-packs-due-to-fire-and-overheating-risks/",
-      "tickers": []
-    },
-    {
-      "id": "a8be88034c",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Wired",
-      "published": "2026-11-05T21:37:18+00:00",
-      "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
-      "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
-      "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
-      "tickers": []
-    },
-    {
-      "id": "2a68b33e91",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-11-05T21:15:00+00:00",
-      "title": "Serve Robotics launches new business to become the AWS for robots",
-      "summary": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
-      "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+      "source": "The Verge",
+      "published": "2026-11-06T19:47:02+00:00",
+      "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
+      "summary": "While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, including Amazon, Guitar Center, and directly from Shure. That’s…",
+      "url": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale",
       "tickers": [
         "AMZN"
       ]
     },
     {
-      "id": "2323b2fa53",
-      "topic": "AI",
+      "id": "d395ea76eb",
+      "topic": "Devices",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-05T21:01:28+00:00",
-      "title": "Google is ditching Firebase Studio soon, and it wants you to use its newer AI tools instead",
-      "summary": "The company is going all-in on Antigravity and Google AI Studio and hopes developers will do the same.",
-      "url": "https://www.engadget.com/2308541/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/",
+      "published": "2026-11-06T19:45:23+00:00",
+      "title": "Google's eyewear partners can't keep a lid on its smart glasses plans",
+      "summary": "Gentle Monster shared that its \"Intelligent Eyewear\" will be available to pre-order on November 12.",
+      "url": "https://www.engadget.com/2309631/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans/",
       "tickers": [
         "GOOGL"
       ]
     },
     {
-      "id": "edb34dd97d",
-      "topic": "Security",
+      "id": "6a12e6a535",
+      "topic": "AI",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-11-05T20:43:42+00:00",
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "summary": "Article URL: https://www.cve.org/CVERecord?id=CVE-2026-83844 Comments URL: https://news.ycombinator.com/item?id=50384233 Points: 567 # Comments: 206",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "published": "2026-11-06T19:33:38+00:00",
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "summary": "Article URL: https://pwn.ai/blog/firecracker-escape Comments URL: https://news.ycombinator.com/item?id=50397219 Points: 171 # Comments: 75",
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "tickers": []
+    },
+    {
+      "id": "8440009025",
+      "topic": "Security",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-06T18:44:38+00:00",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "tickers": []
+    },
+    {
+      "id": "9b38cc280c",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "TechCrunch",
+      "published": "2026-11-06T18:44:20+00:00",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "tickers": []
+    },
+    {
+      "id": "549429cf4d",
+      "topic": "Policy",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-06T18:42:30+00:00",
+      "title": "Lame-duck Congress might actually do something: speed up energy projects",
+      "summary": "A massive permitting bill that could help energy projects come online much quicker and potentially lower utility bills for Americans is advancing with bipartisan support. And while it could be a catalyst for lots of clean energy, it could also speed up polluting projects and…",
+      "url": "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote",
+      "tickers": []
+    },
+    {
+      "id": "bd6af519ee",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-06T18:10:10+00:00",
+      "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+      "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse…",
+      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "tickers": []
+    },
+    {
+      "id": "91a1ed89e7",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-11-06T17:56:58+00:00",
+      "title": "Amazon is now making a Melania Trump TV series",
+      "summary": "Following the Melania documentary movie that premiered earlier this year, Amazon is now planning to release a two-part Prime Video series focusing on the first lady. The show, Melania: The Series, is set to debut on November 20th. \"MELANIA, The Series reveals never-before-told…",
+      "url": "https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video",
+      "tickers": [
+        "AMZN"
+      ]
+    },
+    {
+      "id": "1f15210e4e",
+      "topic": "Security",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-06T17:40:06+00:00",
+      "title": "Just about anyone can rent access to White House IP addresses",
+      "summary": "Someone at the White House appears to be running software that could enable outsiders to rent access on the presidential network for just \"a few dollars,\" as reported by Krebs on Security and The Register. That's according to findings from the security firms Layer3 Intel and…",
+      "url": "https://www.theverge.com/tech/1028835/white-house-residential-proxy",
+      "tickers": [
+        "INTC"
+      ]
+    },
+    {
+      "id": "0ce6df6f00",
+      "topic": "Cloud",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-06T17:23:52+00:00",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even…",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "tickers": []
+    },
+    {
+      "id": "ac682d5e7a",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-06T17:20:32+00:00",
+      "title": "Fox wraps up its $22 billion Roku deal",
+      "summary": "No Hannity on your home screen, at least for now.",
+      "url": "https://www.engadget.com/2309307/fox-wraps-up-its-dollar22-billion-roku-deal/",
+      "tickers": []
+    },
+    {
+      "id": "7cf275d4af",
+      "topic": "Security",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-06T17:17:14+00:00",
+      "title": "The EU accuses TikTok's 'rabbit hole' algorithm of breaching its content rules",
+      "summary": "The bloc said the platform needs to change how the For You page works to help protect users' mental health.",
+      "url": "https://www.engadget.com/2309300/the-eu-accuses-tiktoks-rabbit-hole-algorithm-of-breaching-its-content-rules/",
+      "tickers": []
+    },
+    {
+      "id": "c7e804daaf",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-06T17:11:10+00:00",
+      "title": "You'll soon be able to text Alexa to shop on Amazon",
+      "summary": "The latest Alexa for shopping feature is initially available by invite in the US.",
+      "url": "https://www.engadget.com/2309285/youll-soon-be-able-to-text-alexa-to-shop-on-amazon/",
+      "tickers": [
+        "AMZN"
+      ]
+    },
+    {
+      "id": "341a513388",
+      "topic": "Policy",
+      "kind": "Launch",
+      "source": "Engadget",
+      "published": "2026-11-06T16:56:52+00:00",
+      "title": "DOJ just launched something called the Super Intelligence Task Force",
+      "summary": "The unit is tasked with ensuring that the technology is not \"manipulated by bad actors at home or abroad.\"",
+      "url": "https://www.engadget.com/2309257/doj-just-launched-something-called-the-super-intelligence-task-force/",
+      "tickers": []
+    },
+    {
+      "id": "ecbe131a16",
+      "topic": "Startups",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-06T16:54:36+00:00",
+      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "summary": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3... Comments URL: https://news.ycombinator.com/item?id=50394906 Points: 227 # Comments: 483",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
       "tickers": []
     }
   ],
   "rumors": [
     {
-      "id": "8e25a11a04",
-      "topic": "Tech",
-      "status": "Gaining traction",
-      "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
-      "detail": "The New York Times Company is in talks\"exclusive negotations\" to acquire Letterboxd, the social network for film lovers, for around $330 million, The New York Times reports. The Times Company, Sony Pictures Entertainment, and A24 were all recently rumored to be among those…",
-      "url": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
-      "sources": 3,
-      "mentions": 3,
-      "credible": 3,
-      "days": 0,
-      "tickers": [],
-      "score": 42
-    },
-    {
-      "id": "6b5a727f1b",
-      "topic": "AI",
-      "status": "Just surfaced",
-      "title": "Airbnb is working on an AI travel agent",
-      "detail": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or…",
-      "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-      "sources": 1,
-      "mentions": 3,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 20
-    },
-    {
-      "id": "06b8e301f6",
+      "id": "5515d46057",
       "topic": "Tech",
       "status": "Just surfaced",
-      "title": "Blue Origin’s next launch now won’t happen until 2027",
-      "detail": "Blue Origin plans to do its next New Glenn rocket launch in January 2027, according to CNBC and the Financial Times, which cite a memo from CEO Dave Limp sent to staff. The new timeline follows a May launchpad explosion that damaged Blue Origin's New Glenn launchpad ahead of a…",
-      "url": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027",
+      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+      "detail": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
+      "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+      "sources": 2,
+      "mentions": 2,
+      "credible": 2,
+      "days": 1,
+      "tickers": [],
+      "score": 29
+    },
+    {
+      "id": "d38b620898",
+      "topic": "Startups",
+      "status": "Just surfaced",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "detail": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
       "sources": 1,
       "mentions": 2,
       "credible": 1,
       "days": 0,
       "tickers": [],
       "score": 18
-    },
-    {
-      "id": "ee372a44bc",
-      "topic": "AI",
-      "status": "Just surfaced",
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "detail": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
     },
     {
       "id": "c2ec66a5ad",
@@ -364,21 +338,7 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "18f09d7fdd",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "T-Mobile owner on Elon Musk launching a wireless carrier: ‘Welcome to the party’",
-      "detail": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim Höttges says he takes the Elon Musk-owned company \"super serious,\" but that it will cost at…",
-      "url": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
+      "days": 1,
       "tickers": [],
       "score": 15
     },
@@ -397,48 +357,43 @@
       "score": 15
     },
     {
-      "id": "a3cf30362b",
-      "topic": "Chips",
+      "id": "b323d71734",
+      "topic": "AI",
       "status": "Just surfaced",
-      "title": "India targets creating homegrown GPUs within 2 years and plans to commercialize indigenous SHAKTI and VEGA RISC-V processors — sees AI boom as a potential repeat of the Y2K opportunity for its IT…",
-      "detail": "submitted by /u/ThisThat-N-Between [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1xosp57/india_targets_creating_homegrown_gpus_within_2/",
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "detail": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push…",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
       "sources": 1,
       "mentions": 1,
-      "credible": 0,
+      "credible": 1,
       "days": 0,
       "tickers": [],
-      "score": 8
+      "score": 15
     }
   ],
   "watchlist": [
     {
       "ticker": "TSLA",
       "name": "Tesla",
-      "price": 343.69,
-      "changePct": -14.8,
-      "monthChangePct": -9.0,
-      "catalyst": "Tesla will stop making the Cybertruck in 2027",
+      "price": 358.22,
+      "changePct": -10.4,
+      "monthChangePct": -4.5,
+      "catalyst": "Tesla to wind down Cybertruck production",
       "when": "In the news",
       "signals": [
-        "5 headlines",
-        "Big price move",
-        "Volume up"
+        "4 headlines",
+        "Big price move"
       ],
       "spark": [
-        404.22,
         403.3,
         399.81,
         403.82,
         398.5,
         385.19,
-        343.69
+        343.69,
+        358.22
       ],
       "history": [
-        {
-          "d": "2026-10-07",
-          "c": 377.81
-        },
         {
           "d": "2026-10-08",
           "c": 375.0
@@ -522,177 +477,196 @@
         {
           "d": "2026-11-05",
           "c": 343.69
+        },
+        {
+          "d": "2026-11-06",
+          "c": 358.22
         }
       ],
       "earnings": "2027-01-27",
       "headlines": [
         {
+          "title": "Tesla to wind down Cybertruck production",
+          "source": "Hacker News",
+          "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+          "published": "2026-11-06T12:13:51+00:00"
+        },
+        {
           "title": "Tesla will stop making the Cybertruck in 2027",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
           "published": "2026-11-06T11:50:10+00:00"
-        },
-        {
-          "title": "Tesla is 'winding down' Cybertruck production at its Texas Gigafactory",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2308875/tesla-is-winding-down-cybertruck-production-at-its-texas-gigafactory/",
-          "published": "2026-11-06T11:40:53+00:00"
         }
       ],
-      "score": 50.6,
+      "score": 40.0,
       "brief": {
-        "what": "2 recent headlines mention Tesla. Latest: Tesla will stop making the Cybertruck in 2027",
-        "why": "Signals: 5 headlines, big price move, volume up. The stock is down 14.8% this week and down 9.0% over the month.",
+        "what": "2 recent headlines mention Tesla. Latest: Tesla to wind down Cybertruck production",
+        "why": "Signals: 4 headlines, big price move. The stock is down 10.4% this week and down 4.5% over the month.",
         "watch": "Next earnings expected Wed Jan 27. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA",
-      "price": 181.6,
-      "changePct": -15.0,
-      "monthChangePct": -23.5,
-      "catalyst": "Nvidia Kubernetes Engine (NVKE)",
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "price": 259.3,
+      "changePct": 7.9,
+      "monthChangePct": 2.1,
+      "catalyst": "Amazon is now making a Melania Trump TV series",
       "when": "In the news",
       "signals": [
-        "Big price move",
-        "Volume up"
+        "4 headlines",
+        "Big price move"
       ],
       "spark": [
-        215.38,
-        213.66,
-        204.64,
-        202.06,
-        206.69,
-        200.13,
-        181.6
+        243.79,
+        240.35,
+        245.63,
+        250.69,
+        266.03,
+        260.21,
+        259.3
       ],
       "history": [
         {
-          "d": "2026-10-07",
-          "c": 237.47
-        },
-        {
           "d": "2026-10-08",
-          "c": 230.48
+          "c": 254.06
         },
         {
           "d": "2026-10-09",
-          "c": 229.28
+          "c": 262.43
         },
         {
           "d": "2026-10-12",
-          "c": 226.32
+          "c": 259.53
         },
         {
           "d": "2026-10-13",
-          "c": 228.52
+          "c": 258.58
         },
         {
           "d": "2026-10-14",
-          "c": 221.3
+          "c": 254.08
         },
         {
           "d": "2026-10-15",
-          "c": 217.23
+          "c": 254.76
         },
         {
           "d": "2026-10-16",
-          "c": 214.13
+          "c": 250.0
         },
         {
           "d": "2026-10-19",
-          "c": 217.09
+          "c": 262.45
         },
         {
           "d": "2026-10-20",
-          "c": 216.47
+          "c": 262.63
         },
         {
           "d": "2026-10-21",
-          "c": 221.97
+          "c": 262.37
         },
         {
           "d": "2026-10-22",
-          "c": 212.21
+          "c": 250.38
         },
         {
           "d": "2026-10-23",
-          "c": 210.96
+          "c": 248.0
         },
         {
           "d": "2026-10-26",
-          "c": 216.0
+          "c": 249.09
         },
         {
           "d": "2026-10-27",
-          "c": 217.94
+          "c": 253.1
         },
         {
           "d": "2026-10-28",
-          "c": 215.38
+          "c": 254.6
         },
         {
           "d": "2026-10-29",
-          "c": 213.66
+          "c": 243.79
         },
         {
           "d": "2026-10-30",
-          "c": 204.64
+          "c": 240.35
         },
         {
           "d": "2026-11-02",
-          "c": 202.06
+          "c": 245.63
         },
         {
           "d": "2026-11-03",
-          "c": 206.69
+          "c": 250.69
         },
         {
           "d": "2026-11-04",
-          "c": 200.13
+          "c": 266.03
         },
         {
           "d": "2026-11-05",
-          "c": 181.6
+          "c": 260.21
+        },
+        {
+          "d": "2026-11-06",
+          "c": 259.3
         }
       ],
-      "earnings": "2026-11-17",
-      "headlines": [],
-      "score": 34.6,
+      "earnings": null,
+      "headlines": [
+        {
+          "title": "Amazon is now making a Melania Trump TV series",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video",
+          "published": "2026-11-06T17:56:58+00:00"
+        },
+        {
+          "title": "You'll soon be able to text Alexa to shop on Amazon",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2309285/youll-soon-be-able-to-text-alexa-to-shop-on-amazon/",
+          "published": "2026-11-06T17:11:10+00:00"
+        },
+        {
+          "title": "Serve Robotics launches new business to become the AWS for robots",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+          "published": "2026-11-05T21:15:00+00:00"
+        }
+      ],
+      "score": 35.8,
       "brief": {
-        "what": "No major headlines about NVIDIA in the last two weeks.",
-        "why": "Signals: big price move, volume up. The stock is down 15.0% this week and down 23.5% over the month.",
-        "watch": "Next earnings expected Tue Nov 17. Results and guidance usually move the stock most.",
+        "what": "3 recent headlines mention Amazon. Latest: Amazon is now making a Melania Trump TV series",
+        "why": "Signals: 4 headlines, big price move. The stock is up 7.9% this week and up 2.1% over the month.",
+        "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
     },
     {
       "ticker": "GOOGL",
       "name": "Alphabet",
-      "price": 282.57,
-      "changePct": -0.4,
-      "monthChangePct": -19.4,
-      "catalyst": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+      "price": 284.78,
+      "changePct": 1.8,
+      "monthChangePct": -18.2,
+      "catalyst": "Crusoe sells troubled Wyoming data center project to Google",
       "when": "In the news",
       "signals": [
-        "8 headlines"
+        "7 headlines"
       ],
       "spark": [
-        324.89,
         283.82,
         279.84,
         278.99,
         280.03,
         288.93,
-        282.57
+        282.57,
+        284.78
       ],
       "history": [
-        {
-          "d": "2026-10-07",
-          "c": 350.5
-        },
         {
           "d": "2026-10-08",
           "c": 348.29
@@ -776,10 +750,32 @@
         {
           "d": "2026-11-05",
           "c": 282.57
+        },
+        {
+          "d": "2026-11-06",
+          "c": 284.78
         }
       ],
       "earnings": null,
       "headlines": [
+        {
+          "title": "Crusoe sells troubled Wyoming data center project to Google",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+          "published": "2026-11-07T01:40:28+00:00"
+        },
+        {
+          "title": "Google's eyewear partners can't keep a lid on its smart glasses plans",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2309631/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans/",
+          "published": "2026-11-06T19:45:23+00:00"
+        },
+        {
+          "title": "Google's Find Hub can finally notify you if you've left a tracker behind",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2308903/googles-find-hub-can-finally-notify-you-if-youve-left-a-tracker-behind/",
+          "published": "2026-11-06T13:05:16+00:00"
+        },
         {
           "title": "Meta, Google, and TikTok sue California AG over teen social media law",
           "source": "TechCrunch",
@@ -791,12 +787,6 @@
           "source": "Engadget",
           "url": "https://www.engadget.com/2308541/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/",
           "published": "2026-11-05T21:01:28+00:00"
-        },
-        {
-          "title": "Warby Parker seemingly spilled the beans on Google's Android XR smart glasses launch",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2308376/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/",
-          "published": "2026-11-05T19:39:01+00:00"
         },
         {
           "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
@@ -811,253 +801,253 @@
           "published": "2026-11-04T13:49:51+00:00"
         }
       ],
-      "score": 33.1,
+      "score": 33.5,
       "brief": {
-        "what": "5 recent headlines mention Alphabet. Latest: Meta, Google, and TikTok sue California AG over teen social media law",
-        "why": "Signals: 8 headlines. The stock is down 0.4% this week and down 19.4% over the month.",
+        "what": "7 recent headlines mention Alphabet. Latest: Crusoe sells troubled Wyoming data center project to Google",
+        "why": "Signals: 7 headlines. The stock is up 1.8% this week and down 18.2% over the month.",
         "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
     },
     {
-      "ticker": "TSM",
-      "name": "TSMC",
-      "price": 353.1,
-      "changePct": -18.2,
-      "monthChangePct": -25.2,
-      "catalyst": "Down 18% this week",
+      "ticker": "ARM",
+      "name": "Arm Holdings",
+      "price": 166.72,
+      "changePct": -27.1,
+      "monthChangePct": -43.4,
+      "catalyst": "Down 27% this week",
       "when": "Price",
       "signals": [
         "Big price move",
         "Volume up"
       ],
       "spark": [
-        439.51,
-        431.81,
-        406.13,
-        398.63,
-        404.8,
-        395.75,
-        353.1
+        235.9,
+        228.77,
+        205.97,
+        196.79,
+        202.49,
+        191.8,
+        166.72
       ],
       "history": [
         {
           "d": "2026-10-07",
-          "c": 472.2
+          "c": 294.37
         },
         {
           "d": "2026-10-08",
-          "c": 457.99
+          "c": 275.29
         },
         {
           "d": "2026-10-09",
-          "c": 453.31
+          "c": 266.28
         },
         {
           "d": "2026-10-12",
-          "c": 444.35
+          "c": 255.24
         },
         {
           "d": "2026-10-13",
-          "c": 445.12
+          "c": 255.39
         },
         {
           "d": "2026-10-14",
-          "c": 430.0
+          "c": 238.01
         },
         {
           "d": "2026-10-15",
-          "c": 422.25
+          "c": 244.79
         },
         {
           "d": "2026-10-16",
-          "c": 412.61
+          "c": 227.8
         },
         {
           "d": "2026-10-19",
-          "c": 420.22
+          "c": 228.05
         },
         {
           "d": "2026-10-20",
-          "c": 425.08
+          "c": 221.06
         },
         {
           "d": "2026-10-21",
-          "c": 431.89
+          "c": 226.59
         },
         {
           "d": "2026-10-22",
-          "c": 412.35
+          "c": 210.1
         },
         {
           "d": "2026-10-23",
-          "c": 418.51
+          "c": 210.33
         },
         {
           "d": "2026-10-26",
-          "c": 424.37
+          "c": 223.35
         },
         {
           "d": "2026-10-27",
-          "c": 436.87
+          "c": 226.6
         },
         {
           "d": "2026-10-28",
-          "c": 439.51
+          "c": 235.9
         },
         {
           "d": "2026-10-29",
-          "c": 431.81
+          "c": 228.77
         },
         {
           "d": "2026-10-30",
-          "c": 406.13
+          "c": 205.97
         },
         {
           "d": "2026-11-02",
-          "c": 398.63
+          "c": 196.79
         },
         {
           "d": "2026-11-03",
-          "c": 404.8
+          "c": 202.49
         },
         {
           "d": "2026-11-04",
-          "c": 395.75
+          "c": 191.8
         },
         {
           "d": "2026-11-05",
-          "c": 353.1
-        }
-      ],
-      "earnings": "2027-01-14",
-      "headlines": [],
-      "score": 30,
-      "brief": {
-        "what": "No major headlines about TSMC in the last two weeks.",
-        "why": "Signals: big price move, volume up. The stock is down 18.2% this week and down 25.2% over the month.",
-        "watch": "Next earnings expected Thu Jan 14. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "QCOM",
-      "name": "Qualcomm",
-      "price": 156.75,
-      "changePct": -15.5,
-      "monthChangePct": -11.5,
-      "catalyst": "Down 15% this week",
-      "when": "Price",
-      "signals": [
-        "Big price move",
-        "Volume up"
-      ],
-      "spark": [
-        182.97,
-        185.41,
-        164.79,
-        162.08,
-        164.43,
-        173.19,
-        156.75
-      ],
-      "history": [
-        {
-          "d": "2026-10-07",
-          "c": 177.12
-        },
-        {
-          "d": "2026-10-08",
-          "c": 176.01
-        },
-        {
-          "d": "2026-10-09",
-          "c": 175.5
-        },
-        {
-          "d": "2026-10-12",
-          "c": 174.43
-        },
-        {
-          "d": "2026-10-13",
-          "c": 176.86
-        },
-        {
-          "d": "2026-10-14",
-          "c": 172.62
-        },
-        {
-          "d": "2026-10-15",
-          "c": 178.4
-        },
-        {
-          "d": "2026-10-16",
-          "c": 172.11
-        },
-        {
-          "d": "2026-10-19",
-          "c": 173.53
-        },
-        {
-          "d": "2026-10-20",
-          "c": 175.71
-        },
-        {
-          "d": "2026-10-21",
-          "c": 177.96
-        },
-        {
-          "d": "2026-10-22",
-          "c": 172.83
-        },
-        {
-          "d": "2026-10-23",
-          "c": 175.91
-        },
-        {
-          "d": "2026-10-26",
-          "c": 179.6
-        },
-        {
-          "d": "2026-10-27",
-          "c": 184.17
-        },
-        {
-          "d": "2026-10-28",
-          "c": 182.97
-        },
-        {
-          "d": "2026-10-29",
-          "c": 185.41
-        },
-        {
-          "d": "2026-10-30",
-          "c": 164.79
-        },
-        {
-          "d": "2026-11-02",
-          "c": 162.08
-        },
-        {
-          "d": "2026-11-03",
-          "c": 164.43
-        },
-        {
-          "d": "2026-11-04",
-          "c": 173.19
-        },
-        {
-          "d": "2026-11-05",
-          "c": 156.75
+          "c": 166.72
         }
       ],
       "earnings": "2027-02-03",
       "headlines": [],
-      "score": 30,
+      "score": 29.5,
       "brief": {
-        "what": "No major headlines about Qualcomm in the last two weeks.",
-        "why": "Signals: big price move, volume up. The stock is down 15.5% this week and down 11.5% over the month.",
+        "what": "No major headlines about Arm Holdings in the last two weeks.",
+        "why": "Signals: big price move, volume up. The stock is down 27.1% this week and down 43.4% over the month.",
         "watch": "Next earnings expected Wed Feb 3. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "NET",
+      "name": "Cloudflare",
+      "price": 244.51,
+      "changePct": -21.2,
+      "monthChangePct": -28.7,
+      "catalyst": "Down 21% this week",
+      "when": "Price",
+      "signals": [
+        "Big price move",
+        "Volume up"
+      ],
+      "spark": [
+        318.72,
+        310.3,
+        280.7,
+        265.17,
+        273.62,
+        266.58,
+        244.51
+      ],
+      "history": [
+        {
+          "d": "2026-10-07",
+          "c": 342.97
+        },
+        {
+          "d": "2026-10-08",
+          "c": 341.89
+        },
+        {
+          "d": "2026-10-09",
+          "c": 360.93
+        },
+        {
+          "d": "2026-10-12",
+          "c": 350.87
+        },
+        {
+          "d": "2026-10-13",
+          "c": 347.7
+        },
+        {
+          "d": "2026-10-14",
+          "c": 324.33
+        },
+        {
+          "d": "2026-10-15",
+          "c": 316.32
+        },
+        {
+          "d": "2026-10-16",
+          "c": 296.3
+        },
+        {
+          "d": "2026-10-19",
+          "c": 297.58
+        },
+        {
+          "d": "2026-10-20",
+          "c": 291.69
+        },
+        {
+          "d": "2026-10-21",
+          "c": 307.22
+        },
+        {
+          "d": "2026-10-22",
+          "c": 303.61
+        },
+        {
+          "d": "2026-10-23",
+          "c": 325.73
+        },
+        {
+          "d": "2026-10-26",
+          "c": 331.86
+        },
+        {
+          "d": "2026-10-27",
+          "c": 327.8
+        },
+        {
+          "d": "2026-10-28",
+          "c": 318.72
+        },
+        {
+          "d": "2026-10-29",
+          "c": 310.3
+        },
+        {
+          "d": "2026-10-30",
+          "c": 280.7
+        },
+        {
+          "d": "2026-11-02",
+          "c": 265.17
+        },
+        {
+          "d": "2026-11-03",
+          "c": 273.62
+        },
+        {
+          "d": "2026-11-04",
+          "c": 266.58
+        },
+        {
+          "d": "2026-11-05",
+          "c": 244.51
+        }
+      ],
+      "earnings": null,
+      "headlines": [],
+      "score": 28.1,
+      "brief": {
+        "what": "No major headlines about Cloudflare in the last two weeks.",
+        "why": "Signals: big price move, volume up. The stock is down 21.2% this week and down 28.7% over the month.",
+        "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
     }
