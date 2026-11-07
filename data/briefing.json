@@ -1,317 +1,313 @@
 {
   "weekOf": "2026-11-02",
-  "updated": "2026-11-07T01:54:53+00:00",
+  "updated": "2026-11-07T16:50:24+00:00",
   "summary": [
-    "AI leads the news with 7 of 25 stories. Top headline: Crusoe sells troubled Wyoming data center project to Google",
-    "Biggest catalyst on the watchlist: TSLA, tesla to wind down cybertruck production.",
-    "Strongest rumor: The New York Times reportedly in talks to buy Letterboxd for $330 million"
+    "Tech leads the news with 13 of 25 stories. Top headline: This GPS navigation app should be the go-to for older drivers",
+    "Biggest catalyst on the watchlist: NVDA, the us let nvidia sell chips to an empty office in china.",
+    "Strongest rumor: China reportedly recruited AI exec to spy on Jensen Huang"
   ],
   "stories": [
     {
-      "id": "542c23b0fd",
-      "topic": "Cloud",
+      "id": "4e0217032b",
+      "topic": "Tech",
       "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-07T01:40:28+00:00",
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "summary": "The deal highlights the challenges of developing massive AI data centers.",
-      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "source": "Engadget",
+      "published": "2026-11-07T16:30:00+00:00",
+      "title": "This GPS navigation app should be the go-to for older drivers",
+      "summary": "Nervous about driving somewhere new? One familiar navigation app has simple turn-by-turn directions that help older drivers feel more confident.",
+      "url": "https://www.engadget.com/2305919/gps-navigation-app-go-to-older-drivers-google-maps/",
+      "tickers": []
+    },
+    {
+      "id": "ad0823aa06",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-07T16:15:00+00:00",
+      "title": "What gamers should know when bringing their consoles through TSA",
+      "summary": "You're allowed to bring your game consoles through the TSA line, but what exactly you need to do depends on the airport and console size.",
+      "url": "https://www.engadget.com/2305767/gamers-tsa-game-console-rules/",
+      "tickers": []
+    },
+    {
+      "id": "6971b000dd",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-07T16:00:00+00:00",
+      "title": "Costco members can get $5 off the reimagined Ocarina of Time",
+      "summary": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. Considering an annual…",
+      "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+      "tickers": []
+    },
+    {
+      "id": "d360d19146",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-07T16:00:00+00:00",
+      "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
+      "summary": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more. It's a shockingly…",
+      "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
+      "tickers": []
+    },
+    {
+      "id": "a7d09912ea",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-07T16:00:00+00:00",
+      "title": "The right way to fix your MacBook keyboard if it isn't responding",
+      "summary": "Don't count out your MacBook's keyboard just yet - a quick hardware cleaning or software toggle could get it working again.",
+      "url": "https://www.engadget.com/2305570/macbook-keyboard-fix-not-responding/",
+      "tickers": []
+    },
+    {
+      "id": "f426f0c82f",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-07T15:50:00+00:00",
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken…",
+      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "tickers": []
+    },
+    {
+      "id": "0971d5317f",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-07T15:45:00+00:00",
+      "title": "Cleaning your PC with expired isopropyl alcohol can be risky — here's why",
+      "summary": "Think twice before grabbing that old bottle. Here's why expired isopropyl alcohol can harm your PC and how to clean it the safe way instead.",
+      "url": "https://www.engadget.com/2305456/why-isopropyl-alcohol-degrades-pc-cleaning/",
+      "tickers": []
+    },
+    {
+      "id": "4c9d61f94a",
+      "topic": "Chips",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-07T15:43:45+00:00",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
       "tickers": [
-        "GOOGL"
+        "NVDA"
       ]
     },
     {
-      "id": "de41e52939",
+      "id": "2412e645b8",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-07T15:30:00+00:00",
+      "title": "How to use your old tablet to build a live streaming setup",
+      "summary": "You don't always need to buy new products just to start live streaming. This app lets you reuse an old tablet as the centerpiece of your setup.",
+      "url": "https://www.engadget.com/2304970/how-to-build-live-streaming-setup-with-old-tablet/",
+      "tickers": []
+    },
+    {
+      "id": "9a439e0395",
       "topic": "AI",
       "kind": "Founder",
       "source": "The Verge",
-      "published": "2026-11-06T23:46:18+00:00",
-      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "published": "2026-11-07T15:00:00+00:00",
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so…",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
       "tickers": []
     },
     {
-      "id": "0c594a3e3e",
+      "id": "c9c9f5f067",
       "topic": "Tech",
       "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-06T23:30:52+00:00",
-      "title": "Libghostty 1.0",
-      "summary": "Article URL: https://mitchellh.com/writing/libghostty-1-0 Comments URL: https://news.ycombinator.com/item?id=50399933 Points: 157 # Comments: 18",
-      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "source": "Engadget",
+      "published": "2026-11-07T15:00:00+00:00",
+      "title": "Why you don't really need an expensive, high-end router",
+      "summary": "Getting a top-of-the-line router won't necessarily increase your internet speeds. Here's what you need to know before you buy.",
+      "url": "https://www.engadget.com/2305411/why-you-dont-need-expensive-high-end-router/",
       "tickers": []
     },
     {
-      "id": "60e3e6ef53",
+      "id": "a1aa348126",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-07T14:45:00+00:00",
+      "title": "Windows PowerToys can automate some of your more tedious PC tasks",
+      "summary": "PowerToys is a secret weapon for Windows users, with tons of handy utilities to help you save time on your PC every day.",
+      "url": "https://www.engadget.com/2305351/windows-powertoys-automate-pc-tasks/",
+      "tickers": []
+    },
+    {
+      "id": "86090698b9",
       "topic": "Tech",
       "kind": "Company",
       "source": "The Verge",
-      "published": "2026-11-06T22:45:43+00:00",
-      "title": "Starlink Mobile: All the news on SpaceX’s major mobile carrier ambitions",
-      "summary": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of its plans to rival…",
-      "url": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
-      "tickers": []
-    },
-    {
-      "id": "44aac495db",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-06T21:50:32+00:00",
-      "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
-      "summary": "Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated flick in 4K. But at just $24.99 from Barnes and Noble and…",
-      "url": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
+      "published": "2026-11-07T14:40:06+00:00",
+      "title": "Good riddance, Cybertruck!",
+      "summary": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons. First, it was a humiliating way to kill…",
+      "url": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
       "tickers": [
-        "NFLX"
+        "TSLA"
       ]
     },
     {
-      "id": "49b9eb255e",
+      "id": "11762ee55d",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-07T14:30:00+00:00",
+      "title": "The accessory Samsung Galaxy S26 users should be taking advantage of",
+      "summary": "There's a lot to like about Samsung's Galaxy S26 phones, especially the S26 Ultra, but some users may not be taking full advantage of what they have to offer.",
+      "url": "https://www.engadget.com/2304963/samsung-galaxy-s26-users-accessory-take-advantage-of/",
+      "tickers": []
+    },
+    {
+      "id": "ac1306e972",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-07T14:15:00+00:00",
+      "title": "What's the point of buying a touchscreen laptop when you could just get a tablet?",
+      "summary": "Tablets are great for simplicity and touch-heavy workflows, while a touchscreen lets a laptop serve some of the same purposes in a different form.",
+      "url": "https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/",
+      "tickers": []
+    },
+    {
+      "id": "8c5e650fe1",
       "topic": "Tech",
       "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-06T21:38:05+00:00",
-      "title": "The Duo apps are coming, says Apple",
-      "summary": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
-      "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+      "source": "Engadget",
+      "published": "2026-11-07T14:00:00+00:00",
+      "title": "Why PlayStation can't hold a candle to Xbox's backward compatibility",
+      "summary": "Sony offers some older titles on the PS5, but nowhere near the amount that Microsoft added to its Xbox catalogs. It came down to one decision, made years ago.",
+      "url": "https://www.engadget.com/2305049/playstation-cant-hold-candle-to-xbox-backwards-compatibility/",
+      "tickers": [
+        "MSFT"
+      ]
+    },
+    {
+      "id": "0c480b77d2",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-07T13:49:01+00:00",
+      "title": "Zelda is back and better than ever",
+      "summary": "Hi, friends! Welcome to Installer No. 151, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, get psyched because it's officially Bad Holiday Movie Season, and also you can read all the old editions at the Installer homepage.) This week, I've…",
+      "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+      "tickers": []
+    },
+    {
+      "id": "0d31f9a46c",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-07T13:45:00+00:00",
+      "title": "How to use Gboard to boost productivity on your Android phone",
+      "summary": "Gboard's built-in features go way beyond many of the standard keyboards available on Android devices, but they do need to be enabled. This is how you do it.",
+      "url": "https://www.engadget.com/2305040/how-to-use-gboard-boost-productivity-android-phone/",
+      "tickers": []
+    },
+    {
+      "id": "08b0c901ee",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-07T13:30:00+00:00",
+      "title": "This is when external DACs for your phone are worth buying",
+      "summary": "External DACs aren't necessarily for everyone, but they can be an essential smartphone accessory for those interested in high-quality audio.",
+      "url": "https://www.engadget.com/2304952/when-external-dac-worth-buying-for-phone/",
+      "tickers": []
+    },
+    {
+      "id": "d3d9e092c3",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-07T13:15:00+00:00",
+      "title": "November is the month of fake Black Friday tech deals - here's how to spot them",
+      "summary": "November is generally a great time to buy tech, but you'll want to avoid pitfalls like inflated discounts and outright scams. Here's how to stay safe.",
+      "url": "https://www.engadget.com/2304942/black-friday-fake-tech-deals-how-to-spot/",
+      "tickers": []
+    },
+    {
+      "id": "8ab45abc07",
+      "topic": "Security",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-07T13:15:00+00:00",
+      "title": "10 of the coolest features in Samsung's new One UI 9 update",
+      "summary": "Your Samsung phone gets improvements to the camera, gestures, privacy and much more with One UI 9.",
+      "url": "https://www.engadget.com/2305270/samsung-one-ui-9-coolest-features/",
+      "tickers": []
+    },
+    {
+      "id": "0123849237",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-07T13:00:00+00:00",
+      "title": "Engadget review recap: Apple devices, Googlebooks and Kindles",
+      "summary": "A roundup of recent reviews from Engadget.",
+      "url": "https://www.engadget.com/2309200/engadget-review-recap-apple-devices-googlebooks-and-kindles/",
       "tickers": [
         "AAPL"
       ]
     },
     {
-      "id": "bd76a80f24",
+      "id": "f076b80364",
       "topic": "AI",
       "kind": "Company",
-      "source": "Ars Technica",
-      "published": "2026-11-06T20:56:41+00:00",
-      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-      "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+      "source": "The Verge",
+      "published": "2026-11-07T12:30:00+00:00",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
       "tickers": []
     },
     {
-      "id": "e04051ecb9",
+      "id": "5d0d8f6d64",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-07T10:15:26+00:00",
+      "title": "Upload Your RAM",
+      "summary": "Article URL: https://uploadyourram.org Comments URL: https://news.ycombinator.com/item?id=50403214 Points: 234 # Comments: 218",
+      "url": "https://uploadyourram.org",
+      "tickers": []
+    },
+    {
+      "id": "6bc92e9ac2",
       "topic": "AI",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-11-06T20:27:23+00:00",
-      "title": "AI is dramatically accelerating AI research",
-      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 199 # Comments: 152",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "tickers": []
-    },
-    {
-      "id": "557f5a61a1",
-      "topic": "Cloud",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-06T20:02:22+00:00",
-      "title": "All the latest updates on AI data centers",
-      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "tickers": []
-    },
-    {
-      "id": "c6e1a1639c",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-06T19:48:51+00:00",
-      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-      "summary": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 329 # Comments: 70",
-      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-      "tickers": []
-    },
-    {
-      "id": "55553348cf",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-06T19:47:02+00:00",
-      "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
-      "summary": "While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, including Amazon, Guitar Center, and directly from Shure. That’s…",
-      "url": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale",
+      "published": "2026-11-07T09:46:03+00:00",
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "summary": "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 384 # Comments: 218",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
       "tickers": [
-        "AMZN"
+        "AAPL"
       ]
-    },
-    {
-      "id": "d395ea76eb",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-06T19:45:23+00:00",
-      "title": "Google's eyewear partners can't keep a lid on its smart glasses plans",
-      "summary": "Gentle Monster shared that its \"Intelligent Eyewear\" will be available to pre-order on November 12.",
-      "url": "https://www.engadget.com/2309631/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans/",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "6a12e6a535",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-06T19:33:38+00:00",
-      "title": "Firecracker VM Escape: PwnEscape Part 2",
-      "summary": "Article URL: https://pwn.ai/blog/firecracker-escape Comments URL: https://news.ycombinator.com/item?id=50397219 Points: 171 # Comments: 75",
-      "url": "https://pwn.ai/blog/firecracker-escape",
-      "tickers": []
-    },
-    {
-      "id": "8440009025",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-06T18:44:38+00:00",
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "tickers": []
-    },
-    {
-      "id": "9b38cc280c",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-11-06T18:44:20+00:00",
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "tickers": []
-    },
-    {
-      "id": "549429cf4d",
-      "topic": "Policy",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-06T18:42:30+00:00",
-      "title": "Lame-duck Congress might actually do something: speed up energy projects",
-      "summary": "A massive permitting bill that could help energy projects come online much quicker and potentially lower utility bills for Americans is advancing with bipartisan support. And while it could be a catalyst for lots of clean energy, it could also speed up polluting projects and…",
-      "url": "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote",
-      "tickers": []
-    },
-    {
-      "id": "bd6af519ee",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-06T18:10:10+00:00",
-      "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-      "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse…",
-      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-      "tickers": []
-    },
-    {
-      "id": "91a1ed89e7",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-11-06T17:56:58+00:00",
-      "title": "Amazon is now making a Melania Trump TV series",
-      "summary": "Following the Melania documentary movie that premiered earlier this year, Amazon is now planning to release a two-part Prime Video series focusing on the first lady. The show, Melania: The Series, is set to debut on November 20th. \"MELANIA, The Series reveals never-before-told…",
-      "url": "https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video",
-      "tickers": [
-        "AMZN"
-      ]
-    },
-    {
-      "id": "1f15210e4e",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-06T17:40:06+00:00",
-      "title": "Just about anyone can rent access to White House IP addresses",
-      "summary": "Someone at the White House appears to be running software that could enable outsiders to rent access on the presidential network for just \"a few dollars,\" as reported by Krebs on Security and The Register. That's according to findings from the security firms Layer3 Intel and…",
-      "url": "https://www.theverge.com/tech/1028835/white-house-residential-proxy",
-      "tickers": [
-        "INTC"
-      ]
-    },
-    {
-      "id": "0ce6df6f00",
-      "topic": "Cloud",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-06T17:23:52+00:00",
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even…",
-      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "tickers": []
-    },
-    {
-      "id": "ac682d5e7a",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-06T17:20:32+00:00",
-      "title": "Fox wraps up its $22 billion Roku deal",
-      "summary": "No Hannity on your home screen, at least for now.",
-      "url": "https://www.engadget.com/2309307/fox-wraps-up-its-dollar22-billion-roku-deal/",
-      "tickers": []
-    },
-    {
-      "id": "7cf275d4af",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-06T17:17:14+00:00",
-      "title": "The EU accuses TikTok's 'rabbit hole' algorithm of breaching its content rules",
-      "summary": "The bloc said the platform needs to change how the For You page works to help protect users' mental health.",
-      "url": "https://www.engadget.com/2309300/the-eu-accuses-tiktoks-rabbit-hole-algorithm-of-breaching-its-content-rules/",
-      "tickers": []
-    },
-    {
-      "id": "c7e804daaf",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-06T17:11:10+00:00",
-      "title": "You'll soon be able to text Alexa to shop on Amazon",
-      "summary": "The latest Alexa for shopping feature is initially available by invite in the US.",
-      "url": "https://www.engadget.com/2309285/youll-soon-be-able-to-text-alexa-to-shop-on-amazon/",
-      "tickers": [
-        "AMZN"
-      ]
-    },
-    {
-      "id": "341a513388",
-      "topic": "Policy",
-      "kind": "Launch",
-      "source": "Engadget",
-      "published": "2026-11-06T16:56:52+00:00",
-      "title": "DOJ just launched something called the Super Intelligence Task Force",
-      "summary": "The unit is tasked with ensuring that the technology is not \"manipulated by bad actors at home or abroad.\"",
-      "url": "https://www.engadget.com/2309257/doj-just-launched-something-called-the-super-intelligence-task-force/",
-      "tickers": []
-    },
-    {
-      "id": "ecbe131a16",
-      "topic": "Startups",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-06T16:54:36+00:00",
-      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-      "summary": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3... Comments URL: https://news.ycombinator.com/item?id=50394906 Points: 227 # Comments: 483",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-      "tickers": []
     }
   ],
   "rumors": [
     {
-      "id": "5515d46057",
-      "topic": "Tech",
+      "id": "b323d71734",
+      "topic": "AI",
       "status": "Just surfaced",
-      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
-      "detail": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
-      "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "detail": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push…",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
       "sources": 2,
       "mentions": 2,
       "credible": 2,
-      "days": 1,
-      "tickers": [],
+      "days": 0,
+      "tickers": [
+        "NVDA"
+      ],
       "score": 29
     },
     {
@@ -321,20 +317,20 @@
       "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
       "detail": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
       "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "sources": 1,
-      "mentions": 2,
+      "sources": 2,
+      "mentions": 3,
       "credible": 1,
       "days": 0,
       "tickers": [],
-      "score": 18
+      "score": 24
     },
     {
-      "id": "c2ec66a5ad",
+      "id": "5515d46057",
       "topic": "Tech",
       "status": "Just surfaced",
-      "title": "The Xbox PC app is getting a speed boost",
-      "detail": "The updated app, rolling out to Xbox Insiders first, launches up to 60 percent faster.",
-      "url": "https://www.engadget.com/2308407/the-xbox-pc-app-is-getting-a-speed-boost/",
+      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+      "detail": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
+      "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
       "sources": 1,
       "mentions": 1,
       "credible": 1,
@@ -352,26 +348,343 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 0,
+      "days": 1,
       "tickers": [],
       "score": 15
     },
     {
-      "id": "b323d71734",
-      "topic": "AI",
+      "id": "a2e9a65bb5",
+      "topic": "Tech",
       "status": "Just surfaced",
-      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-      "detail": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push…",
-      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "title": "How iOS can warn you when one of your passwords shows up in a data leak",
+      "detail": "You'll be warned if your credentials stored in Apple Passwords are weak or compromised so you can take appropriate action.",
+      "url": "https://www.engadget.com/2305444/how-ios-warn-password-shows-up-data-leak/",
       "sources": 1,
       "mentions": 1,
       "credible": 1,
       "days": 0,
       "tickers": [],
       "score": 15
+    },
+    {
+      "id": "a381b62088",
+      "topic": "AI",
+      "status": "Just surfaced",
+      "title": "Protesters storm Microsoft AI data center construction site — Amsterdam reportedly first of 85 targeted actions across Europe",
+      "detail": "submitted by /u/Puzzleheaded_irl [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1xq1byu/protesters_storm_microsoft_ai_data_center/",
+      "sources": 1,
+      "mentions": 2,
+      "credible": 0,
+      "days": 0,
+      "tickers": [
+        "MSFT"
+      ],
+      "score": 11
+    },
+    {
+      "id": "9eddbd9392",
+      "topic": "AI",
+      "status": "Just surfaced",
+      "title": "Microsoft to reportedly wind down Oracle deal to rent AI cloud capacity",
+      "detail": "submitted by /u/CarciaNerissa [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1xpm9r1/microsoft_to_reportedly_wind_down_oracle_deal_to/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 0,
+      "days": 0,
+      "tickers": [
+        "MSFT",
+        "ORCL"
+      ],
+      "score": 8
+    },
+    {
+      "id": "5366609914",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "Report: Apple faces congressional scrutiny over ICE tracking apps and Trump donations",
+      "detail": "submitted by /u/FollowingFeisty5321 [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1xpq4k6/report_apple_faces_congressional_scrutiny_over/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 0,
+      "days": 0,
+      "tickers": [
+        "AAPL"
+      ],
+      "score": 8
     }
   ],
   "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "price": 186.64,
+      "changePct": -8.8,
+      "monthChangePct": -19.0,
+      "catalyst": "The US let Nvidia sell chips to an empty office in China",
+      "when": "In the news",
+      "signals": [
+        "5 headlines",
+        "Big price move",
+        "Volume up"
+      ],
+      "spark": [
+        213.66,
+        204.64,
+        202.06,
+        206.69,
+        200.13,
+        181.6,
+        186.64
+      ],
+      "history": [
+        {
+          "d": "2026-10-08",
+          "c": 230.48
+        },
+        {
+          "d": "2026-10-09",
+          "c": 229.28
+        },
+        {
+          "d": "2026-10-12",
+          "c": 226.32
+        },
+        {
+          "d": "2026-10-13",
+          "c": 228.52
+        },
+        {
+          "d": "2026-10-14",
+          "c": 221.3
+        },
+        {
+          "d": "2026-10-15",
+          "c": 217.23
+        },
+        {
+          "d": "2026-10-16",
+          "c": 214.13
+        },
+        {
+          "d": "2026-10-19",
+          "c": 217.09
+        },
+        {
+          "d": "2026-10-20",
+          "c": 216.47
+        },
+        {
+          "d": "2026-10-21",
+          "c": 221.97
+        },
+        {
+          "d": "2026-10-22",
+          "c": 212.21
+        },
+        {
+          "d": "2026-10-23",
+          "c": 210.96
+        },
+        {
+          "d": "2026-10-26",
+          "c": 216.0
+        },
+        {
+          "d": "2026-10-27",
+          "c": 217.94
+        },
+        {
+          "d": "2026-10-28",
+          "c": 215.38
+        },
+        {
+          "d": "2026-10-29",
+          "c": 213.66
+        },
+        {
+          "d": "2026-10-30",
+          "c": 204.64
+        },
+        {
+          "d": "2026-11-02",
+          "c": 202.06
+        },
+        {
+          "d": "2026-11-03",
+          "c": 206.69
+        },
+        {
+          "d": "2026-11-04",
+          "c": 200.13
+        },
+        {
+          "d": "2026-11-05",
+          "c": 181.6
+        },
+        {
+          "d": "2026-11-06",
+          "c": 186.64
+        }
+      ],
+      "earnings": "2026-11-17",
+      "headlines": [
+        {
+          "title": "The US let Nvidia sell chips to an empty office in China",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+          "published": "2026-11-07T15:43:45+00:00"
+        }
+      ],
+      "score": 45.5,
+      "brief": {
+        "what": "1 recent headline mentions NVIDIA. Latest: The US let Nvidia sell chips to an empty office in China There is also a rumor making the rounds: China reportedly recruited AI exec to spy on Jensen Huang",
+        "why": "Signals: 5 headlines, big price move, volume up. The stock is down 8.8% this week and down 19.0% over the month.",
+        "watch": "Next earnings expected Tue Nov 17. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "price": 342.37,
+      "changePct": -0.7,
+      "monthChangePct": 0.6,
+      "catalyst": "Engadget review recap: Apple devices, Googlebooks and Kindles",
+      "when": "In the news",
+      "signals": [
+        "6 headlines"
+      ],
+      "spark": [
+        348.91,
+        344.63,
+        338.32,
+        331.9,
+        349.51,
+        344.17,
+        342.37
+      ],
+      "history": [
+        {
+          "d": "2026-10-08",
+          "c": 340.42
+        },
+        {
+          "d": "2026-10-09",
+          "c": 336.64
+        },
+        {
+          "d": "2026-10-12",
+          "c": 340.97
+        },
+        {
+          "d": "2026-10-13",
+          "c": 341.27
+        },
+        {
+          "d": "2026-10-14",
+          "c": 342.96
+        },
+        {
+          "d": "2026-10-15",
+          "c": 342.0
+        },
+        {
+          "d": "2026-10-16",
+          "c": 343.46
+        },
+        {
+          "d": "2026-10-19",
+          "c": 342.94
+        },
+        {
+          "d": "2026-10-20",
+          "c": 339.5
+        },
+        {
+          "d": "2026-10-21",
+          "c": 343.99
+        },
+        {
+          "d": "2026-10-22",
+          "c": 348.22
+        },
+        {
+          "d": "2026-10-23",
+          "c": 347.73
+        },
+        {
+          "d": "2026-10-26",
+          "c": 343.91
+        },
+        {
+          "d": "2026-10-27",
+          "c": 347.1
+        },
+        {
+          "d": "2026-10-28",
+          "c": 343.83
+        },
+        {
+          "d": "2026-10-29",
+          "c": 348.91
+        },
+        {
+          "d": "2026-10-30",
+          "c": 344.63
+        },
+        {
+          "d": "2026-11-02",
+          "c": 338.32
+        },
+        {
+          "d": "2026-11-03",
+          "c": 331.9
+        },
+        {
+          "d": "2026-11-04",
+          "c": 349.51
+        },
+        {
+          "d": "2026-11-05",
+          "c": 344.17
+        },
+        {
+          "d": "2026-11-06",
+          "c": 342.37
+        }
+      ],
+      "earnings": "2027-01-28",
+      "headlines": [
+        {
+          "title": "Engadget review recap: Apple devices, Googlebooks and Kindles",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2309200/engadget-review-recap-apple-devices-googlebooks-and-kindles/",
+          "published": "2026-11-07T13:00:00+00:00"
+        },
+        {
+          "title": "The Duo apps are coming, says Apple",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+          "published": "2026-11-06T21:38:05+00:00"
+        },
+        {
+          "title": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
+          "published": "2026-10-30T15:00:00+00:00"
+        }
+      ],
+      "score": 31.3,
+      "brief": {
+        "what": "3 recent headlines mention Apple. Latest: Engadget review recap: Apple devices, Googlebooks and Kindles There is also a rumor making the rounds: Report: Apple faces congressional scrutiny over ICE tracking apps and Trump donations",
+        "why": "Signals: 6 headlines. The stock is down 0.7% this week and up 0.6% over the month.",
+        "watch": "Next earnings expected Thu Jan 28. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
     {
       "ticker": "TSLA",
       "name": "Tesla",
@@ -381,7 +694,7 @@
       "catalyst": "Tesla to wind down Cybertruck production",
       "when": "In the news",
       "signals": [
-        "4 headlines",
+        "2 headlines",
         "Big price move"
       ],
       "spark": [
@@ -498,151 +811,11 @@
           "published": "2026-11-06T11:50:10+00:00"
         }
       ],
-      "score": 40.0,
+      "score": 30.0,
       "brief": {
         "what": "2 recent headlines mention Tesla. Latest: Tesla to wind down Cybertruck production",
-        "why": "Signals: 4 headlines, big price move. The stock is down 10.4% this week and down 4.5% over the month.",
+        "why": "Signals: 2 headlines, big price move. The stock is down 10.4% this week and down 4.5% over the month.",
         "watch": "Next earnings expected Wed Jan 27. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "price": 259.3,
-      "changePct": 7.9,
-      "monthChangePct": 2.1,
-      "catalyst": "Amazon is now making a Melania Trump TV series",
-      "when": "In the news",
-      "signals": [
-        "4 headlines",
-        "Big price move"
-      ],
-      "spark": [
-        243.79,
-        240.35,
-        245.63,
-        250.69,
-        266.03,
-        260.21,
-        259.3
-      ],
-      "history": [
-        {
-          "d": "2026-10-08",
-          "c": 254.06
-        },
-        {
-          "d": "2026-10-09",
-          "c": 262.43
-        },
-        {
-          "d": "2026-10-12",
-          "c": 259.53
-        },
-        {
-          "d": "2026-10-13",
-          "c": 258.58
-        },
-        {
-          "d": "2026-10-14",
-          "c": 254.08
-        },
-        {
-          "d": "2026-10-15",
-          "c": 254.76
-        },
-        {
-          "d": "2026-10-16",
-          "c": 250.0
-        },
-        {
-          "d": "2026-10-19",
-          "c": 262.45
-        },
-        {
-          "d": "2026-10-20",
-          "c": 262.63
-        },
-        {
-          "d": "2026-10-21",
-          "c": 262.37
-        },
-        {
-          "d": "2026-10-22",
-          "c": 250.38
-        },
-        {
-          "d": "2026-10-23",
-          "c": 248.0
-        },
-        {
-          "d": "2026-10-26",
-          "c": 249.09
-        },
-        {
-          "d": "2026-10-27",
-          "c": 253.1
-        },
-        {
-          "d": "2026-10-28",
-          "c": 254.6
-        },
-        {
-          "d": "2026-10-29",
-          "c": 243.79
-        },
-        {
-          "d": "2026-10-30",
-          "c": 240.35
-        },
-        {
-          "d": "2026-11-02",
-          "c": 245.63
-        },
-        {
-          "d": "2026-11-03",
-          "c": 250.69
-        },
-        {
-          "d": "2026-11-04",
-          "c": 266.03
-        },
-        {
-          "d": "2026-11-05",
-          "c": 260.21
-        },
-        {
-          "d": "2026-11-06",
-          "c": 259.3
-        }
-      ],
-      "earnings": null,
-      "headlines": [
-        {
-          "title": "Amazon is now making a Melania Trump TV series",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video",
-          "published": "2026-11-06T17:56:58+00:00"
-        },
-        {
-          "title": "You'll soon be able to text Alexa to shop on Amazon",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2309285/youll-soon-be-able-to-text-alexa-to-shop-on-amazon/",
-          "published": "2026-11-06T17:11:10+00:00"
-        },
-        {
-          "title": "Serve Robotics launches new business to become the AWS for robots",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
-          "published": "2026-11-05T21:15:00+00:00"
-        }
-      ],
-      "score": 35.8,
-      "brief": {
-        "what": "3 recent headlines mention Amazon. Latest: Amazon is now making a Melania Trump TV series",
-        "why": "Signals: 4 headlines, big price move. The stock is up 7.9% this week and up 2.1% over the month.",
-        "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
     },
@@ -655,7 +828,7 @@
       "catalyst": "Crusoe sells troubled Wyoming data center project to Google",
       "when": "In the news",
       "signals": [
-        "7 headlines"
+        "5 headlines"
       ],
       "spark": [
         283.82,
@@ -771,22 +944,10 @@
           "published": "2026-11-06T19:45:23+00:00"
         },
         {
-          "title": "Google's Find Hub can finally notify you if you've left a tracker behind",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2308903/googles-find-hub-can-finally-notify-you-if-youve-left-a-tracker-behind/",
-          "published": "2026-11-06T13:05:16+00:00"
-        },
-        {
           "title": "Meta, Google, and TikTok sue California AG over teen social media law",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
           "published": "2026-11-06T00:01:38+00:00"
-        },
-        {
-          "title": "Google is ditching Firebase Studio soon, and it wants you to use its newer AI tools instead",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2308541/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/",
-          "published": "2026-11-05T21:01:28+00:00"
         },
         {
           "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
@@ -801,253 +962,131 @@
           "published": "2026-11-04T13:49:51+00:00"
         }
       ],
-      "score": 33.5,
+      "score": 28.5,
       "brief": {
-        "what": "7 recent headlines mention Alphabet. Latest: Crusoe sells troubled Wyoming data center project to Google",
-        "why": "Signals: 7 headlines. The stock is up 1.8% this week and down 18.2% over the month.",
+        "what": "5 recent headlines mention Alphabet. Latest: Crusoe sells troubled Wyoming data center project to Google",
+        "why": "Signals: 5 headlines. The stock is up 1.8% this week and down 18.2% over the month.",
         "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
     },
     {
-      "ticker": "ARM",
-      "name": "Arm Holdings",
-      "price": 166.72,
-      "changePct": -27.1,
-      "monthChangePct": -43.4,
-      "catalyst": "Down 27% this week",
-      "when": "Price",
+      "ticker": "ORCL",
+      "name": "Oracle",
+      "price": 116.1,
+      "changePct": -11.2,
+      "monthChangePct": -14.1,
+      "catalyst": "Microsoft to reportedly wind down Oracle deal to rent AI cloud capacity",
+      "when": "In the news",
       "signals": [
-        "Big price move",
-        "Volume up"
+        "Big price move"
       ],
       "spark": [
-        235.9,
-        228.77,
-        205.97,
-        196.79,
-        202.49,
-        191.8,
-        166.72
+        139.56,
+        130.67,
+        119.22,
+        126.19,
+        123.73,
+        115.16,
+        116.1
       ],
       "history": [
         {
-          "d": "2026-10-07",
-          "c": 294.37
-        },
-        {
           "d": "2026-10-08",
-          "c": 275.29
+          "c": 135.19
         },
         {
           "d": "2026-10-09",
-          "c": 266.28
+          "c": 141.4
         },
         {
           "d": "2026-10-12",
-          "c": 255.24
+          "c": 137.39
         },
         {
           "d": "2026-10-13",
-          "c": 255.39
+          "c": 143.2
         },
         {
           "d": "2026-10-14",
-          "c": 238.01
+          "c": 130.55
         },
         {
           "d": "2026-10-15",
-          "c": 244.79
+          "c": 134.47
         },
         {
           "d": "2026-10-16",
-          "c": 227.8
+          "c": 128.23
         },
         {
           "d": "2026-10-19",
-          "c": 228.05
+          "c": 129.59
         },
         {
           "d": "2026-10-20",
-          "c": 221.06
+          "c": 131.14
         },
         {
           "d": "2026-10-21",
-          "c": 226.59
+          "c": 129.13
         },
         {
           "d": "2026-10-22",
-          "c": 210.1
+          "c": 125.54
         },
         {
           "d": "2026-10-23",
-          "c": 210.33
+          "c": 126.16
         },
         {
           "d": "2026-10-26",
-          "c": 223.35
+          "c": 126.06
         },
         {
           "d": "2026-10-27",
-          "c": 226.6
+          "c": 130.53
         },
         {
           "d": "2026-10-28",
-          "c": 235.9
+          "c": 144.54
         },
         {
           "d": "2026-10-29",
-          "c": 228.77
+          "c": 139.56
         },
         {
           "d": "2026-10-30",
-          "c": 205.97
+          "c": 130.67
         },
         {
           "d": "2026-11-02",
-          "c": 196.79
+          "c": 119.22
         },
         {
           "d": "2026-11-03",
-          "c": 202.49
+          "c": 126.19
         },
         {
           "d": "2026-11-04",
-          "c": 191.8
+          "c": 123.73
         },
         {
           "d": "2026-11-05",
-          "c": 166.72
+          "c": 115.16
+        },
+        {
+          "d": "2026-11-06",
+          "c": 116.1
         }
       ],
-      "earnings": "2027-02-03",
+      "earnings": "2026-12-14",
       "headlines": [],
-      "score": 29.5,
+      "score": 25.6,
       "brief": {
-        "what": "No major headlines about Arm Holdings in the last two weeks.",
-        "why": "Signals: big price move, volume up. The stock is down 27.1% this week and down 43.4% over the month.",
-        "watch": "Next earnings expected Wed Feb 3. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "NET",
-      "name": "Cloudflare",
-      "price": 244.51,
-      "changePct": -21.2,
-      "monthChangePct": -28.7,
-      "catalyst": "Down 21% this week",
-      "when": "Price",
-      "signals": [
-        "Big price move",
-        "Volume up"
-      ],
-      "spark": [
-        318.72,
-        310.3,
-        280.7,
-        265.17,
-        273.62,
-        266.58,
-        244.51
-      ],
-      "history": [
-        {
-          "d": "2026-10-07",
-          "c": 342.97
-        },
-        {
-          "d": "2026-10-08",
-          "c": 341.89
-        },
-        {
-          "d": "2026-10-09",
-          "c": 360.93
-        },
-        {
-          "d": "2026-10-12",
-          "c": 350.87
-        },
-        {
-          "d": "2026-10-13",
-          "c": 347.7
-        },
-        {
-          "d": "2026-10-14",
-          "c": 324.33
-        },
-        {
-          "d": "2026-10-15",
-          "c": 316.32
-        },
-        {
-          "d": "2026-10-16",
-          "c": 296.3
-        },
-        {
-          "d": "2026-10-19",
-          "c": 297.58
-        },
-        {
-          "d": "2026-10-20",
-          "c": 291.69
-        },
-        {
-          "d": "2026-10-21",
-          "c": 307.22
-        },
-        {
-          "d": "2026-10-22",
-          "c": 303.61
-        },
-        {
-          "d": "2026-10-23",
-          "c": 325.73
-        },
-        {
-          "d": "2026-10-26",
-          "c": 331.86
-        },
-        {
-          "d": "2026-10-27",
-          "c": 327.8
-        },
-        {
-          "d": "2026-10-28",
-          "c": 318.72
-        },
-        {
-          "d": "2026-10-29",
-          "c": 310.3
-        },
-        {
-          "d": "2026-10-30",
-          "c": 280.7
-        },
-        {
-          "d": "2026-11-02",
-          "c": 265.17
-        },
-        {
-          "d": "2026-11-03",
-          "c": 273.62
-        },
-        {
-          "d": "2026-11-04",
-          "c": 266.58
-        },
-        {
-          "d": "2026-11-05",
-          "c": 244.51
-        }
-      ],
-      "earnings": null,
-      "headlines": [],
-      "score": 28.1,
-      "brief": {
-        "what": "No major headlines about Cloudflare in the last two weeks.",
-        "why": "Signals: big price move, volume up. The stock is down 21.2% this week and down 28.7% over the month.",
-        "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
+        "what": "No major headlines about Oracle in the last two weeks. There is also a rumor making the rounds: Microsoft to reportedly wind down Oracle deal to rent AI cloud capacity",
+        "why": "Signals: big price move. The stock is down 11.2% this week and down 14.1% over the month.",
+        "watch": "Next earnings expected Mon Dec 14. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
