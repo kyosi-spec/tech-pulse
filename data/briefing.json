@@ -1,12 +1,279 @@
 {
   "weekOf": "2026-11-02",
-  "updated": "2026-11-08T01:26:14+00:00",
+  "updated": "2026-11-08T17:02:22+00:00",
   "summary": [
-    "Tech leads the news with 12 of 25 stories. Top headline: Samsung One UI 9.5 beta may be coming soon: Here's how to sign up for the program",
+    "Tech leads the news with 17 of 25 stories. Top headline: How much did an iPhone cost in 2007 vs. 2026? The gap is smaller than you think",
     "Biggest catalyst on the watchlist: NVDA, megaspeed exec was recruited to spy on nvidia ceo, according to us intelligence memo.",
     "Strongest rumor: OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation"
   ],
   "stories": [
+    {
+      "id": "0502656fb2",
+      "topic": "Devices",
+      "kind": "Launch",
+      "source": "Engadget",
+      "published": "2026-11-08T16:45:00+00:00",
+      "title": "How much did an iPhone cost in 2007 vs. 2026? The gap is smaller than you think",
+      "summary": "The first iPhone launched at $499 in 2007. See how that price compares to today's models once inflation, storage and features are factored in.",
+      "url": "https://www.engadget.com/2308205/how-much-did-iphone-cost-2007-vs-2026/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "d7352a48ad",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-08T16:30:00+00:00",
+      "title": "How long can you expect your Apple AirPods to last?",
+      "summary": "Here's how to get the most out of your AirPods.",
+      "url": "https://www.engadget.com/2307837/how-long-expect-apple-airpods-last/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "af383db018",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-08T16:15:00+00:00",
+      "title": "AI music can be difficult to detect, but there are some telltale signs",
+      "summary": "AI-generated songs are filling Spotify and other platforms. These vocal, lyric and instrumental tells can help you catch them before you hit play.",
+      "url": "https://www.engadget.com/2308062/ai-music-difficult-to-detect-telltale-signs/",
+      "tickers": [
+        "SPOT"
+      ]
+    },
+    {
+      "id": "f543a1c8e8",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-08T16:00:00+00:00",
+      "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
+      "summary": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which features Apple’s M5 processor, 16GB of RAM, and 512GB of…",
+      "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "b9712e3bf7",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-08T16:00:00+00:00",
+      "title": "You can attach your Fitbit Air to almost any old-school watch",
+      "summary": "There are a few ways to combine the screen-less FitBit Air with an existing analog watch.",
+      "url": "https://www.engadget.com/2307854/how-to-attach-fitbit-air-to-old-school-watch/",
+      "tickers": []
+    },
+    {
+      "id": "d9302ab434",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-08T15:45:00+00:00",
+      "title": "Can PC coolant expire? Here's how long it can last",
+      "summary": "A liquid-cooled PC can certainly look cool, but there are hurdles when mixing tech and water. Here's what you need to know to keep your rig running right.",
+      "url": "https://www.engadget.com/2307846/how-long-pc-coolant-lasts/",
+      "tickers": []
+    },
+    {
+      "id": "980093e819",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "Engadget",
+      "published": "2026-11-08T15:30:00+00:00",
+      "title": "These experimental EV batteries can eject themselves during a fire",
+      "summary": "EV battery fires are highly dangerous and difficult to extinguish, but is launching a battery pack out of the car a smart or realistic solution?",
+      "url": "https://www.engadget.com/2307844/experimental-ev-batteries-eject-during-fire/",
+      "tickers": []
+    },
+    {
+      "id": "07b2898e44",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-08T15:15:00+00:00",
+      "title": "Pro Gamers typically don't use OLED monitors, but you most definitely can",
+      "summary": "Big tournaments favor LCD monitors, though perhaps not for the reasons you suspect. We'll explain why normal gamers can and should embrace OLED displays.",
+      "url": "https://www.engadget.com/2307840/pro-gamers-dont-use-oled-monitors-why-you-should/",
+      "tickers": []
+    },
+    {
+      "id": "01a81384ca",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-08T15:00:30+00:00",
+      "title": "Chatbots might be coming to Apple’s HomeView",
+      "summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like…",
+      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "7f98fab9c8",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-08T15:00:00+00:00",
+      "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+      "summary": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
+      "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+      "tickers": []
+    },
+    {
+      "id": "dc2ec11308",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-08T15:00:00+00:00",
+      "title": "How to set up Google Authenticator on a new phone",
+      "summary": "How to setup Google Authenticator on a new phone without causing a headache.",
+      "url": "https://www.engadget.com/2307835/how-to-set-up-google-authenticator-new-phone/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "48bccb9773",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-08T14:45:00+00:00",
+      "title": "Your digital game library is yours, until it's not",
+      "summary": "Digital games you \"buy\" can be taken away at any time, and there are fewer options than ever for true game ownership.",
+      "url": "https://www.engadget.com/2307829/digital-game-library-ownership-uncertainty/",
+      "tickers": []
+    },
+    {
+      "id": "945813f06d",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-08T14:30:00+00:00",
+      "title": "The pros and cons of buying refurbished laptops",
+      "summary": "A properly refurbished laptop will get you a lot for your money, but not all refurb jobs are done to the same standard.",
+      "url": "https://www.engadget.com/2307699/buying-refurbished-laptops-pros-and-cons/",
+      "tickers": []
+    },
+    {
+      "id": "59887f8abc",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-08T14:15:00+00:00",
+      "title": "The game reverse engineering community is the latest casualty of AI",
+      "summary": "For years, decompilation communities thrived on the challenge of breaking down video games to their core code and adapting them. Then AI tools ruined the fun.",
+      "url": "https://www.engadget.com/2307604/game-reverse-engineering-community-latest-ai-casualty/",
+      "tickers": []
+    },
+    {
+      "id": "9077d08cb4",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-08T14:00:00+00:00",
+      "title": "How to reset your Vizio TV back to factory settings",
+      "summary": "A factory reset shouldn't be your first instinct when your Vizio TV has issues, but it can sometimes be the only way to fix them. Thankfully, it's quite simple.",
+      "url": "https://www.engadget.com/2307501/how-to-reset-vizio-tv-factory-settings/",
+      "tickers": []
+    },
+    {
+      "id": "059e205755",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-08T13:45:00+00:00",
+      "title": "Can a hacker really do anything with your IP address?",
+      "summary": "Your IP address won't give a hacker your passwords, yet it can point attackers to your home network. Here's what IPv6 changes and how to stay protected.",
+      "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+      "tickers": []
+    },
+    {
+      "id": "59dc0b9cfc",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-08T13:30:00+00:00",
+      "title": "Streaming vs. downloading: Which uses more battery and data?",
+      "summary": "Does it make more sense to download in advance, or should you stream whenever possible? Video and sound quality have an impact on battery and data usage.",
+      "url": "https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/",
+      "tickers": []
+    },
+    {
+      "id": "73cd333096",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-08T13:15:00+00:00",
+      "title": "Avoid these common mistakes when buying a new monitor",
+      "summary": "Many monitor buying mistakes come from ignoring viewing distance, port limits, and HDR claims. These tips help you pick a screen that fits your needs.",
+      "url": "https://www.engadget.com/2306213/avoid-common-mistakes-buying-new-monitor/",
+      "tickers": []
+    },
+    {
+      "id": "72d20ff6c8",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-08T13:00:00+00:00",
+      "title": "There’s no slowing down media’s pivot-to-video 2.0",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.…",
+      "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+      "tickers": []
+    },
+    {
+      "id": "c4041c3793",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-08T11:23:28+00:00",
+      "title": "Person of Interest",
+      "summary": "Article URL: https://krthr.co/person-of-interest/ Comments URL: https://news.ycombinator.com/item?id=50412318 Points: 226 # Comments: 152",
+      "url": "https://krthr.co/person-of-interest/",
+      "tickers": []
+    },
+    {
+      "id": "7b9372757a",
+      "topic": "Chips",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-08T10:22:04+00:00",
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "summary": "Article URL: https://github.com/synchopate/llama-modchip Comments URL: https://news.ycombinator.com/item?id=50411961 Points: 174 # Comments: 56",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "tickers": []
+    },
+    {
+      "id": "dbf170a2e9",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-08T03:11:48+00:00",
+      "title": "Goodbye Claude, hello Pi",
+      "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 541 # Comments: 346",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "tickers": []
+    },
+    {
+      "id": "5ae66c1fcd",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-08T01:30:00+00:00",
+      "title": "Syncing Apple Music across your devices is easier than you think",
+      "summary": "One perk of subscribing to Apple Music is having your collection synced across all your devices - and all it takes is a simple toggle. Here's how.",
+      "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
     {
       "id": "661fb18ce8",
       "topic": "Tech",
@@ -28,273 +295,6 @@
       "summary": "Ever wonder how a total stranger ended up with your phone number? The answer starts earlier than you think, and a few small habits can keep it from spreading.",
       "url": "https://www.engadget.com/2307324/spam-callers-how-they-get-your-number/",
       "tickers": []
-    },
-    {
-      "id": "81d5426d31",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-08T00:30:00+00:00",
-      "title": "What does Apple One Family come with and which subscription is best for you?",
-      "summary": "Apple One offers strong value if you're using a lot of Apple services anyway, but make sure you do the math before signing up.",
-      "url": "https://www.engadget.com/2307150/apple-one-family-plan-what-comes-with-which-subscription-best/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "043dd7a01e",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-08T00:15:00+00:00",
-      "title": "10 useful iPad apps that could make your daily life easier",
-      "summary": "Your iPad can do a lot with the right apps. Go beyond Apple's defaults and try these useful offerings that all have great free tiers.",
-      "url": "https://www.engadget.com/2309904/useful-ipad-apps-make-daily-life-easier/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "517ffc9b1b",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-08T00:00:00+00:00",
-      "title": "Why you shouldn't remove the screen protector film on your Nintendo Switch 2",
-      "summary": "The Switch 2 comes with a protective film on its screen, and you may be tempted to peel it off. Here's why you shouldn't.",
-      "url": "https://www.engadget.com/2307095/why-keep-nintendo-switch-2-screen-protector/",
-      "tickers": []
-    },
-    {
-      "id": "1a32af439e",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-07T23:45:00+00:00",
-      "title": "Why you should never put your PlayStation 5 on a carpeted floor",
-      "summary": "The PlayStation 5 needs to stay cool when playing games, and a carpet is a literal hotbed. Here's the best ways to store a PS5 while keeping it cool.",
-      "url": "https://www.engadget.com/2306821/why-never-put-playstation-5-on-carpeted-floor/",
-      "tickers": []
-    },
-    {
-      "id": "a1a04ac87c",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-07T23:30:00+00:00",
-      "title": "The pros and cons of using an Amazfit smartwatch",
-      "summary": "Thinking about an Amazfit smartwatch? Find out what makes these budget wearables so appealing and where they fall short before you spend your money.",
-      "url": "https://www.engadget.com/2306820/using-amazfit-smartwatch-pros-and-cons/",
-      "tickers": []
-    },
-    {
-      "id": "118469e0d1",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-07T23:10:20+00:00",
-      "title": "Claude Personal Finance vs. ChatGPT Finances: What sets them apart?",
-      "summary": "Both AI tools offer to delve deep into your bank accounts, but they differ in privacy settings.",
-      "url": "https://www.engadget.com/2310182/claude-vs-chatgpt-personal-finance-comparison/",
-      "tickers": []
-    },
-    {
-      "id": "2e725dc3d8",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-07T23:00:00+00:00",
-      "title": "What discs can a PlayStation 5 play?",
-      "summary": "The PS5 can't play every disc that the PS3 and PS4 were compatible with, but most of what you'll want to play and watch is supported.",
-      "url": "https://www.engadget.com/2306942/playstation-5-playable-discs-explained/",
-      "tickers": []
-    },
-    {
-      "id": "eabbebd26a",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-07T22:30:00+00:00",
-      "title": "What does NAT type mean for online gaming?",
-      "summary": "If you regularly play online games, you may have noticed a setting called NAT type or even got an alert about it. Here's what it means and why it matters.",
-      "url": "https://www.engadget.com/2309599/what-nat-type-means-online-gaming/",
-      "tickers": []
-    },
-    {
-      "id": "56abe9262f",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-07T22:15:00+00:00",
-      "title": "The disadvantages of owning smart refrigerators",
-      "summary": "A smart refrigerator can change how you manage your kitchen, but its features come with practical drawbacks worth checking before making a purchase.",
-      "url": "https://www.engadget.com/2309569/disadvantages-owning-smart-refrigerators/",
-      "tickers": []
-    },
-    {
-      "id": "7c504a7801",
-      "topic": "Cloud",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-07T22:07:22+00:00",
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
-      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "tickers": []
-    },
-    {
-      "id": "6862f8e68b",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-07T22:00:00+00:00",
-      "title": "Is your router overheating? Here's how to keep it cool and working safely",
-      "summary": "You'll want your router to be well-ventilated for it to perform at its best.",
-      "url": "https://www.engadget.com/2306359/how-to-keep-router-from-overheating/",
-      "tickers": []
-    },
-    {
-      "id": "c173f766c1",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-07T21:45:00+00:00",
-      "title": "How often should you restart your Fitbit watch?",
-      "summary": "The old \"turn it off and turn it on again\" trick can come in handy for certain situations.",
-      "url": "https://www.engadget.com/2309565/how-often-should-restart-fitbit-watch/",
-      "tickers": []
-    },
-    {
-      "id": "7fe2bcfac9",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-07T21:30:00+00:00",
-      "title": "The built-in iPhone app for creativity you may be ignoring (but shouldn't)",
-      "summary": "Your iPhone has a built-in app for brainstorming and visual planning that can turn scattered screenshots, sketches and notes into something you can share.",
-      "url": "https://www.engadget.com/2309562/iphone-built-in-creativity-app-should-use-freeform/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "4e27fd7661",
-      "topic": "Chips",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-11-07T21:17:08+00:00",
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "0917d21b9b",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-07T21:15:00+00:00",
-      "title": "Your EV's battery is big enough to run your house — here's what stops most people",
-      "summary": "Today's EV batteries could let you power specific appliances or your entire house. But a few factors line up to make that idea a non-starter for most folks.",
-      "url": "https://www.engadget.com/2309559/ev-battery-can-power-house-what-stops-most-people/",
-      "tickers": []
-    },
-    {
-      "id": "1c643e8d11",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-07T20:45:32+00:00",
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 162 # Comments: 111",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "tickers": []
-    },
-    {
-      "id": "98257e99f9",
-      "topic": "Chips",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-07T20:45:00+00:00",
-      "title": "There is no end in sight for the GPU supply problem",
-      "summary": "GPU prices have soared as the supply of memory has tightened, and it doesn't look like this is going to change any time soon (though a few optimists disagree).",
-      "url": "https://www.engadget.com/2309554/gpu-supply-problem-no-end-in-sight/",
-      "tickers": []
-    },
-    {
-      "id": "522c533d21",
-      "topic": "Chips",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-07T20:30:00+00:00",
-      "title": "How long should a PC processor actually last?",
-      "summary": "Your computer's CPU is its most important part, and its most expensive one, too. So how long can you expect it to last if cared for properly?",
-      "url": "https://www.engadget.com/2309550/how-long-pc-processor-should-last/",
-      "tickers": []
-    },
-    {
-      "id": "96dcb52d2f",
-      "topic": "Chips",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-07T20:15:00+00:00",
-      "title": "Is AMD's Ryzen 7 5800X3D CPU still worth buying in 2026?",
-      "summary": "I've never regretted owning the 5800X3D, but before you spend $349 on a previous generation CPU, there are a few questions worth asking yourself.",
-      "url": "https://www.engadget.com/2309549/amd-cpu-ryzen-7-5800x3d-worth-buying-2026/",
-      "tickers": [
-        "AMD"
-      ]
-    },
-    {
-      "id": "0a40d269d3",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-07T20:00:00+00:00",
-      "title": "How to connect an Apple Pencil to your iPad",
-      "summary": "An Apple Pencil adds great functionality to your iPad, but compatibility and pairing methods differ across models.",
-      "url": "https://www.engadget.com/2306765/how-to-connect-apple-pencil-ipad/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "851fab10a7",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-07T19:00:00+00:00",
-      "title": "Parents want safer phones for kids. These companies are answering the call.",
-      "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
-      "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
-      "tickers": []
-    },
-    {
-      "id": "309aa74d2e",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-07T18:12:12+00:00",
-      "title": "What I run on my $10 USD OpenStick homelab",
-      "summary": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 326 # Comments: 80",
-      "url": "https://blog.bosscher.ch/posts/openstick/",
-      "tickers": []
-    },
-    {
-      "id": "553bb7f3f4",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-07T18:02:17+00:00",
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 368 # Comments: 211",
-      "url": "https://hunch.net/?p=13764006",
-      "tickers": [
-        "MSFT"
-      ]
     }
   ],
   "rumors": [
@@ -333,36 +333,8 @@
       "topic": "Tech",
       "status": "Just surfaced",
       "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "detail": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 162 # Comments: 111",
+      "detail": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 500 # Comments: 358",
       "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "sources": 2,
-      "mentions": 2,
-      "credible": 0,
-      "days": 0,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "ddf4c6419a",
-      "topic": "Startups",
-      "status": "Just surfaced",
-      "title": "Your old iPod could be a sleeper flash drive",
-      "detail": "Old iPods still work fine as digital audio players, but you can reuse them in other ways if you're not interested in listening to music on the go.",
-      "url": "https://www.engadget.com/2306204/old-ipod-sleeper-flash-drive/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "8916950176",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "LG faces legal action over alleged smart TV spying — and other manufacturers could be in the firing line over ignoring ACR opt-outs",
-      "detail": "submitted by /u/TurbulentTopic39 [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1xpv2c2/lg_faces_legal_action_over_alleged_smart_tv/",
       "sources": 1,
       "mentions": 1,
       "credible": 0,
@@ -371,19 +343,17 @@
       "score": 8
     },
     {
-      "id": "a381b62088",
-      "topic": "AI",
+      "id": "92969cce47",
+      "topic": "Tech",
       "status": "Just surfaced",
-      "title": "Protesters storm Microsoft AI data center construction site — Amsterdam reportedly first of 85 targeted actions across Europe",
+      "title": "Hackers Claim Leaked Rosstat Records Reveal Up to 450,000 Russian War Deaths",
       "detail": "submitted by /u/Puzzleheaded_irl [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1xq1byu/protesters_storm_microsoft_ai_data_center/",
+      "url": "https://www.reddit.com/r/technology/comments/1xqxe29/hackers_claim_leaked_rosstat_records_reveal_up_to/",
       "sources": 1,
       "mentions": 1,
       "credible": 0,
       "days": 0,
-      "tickers": [
-        "MSFT"
-      ],
+      "tickers": [],
       "score": 8
     }
   ],
@@ -397,7 +367,7 @@
       "catalyst": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
       "when": "In the news",
       "signals": [
-        "8 headlines",
+        "4 headlines",
         "Big price move",
         "Volume up"
       ],
@@ -515,144 +485,11 @@
           "published": "2026-11-07T15:43:45+00:00"
         }
       ],
-      "score": 50.5,
+      "score": 40.5,
       "brief": {
         "what": "2 recent headlines mention NVIDIA. Latest: Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo There is also a rumor making the rounds: Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-        "why": "Signals: 8 headlines, big price move, volume up. The stock is down 8.8% this week and down 19.0% over the month.",
+        "why": "Signals: 4 headlines, big price move, volume up. The stock is down 8.8% this week and down 19.0% over the month.",
         "watch": "Next earnings expected Tue Nov 17. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft",
-      "price": 530.61,
-      "changePct": 1.7,
-      "monthChangePct": 1.5,
-      "catalyst": "The end of Microsoft Research's AI Frontiers group",
-      "when": "In the news",
-      "signals": [
-        "7 headlines"
-      ],
-      "spark": [
-        530.14,
-        521.91,
-        507.12,
-        520.99,
-        555.8,
-        535.93,
-        530.61
-      ],
-      "history": [
-        {
-          "d": "2026-10-08",
-          "c": 522.61
-        },
-        {
-          "d": "2026-10-09",
-          "c": 535.07
-        },
-        {
-          "d": "2026-10-12",
-          "c": 541.15
-        },
-        {
-          "d": "2026-10-13",
-          "c": 543.45
-        },
-        {
-          "d": "2026-10-14",
-          "c": 533.69
-        },
-        {
-          "d": "2026-10-15",
-          "c": 539.44
-        },
-        {
-          "d": "2026-10-16",
-          "c": 529.05
-        },
-        {
-          "d": "2026-10-19",
-          "c": 533.52
-        },
-        {
-          "d": "2026-10-20",
-          "c": 531.87
-        },
-        {
-          "d": "2026-10-21",
-          "c": 532.95
-        },
-        {
-          "d": "2026-10-22",
-          "c": 521.08
-        },
-        {
-          "d": "2026-10-23",
-          "c": 524.51
-        },
-        {
-          "d": "2026-10-26",
-          "c": 532.6
-        },
-        {
-          "d": "2026-10-27",
-          "c": 531.33
-        },
-        {
-          "d": "2026-10-28",
-          "c": 531.01
-        },
-        {
-          "d": "2026-10-29",
-          "c": 530.14
-        },
-        {
-          "d": "2026-10-30",
-          "c": 521.91
-        },
-        {
-          "d": "2026-11-02",
-          "c": 507.12
-        },
-        {
-          "d": "2026-11-03",
-          "c": 520.99
-        },
-        {
-          "d": "2026-11-04",
-          "c": 555.8
-        },
-        {
-          "d": "2026-11-05",
-          "c": 535.93
-        },
-        {
-          "d": "2026-11-06",
-          "c": 530.61
-        }
-      ],
-      "earnings": "2027-01-27",
-      "headlines": [
-        {
-          "title": "The end of Microsoft Research's AI Frontiers group",
-          "source": "Hacker News",
-          "url": "https://hunch.net/?p=13764006",
-          "published": "2026-11-07T18:02:17+00:00"
-        },
-        {
-          "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
-          "published": "2026-11-03T16:03:13+00:00"
-        }
-      ],
-      "score": 33.7,
-      "brief": {
-        "what": "2 recent headlines mention Microsoft. Latest: The end of Microsoft Research's AI Frontiers group There is also a rumor making the rounds: Protesters storm Microsoft AI data center construction site — Amsterdam reportedly first of 85 targeted actions across Europe",
-        "why": "Signals: 7 headlines. The stock is up 1.7% this week and up 1.5% over the month.",
-        "watch": "Next earnings expected Wed Jan 27. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
@@ -662,7 +499,7 @@
       "price": 342.37,
       "changePct": -0.7,
       "monthChangePct": 0.6,
-      "catalyst": "What does Apple One Family come with and which subscription is best for you?",
+      "catalyst": "How much did an iPhone cost in 2007 vs. 2026? The gap is smaller than you think",
       "when": "In the news",
       "signals": [
         "8 headlines"
@@ -769,28 +606,40 @@
       "earnings": "2027-01-28",
       "headlines": [
         {
+          "title": "How much did an iPhone cost in 2007 vs. 2026? The gap is smaller than you think",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2308205/how-much-did-iphone-cost-2007-vs-2026/",
+          "published": "2026-11-08T16:45:00+00:00"
+        },
+        {
+          "title": "How long can you expect your Apple AirPods to last?",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2307837/how-long-expect-apple-airpods-last/",
+          "published": "2026-11-08T16:30:00+00:00"
+        },
+        {
+          "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+          "published": "2026-11-08T16:00:00+00:00"
+        },
+        {
+          "title": "Chatbots might be coming to Apple’s HomeView",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+          "published": "2026-11-08T15:00:30+00:00"
+        },
+        {
+          "title": "Syncing Apple Music across your devices is easier than you think",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
+          "published": "2026-11-08T01:30:00+00:00"
+        },
+        {
           "title": "What does Apple One Family come with and which subscription is best for you?",
           "source": "Engadget",
           "url": "https://www.engadget.com/2307150/apple-one-family-plan-what-comes-with-which-subscription-best/",
           "published": "2026-11-08T00:30:00+00:00"
-        },
-        {
-          "title": "The built-in iPhone app for creativity you may be ignoring (but shouldn't)",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2309562/iphone-built-in-creativity-app-should-use-freeform/",
-          "published": "2026-11-07T21:30:00+00:00"
-        },
-        {
-          "title": "How to connect an Apple Pencil to your iPad",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2306765/how-to-connect-apple-pencil-ipad/",
-          "published": "2026-11-07T20:00:00+00:00"
-        },
-        {
-          "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-          "source": "Hacker News",
-          "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-          "published": "2026-11-07T17:06:36+00:00"
         },
         {
           "title": "The Duo apps are coming, says Apple",
@@ -807,137 +656,154 @@
       ],
       "score": 31.3,
       "brief": {
-        "what": "6 recent headlines mention Apple. Latest: What does Apple One Family come with and which subscription is best for you?",
+        "what": "8 recent headlines mention Apple. Latest: How much did an iPhone cost in 2007 vs. 2026? The gap is smaller than you think",
         "why": "Signals: 8 headlines. The stock is down 0.7% this week and up 0.6% over the month.",
         "watch": "Next earnings expected Thu Jan 28. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
     {
-      "ticker": "AMD",
-      "name": "AMD",
-      "price": 449.04,
-      "changePct": -11.0,
-      "monthChangePct": -27.7,
-      "catalyst": "Is AMD's Ryzen 7 5800X3D CPU still worth buying in 2026?",
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "price": 284.78,
+      "changePct": 1.8,
+      "monthChangePct": -18.2,
+      "catalyst": "How to set up Google Authenticator on a new phone",
       "when": "In the news",
       "signals": [
-        "Big price move",
-        "Volume up"
+        "5 headlines"
       ],
       "spark": [
-        566.42,
-        504.8,
-        466.84,
-        483.9,
-        488.78,
-        404.4,
-        449.04
+        283.82,
+        279.84,
+        278.99,
+        280.03,
+        288.93,
+        282.57,
+        284.78
       ],
       "history": [
         {
           "d": "2026-10-08",
-          "c": 620.68
+          "c": 348.29
         },
         {
           "d": "2026-10-09",
-          "c": 608.1
+          "c": 351.66
         },
         {
           "d": "2026-10-12",
-          "c": 594.24
+          "c": 352.72
         },
         {
           "d": "2026-10-13",
-          "c": 605.53
+          "c": 353.78
         },
         {
           "d": "2026-10-14",
-          "c": 570.82
+          "c": 347.64
         },
         {
           "d": "2026-10-15",
-          "c": 562.23
+          "c": 349.22
         },
         {
           "d": "2026-10-16",
-          "c": 528.75
+          "c": 340.59
         },
         {
           "d": "2026-10-19",
-          "c": 538.05
+          "c": 344.18
         },
         {
           "d": "2026-10-20",
-          "c": 534.74
+          "c": 340.28
         },
         {
           "d": "2026-10-21",
-          "c": 552.72
+          "c": 334.76
         },
         {
           "d": "2026-10-22",
-          "c": 507.93
+          "c": 324.22
         },
         {
           "d": "2026-10-23",
-          "c": 516.79
+          "c": 320.21
         },
         {
           "d": "2026-10-26",
-          "c": 531.28
+          "c": 316.8
         },
         {
           "d": "2026-10-27",
-          "c": 560.26
+          "c": 320.58
         },
         {
           "d": "2026-10-28",
-          "c": 578.44
+          "c": 324.89
         },
         {
           "d": "2026-10-29",
-          "c": 566.42
+          "c": 283.82
         },
         {
           "d": "2026-10-30",
-          "c": 504.8
+          "c": 279.84
         },
         {
           "d": "2026-11-02",
-          "c": 466.84
+          "c": 278.99
         },
         {
           "d": "2026-11-03",
-          "c": 483.9
+          "c": 280.03
         },
         {
           "d": "2026-11-04",
-          "c": 488.78
+          "c": 288.93
         },
         {
           "d": "2026-11-05",
-          "c": 404.4
+          "c": 282.57
         },
         {
           "d": "2026-11-06",
-          "c": 449.04
+          "c": 284.78
         }
       ],
-      "earnings": "2027-02-02",
+      "earnings": null,
       "headlines": [
         {
-          "title": "Is AMD's Ryzen 7 5800X3D CPU still worth buying in 2026?",
+          "title": "How to set up Google Authenticator on a new phone",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2309549/amd-cpu-ryzen-7-5800x3d-worth-buying-2026/",
-          "published": "2026-11-07T20:15:00+00:00"
+          "url": "https://www.engadget.com/2307835/how-to-set-up-google-authenticator-new-phone/",
+          "published": "2026-11-08T15:00:00+00:00"
+        },
+        {
+          "title": "Crusoe sells troubled Wyoming data center project to Google",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+          "published": "2026-11-07T01:40:28+00:00"
+        },
+        {
+          "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
+          "published": "2026-11-04T20:06:21+00:00"
+        },
+        {
+          "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+          "published": "2026-11-04T13:49:51+00:00"
         }
       ],
-      "score": 28.8,
+      "score": 28.5,
       "brief": {
-        "what": "1 recent headline mentions AMD. Latest: Is AMD's Ryzen 7 5800X3D CPU still worth buying in 2026?",
-        "why": "Signals: big price move, volume up. The stock is down 11.0% this week and down 27.7% over the month.",
-        "watch": "Next earnings expected Tue Feb 2. Results and guidance usually move the stock most.",
+        "what": "4 recent headlines mention Alphabet. Latest: How to set up Google Authenticator on a new phone",
+        "why": "Signals: 5 headlines. The stock is up 1.8% this week and down 18.2% over the month.",
+        "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
     },
@@ -1072,6 +938,126 @@
         "what": "2 recent headlines mention Amazon. Latest: Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
         "why": "Signals: 2 headlines, big price move. The stock is up 7.9% this week and up 2.1% over the month.",
         "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "price": 358.22,
+      "changePct": -10.4,
+      "monthChangePct": -4.5,
+      "catalyst": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
+      "when": "In the news",
+      "signals": [
+        "Big price move"
+      ],
+      "spark": [
+        403.3,
+        399.81,
+        403.82,
+        398.5,
+        385.19,
+        343.69,
+        358.22
+      ],
+      "history": [
+        {
+          "d": "2026-10-08",
+          "c": 375.0
+        },
+        {
+          "d": "2026-10-09",
+          "c": 382.7
+        },
+        {
+          "d": "2026-10-12",
+          "c": 378.03
+        },
+        {
+          "d": "2026-10-13",
+          "c": 375.23
+        },
+        {
+          "d": "2026-10-14",
+          "c": 367.16
+        },
+        {
+          "d": "2026-10-15",
+          "c": 362.44
+        },
+        {
+          "d": "2026-10-16",
+          "c": 354.72
+        },
+        {
+          "d": "2026-10-19",
+          "c": 368.06
+        },
+        {
+          "d": "2026-10-20",
+          "c": 373.71
+        },
+        {
+          "d": "2026-10-21",
+          "c": 386.47
+        },
+        {
+          "d": "2026-10-22",
+          "c": 374.58
+        },
+        {
+          "d": "2026-10-23",
+          "c": 372.22
+        },
+        {
+          "d": "2026-10-26",
+          "c": 391.62
+        },
+        {
+          "d": "2026-10-27",
+          "c": 407.46
+        },
+        {
+          "d": "2026-10-28",
+          "c": 404.22
+        },
+        {
+          "d": "2026-10-29",
+          "c": 403.3
+        },
+        {
+          "d": "2026-10-30",
+          "c": 399.81
+        },
+        {
+          "d": "2026-11-02",
+          "c": 403.82
+        },
+        {
+          "d": "2026-11-03",
+          "c": 398.5
+        },
+        {
+          "d": "2026-11-04",
+          "c": 385.19
+        },
+        {
+          "d": "2026-11-05",
+          "c": 343.69
+        },
+        {
+          "d": "2026-11-06",
+          "c": 358.22
+        }
+      ],
+      "earnings": "2027-01-27",
+      "headlines": [],
+      "score": 25.0,
+      "brief": {
+        "what": "No major headlines about Tesla in the last two weeks.",
+        "why": "Signals: big price move. The stock is down 10.4% this week and down 4.5% over the month.",
+        "watch": "Next earnings expected Wed Jan 27. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
