@@ -1,392 +1,308 @@
 {
   "weekOf": "2026-11-09",
-  "updated": "2026-11-09T01:43:24+00:00",
+  "updated": "2026-11-09T21:26:04+00:00",
   "summary": [
-    "Tech leads the news with 15 of 25 stories. Top headline: How to use your laptop as a second monitor",
-    "Biggest catalyst on the watchlist: NVDA, here’s the full text of jensen huang’s memo to nvidia.",
-    "Strongest rumor: Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo"
+    "Tech leads the news with 10 of 25 stories. Top headline: The global pledge to use AI for climate good is a cruel joke",
+    "Biggest catalyst on the watchlist: NVDA, jensen huang pulls out of elevenlabs summit amid nvidia controversy.",
+    "Strongest rumor: More than 400k Russians killed fighting in Ukraine war, leaked data suggests"
   ],
   "stories": [
     {
-      "id": "edb5fdfb93",
-      "topic": "Devices",
+      "id": "31e241b3fd",
+      "topic": "AI",
       "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-09T01:30:00+00:00",
-      "title": "How to use your laptop as a second monitor",
-      "summary": "If you have an extra laptop lying around, you can connect it to your primary laptop with a wireless or wired connection for a free dual monitor set up.",
-      "url": "https://www.engadget.com/2309277/how-to-use-laptop-second-desktop-monitor/",
+      "source": "The Verge",
+      "published": "2026-11-09T21:13:16+00:00",
+      "title": "The global pledge to use AI for climate good is a cruel joke",
+      "summary": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer and our planet enough to give it a whirl - and hey, why not…",
+      "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
       "tickers": []
     },
     {
-      "id": "ba53328f6f",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-09T01:00:00+00:00",
-      "title": "Why your USB device isn't showing up on your MacBook and how you can fix it",
-      "summary": "If your USB device isn't showing up on your MacBook, the issue could be anything from a damaged cord to software troubles. Find out how to fix these problems.",
-      "url": "https://www.engadget.com/2309279/why-usb-device-not-showing-up-macbook-fixes/",
-      "tickers": []
-    },
-    {
-      "id": "72dc6f20cb",
+      "id": "e93f8d7aae",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-09T00:45:00+00:00",
-      "title": "Which Canon Cameras Are Compatible With Its Free 3D Photo Software?",
-      "summary": "Canon cameras are often known for their versatility and compatibility with software programs. These cameras are best used with the free 3D photo software.",
-      "url": "https://www.engadget.com/2309282/which-canon-cameras-compatible-with-free-3d-software/",
+      "published": "2026-11-09T21:09:51+00:00",
+      "title": "YouTube will once again be part of Billboard chart calculations in 2027",
+      "summary": "Billboard will give more weight to free, ad-supported listening in its methodology.",
+      "url": "https://www.engadget.com/2311532/youtube-will-once-again-be-part-of-billboard-chart-calculations-in-2027/",
       "tickers": []
     },
     {
-      "id": "6e8039064e",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-09T00:30:00+00:00",
-      "title": "The disadvantages of buying tech from other countries",
-      "summary": "Importing a phone or a laptop can be appealing, especially if you can get a product you wouldn't otherwise have access to, but it has downsides.",
-      "url": "https://www.engadget.com/2309284/disadvantages-buying-tech-from-other-countries/",
-      "tickers": []
-    },
-    {
-      "id": "0df3c03ec8",
+      "id": "623d1719f5",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-09T00:15:00+00:00",
-      "title": "10 Apple products and features that transformed under Tim Cook's leadership",
-      "summary": "Tim Cook led Apple for 15 years, during which time the company's offerings expanded and went through all kinds of changes.",
-      "url": "https://www.engadget.com/2305273/apple-products-features-transformed-under-tim-cook-leadership/",
+      "published": "2026-11-09T21:00:00+00:00",
+      "title": "5 Nintendo Switch 2 features everyone should know about",
+      "summary": "From finding hidden controllers to sharing games with others, improve your gaming experience on the Nintendo Switch 2 with these useful features.",
+      "url": "https://www.engadget.com/2307744/nintendo-switch-2-features-everyone-should-know/",
+      "tickers": []
+    },
+    {
+      "id": "5d44f809bc",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-09T20:56:51+00:00",
+      "title": "Apple starts offering $50 extended usage packs for AI features in Creator Studio",
+      "summary": "It'll cost you to access Logic Pro's AI assistant after you reach the monthly usage limit.",
+      "url": "https://www.engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio/",
       "tickers": [
         "AAPL"
       ]
     },
     {
-      "id": "87a55c637a",
+      "id": "a85dfd8715",
       "topic": "Tech",
       "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-09T00:00:00+00:00",
-      "title": "Those white cameras mounted above traffic lights serve a little-known purpose",
-      "summary": "Many people are up in arms over Flock and similar cameras that can track you when you drive. But these cameras are there for a whole different reason.",
-      "url": "https://www.engadget.com/2309304/white-cameras-mounted-above-traffic-lights-little-known-purpose/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T20:55:34+00:00",
+      "title": "Fervo now has $12B in orders for its geothermal power tech",
+      "summary": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
+      "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
       "tickers": []
     },
     {
-      "id": "95b5b908ad",
-      "topic": "Cloud",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-08T23:45:00+00:00",
-      "title": "SpaceXAI Grok Bot availability just keeps growing - here's which plans offer it",
-      "summary": "SpaceXAI 's Grok Bot can handle multi-step work on a cloud computer, but you'll need to figure out the jumble of subscription plans first.",
-      "url": "https://www.engadget.com/2309308/spacexai-grok-bot-availability-plans/",
-      "tickers": []
-    },
-    {
-      "id": "c50833e9c6",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-08T23:30:00+00:00",
-      "title": "Should you make the switch to Google Pixel from Samsung Galaxy?",
-      "summary": "While Samsung Galaxy phones deliver flagship power, Google Pixel phones have lots of benefits, including faster updates and minimal bloatware.",
-      "url": "https://www.engadget.com/2309302/switch-to-google-pixel-from-samsung-galaxy/",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "688453379d",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-08T23:00:00+00:00",
-      "title": "What is the Slate Telematics Module and what can it be used for?",
-      "summary": "When you buy a Slate Truck, you only pay for the tech you want, and that includes connectivity between the vehicle and your phone. Is this a minimalist's dream?",
-      "url": "https://www.engadget.com/2309298/what-is-slate-telematic-module-uses/",
-      "tickers": []
-    },
-    {
-      "id": "32f41f2e11",
-      "topic": "Chips",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-11-08T22:54:50+00:00",
-      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "91f3f713a4",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-08T22:37:22+00:00",
-      "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
-      "summary": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - Diaspora Problems.…",
-      "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
-      "tickers": []
-    },
-    {
-      "id": "b6bc8de6f6",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-08T22:35:35+00:00",
-      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
-      "summary": "Article URL: https://ketchup3d.github.io/app/ Comments URL: https://news.ycombinator.com/item?id=50418176 Points: 190 # Comments: 41",
-      "url": "https://ketchup3d.github.io/app/",
-      "tickers": []
-    },
-    {
-      "id": "f1f10cfb1e",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-08T22:30:00+00:00",
-      "title": "How long can you expect your PC RAM to last?",
-      "summary": "With the rising cost and demand for RAM and the ever-increasing tech requirements of PCs, it may be hard to determine just how long your components will last.",
-      "url": "https://www.engadget.com/2309637/how-long-pc-ram-lasts-lifespan/",
-      "tickers": []
-    },
-    {
-      "id": "0cd9d23038",
+      "id": "65cadf467b",
       "topic": "Chips",
       "kind": "Founder",
-      "source": "Hacker News",
-      "published": "2026-11-08T22:20:09+00:00",
-      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-      "summary": "Article URL: https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company Comments URL: https://news.ycombinator.com/item?id=50418016 Points: 337 # Comments: 342",
-      "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+      "source": "TechCrunch",
+      "published": "2026-11-09T20:09:06+00:00",
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
       "tickers": [
         "NVDA"
       ]
     },
     {
-      "id": "b1e3a5965f",
-      "topic": "Devices",
-      "kind": "Launch",
+      "id": "0d7501760a",
+      "topic": "Tech",
+      "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-08T22:15:00+00:00",
-      "title": "Qalo SL-1 vs. Garmin Cirqa: How these minimalist wearables compare",
-      "summary": "The Qalo SL-1 and Garmin Cirqa were released in 2026, and both cost about $200. A comparison of these screenless wearables reveals some key differences.",
-      "url": "https://www.engadget.com/2309634/qalo-sl-1-vs-garmin-cirqa-how-wearables-compare/",
+      "published": "2026-11-09T19:42:47+00:00",
+      "title": "Windows 11 is finally adding an easier way to disable the Sticky Keys pop-up",
+      "summary": "There's a checkbox that simply turns it off.",
+      "url": "https://www.engadget.com/2311340/windows-11-is-finally-adding-an-easier-way-to-disable-sticky-keys-pop-up/",
       "tickers": []
     },
     {
-      "id": "a6cf5a9fbd",
+      "id": "ff4568de70",
+      "topic": "Security",
+      "kind": "Company",
+      "source": "Ars Technica",
+      "published": "2026-11-09T19:41:34+00:00",
+      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+      "summary": "\"*sshole\" poses a serious threat to Internet security.",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+      "tickers": []
+    },
+    {
+      "id": "6835d3852e",
       "topic": "Tech",
       "kind": "Company",
       "source": "TechCrunch",
-      "published": "2026-11-08T22:00:00+00:00",
-      "title": "Apps to distract you from the endless cycle of doomscrolling",
-      "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
-      "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+      "published": "2026-11-09T19:39:41+00:00",
+      "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+      "summary": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
+      "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
       "tickers": []
     },
     {
-      "id": "89ae7eadb2",
+      "id": "1d7da684b2",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-09T19:30:00+00:00",
+      "title": "How to use your iPhone to take the best picture of the Moon",
+      "summary": "We explain how to take the best photos of the Moon with your iPhone, regardless of which model.",
+      "url": "https://www.engadget.com/2307830/how-to-use-iphone-take-best-picture-of-moon-guide/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "ceb5cf2d54",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "TechCrunch",
+      "published": "2026-11-09T19:24:51+00:00",
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "tickers": []
+    },
+    {
+      "id": "524654bb52",
+      "topic": "Startups",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-11-09T19:21:46+00:00",
+      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+      "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+      "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+      "tickers": []
+    },
+    {
+      "id": "ffeefe2483",
+      "topic": "Security",
+      "kind": "Launch",
+      "source": "TechCrunch",
+      "published": "2026-11-09T19:19:24+00:00",
+      "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+      "summary": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.",
+      "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
+      "tickers": []
+    },
+    {
+      "id": "ad1f1c56ac",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-08T22:00:00+00:00",
-      "title": "The one Starlink perk that gives it an edge over traditional internet",
-      "summary": "Cable and fiber often win on performance, yet Starlink offers a distinct benefit that could matter more depending on how and why you connect.",
-      "url": "https://www.engadget.com/2309293/starlink-perk-edge-over-traditional-internet-adaptibility/",
+      "published": "2026-11-09T19:00:00+00:00",
+      "title": "Gmail users should know about this little-noticed feature",
+      "summary": "Gmail's unsend feature will delay it from dispatching your message. Here's how to extend the amount of time you have to use it.",
+      "url": "https://www.engadget.com/2307742/gmail-unsend-feature/",
       "tickers": []
     },
     {
-      "id": "b6481f04be",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-08T21:45:00+00:00",
-      "title": "A sample of over 5,000 drives reveals one problem with new HDDs",
-      "summary": "HDDs may not be as in-demand as the faster SSDs, but they're still plenty popular thanks to their low cost. And yet, this sample study reveals the big issue.",
-      "url": "https://www.engadget.com/2309632/one-problem-with-new-hdds-5000-drives-study/",
-      "tickers": []
-    },
-    {
-      "id": "3e1a40bc21",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-08T21:30:00+00:00",
-      "title": "Samsung One UI removed the all apps button, but you can easily get it back",
-      "summary": "Miss the handy all apps button that used to be on Samsung's One UI home screen? Fret not; it's a single toggle away.",
-      "url": "https://www.engadget.com/2309629/samsung-one-ui-remove-all-apps-button-get-back/",
-      "tickers": []
-    },
-    {
-      "id": "39eb6a4c70",
+      "id": "c1b4cc88f3",
       "topic": "AI",
       "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-09T18:56:29+00:00",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429906 Points: 672 # Comments: 356",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "tickers": []
+    },
+    {
+      "id": "d0542010dd",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-09T18:35:25+00:00",
+      "title": "You can grab three months of Game Pass Ultimate for under $20 per month",
+      "summary": "The price of Xbox Game Pass Ultimate has fluctuated between $20 and $30 per month over the last year, but you can get three months of the top plan for around $19 per month. At Newegg, using the coupon code BNWF2656 at checkout knocks $11 off the usual cost of a three-month…",
+      "url": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale",
+      "tickers": []
+    },
+    {
+      "id": "d031c61ae3",
+      "topic": "Tech",
+      "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-08T21:15:00+00:00",
-      "title": "Don't like Google Health's AI Coach? Here's how to turn it off",
-      "summary": "If this Premium feature is bugging you, there's good news: you aren't stuck with it.",
-      "url": "https://www.engadget.com/2309626/dont-like-google-health-ai-coach-how-turn-off/",
+      "published": "2026-11-09T18:15:00+00:00",
+      "title": "How does Google Wallet's notification feed work and can you disable it?",
+      "summary": "Google Wallet is attempting to make notifications easier to find with a notification feed, but if you're sick of alerts, find out how to disable them.",
+      "url": "https://www.engadget.com/2307741/google-wallet-notifications-how-works-disable/",
       "tickers": [
         "GOOGL"
       ]
     },
     {
-      "id": "3d1986b1e1",
-      "topic": "Tech",
+      "id": "45be3bc244",
+      "topic": "Chips",
       "kind": "Company",
       "source": "TechCrunch",
-      "published": "2026-11-08T21:00:00+00:00",
-      "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
-      "summary": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
-      "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
-      "tickers": []
+      "published": "2026-11-09T18:09:52+00:00",
+      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "tickers": [
+        "NVDA"
+      ]
     },
     {
-      "id": "896e27440b",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-08T21:00:00+00:00",
-      "title": "At what length do DisplayPort cables start giving you trouble?",
-      "summary": "If you're on the market for a new DisplayPort cable, it's worth keeping in mind that longer doesn't always mean better. This length is when trouble begins.",
-      "url": "https://www.engadget.com/2309296/what-length-displayport-cable-start-giving-trouble/",
-      "tickers": []
-    },
-    {
-      "id": "af2b45c97f",
-      "topic": "Tech",
-      "kind": "Company",
+      "id": "e401215948",
+      "topic": "AI",
+      "kind": "Launch",
       "source": "The Verge",
-      "published": "2026-11-08T20:52:05+00:00",
-      "title": "Epic Games Launcher is coming to SteamOS",
-      "summary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has…",
-      "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+      "published": "2026-11-09T18:07:23+00:00",
+      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+      "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the…",
+      "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "tickers": [
+        "META"
+      ]
+    },
+    {
+      "id": "3839b95d04",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "TechCrunch",
+      "published": "2026-11-09T18:00:00+00:00",
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
       "tickers": []
     },
     {
-      "id": "57f8f92311",
+      "id": "7359b9d859",
       "topic": "Devices",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-08T20:45:00+00:00",
-      "title": "The safest way to store your laptop for a long period of time",
-      "summary": "If you're storing a laptop for an extended period, there are a few things to consider.",
-      "url": "https://www.engadget.com/2309615/safest-laptop-storage-long-term/",
+      "published": "2026-11-09T17:45:00+00:00",
+      "title": "The reason your laptop can get hot after extended use",
+      "summary": "While it's normal for laptops to sometimes overheat after extended use, excessive temperature spikes can be reduced in a few ways.",
+      "url": "https://www.engadget.com/2307737/why-laptops-overheat-after-extended-use/",
       "tickers": []
     },
     {
-      "id": "640933bd19",
+      "id": "a2d15ea149",
       "topic": "Tech",
       "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-08T20:30:00+00:00",
-      "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
-      "summary": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
-      "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+      "source": "Hacker News",
+      "published": "2026-11-09T17:42:55+00:00",
+      "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
+      "summary": "Article URL: https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/ Comments URL: https://news.ycombinator.com/item?id=50428801 Points: 209 # Comments: 180",
+      "url": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
+      "tickers": []
+    },
+    {
+      "id": "9543efa351",
+      "topic": "Tech",
+      "kind": "Founder",
+      "source": "The Verge",
+      "published": "2026-11-09T17:39:57+00:00",
+      "title": "James Gunn is out as DC movie leader",
+      "summary": "Soon, James Gunn and Peter Safran will no longer head up Skydance's DC Studios. After taking the helm of DC Studios as co-CEOs in 2022, Gunn and Safran are being replaced by former Marvel SVP of Production and Development Jeremy Latcham, Deadline reports. However, Gunn and…",
+      "url": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving",
+      "tickers": []
+    },
+    {
+      "id": "afad39a914",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-09T17:36:08+00:00",
+      "title": "The future of AI hinges on… Jensen Huang’s sex life?",
+      "summary": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+      "tickers": []
+    },
+    {
+      "id": "c853b110f4",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-09T17:15:00+00:00",
+      "title": "What the tiny blue dot on your Android phone is telling you",
+      "summary": "That tiny blue dot on the top right corner of your Android phone indicates something important. Find out what this icon means.",
+      "url": "https://www.engadget.com/2307733/what-tiny-blue-dot-on-android-phone-telling-you/",
       "tickers": []
     }
   ],
   "rumors": [
     {
-      "id": "4e27fd7661",
-      "topic": "Chips",
-      "status": "Just surfaced",
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "detail": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "sources": 1,
-      "mentions": 5,
-      "credible": 1,
-      "days": 1,
-      "tickers": [
-        "NVDA"
-      ],
-      "score": 22
-    },
-    {
-      "id": "d38b620898",
-      "topic": "Startups",
-      "status": "Unconfirmed",
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "detail": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 2,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "4c8293dbab",
+      "id": "616019f0c0",
       "topic": "Tech",
       "status": "Just surfaced",
-      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
-      "detail": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
-      "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "ba53328f6f",
-      "topic": "Devices",
-      "status": "Just surfaced",
-      "title": "Why your USB device isn't showing up on your MacBook and how you can fix it",
-      "detail": "If your USB device isn't showing up on your MacBook, the issue could be anything from a damaged cord to software troubles. Find out how to fix these problems.",
-      "url": "https://www.engadget.com/2309279/why-usb-device-not-showing-up-macbook-fixes/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "1c643e8d11",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "detail": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 585 # Comments: 397",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 0,
-      "days": 1,
-      "tickers": [],
-      "score": 8
-    },
-    {
-      "id": "92969cce47",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Hackers Claim Leaked Rosstat Records Reveal Up to 450,000 Russian War Deaths",
-      "detail": "submitted by /u/Puzzleheaded_irl [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1xqxe29/hackers_claim_leaked_rosstat_records_reveal_up_to/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 0,
-      "days": 0,
-      "tickers": [],
-      "score": 8
-    },
-    {
-      "id": "6deb8b59ba",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
-      "detail": "Article URL: https://www.spacex.com/launches/starship-flight-15 Comments URL: https://news.ycombinator.com/item?id=50416471 Points: 90 # Comments: 52",
-      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "title": "More than 400k Russians killed fighting in Ukraine war, leaked data suggests",
+      "detail": "Article URL: https://www.theguardian.com/world/2026/nov/09/russians-killed-ukraine-war-leaked-data Comments URL: https://news.ycombinator.com/item?id=50427501 Points: 45 # Comments: 5",
+      "url": "https://www.theguardian.com/world/2026/nov/09/russians-killed-ukraine-war-leaked-data",
       "sources": 1,
       "mentions": 1,
       "credible": 0,
@@ -399,30 +315,26 @@
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "price": 186.64,
-      "changePct": -8.8,
-      "monthChangePct": -19.0,
-      "catalyst": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "price": 178.67,
+      "changePct": -11.6,
+      "monthChangePct": -22.1,
+      "catalyst": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
       "when": "In the news",
       "signals": [
-        "15 headlines",
+        "7 headlines",
         "Big price move",
         "Volume up"
       ],
       "spark": [
-        213.66,
         204.64,
         202.06,
         206.69,
         200.13,
         181.6,
-        186.64
+        186.64,
+        178.67
       ],
       "history": [
-        {
-          "d": "2026-10-08",
-          "c": 230.48
-        },
         {
           "d": "2026-10-09",
           "c": 229.28
@@ -506,225 +418,56 @@
         {
           "d": "2026-11-06",
           "c": 186.64
+        },
+        {
+          "d": "2026-11-09",
+          "c": 178.67
         }
       ],
       "earnings": "2026-11-17",
       "headlines": [
         {
-          "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-          "published": "2026-11-08T22:54:50+00:00"
-        },
-        {
-          "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-          "source": "Hacker News",
-          "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
-          "published": "2026-11-08T22:20:09+00:00"
-        },
-        {
-          "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-          "published": "2026-11-08T20:22:39+00:00"
-        },
-        {
-          "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+          "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-          "published": "2026-11-07T21:17:08+00:00"
+          "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+          "published": "2026-11-09T20:09:06+00:00"
+        },
+        {
+          "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+          "published": "2026-11-09T18:09:52+00:00"
         }
       ],
-      "score": 50.5,
+      "score": 60,
       "brief": {
-        "what": "4 recent headlines mention NVIDIA. Latest: Here’s the full text of Jensen Huang’s memo to Nvidia There is also a rumor making the rounds: Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-        "why": "Signals: 15 headlines, big price move, volume up. The stock is down 8.8% this week and down 19.0% over the month.",
+        "what": "2 recent headlines mention NVIDIA. Latest: Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+        "why": "Signals: 7 headlines, big price move, volume up. The stock is down 11.6% this week and down 22.1% over the month.",
         "watch": "Next earnings expected Tue Nov 17. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "price": 342.37,
-      "changePct": -0.7,
-      "monthChangePct": 0.6,
-      "catalyst": "10 Apple products and features that transformed under Tim Cook's leadership",
-      "when": "In the news",
-      "signals": [
-        "6 headlines"
-      ],
-      "spark": [
-        348.91,
-        344.63,
-        338.32,
-        331.9,
-        349.51,
-        344.17,
-        342.37
-      ],
-      "history": [
-        {
-          "d": "2026-10-08",
-          "c": 340.42
-        },
-        {
-          "d": "2026-10-09",
-          "c": 336.64
-        },
-        {
-          "d": "2026-10-12",
-          "c": 340.97
-        },
-        {
-          "d": "2026-10-13",
-          "c": 341.27
-        },
-        {
-          "d": "2026-10-14",
-          "c": 342.96
-        },
-        {
-          "d": "2026-10-15",
-          "c": 342.0
-        },
-        {
-          "d": "2026-10-16",
-          "c": 343.46
-        },
-        {
-          "d": "2026-10-19",
-          "c": 342.94
-        },
-        {
-          "d": "2026-10-20",
-          "c": 339.5
-        },
-        {
-          "d": "2026-10-21",
-          "c": 343.99
-        },
-        {
-          "d": "2026-10-22",
-          "c": 348.22
-        },
-        {
-          "d": "2026-10-23",
-          "c": 347.73
-        },
-        {
-          "d": "2026-10-26",
-          "c": 343.91
-        },
-        {
-          "d": "2026-10-27",
-          "c": 347.1
-        },
-        {
-          "d": "2026-10-28",
-          "c": 343.83
-        },
-        {
-          "d": "2026-10-29",
-          "c": 348.91
-        },
-        {
-          "d": "2026-10-30",
-          "c": 344.63
-        },
-        {
-          "d": "2026-11-02",
-          "c": 338.32
-        },
-        {
-          "d": "2026-11-03",
-          "c": 331.9
-        },
-        {
-          "d": "2026-11-04",
-          "c": 349.51
-        },
-        {
-          "d": "2026-11-05",
-          "c": 344.17
-        },
-        {
-          "d": "2026-11-06",
-          "c": 342.37
-        }
-      ],
-      "earnings": "2027-01-28",
-      "headlines": [
-        {
-          "title": "10 Apple products and features that transformed under Tim Cook's leadership",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2305273/apple-products-features-transformed-under-tim-cook-leadership/",
-          "published": "2026-11-09T00:15:00+00:00"
-        },
-        {
-          "title": "Apple is racing to make Siri more agentic",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-          "published": "2026-11-08T19:18:19+00:00"
-        },
-        {
-          "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
-          "published": "2026-11-08T16:00:00+00:00"
-        },
-        {
-          "title": "Chatbots might be coming to Apple’s HomeView",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
-          "published": "2026-11-08T15:00:30+00:00"
-        },
-        {
-          "title": "The Duo apps are coming, says Apple",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
-          "published": "2026-11-06T21:38:05+00:00"
-        },
-        {
-          "title": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
-          "published": "2026-10-30T15:00:00+00:00"
-        }
-      ],
-      "score": 31.3,
-      "brief": {
-        "what": "6 recent headlines mention Apple. Latest: 10 Apple products and features that transformed under Tim Cook's leadership",
-        "why": "Signals: 6 headlines. The stock is down 0.7% this week and up 0.6% over the month.",
-        "watch": "Next earnings expected Thu Jan 28. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
     {
       "ticker": "GOOGL",
       "name": "Alphabet",
-      "price": 284.78,
-      "changePct": 1.8,
-      "monthChangePct": -18.2,
-      "catalyst": "Should you make the switch to Google Pixel from Samsung Galaxy?",
+      "price": 288.15,
+      "changePct": 3.3,
+      "monthChangePct": -18.1,
+      "catalyst": "Google Gemini routes personal Drive files and emails to human annotators",
       "when": "In the news",
       "signals": [
-        "5 headlines"
+        "6 headlines"
       ],
       "spark": [
-        283.82,
         279.84,
         278.99,
         280.03,
         288.93,
         282.57,
-        284.78
+        284.78,
+        288.15
       ],
       "history": [
-        {
-          "d": "2026-10-08",
-          "c": 348.29
-        },
         {
           "d": "2026-10-09",
           "c": 351.66
@@ -808,27 +551,25 @@
         {
           "d": "2026-11-06",
           "c": 284.78
+        },
+        {
+          "d": "2026-11-09",
+          "c": 288.15
         }
       ],
       "earnings": null,
       "headlines": [
         {
-          "title": "Should you make the switch to Google Pixel from Samsung Galaxy?",
+          "title": "How does Google Wallet's notification feed work and can you disable it?",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2309302/switch-to-google-pixel-from-samsung-galaxy/",
-          "published": "2026-11-08T23:30:00+00:00"
+          "url": "https://www.engadget.com/2307741/google-wallet-notifications-how-works-disable/",
+          "published": "2026-11-09T18:15:00+00:00"
         },
         {
-          "title": "Don't like Google Health's AI Coach? Here's how to turn it off",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2309626/dont-like-google-health-ai-coach-how-turn-off/",
-          "published": "2026-11-08T21:15:00+00:00"
-        },
-        {
-          "title": "Crusoe sells troubled Wyoming data center project to Google",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-          "published": "2026-11-07T01:40:28+00:00"
+          "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
+          "published": "2026-11-09T08:00:00+00:00"
         },
         {
           "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
@@ -843,160 +584,315 @@
           "published": "2026-11-04T13:49:51+00:00"
         }
       ],
-      "score": 28.5,
+      "score": 36.6,
       "brief": {
-        "what": "5 recent headlines mention Alphabet. Latest: Should you make the switch to Google Pixel from Samsung Galaxy?",
-        "why": "Signals: 5 headlines. The stock is up 1.8% this week and down 18.2% over the month.",
+        "what": "4 recent headlines mention Alphabet. Latest: How does Google Wallet's notification feed work and can you disable it?",
+        "why": "Signals: 6 headlines. The stock is up 3.3% this week and down 18.1% over the month.",
         "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
     },
     {
-      "ticker": "TSLA",
-      "name": "Tesla",
-      "price": 358.22,
-      "changePct": -10.4,
-      "monthChangePct": -4.5,
-      "catalyst": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
+      "ticker": "AAPL",
+      "name": "Apple",
+      "price": 350.69,
+      "changePct": 3.7,
+      "monthChangePct": 4.2,
+      "catalyst": "Apple starts offering $50 extended usage packs for AI features in Creator Studio",
       "when": "In the news",
       "signals": [
-        "Big price move"
+        "5 headlines"
       ],
       "spark": [
-        403.3,
-        399.81,
-        403.82,
-        398.5,
-        385.19,
-        343.69,
-        358.22
+        344.63,
+        338.32,
+        331.9,
+        349.51,
+        344.17,
+        342.37,
+        350.69
       ],
       "history": [
         {
-          "d": "2026-10-08",
-          "c": 375.0
-        },
-        {
           "d": "2026-10-09",
-          "c": 382.7
+          "c": 336.64
         },
         {
           "d": "2026-10-12",
-          "c": 378.03
+          "c": 340.97
         },
         {
           "d": "2026-10-13",
-          "c": 375.23
+          "c": 341.27
         },
         {
           "d": "2026-10-14",
-          "c": 367.16
+          "c": 342.96
         },
         {
           "d": "2026-10-15",
-          "c": 362.44
+          "c": 342.0
         },
         {
           "d": "2026-10-16",
-          "c": 354.72
+          "c": 343.46
         },
         {
           "d": "2026-10-19",
-          "c": 368.06
+          "c": 342.94
         },
         {
           "d": "2026-10-20",
-          "c": 373.71
+          "c": 339.5
         },
         {
           "d": "2026-10-21",
-          "c": 386.47
+          "c": 343.99
         },
         {
           "d": "2026-10-22",
-          "c": 374.58
+          "c": 348.22
         },
         {
           "d": "2026-10-23",
-          "c": 372.22
+          "c": 347.73
         },
         {
           "d": "2026-10-26",
-          "c": 391.62
+          "c": 343.91
         },
         {
           "d": "2026-10-27",
-          "c": 407.46
+          "c": 347.1
         },
         {
           "d": "2026-10-28",
-          "c": 404.22
+          "c": 343.83
         },
         {
           "d": "2026-10-29",
-          "c": 403.3
+          "c": 348.91
         },
         {
           "d": "2026-10-30",
-          "c": 399.81
+          "c": 344.63
         },
         {
           "d": "2026-11-02",
-          "c": 403.82
+          "c": 338.32
         },
         {
           "d": "2026-11-03",
-          "c": 398.5
+          "c": 331.9
         },
         {
           "d": "2026-11-04",
-          "c": 385.19
+          "c": 349.51
         },
         {
           "d": "2026-11-05",
-          "c": 343.69
+          "c": 344.17
         },
         {
           "d": "2026-11-06",
-          "c": 358.22
+          "c": 342.37
+        },
+        {
+          "d": "2026-11-09",
+          "c": 350.69
         }
       ],
-      "earnings": "2027-01-27",
-      "headlines": [],
-      "score": 25.0,
+      "earnings": "2027-01-28",
+      "headlines": [
+        {
+          "title": "Apple starts offering $50 extended usage packs for AI features in Creator Studio",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio/",
+          "published": "2026-11-09T20:56:51+00:00"
+        },
+        {
+          "title": "How to use your iPhone to take the best picture of the Moon",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2307830/how-to-use-iphone-take-best-picture-of-moon-guide/",
+          "published": "2026-11-09T19:30:00+00:00"
+        },
+        {
+          "title": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
+          "published": "2026-10-30T15:00:00+00:00"
+        }
+      ],
+      "score": 32.3,
       "brief": {
-        "what": "No major headlines about Tesla in the last two weeks.",
-        "why": "Signals: big price move. The stock is down 10.4% this week and down 4.5% over the month.",
-        "watch": "Next earnings expected Wed Jan 27. Results and guidance usually move the stock most.",
+        "what": "3 recent headlines mention Apple. Latest: Apple starts offering $50 extended usage packs for AI features in Creator Studio",
+        "why": "Signals: 5 headlines. The stock is up 3.7% this week and up 4.2% over the month.",
+        "watch": "Next earnings expected Thu Jan 28. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "UBER",
+      "name": "Uber",
+      "price": 71.17,
+      "changePct": 6.7,
+      "monthChangePct": -0.5,
+      "catalyst": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+      "when": "In the news",
+      "signals": [
+        "3 headlines",
+        "Big price move"
+      ],
+      "spark": [
+        65.25,
+        66.71,
+        66.6,
+        69.87,
+        68.78,
+        68.59,
+        71.17
+      ],
+      "history": [
+        {
+          "d": "2026-10-09",
+          "c": 71.51
+        },
+        {
+          "d": "2026-10-12",
+          "c": 71.5
+        },
+        {
+          "d": "2026-10-13",
+          "c": 71.32
+        },
+        {
+          "d": "2026-10-14",
+          "c": 69.29
+        },
+        {
+          "d": "2026-10-15",
+          "c": 71.27
+        },
+        {
+          "d": "2026-10-16",
+          "c": 70.35
+        },
+        {
+          "d": "2026-10-19",
+          "c": 69.96
+        },
+        {
+          "d": "2026-10-20",
+          "c": 68.94
+        },
+        {
+          "d": "2026-10-21",
+          "c": 67.62
+        },
+        {
+          "d": "2026-10-22",
+          "c": 69.07
+        },
+        {
+          "d": "2026-10-23",
+          "c": 66.7
+        },
+        {
+          "d": "2026-10-26",
+          "c": 66.13
+        },
+        {
+          "d": "2026-10-27",
+          "c": 65.78
+        },
+        {
+          "d": "2026-10-28",
+          "c": 65.27
+        },
+        {
+          "d": "2026-10-29",
+          "c": 65.74
+        },
+        {
+          "d": "2026-10-30",
+          "c": 65.25
+        },
+        {
+          "d": "2026-11-02",
+          "c": 66.71
+        },
+        {
+          "d": "2026-11-03",
+          "c": 66.6
+        },
+        {
+          "d": "2026-11-04",
+          "c": 69.87
+        },
+        {
+          "d": "2026-11-05",
+          "c": 68.78
+        },
+        {
+          "d": "2026-11-06",
+          "c": 68.59
+        },
+        {
+          "d": "2026-11-09",
+          "c": 71.17
+        }
+      ],
+      "earnings": "2027-02-03",
+      "headlines": [
+        {
+          "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
+          "published": "2026-11-09T17:00:00+00:00"
+        },
+        {
+          "title": "Uber wants to park your car now, too",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis",
+          "published": "2026-11-09T17:00:00+00:00"
+        },
+        {
+          "title": "Uber is launching its own parking reservation service",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2308678/uber-is-launching-its-own-parking-reservation-service/",
+          "published": "2026-11-09T17:00:00+00:00"
+        }
+      ],
+      "score": 28.5,
+      "brief": {
+        "what": "3 recent headlines mention Uber. Latest: Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+        "why": "Signals: 3 headlines, big price move. The stock is up 6.7% this week and down 0.5% over the month.",
+        "watch": "Next earnings expected Wed Feb 3. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
     {
       "ticker": "AMD",
       "name": "AMD",
-      "price": 449.04,
-      "changePct": -11.0,
-      "monthChangePct": -27.7,
-      "catalyst": "Down 11% this week",
-      "when": "Price",
+      "price": 508.58,
+      "changePct": 8.9,
+      "monthChangePct": -16.4,
+      "catalyst": "AMD admits GPU driver bug is writing data continuously, wearing out SSDs — Radeon owner claims External Events Utility used up 1% of SSD health every month for over a year, company promises a fix soon",
+      "when": "In the news",
       "signals": [
         "Big price move",
         "Volume up"
       ],
       "spark": [
-        566.42,
         504.8,
         466.84,
         483.9,
         488.78,
         404.4,
-        449.04
+        449.04,
+        508.58
       ],
       "history": [
-        {
-          "d": "2026-10-08",
-          "c": 620.68
-        },
         {
           "d": "2026-10-09",
           "c": 608.1
@@ -1080,14 +976,18 @@
         {
           "d": "2026-11-06",
           "c": 449.04
+        },
+        {
+          "d": "2026-11-09",
+          "c": 508.58
         }
       ],
       "earnings": "2027-02-02",
       "headlines": [],
-      "score": 23.8,
+      "score": 27.1,
       "brief": {
         "what": "No major headlines about AMD in the last two weeks.",
-        "why": "Signals: big price move, volume up. The stock is down 11.0% this week and down 27.7% over the month.",
+        "why": "Signals: big price move, volume up. The stock is up 8.9% this week and down 16.4% over the month.",
         "watch": "Next earnings expected Tue Feb 2. Results and guidance usually move the stock most.",
         "ai": false
       }
