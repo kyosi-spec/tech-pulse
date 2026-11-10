@@ -1,12 +1,195 @@
 {
   "weekOf": "2026-11-09",
-  "updated": "2026-11-09T21:26:04+00:00",
+  "updated": "2026-11-10T04:06:18+00:00",
   "summary": [
-    "Tech leads the news with 10 of 25 stories. Top headline: The global pledge to use AI for climate good is a cruel joke",
-    "Biggest catalyst on the watchlist: NVDA, jensen huang pulls out of elevenlabs summit amid nvidia controversy.",
-    "Strongest rumor: More than 400k Russians killed fighting in Ukraine war, leaked data suggests"
+    "Tech leads the news with 10 of 25 stories. Top headline: Every senior with an Apple Watch should set up these 5 health alerts",
+    "Earnings this week from NVDA.",
+    "Strongest rumor: Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago"
   ],
   "stories": [
+    {
+      "id": "332dbd9c8c",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-10T01:30:00+00:00",
+      "title": "Every senior with an Apple Watch should set up these 5 health alerts",
+      "summary": "Seniors, especially those who live alone, could benefit from a number of Apple Watch health alerts, including medication reminders and fall detection.",
+      "url": "https://www.engadget.com/2307756/apple-watch-health-alerts-setup-seniors/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "f742d60602",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-10T00:30:00+00:00",
+      "title": "How to turn on personal results on your Google Home",
+      "summary": "Every member of the family can have their own assistant with personal results on Google Home. Find out how to set this feature up.",
+      "url": "https://www.engadget.com/2307753/how-to-turn-on-personal-results-google-home/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "b52e25350f",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "Wired",
+      "published": "2026-11-10T00:18:19+00:00",
+      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+      "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+      "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "946d7464fa",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-10T00:00:00+00:00",
+      "title": "The safety reason TSA might ask you to turn on your phone",
+      "summary": "While traveling through the airport, TSA may ask you to power up your phone. Border agents can conduct a more thorough search as well.",
+      "url": "https://www.engadget.com/2307751/why-tsa-ask-turn-on-phone-safety-reason/",
+      "tickers": []
+    },
+    {
+      "id": "95699917f9",
+      "topic": "Chips",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-09T23:51:58+00:00",
+      "title": "What could China get from Jensen Huang?",
+      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "87a07d9d41",
+      "topic": "Chips",
+      "kind": "Founder",
+      "source": "The Verge",
+      "published": "2026-11-09T23:47:46+00:00",
+      "title": "Here’s what Trump said he knew about Jensen Huang",
+      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wife, and the company has opened…",
+      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "2a3dd8f3c6",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-09T23:30:00+00:00",
+      "title": "Why you probably shouldn't buy gadgets with micro USB ports",
+      "summary": "USB-C has largely taken over where micro USB used to reign, but you'll still spot (and should skip using) some devices using the older connector.",
+      "url": "https://www.engadget.com/2307748/why-avoid-buying-micro-usb-gadgets/",
+      "tickers": []
+    },
+    {
+      "id": "32e9c669c3",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-09T23:08:13+00:00",
+      "title": "Fable 5.2 one-shotted my nephew's dream game",
+      "summary": "Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game Comments URL: https://news.ycombinator.com/item?id=50433659 Points: 240 # Comments: 160",
+      "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+      "tickers": []
+    },
+    {
+      "id": "be0166d986",
+      "topic": "Chips",
+      "kind": "Founder",
+      "source": "The Verge",
+      "published": "2026-11-09T23:07:59+00:00",
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "4fa798488f",
+      "topic": "Security",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-09T23:03:46+00:00",
+      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+      "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
+      "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+      "tickers": []
+    },
+    {
+      "id": "4450c675fc",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-09T23:00:00+00:00",
+      "title": "The pros and cons of using mesh Wi-Fi",
+      "summary": "Should you buy a mesh Wi-Fi system or a standalone router? Learn how each handles range, roaming, and cost, and which one fits your home best.",
+      "url": "https://www.engadget.com/2307745/using-mesh-wifi-pros-and-cons/",
+      "tickers": []
+    },
+    {
+      "id": "9e3e0afc8e",
+      "topic": "Chips",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-11-09T22:46:09+00:00",
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "8b6d8d3c3e",
+      "topic": "Chips",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-09T22:23:42+00:00",
+      "title": "The race is on to sue Nvidia",
+      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "01b25b91a8",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-09T21:56:57+00:00",
+      "title": "TPU 8tx and TPU 8i Max",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/ Comments URL: https://news.ycombinator.com/item?id=50432831 Points: 226 # Comments: 67",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "ea2db00b4d",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-09T21:43:41+00:00",
+      "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
+      "summary": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty for $290.99, which is more than $100 cheaper than the full MSRP…",
+      "url": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
+      "tickers": []
+    },
     {
       "id": "31e241b3fd",
       "topic": "AI",
@@ -78,6 +261,28 @@
       ]
     },
     {
+      "id": "53abbc6606",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-09T20:04:55+00:00",
+      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+      "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 305 # Comments: 229",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "tickers": []
+    },
+    {
+      "id": "823915a1f3",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-09T19:58:59+00:00",
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "summary": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 528 # Comments: 271",
+      "url": "https://postalpro.usps.com/zcb",
+      "tickers": []
+    },
+    {
       "id": "0d7501760a",
       "topic": "Tech",
       "kind": "Company",
@@ -98,217 +303,66 @@
       "summary": "\"*sshole\" poses a serious threat to Internet security.",
       "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
       "tickers": []
-    },
-    {
-      "id": "6835d3852e",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-09T19:39:41+00:00",
-      "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
-      "summary": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
-      "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
-      "tickers": []
-    },
-    {
-      "id": "1d7da684b2",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-09T19:30:00+00:00",
-      "title": "How to use your iPhone to take the best picture of the Moon",
-      "summary": "We explain how to take the best photos of the Moon with your iPhone, regardless of which model.",
-      "url": "https://www.engadget.com/2307830/how-to-use-iphone-take-best-picture-of-moon-guide/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "ceb5cf2d54",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-11-09T19:24:51+00:00",
-      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-      "tickers": []
-    },
-    {
-      "id": "524654bb52",
-      "topic": "Startups",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-11-09T19:21:46+00:00",
-      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-      "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
-      "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
-      "tickers": []
-    },
-    {
-      "id": "ffeefe2483",
-      "topic": "Security",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-11-09T19:19:24+00:00",
-      "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
-      "summary": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.",
-      "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
-      "tickers": []
-    },
-    {
-      "id": "ad1f1c56ac",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-09T19:00:00+00:00",
-      "title": "Gmail users should know about this little-noticed feature",
-      "summary": "Gmail's unsend feature will delay it from dispatching your message. Here's how to extend the amount of time you have to use it.",
-      "url": "https://www.engadget.com/2307742/gmail-unsend-feature/",
-      "tickers": []
-    },
-    {
-      "id": "c1b4cc88f3",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-09T18:56:29+00:00",
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429906 Points: 672 # Comments: 356",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "tickers": []
-    },
-    {
-      "id": "d0542010dd",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-09T18:35:25+00:00",
-      "title": "You can grab three months of Game Pass Ultimate for under $20 per month",
-      "summary": "The price of Xbox Game Pass Ultimate has fluctuated between $20 and $30 per month over the last year, but you can get three months of the top plan for around $19 per month. At Newegg, using the coupon code BNWF2656 at checkout knocks $11 off the usual cost of a three-month…",
-      "url": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale",
-      "tickers": []
-    },
-    {
-      "id": "d031c61ae3",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-09T18:15:00+00:00",
-      "title": "How does Google Wallet's notification feed work and can you disable it?",
-      "summary": "Google Wallet is attempting to make notifications easier to find with a notification feed, but if you're sick of alerts, find out how to disable them.",
-      "url": "https://www.engadget.com/2307741/google-wallet-notifications-how-works-disable/",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "45be3bc244",
-      "topic": "Chips",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-09T18:09:52+00:00",
-      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-      "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "e401215948",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-11-09T18:07:23+00:00",
-      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
-      "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the…",
-      "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-      "tickers": [
-        "META"
-      ]
-    },
-    {
-      "id": "3839b95d04",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-11-09T18:00:00+00:00",
-      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-      "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-      "tickers": []
-    },
-    {
-      "id": "7359b9d859",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-09T17:45:00+00:00",
-      "title": "The reason your laptop can get hot after extended use",
-      "summary": "While it's normal for laptops to sometimes overheat after extended use, excessive temperature spikes can be reduced in a few ways.",
-      "url": "https://www.engadget.com/2307737/why-laptops-overheat-after-extended-use/",
-      "tickers": []
-    },
-    {
-      "id": "a2d15ea149",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-09T17:42:55+00:00",
-      "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
-      "summary": "Article URL: https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/ Comments URL: https://news.ycombinator.com/item?id=50428801 Points: 209 # Comments: 180",
-      "url": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
-      "tickers": []
-    },
-    {
-      "id": "9543efa351",
-      "topic": "Tech",
-      "kind": "Founder",
-      "source": "The Verge",
-      "published": "2026-11-09T17:39:57+00:00",
-      "title": "James Gunn is out as DC movie leader",
-      "summary": "Soon, James Gunn and Peter Safran will no longer head up Skydance's DC Studios. After taking the helm of DC Studios as co-CEOs in 2022, Gunn and Safran are being replaced by former Marvel SVP of Production and Development Jeremy Latcham, Deadline reports. However, Gunn and…",
-      "url": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving",
-      "tickers": []
-    },
-    {
-      "id": "afad39a914",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-09T17:36:08+00:00",
-      "title": "The future of AI hinges on… Jensen Huang’s sex life?",
-      "summary": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
-      "tickers": []
-    },
-    {
-      "id": "c853b110f4",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-09T17:15:00+00:00",
-      "title": "What the tiny blue dot on your Android phone is telling you",
-      "summary": "That tiny blue dot on the top right corner of your Android phone indicates something important. Find out what this icon means.",
-      "url": "https://www.engadget.com/2307733/what-tiny-blue-dot-on-android-phone-telling-you/",
-      "tickers": []
     }
   ],
   "rumors": [
     {
-      "id": "616019f0c0",
+      "id": "87b81f6bab",
       "topic": "Tech",
       "status": "Just surfaced",
-      "title": "More than 400k Russians killed fighting in Ukraine war, leaked data suggests",
-      "detail": "Article URL: https://www.theguardian.com/world/2026/nov/09/russians-killed-ukraine-war-leaked-data Comments URL: https://news.ycombinator.com/item?id=50427501 Points: 45 # Comments: 5",
-      "url": "https://www.theguardian.com/world/2026/nov/09/russians-killed-ukraine-war-leaked-data",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+      "detail": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
       "sources": 1,
-      "mentions": 1,
-      "credible": 0,
+      "mentions": 4,
+      "credible": 1,
       "days": 0,
       "tickers": [],
-      "score": 8
+      "score": 21
+    },
+    {
+      "id": "dcb3124c44",
+      "topic": "AI",
+      "status": "Just surfaced",
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "detail": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at…",
+      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 15
+    },
+    {
+      "id": "ffbc915688",
+      "topic": "AI",
+      "status": "Just surfaced",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "detail": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 15
+    },
+    {
+      "id": "332dbd9c8c",
+      "topic": "Devices",
+      "status": "Just surfaced",
+      "title": "Every senior with an Apple Watch should set up these 5 health alerts",
+      "detail": "Seniors, especially those who live alone, could benefit from a number of Apple Watch health alerts, including medication reminders and fall detection.",
+      "url": "https://www.engadget.com/2307756/apple-watch-health-alerts-setup-seniors/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [
+        "AAPL"
+      ],
+      "score": 15
     }
   ],
   "watchlist": [
@@ -318,10 +372,11 @@
       "price": 178.67,
       "changePct": -11.6,
       "monthChangePct": -22.1,
-      "catalyst": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "when": "In the news",
+      "catalyst": "Earnings report",
+      "when": "Tue",
       "signals": [
-        "7 headlines",
+        "Earnings",
+        "8 headlines",
         "Big price move",
         "Volume up"
       ],
@@ -427,6 +482,24 @@
       "earnings": "2026-11-17",
       "headlines": [
         {
+          "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+          "published": "2026-11-09T23:07:59+00:00"
+        },
+        {
+          "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+          "published": "2026-11-09T22:46:09+00:00"
+        },
+        {
+          "title": "The race is on to sue Nvidia",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+          "published": "2026-11-09T22:23:42+00:00"
+        },
+        {
           "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
@@ -439,156 +512,11 @@
           "published": "2026-11-09T18:09:52+00:00"
         }
       ],
-      "score": 60,
+      "score": 100,
       "brief": {
-        "what": "2 recent headlines mention NVIDIA. Latest: Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-        "why": "Signals: 7 headlines, big price move, volume up. The stock is down 11.6% this week and down 22.1% over the month.",
+        "what": "5 recent headlines mention NVIDIA. Latest: Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+        "why": "Signals: earnings, 8 headlines, big price move, volume up. The stock is down 11.6% this week and down 22.1% over the month.",
         "watch": "Next earnings expected Tue Nov 17. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "GOOGL",
-      "name": "Alphabet",
-      "price": 288.15,
-      "changePct": 3.3,
-      "monthChangePct": -18.1,
-      "catalyst": "Google Gemini routes personal Drive files and emails to human annotators",
-      "when": "In the news",
-      "signals": [
-        "6 headlines"
-      ],
-      "spark": [
-        279.84,
-        278.99,
-        280.03,
-        288.93,
-        282.57,
-        284.78,
-        288.15
-      ],
-      "history": [
-        {
-          "d": "2026-10-09",
-          "c": 351.66
-        },
-        {
-          "d": "2026-10-12",
-          "c": 352.72
-        },
-        {
-          "d": "2026-10-13",
-          "c": 353.78
-        },
-        {
-          "d": "2026-10-14",
-          "c": 347.64
-        },
-        {
-          "d": "2026-10-15",
-          "c": 349.22
-        },
-        {
-          "d": "2026-10-16",
-          "c": 340.59
-        },
-        {
-          "d": "2026-10-19",
-          "c": 344.18
-        },
-        {
-          "d": "2026-10-20",
-          "c": 340.28
-        },
-        {
-          "d": "2026-10-21",
-          "c": 334.76
-        },
-        {
-          "d": "2026-10-22",
-          "c": 324.22
-        },
-        {
-          "d": "2026-10-23",
-          "c": 320.21
-        },
-        {
-          "d": "2026-10-26",
-          "c": 316.8
-        },
-        {
-          "d": "2026-10-27",
-          "c": 320.58
-        },
-        {
-          "d": "2026-10-28",
-          "c": 324.89
-        },
-        {
-          "d": "2026-10-29",
-          "c": 283.82
-        },
-        {
-          "d": "2026-10-30",
-          "c": 279.84
-        },
-        {
-          "d": "2026-11-02",
-          "c": 278.99
-        },
-        {
-          "d": "2026-11-03",
-          "c": 280.03
-        },
-        {
-          "d": "2026-11-04",
-          "c": 288.93
-        },
-        {
-          "d": "2026-11-05",
-          "c": 282.57
-        },
-        {
-          "d": "2026-11-06",
-          "c": 284.78
-        },
-        {
-          "d": "2026-11-09",
-          "c": 288.15
-        }
-      ],
-      "earnings": null,
-      "headlines": [
-        {
-          "title": "How does Google Wallet's notification feed work and can you disable it?",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2307741/google-wallet-notifications-how-works-disable/",
-          "published": "2026-11-09T18:15:00+00:00"
-        },
-        {
-          "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
-          "published": "2026-11-09T08:00:00+00:00"
-        },
-        {
-          "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
-          "published": "2026-11-04T20:06:21+00:00"
-        },
-        {
-          "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
-          "published": "2026-11-04T13:49:51+00:00"
-        }
-      ],
-      "score": 36.6,
-      "brief": {
-        "what": "4 recent headlines mention Alphabet. Latest: How does Google Wallet's notification feed work and can you disable it?",
-        "why": "Signals: 6 headlines. The stock is up 3.3% this week and down 18.1% over the month.",
-        "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
     },
@@ -598,10 +526,10 @@
       "price": 350.69,
       "changePct": 3.7,
       "monthChangePct": 4.2,
-      "catalyst": "Apple starts offering $50 extended usage packs for AI features in Creator Studio",
+      "catalyst": "Every senior with an Apple Watch should set up these 5 health alerts",
       "when": "In the news",
       "signals": [
-        "5 headlines"
+        "6 headlines"
       ],
       "spark": [
         344.63,
@@ -705,6 +633,12 @@
       "earnings": "2027-01-28",
       "headlines": [
         {
+          "title": "Every senior with an Apple Watch should set up these 5 health alerts",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2307756/apple-watch-health-alerts-setup-seniors/",
+          "published": "2026-11-10T01:30:00+00:00"
+        },
+        {
           "title": "Apple starts offering $50 extended usage packs for AI features in Creator Studio",
           "source": "Engadget",
           "url": "https://www.engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio/",
@@ -723,151 +657,168 @@
           "published": "2026-10-30T15:00:00+00:00"
         }
       ],
-      "score": 32.3,
+      "score": 37.3,
       "brief": {
-        "what": "3 recent headlines mention Apple. Latest: Apple starts offering $50 extended usage packs for AI features in Creator Studio",
-        "why": "Signals: 5 headlines. The stock is up 3.7% this week and up 4.2% over the month.",
+        "what": "4 recent headlines mention Apple. Latest: Every senior with an Apple Watch should set up these 5 health alerts There is also a rumor making the rounds: Every senior with an Apple Watch should set up these 5 health alerts",
+        "why": "Signals: 6 headlines. The stock is up 3.7% this week and up 4.2% over the month.",
         "watch": "Next earnings expected Thu Jan 28. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
     {
-      "ticker": "UBER",
-      "name": "Uber",
-      "price": 71.17,
-      "changePct": 6.7,
-      "monthChangePct": -0.5,
-      "catalyst": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "price": 288.15,
+      "changePct": 3.3,
+      "monthChangePct": -18.1,
+      "catalyst": "How to turn on personal results on your Google Home",
       "when": "In the news",
       "signals": [
-        "3 headlines",
-        "Big price move"
+        "8 headlines"
       ],
       "spark": [
-        65.25,
-        66.71,
-        66.6,
-        69.87,
-        68.78,
-        68.59,
-        71.17
+        279.84,
+        278.99,
+        280.03,
+        288.93,
+        282.57,
+        284.78,
+        288.15
       ],
       "history": [
         {
           "d": "2026-10-09",
-          "c": 71.51
+          "c": 351.66
         },
         {
           "d": "2026-10-12",
-          "c": 71.5
+          "c": 352.72
         },
         {
           "d": "2026-10-13",
-          "c": 71.32
+          "c": 353.78
         },
         {
           "d": "2026-10-14",
-          "c": 69.29
+          "c": 347.64
         },
         {
           "d": "2026-10-15",
-          "c": 71.27
+          "c": 349.22
         },
         {
           "d": "2026-10-16",
-          "c": 70.35
+          "c": 340.59
         },
         {
           "d": "2026-10-19",
-          "c": 69.96
+          "c": 344.18
         },
         {
           "d": "2026-10-20",
-          "c": 68.94
+          "c": 340.28
         },
         {
           "d": "2026-10-21",
-          "c": 67.62
+          "c": 334.76
         },
         {
           "d": "2026-10-22",
-          "c": 69.07
+          "c": 324.22
         },
         {
           "d": "2026-10-23",
-          "c": 66.7
+          "c": 320.21
         },
         {
           "d": "2026-10-26",
-          "c": 66.13
+          "c": 316.8
         },
         {
           "d": "2026-10-27",
-          "c": 65.78
+          "c": 320.58
         },
         {
           "d": "2026-10-28",
-          "c": 65.27
+          "c": 324.89
         },
         {
           "d": "2026-10-29",
-          "c": 65.74
+          "c": 283.82
         },
         {
           "d": "2026-10-30",
-          "c": 65.25
+          "c": 279.84
         },
         {
           "d": "2026-11-02",
-          "c": 66.71
+          "c": 278.99
         },
         {
           "d": "2026-11-03",
-          "c": 66.6
+          "c": 280.03
         },
         {
           "d": "2026-11-04",
-          "c": 69.87
+          "c": 288.93
         },
         {
           "d": "2026-11-05",
-          "c": 68.78
+          "c": 282.57
         },
         {
           "d": "2026-11-06",
-          "c": 68.59
+          "c": 284.78
         },
         {
           "d": "2026-11-09",
-          "c": 71.17
+          "c": 288.15
         }
       ],
-      "earnings": "2027-02-03",
+      "earnings": null,
       "headlines": [
         {
-          "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
-          "published": "2026-11-09T17:00:00+00:00"
-        },
-        {
-          "title": "Uber wants to park your car now, too",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis",
-          "published": "2026-11-09T17:00:00+00:00"
-        },
-        {
-          "title": "Uber is launching its own parking reservation service",
+          "title": "How to turn on personal results on your Google Home",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2308678/uber-is-launching-its-own-parking-reservation-service/",
-          "published": "2026-11-09T17:00:00+00:00"
+          "url": "https://www.engadget.com/2307753/how-to-turn-on-personal-results-google-home/",
+          "published": "2026-11-10T00:30:00+00:00"
+        },
+        {
+          "title": "Google Gemini routes personal Drive files and emails to human annotators",
+          "source": "Hacker News",
+          "url": "https://github.com/thisisme6598/gemini_files/",
+          "published": "2026-11-09T18:24:38+00:00"
+        },
+        {
+          "title": "How does Google Wallet's notification feed work and can you disable it?",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2307741/google-wallet-notifications-how-works-disable/",
+          "published": "2026-11-09T18:15:00+00:00"
+        },
+        {
+          "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
+          "published": "2026-11-09T08:00:00+00:00"
+        },
+        {
+          "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
+          "published": "2026-11-04T20:06:21+00:00"
+        },
+        {
+          "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+          "published": "2026-11-04T13:49:51+00:00"
         }
       ],
-      "score": 28.5,
+      "score": 36.6,
       "brief": {
-        "what": "3 recent headlines mention Uber. Latest: Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
-        "why": "Signals: 3 headlines, big price move. The stock is up 6.7% this week and down 0.5% over the month.",
-        "watch": "Next earnings expected Wed Feb 3. Results and guidance usually move the stock most.",
+        "what": "6 recent headlines mention Alphabet. Latest: How to turn on personal results on your Google Home",
+        "why": "Signals: 8 headlines. The stock is up 3.3% this week and down 18.1% over the month.",
+        "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
     },
@@ -989,6 +940,146 @@
         "what": "No major headlines about AMD in the last two weeks.",
         "why": "Signals: big price move, volume up. The stock is up 8.9% this week and down 16.4% over the month.",
         "watch": "Next earnings expected Tue Feb 2. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "META",
+      "name": "Meta",
+      "price": 641.37,
+      "changePct": 5.7,
+      "monthChangePct": -10.8,
+      "catalyst": "Instagram’s Effect Builder makes new filters from AI prompts",
+      "when": "In the news",
+      "signals": [
+        "3 headlines",
+        "Big price move"
+      ],
+      "spark": [
+        614.99,
+        606.73,
+        621.03,
+        630.0,
+        605.08,
+        610.15,
+        641.37
+      ],
+      "history": [
+        {
+          "d": "2026-10-09",
+          "c": 718.67
+        },
+        {
+          "d": "2026-10-12",
+          "c": 742.96
+        },
+        {
+          "d": "2026-10-13",
+          "c": 762.5
+        },
+        {
+          "d": "2026-10-14",
+          "c": 737.54
+        },
+        {
+          "d": "2026-10-15",
+          "c": 736.72
+        },
+        {
+          "d": "2026-10-16",
+          "c": 709.33
+        },
+        {
+          "d": "2026-10-19",
+          "c": 705.44
+        },
+        {
+          "d": "2026-10-20",
+          "c": 694.25
+        },
+        {
+          "d": "2026-10-21",
+          "c": 697.52
+        },
+        {
+          "d": "2026-10-22",
+          "c": 648.85
+        },
+        {
+          "d": "2026-10-23",
+          "c": 642.62
+        },
+        {
+          "d": "2026-10-26",
+          "c": 630.56
+        },
+        {
+          "d": "2026-10-27",
+          "c": 620.19
+        },
+        {
+          "d": "2026-10-28",
+          "c": 612.49
+        },
+        {
+          "d": "2026-10-29",
+          "c": 624.52
+        },
+        {
+          "d": "2026-10-30",
+          "c": 614.99
+        },
+        {
+          "d": "2026-11-02",
+          "c": 606.73
+        },
+        {
+          "d": "2026-11-03",
+          "c": 621.03
+        },
+        {
+          "d": "2026-11-04",
+          "c": 630.0
+        },
+        {
+          "d": "2026-11-05",
+          "c": 605.08
+        },
+        {
+          "d": "2026-11-06",
+          "c": 610.15
+        },
+        {
+          "d": "2026-11-09",
+          "c": 641.37
+        }
+      ],
+      "earnings": "2027-01-27",
+      "headlines": [
+        {
+          "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+          "published": "2026-11-09T18:07:23+00:00"
+        },
+        {
+          "title": "Meta is expanding AI age detection for Instagram teen accounts",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2310848/meta-is-expanding-ai-age-detection-for-instagram-teen-accounts/",
+          "published": "2026-11-09T15:58:55+00:00"
+        },
+        {
+          "title": "Meta expands Instagram’s AI age-guessing tech globally",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
+          "published": "2026-11-09T15:32:27+00:00"
+        }
+      ],
+      "score": 26.4,
+      "brief": {
+        "what": "3 recent headlines mention Meta. Latest: Instagram’s Effect Builder makes new filters from AI prompts",
+        "why": "Signals: 3 headlines, big price move. The stock is up 5.7% this week and down 10.8% over the month.",
+        "watch": "Next earnings expected Wed Jan 27. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
