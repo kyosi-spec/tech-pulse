@@ -1,338 +1,326 @@
 {
   "weekOf": "2026-11-09",
-  "updated": "2026-11-10T04:06:18+00:00",
+  "updated": "2026-11-10T18:40:03+00:00",
   "summary": [
-    "Tech leads the news with 10 of 25 stories. Top headline: Every senior with an Apple Watch should set up these 5 health alerts",
+    "AI leads the news with 11 of 25 stories. Top headline: ChatGPT is getting verified AI ‘Business Agents’",
     "Earnings this week from NVDA.",
-    "Strongest rumor: Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago"
+    "Strongest rumor: Before news broke of his affair with a suspected Chinese spy, Nvidia’s Huang told Fortune his company “could be of great service” to China"
   ],
   "stories": [
     {
-      "id": "332dbd9c8c",
+      "id": "ac42dbf54d",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-11-10T18:00:00+00:00",
+      "title": "ChatGPT is getting verified AI ‘Business Agents’",
+      "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "tickers": []
+    },
+    {
+      "id": "fc82c140b7",
+      "topic": "Chips",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-10T18:00:00+00:00",
+      "title": "Here's what to look for so you don't get scammed by a fake GPU",
+      "summary": "From tracking number heists to missing memory dies, don't waste your precious time and money on a bogus GPU bargain.",
+      "url": "https://www.engadget.com/2307801/fake-gpu-scam-what-to-look-for/",
+      "tickers": []
+    },
+    {
+      "id": "8458efa840",
+      "topic": "Chips",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-10T17:45:00+00:00",
+      "title": "NVIDIA DLSS 4.5 has presets you should know about",
+      "summary": "These tweaks can help you squeeze better performance and cleaner visuals from your favorite PC gaming titles on multiple types of hardware.",
+      "url": "https://www.engadget.com/2307797/nvidia-dlss-4-5-presets-should-know/",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "ba3c32f75c",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-11-10T17:43:49+00:00",
+      "title": "Ableton Live 13 announced with a step sequencer, new drum synth, and more",
+      "summary": "Today, Ableton announced Live 13, which is expected to arrive in early 2027 with a slew of new features. Most of the changes are seemingly minor on paper, but when combined, they make for the biggest update to the digital audio workstation (DAW) in years. The feature most likely…",
+      "url": "https://www.theverge.com/tech/1030846/ableton-live-13-announced-step-sequencer-looplet-daw",
+      "tickers": []
+    },
+    {
+      "id": "de136d4ed4",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-10T17:38:43+00:00",
+      "title": "Polestar is banned in the US, but we still want its latest concept car",
+      "summary": "The Formula 2030 has inflatable seats, a pop-up LiDAR sensor and physical buttons.",
+      "url": "https://www.engadget.com/2312286/polestar-is-banned-in-the-us-but-we-still-want-its-latest-concept-car/",
+      "tickers": []
+    },
+    {
+      "id": "7225240c08",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-10T17:35:46+00:00",
+      "title": "Google turns Gemini towards medical paperwork",
+      "summary": "Gemini for healthcare is in preview now, with some big-name partners already on board.",
+      "url": "https://www.engadget.com/2312279/google-turns-gemini-towards-medical-paperwork/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "6e6dc4ad56",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-10T17:32:47+00:00",
+      "title": "The indie game community is in disarray over AI and Big Walk",
+      "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final…",
+      "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+      "tickers": []
+    },
+    {
+      "id": "25729e606b",
+      "topic": "Devices",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-11-10T17:32:39+00:00",
+      "title": "Google Fi is bringing back multiple cell network support for better coverage",
+      "summary": "Google Fi is launching a new \"super network\" that can automatically switch users between two different 5G networks depending on which one has better connectivity. The feature is rolling out starting today on Pixel 9 and newer phones that have Google Fi active on eSIM and have…",
+      "url": "https://www.theverge.com/tech/1030979/google-fi-automatic-network-switching-pixel",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "01fe8a6cb6",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "TechCrunch",
+      "published": "2026-11-10T17:30:00+00:00",
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "tickers": []
+    },
+    {
+      "id": "ec60b7dee5",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-10T17:30:00+00:00",
+      "title": "Anthropic has its own AI-powered office suite now",
+      "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+      "tickers": []
+    },
+    {
+      "id": "4b71cf3e2e",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-10T17:30:00+00:00",
+      "title": "Anthropic takes on Google and Microsoft with Claude Sheets",
+      "summary": "The company also has a new whiteboard app.",
+      "url": "https://www.engadget.com/2312177/anthropic-takes-on-google-and-microsoft-with-claude-sheets/",
+      "tickers": [
+        "MSFT",
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "dbfd2519ac",
+      "topic": "Devices",
+      "kind": "Launch",
+      "source": "Engadget",
+      "published": "2026-11-10T17:30:00+00:00",
+      "title": "Google Fi announces super network automatic carrier switching for improved speed and reception",
+      "summary": "It's rolling out first on Pixel phones before wider availability arrives in 2027.",
+      "url": "https://www.engadget.com/2312022/google-fi-super-network-automatic-carrier-switching/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "c78c024428",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-10T17:15:00+00:00",
+      "title": "Can you use WD-40 on your electronics?",
+      "summary": "Maintaining your electronics involves cleaning them correctly. Discover if WD-40 is the right product for the job.",
+      "url": "https://www.engadget.com/2307782/can-you-use-wd40-on-electronics/",
+      "tickers": []
+    },
+    {
+      "id": "48c7b56f45",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-11-10T17:04:19+00:00",
+      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "7268418a8d",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-10T17:02:46+00:00",
+      "title": "Adobe and Google have teamed up to connect Drive, Gmail and Acrobat",
+      "summary": "Some Adobe tools will end up in Google Search's AI mode, as well.",
+      "url": "https://www.engadget.com/2312215/adobe-and-google-have-teamed-up-to-connect-drive-gmail-and-acrobat/",
+      "tickers": [
+        "GOOGL",
+        "ADBE"
+      ]
+    },
+    {
+      "id": "fcf57c09c7",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-10T16:50:38+00:00",
+      "title": "Sundrop turns your endless baby photos into recaps, time-lapses and more — without AI",
+      "summary": "Sundrop is a new iPhone app that uses Apple's on-device AI to help parents rediscover their favorite photos and create keepsakes without uploading images to the cloud.",
+      "url": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "2348580285",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-10T16:45:00+00:00",
+      "title": "Don't throw away your old phone box — you might need it in an emergency",
+      "summary": "If you're thinking of tossing your old phone box, here are the practical reasons the packaging is worth holding onto, including what to do in an emergency.",
+      "url": "https://www.engadget.com/2307779/dont-throw-away-your-old-phone-box/",
+      "tickers": []
+    },
+    {
+      "id": "42731d4c69",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-10T16:37:44+00:00",
+      "title": ".name Grandfathered",
+      "summary": "Article URL: https://neil.fraser.name/news/2026/11/10/ Comments URL: https://news.ycombinator.com/item?id=50442736 Points: 296 # Comments: 53",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "tickers": []
+    },
+    {
+      "id": "16cc896fe5",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-10T16:20:30+00:00",
+      "title": "eBay appears to have shut the door on third-party AI agents",
+      "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms…",
+      "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+      "tickers": []
+    },
+    {
+      "id": "dcc2e0dd9b",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "Hacker News",
+      "published": "2026-11-10T16:15:43+00:00",
+      "title": "Blender 5.3 released with Gaussian Splat support",
+      "summary": "Article URL: https://www.blender.org/download/releases/5-3/ Comments URL: https://news.ycombinator.com/item?id=50442426 Points: 263 # Comments: 34",
+      "url": "https://www.blender.org/download/releases/5-3/",
+      "tickers": []
+    },
+    {
+      "id": "c5422efee9",
       "topic": "Devices",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-10T01:30:00+00:00",
-      "title": "Every senior with an Apple Watch should set up these 5 health alerts",
-      "summary": "Seniors, especially those who live alone, could benefit from a number of Apple Watch health alerts, including medication reminders and fall detection.",
-      "url": "https://www.engadget.com/2307756/apple-watch-health-alerts-setup-seniors/",
+      "published": "2026-11-10T16:15:00+00:00",
+      "title": "What is the difference between rest mode and shutdown for your PlayStation 5?",
+      "summary": "Rest mode is more convenient, but shutting the console off could give you more piece of mind.",
+      "url": "https://www.engadget.com/2307774/playstation-5-shutdown-vs-rest-mode-differences/",
+      "tickers": []
+    },
+    {
+      "id": "948328a59d",
+      "topic": "Cloud",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-10T16:12:44+00:00",
+      "title": "GTA 6 is targeting 30 fps and has ray-tracing support on PS5 Pro",
+      "summary": "Xbox Cloud Gaming support means you'll be able to stream GTA6 on Xbox One.",
+      "url": "https://www.engadget.com/2312120/gta-6-is-targeting-30-fps-and-has-ray-tracing-support-on-ps5-pro/",
+      "tickers": []
+    },
+    {
+      "id": "9b8df15c96",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-10T16:00:00+00:00",
+      "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
+      "summary": "Apple TV's new accessibility feature lets viewers turn on sign language interpretation within supported titles.",
+      "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
       "tickers": [
         "AAPL"
       ]
     },
     {
-      "id": "f742d60602",
+      "id": "8b3a87fa43",
       "topic": "Tech",
       "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-10T00:30:00+00:00",
-      "title": "How to turn on personal results on your Google Home",
-      "summary": "Every member of the family can have their own assistant with personal results on Google Home. Find out how to set this feature up.",
-      "url": "https://www.engadget.com/2307753/how-to-turn-on-personal-results-google-home/",
+      "source": "The Verge",
+      "published": "2026-11-10T16:00:00+00:00",
+      "title": "The Verge’s 2026 holiday gift guide for moms",
+      "summary": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as they are daunting…",
+      "url": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
+      "tickers": []
+    },
+    {
+      "id": "ed8f0eb68e",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-11-10T16:00:00+00:00",
+      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
       "tickers": [
         "GOOGL"
       ]
-    },
-    {
-      "id": "b52e25350f",
-      "topic": "AI",
-      "kind": "Founder",
-      "source": "Wired",
-      "published": "2026-11-10T00:18:19+00:00",
-      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
-      "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
-      "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "946d7464fa",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-10T00:00:00+00:00",
-      "title": "The safety reason TSA might ask you to turn on your phone",
-      "summary": "While traveling through the airport, TSA may ask you to power up your phone. Border agents can conduct a more thorough search as well.",
-      "url": "https://www.engadget.com/2307751/why-tsa-ask-turn-on-phone-safety-reason/",
-      "tickers": []
-    },
-    {
-      "id": "95699917f9",
-      "topic": "Chips",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-09T23:51:58+00:00",
-      "title": "What could China get from Jensen Huang?",
-      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "87a07d9d41",
-      "topic": "Chips",
-      "kind": "Founder",
-      "source": "The Verge",
-      "published": "2026-11-09T23:47:46+00:00",
-      "title": "Here’s what Trump said he knew about Jensen Huang",
-      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wife, and the company has opened…",
-      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "2a3dd8f3c6",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-09T23:30:00+00:00",
-      "title": "Why you probably shouldn't buy gadgets with micro USB ports",
-      "summary": "USB-C has largely taken over where micro USB used to reign, but you'll still spot (and should skip using) some devices using the older connector.",
-      "url": "https://www.engadget.com/2307748/why-avoid-buying-micro-usb-gadgets/",
-      "tickers": []
-    },
-    {
-      "id": "32e9c669c3",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-09T23:08:13+00:00",
-      "title": "Fable 5.2 one-shotted my nephew's dream game",
-      "summary": "Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game Comments URL: https://news.ycombinator.com/item?id=50433659 Points: 240 # Comments: 160",
-      "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
-      "tickers": []
-    },
-    {
-      "id": "be0166d986",
-      "topic": "Chips",
-      "kind": "Founder",
-      "source": "The Verge",
-      "published": "2026-11-09T23:07:59+00:00",
-      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "4fa798488f",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-09T23:03:46+00:00",
-      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
-      "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
-      "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
-      "tickers": []
-    },
-    {
-      "id": "4450c675fc",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-09T23:00:00+00:00",
-      "title": "The pros and cons of using mesh Wi-Fi",
-      "summary": "Should you buy a mesh Wi-Fi system or a standalone router? Learn how each handles range, roaming, and cost, and which one fits your home best.",
-      "url": "https://www.engadget.com/2307745/using-mesh-wifi-pros-and-cons/",
-      "tickers": []
-    },
-    {
-      "id": "9e3e0afc8e",
-      "topic": "Chips",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-11-09T22:46:09+00:00",
-      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "8b6d8d3c3e",
-      "topic": "Chips",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-09T22:23:42+00:00",
-      "title": "The race is on to sue Nvidia",
-      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
-      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "01b25b91a8",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-09T21:56:57+00:00",
-      "title": "TPU 8tx and TPU 8i Max",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/ Comments URL: https://news.ycombinator.com/item?id=50432831 Points: 226 # Comments: 67",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "ea2db00b4d",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-09T21:43:41+00:00",
-      "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
-      "summary": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty for $290.99, which is more than $100 cheaper than the full MSRP…",
-      "url": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
-      "tickers": []
-    },
-    {
-      "id": "31e241b3fd",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-09T21:13:16+00:00",
-      "title": "The global pledge to use AI for climate good is a cruel joke",
-      "summary": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer and our planet enough to give it a whirl - and hey, why not…",
-      "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
-      "tickers": []
-    },
-    {
-      "id": "e93f8d7aae",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-09T21:09:51+00:00",
-      "title": "YouTube will once again be part of Billboard chart calculations in 2027",
-      "summary": "Billboard will give more weight to free, ad-supported listening in its methodology.",
-      "url": "https://www.engadget.com/2311532/youtube-will-once-again-be-part-of-billboard-chart-calculations-in-2027/",
-      "tickers": []
-    },
-    {
-      "id": "623d1719f5",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-09T21:00:00+00:00",
-      "title": "5 Nintendo Switch 2 features everyone should know about",
-      "summary": "From finding hidden controllers to sharing games with others, improve your gaming experience on the Nintendo Switch 2 with these useful features.",
-      "url": "https://www.engadget.com/2307744/nintendo-switch-2-features-everyone-should-know/",
-      "tickers": []
-    },
-    {
-      "id": "5d44f809bc",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-09T20:56:51+00:00",
-      "title": "Apple starts offering $50 extended usage packs for AI features in Creator Studio",
-      "summary": "It'll cost you to access Logic Pro's AI assistant after you reach the monthly usage limit.",
-      "url": "https://www.engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "a85dfd8715",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-09T20:55:34+00:00",
-      "title": "Fervo now has $12B in orders for its geothermal power tech",
-      "summary": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
-      "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
-      "tickers": []
-    },
-    {
-      "id": "65cadf467b",
-      "topic": "Chips",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-11-09T20:09:06+00:00",
-      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "53abbc6606",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-09T20:04:55+00:00",
-      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-      "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 305 # Comments: 229",
-      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-      "tickers": []
-    },
-    {
-      "id": "823915a1f3",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-09T19:58:59+00:00",
-      "title": "USPS now offers official ZIP Code boundary polygons",
-      "summary": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 528 # Comments: 271",
-      "url": "https://postalpro.usps.com/zcb",
-      "tickers": []
-    },
-    {
-      "id": "0d7501760a",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-09T19:42:47+00:00",
-      "title": "Windows 11 is finally adding an easier way to disable the Sticky Keys pop-up",
-      "summary": "There's a checkbox that simply turns it off.",
-      "url": "https://www.engadget.com/2311340/windows-11-is-finally-adding-an-easier-way-to-disable-sticky-keys-pop-up/",
-      "tickers": []
-    },
-    {
-      "id": "ff4568de70",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "Ars Technica",
-      "published": "2026-11-09T19:41:34+00:00",
-      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-      "summary": "\"*sshole\" poses a serious threat to Internet security.",
-      "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
-      "tickers": []
     }
   ],
   "rumors": [
     {
-      "id": "87b81f6bab",
-      "topic": "Tech",
+      "id": "1f546f762e",
+      "topic": "Chips",
       "status": "Just surfaced",
-      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-      "detail": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "title": "Before news broke of his affair with a suspected Chinese spy, Nvidia’s Huang told Fortune his company “could be of great service” to China",
+      "detail": "submitted by /u/Just-Grocery-2229 [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1xsoy3z/before_news_broke_of_his_affair_with_a_suspected/",
       "sources": 1,
-      "mentions": 4,
-      "credible": 1,
+      "mentions": 8,
+      "credible": 0,
       "days": 0,
-      "tickers": [],
-      "score": 21
-    },
-    {
-      "id": "dcb3124c44",
-      "topic": "AI",
-      "status": "Just surfaced",
-      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-      "detail": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at…",
-      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
+      "tickers": [
+        "NVDA"
+      ],
+      "score": 18
     },
     {
       "id": "ffbc915688",
@@ -347,53 +335,33 @@
       "days": 0,
       "tickers": [],
       "score": 15
-    },
-    {
-      "id": "332dbd9c8c",
-      "topic": "Devices",
-      "status": "Just surfaced",
-      "title": "Every senior with an Apple Watch should set up these 5 health alerts",
-      "detail": "Seniors, especially those who live alone, could benefit from a number of Apple Watch health alerts, including medication reminders and fall detection.",
-      "url": "https://www.engadget.com/2307756/apple-watch-health-alerts-setup-seniors/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [
-        "AAPL"
-      ],
-      "score": 15
     }
   ],
   "watchlist": [
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "price": 178.67,
-      "changePct": -11.6,
-      "monthChangePct": -22.1,
+      "price": 168.18,
+      "changePct": -18.6,
+      "monthChangePct": -25.7,
       "catalyst": "Earnings report",
       "when": "Tue",
       "signals": [
         "Earnings",
-        "8 headlines",
+        "10 headlines",
         "Big price move",
         "Volume up"
       ],
       "spark": [
-        204.64,
         202.06,
         206.69,
         200.13,
         181.6,
         186.64,
-        178.67
+        178.67,
+        168.18
       ],
       "history": [
-        {
-          "d": "2026-10-09",
-          "c": 229.28
-        },
         {
           "d": "2026-10-12",
           "c": 226.32
@@ -477,219 +445,56 @@
         {
           "d": "2026-11-09",
           "c": 178.67
+        },
+        {
+          "d": "2026-11-10",
+          "c": 168.18
         }
       ],
       "earnings": "2026-11-17",
       "headlines": [
         {
-          "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-          "published": "2026-11-09T23:07:59+00:00"
+          "title": "NVIDIA DLSS 4.5 has presets you should know about",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2307797/nvidia-dlss-4-5-presets-should-know/",
+          "published": "2026-11-10T17:45:00+00:00"
         },
         {
-          "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+          "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-          "published": "2026-11-09T22:46:09+00:00"
-        },
-        {
-          "title": "The race is on to sue Nvidia",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-          "published": "2026-11-09T22:23:42+00:00"
-        },
-        {
-          "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-          "published": "2026-11-09T20:09:06+00:00"
-        },
-        {
-          "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-          "published": "2026-11-09T18:09:52+00:00"
+          "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "published": "2026-11-10T17:04:19+00:00"
         }
       ],
-      "score": 100,
+      "score": 95.6,
       "brief": {
-        "what": "5 recent headlines mention NVIDIA. Latest: Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-        "why": "Signals: earnings, 8 headlines, big price move, volume up. The stock is down 11.6% this week and down 22.1% over the month.",
+        "what": "2 recent headlines mention NVIDIA. Latest: NVIDIA DLSS 4.5 has presets you should know about There is also a rumor making the rounds: Before news broke of his affair with a suspected Chinese spy, Nvidia’s Huang told Fortune his company “could be of great service” to China",
+        "why": "Signals: earnings, 10 headlines, big price move, volume up. The stock is down 18.6% this week and down 25.7% over the month.",
         "watch": "Next earnings expected Tue Nov 17. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "price": 350.69,
-      "changePct": 3.7,
-      "monthChangePct": 4.2,
-      "catalyst": "Every senior with an Apple Watch should set up these 5 health alerts",
-      "when": "In the news",
-      "signals": [
-        "6 headlines"
-      ],
-      "spark": [
-        344.63,
-        338.32,
-        331.9,
-        349.51,
-        344.17,
-        342.37,
-        350.69
-      ],
-      "history": [
-        {
-          "d": "2026-10-09",
-          "c": 336.64
-        },
-        {
-          "d": "2026-10-12",
-          "c": 340.97
-        },
-        {
-          "d": "2026-10-13",
-          "c": 341.27
-        },
-        {
-          "d": "2026-10-14",
-          "c": 342.96
-        },
-        {
-          "d": "2026-10-15",
-          "c": 342.0
-        },
-        {
-          "d": "2026-10-16",
-          "c": 343.46
-        },
-        {
-          "d": "2026-10-19",
-          "c": 342.94
-        },
-        {
-          "d": "2026-10-20",
-          "c": 339.5
-        },
-        {
-          "d": "2026-10-21",
-          "c": 343.99
-        },
-        {
-          "d": "2026-10-22",
-          "c": 348.22
-        },
-        {
-          "d": "2026-10-23",
-          "c": 347.73
-        },
-        {
-          "d": "2026-10-26",
-          "c": 343.91
-        },
-        {
-          "d": "2026-10-27",
-          "c": 347.1
-        },
-        {
-          "d": "2026-10-28",
-          "c": 343.83
-        },
-        {
-          "d": "2026-10-29",
-          "c": 348.91
-        },
-        {
-          "d": "2026-10-30",
-          "c": 344.63
-        },
-        {
-          "d": "2026-11-02",
-          "c": 338.32
-        },
-        {
-          "d": "2026-11-03",
-          "c": 331.9
-        },
-        {
-          "d": "2026-11-04",
-          "c": 349.51
-        },
-        {
-          "d": "2026-11-05",
-          "c": 344.17
-        },
-        {
-          "d": "2026-11-06",
-          "c": 342.37
-        },
-        {
-          "d": "2026-11-09",
-          "c": 350.69
-        }
-      ],
-      "earnings": "2027-01-28",
-      "headlines": [
-        {
-          "title": "Every senior with an Apple Watch should set up these 5 health alerts",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2307756/apple-watch-health-alerts-setup-seniors/",
-          "published": "2026-11-10T01:30:00+00:00"
-        },
-        {
-          "title": "Apple starts offering $50 extended usage packs for AI features in Creator Studio",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio/",
-          "published": "2026-11-09T20:56:51+00:00"
-        },
-        {
-          "title": "How to use your iPhone to take the best picture of the Moon",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2307830/how-to-use-iphone-take-best-picture-of-moon-guide/",
-          "published": "2026-11-09T19:30:00+00:00"
-        },
-        {
-          "title": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
-          "published": "2026-10-30T15:00:00+00:00"
-        }
-      ],
-      "score": 37.3,
-      "brief": {
-        "what": "4 recent headlines mention Apple. Latest: Every senior with an Apple Watch should set up these 5 health alerts There is also a rumor making the rounds: Every senior with an Apple Watch should set up these 5 health alerts",
-        "why": "Signals: 6 headlines. The stock is up 3.7% this week and up 4.2% over the month.",
-        "watch": "Next earnings expected Thu Jan 28. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
     {
       "ticker": "GOOGL",
       "name": "Alphabet",
-      "price": 288.15,
-      "changePct": 3.3,
-      "monthChangePct": -18.1,
-      "catalyst": "How to turn on personal results on your Google Home",
+      "price": 285.82,
+      "changePct": 2.1,
+      "monthChangePct": -19.0,
+      "catalyst": "Google turns Gemini towards medical paperwork",
       "when": "In the news",
       "signals": [
-        "8 headlines"
+        "12 headlines"
       ],
       "spark": [
-        279.84,
         278.99,
         280.03,
         288.93,
         282.57,
         284.78,
-        288.15
+        288.15,
+        285.82
       ],
       "history": [
-        {
-          "d": "2026-10-09",
-          "c": 351.66
-        },
         {
           "d": "2026-10-12",
           "c": 352.72
@@ -773,313 +578,485 @@
         {
           "d": "2026-11-09",
           "c": 288.15
+        },
+        {
+          "d": "2026-11-10",
+          "c": 285.82
         }
       ],
       "earnings": null,
       "headlines": [
         {
-          "title": "How to turn on personal results on your Google Home",
+          "title": "Google turns Gemini towards medical paperwork",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2307753/how-to-turn-on-personal-results-google-home/",
-          "published": "2026-11-10T00:30:00+00:00"
+          "url": "https://www.engadget.com/2312279/google-turns-gemini-towards-medical-paperwork/",
+          "published": "2026-11-10T17:35:46+00:00"
         },
         {
-          "title": "Google Gemini routes personal Drive files and emails to human annotators",
-          "source": "Hacker News",
-          "url": "https://github.com/thisisme6598/gemini_files/",
-          "published": "2026-11-09T18:24:38+00:00"
+          "title": "Google Fi is bringing back multiple cell network support for better coverage",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1030979/google-fi-automatic-network-switching-pixel",
+          "published": "2026-11-10T17:32:39+00:00"
         },
         {
-          "title": "How does Google Wallet's notification feed work and can you disable it?",
+          "title": "Anthropic takes on Google and Microsoft with Claude Sheets",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2307741/google-wallet-notifications-how-works-disable/",
-          "published": "2026-11-09T18:15:00+00:00"
+          "url": "https://www.engadget.com/2312177/anthropic-takes-on-google-and-microsoft-with-claude-sheets/",
+          "published": "2026-11-10T17:30:00+00:00"
+        },
+        {
+          "title": "Google Fi announces super network automatic carrier switching for improved speed and reception",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2312022/google-fi-super-network-automatic-carrier-switching/",
+          "published": "2026-11-10T17:30:00+00:00"
+        },
+        {
+          "title": "Adobe and Google have teamed up to connect Drive, Gmail and Acrobat",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2312215/adobe-and-google-have-teamed-up-to-connect-drive-gmail-and-acrobat/",
+          "published": "2026-11-10T17:02:46+00:00"
+        },
+        {
+          "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+          "published": "2026-11-10T16:00:00+00:00"
+        },
+        {
+          "title": "Google's Gemini 4 Carbon is now widely available around the world",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2311855/gemini-4-carbon-now-available-worldwide/",
+          "published": "2026-11-10T16:00:00+00:00"
+        },
+        {
+          "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+          "published": "2026-11-10T15:54:08+00:00"
+        },
+        {
+          "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+          "published": "2026-11-10T14:00:00+00:00"
         },
         {
           "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
           "source": "Wired",
           "url": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
           "published": "2026-11-09T08:00:00+00:00"
-        },
-        {
-          "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
-          "published": "2026-11-04T20:06:21+00:00"
-        },
-        {
-          "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
-          "published": "2026-11-04T13:49:51+00:00"
         }
       ],
-      "score": 36.6,
+      "score": 34.1,
       "brief": {
-        "what": "6 recent headlines mention Alphabet. Latest: How to turn on personal results on your Google Home",
-        "why": "Signals: 8 headlines. The stock is up 3.3% this week and down 18.1% over the month.",
+        "what": "10 recent headlines mention Alphabet. Latest: Google turns Gemini towards medical paperwork",
+        "why": "Signals: 12 headlines. The stock is up 2.1% this week and down 19.0% over the month.",
         "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
     },
     {
-      "ticker": "AMD",
-      "name": "AMD",
-      "price": 508.58,
-      "changePct": 8.9,
-      "monthChangePct": -16.4,
-      "catalyst": "AMD admits GPU driver bug is writing data continuously, wearing out SSDs — Radeon owner claims External Events Utility used up 1% of SSD health every month for over a year, company promises a fix soon",
+      "ticker": "AAPL",
+      "name": "Apple",
+      "price": 347.64,
+      "changePct": 4.7,
+      "monthChangePct": 2.0,
+      "catalyst": "Apple TV makes sign language interpretation a built-in accessibility feature",
       "when": "In the news",
       "signals": [
-        "Big price move",
-        "Volume up"
+        "4 headlines"
       ],
       "spark": [
-        504.8,
-        466.84,
-        483.9,
-        488.78,
-        404.4,
-        449.04,
-        508.58
+        338.32,
+        331.9,
+        349.51,
+        344.17,
+        342.37,
+        350.69,
+        347.64
       ],
       "history": [
         {
-          "d": "2026-10-09",
-          "c": 608.1
-        },
-        {
           "d": "2026-10-12",
-          "c": 594.24
+          "c": 340.97
         },
         {
           "d": "2026-10-13",
-          "c": 605.53
+          "c": 341.27
         },
         {
           "d": "2026-10-14",
-          "c": 570.82
+          "c": 342.96
         },
         {
           "d": "2026-10-15",
-          "c": 562.23
+          "c": 342.0
         },
         {
           "d": "2026-10-16",
-          "c": 528.75
+          "c": 343.46
         },
         {
           "d": "2026-10-19",
-          "c": 538.05
+          "c": 342.94
         },
         {
           "d": "2026-10-20",
-          "c": 534.74
+          "c": 339.5
         },
         {
           "d": "2026-10-21",
-          "c": 552.72
+          "c": 343.99
         },
         {
           "d": "2026-10-22",
-          "c": 507.93
+          "c": 348.22
         },
         {
           "d": "2026-10-23",
-          "c": 516.79
+          "c": 347.73
         },
         {
           "d": "2026-10-26",
-          "c": 531.28
+          "c": 343.91
         },
         {
           "d": "2026-10-27",
-          "c": 560.26
+          "c": 347.1
         },
         {
           "d": "2026-10-28",
-          "c": 578.44
+          "c": 343.83
         },
         {
           "d": "2026-10-29",
-          "c": 566.42
+          "c": 348.91
         },
         {
           "d": "2026-10-30",
-          "c": 504.8
+          "c": 344.63
         },
         {
           "d": "2026-11-02",
-          "c": 466.84
+          "c": 338.32
         },
         {
           "d": "2026-11-03",
-          "c": 483.9
+          "c": 331.9
         },
         {
           "d": "2026-11-04",
-          "c": 488.78
+          "c": 349.51
         },
         {
           "d": "2026-11-05",
-          "c": 404.4
+          "c": 344.17
         },
         {
           "d": "2026-11-06",
-          "c": 449.04
+          "c": 342.37
         },
         {
           "d": "2026-11-09",
-          "c": 508.58
+          "c": 350.69
+        },
+        {
+          "d": "2026-11-10",
+          "c": 347.64
         }
       ],
-      "earnings": "2027-02-02",
-      "headlines": [],
-      "score": 27.1,
+      "earnings": "2027-01-28",
+      "headlines": [
+        {
+          "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
+          "published": "2026-11-10T16:00:00+00:00"
+        },
+        {
+          "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+          "published": "2026-11-10T15:29:30+00:00"
+        },
+        {
+          "title": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
+          "published": "2026-10-30T15:00:00+00:00"
+        }
+      ],
+      "score": 29.5,
       "brief": {
-        "what": "No major headlines about AMD in the last two weeks.",
-        "why": "Signals: big price move, volume up. The stock is up 8.9% this week and down 16.4% over the month.",
-        "watch": "Next earnings expected Tue Feb 2. Results and guidance usually move the stock most.",
+        "what": "3 recent headlines mention Apple. Latest: Apple TV makes sign language interpretation a built-in accessibility feature",
+        "why": "Signals: 4 headlines. The stock is up 4.7% this week and up 2.0% over the month.",
+        "watch": "Next earnings expected Thu Jan 28. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
     {
-      "ticker": "META",
-      "name": "Meta",
-      "price": 641.37,
-      "changePct": 5.7,
-      "monthChangePct": -10.8,
-      "catalyst": "Instagram’s Effect Builder makes new filters from AI prompts",
+      "ticker": "ADBE",
+      "name": "Adobe",
+      "price": 234.18,
+      "changePct": -4.9,
+      "monthChangePct": -1.7,
+      "catalyst": "Adobe and Google have teamed up to connect Drive, Gmail and Acrobat",
       "when": "In the news",
       "signals": [
-        "3 headlines",
-        "Big price move"
+        "3 headlines"
       ],
       "spark": [
-        614.99,
-        606.73,
-        621.03,
-        630.0,
-        605.08,
-        610.15,
-        641.37
+        251.47,
+        246.14,
+        248.48,
+        246.44,
+        239.3,
+        237.32,
+        234.18
       ],
       "history": [
         {
-          "d": "2026-10-09",
-          "c": 718.67
-        },
-        {
           "d": "2026-10-12",
-          "c": 742.96
+          "c": 238.14
         },
         {
           "d": "2026-10-13",
-          "c": 762.5
+          "c": 236.28
         },
         {
           "d": "2026-10-14",
-          "c": 737.54
+          "c": 240.68
         },
         {
           "d": "2026-10-15",
-          "c": 736.72
+          "c": 251.67
         },
         {
           "d": "2026-10-16",
-          "c": 709.33
+          "c": 245.2
         },
         {
           "d": "2026-10-19",
-          "c": 705.44
+          "c": 247.09
         },
         {
           "d": "2026-10-20",
-          "c": 694.25
+          "c": 256.73
         },
         {
           "d": "2026-10-21",
-          "c": 697.52
+          "c": 255.06
         },
         {
           "d": "2026-10-22",
-          "c": 648.85
+          "c": 270.55
         },
         {
           "d": "2026-10-23",
-          "c": 642.62
+          "c": 263.82
         },
         {
           "d": "2026-10-26",
-          "c": 630.56
+          "c": 258.62
         },
         {
           "d": "2026-10-27",
-          "c": 620.19
+          "c": 248.36
         },
         {
           "d": "2026-10-28",
-          "c": 612.49
+          "c": 249.76
         },
         {
           "d": "2026-10-29",
-          "c": 624.52
+          "c": 248.12
         },
         {
           "d": "2026-10-30",
-          "c": 614.99
+          "c": 250.23
         },
         {
           "d": "2026-11-02",
-          "c": 606.73
+          "c": 251.47
         },
         {
           "d": "2026-11-03",
-          "c": 621.03
+          "c": 246.14
         },
         {
           "d": "2026-11-04",
-          "c": 630.0
+          "c": 248.48
         },
         {
           "d": "2026-11-05",
-          "c": 605.08
+          "c": 246.44
         },
         {
           "d": "2026-11-06",
-          "c": 610.15
+          "c": 239.3
         },
         {
           "d": "2026-11-09",
-          "c": 641.37
+          "c": 237.32
+        },
+        {
+          "d": "2026-11-10",
+          "c": 234.18
         }
       ],
-      "earnings": "2027-01-27",
+      "earnings": "2026-12-09",
       "headlines": [
         {
-          "title": "Instagram’s Effect Builder makes new filters from AI prompts",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-          "published": "2026-11-09T18:07:23+00:00"
-        },
-        {
-          "title": "Meta is expanding AI age detection for Instagram teen accounts",
+          "title": "Adobe and Google have teamed up to connect Drive, Gmail and Acrobat",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2310848/meta-is-expanding-ai-age-detection-for-instagram-teen-accounts/",
-          "published": "2026-11-09T15:58:55+00:00"
+          "url": "https://www.engadget.com/2312215/adobe-and-google-have-teamed-up-to-connect-drive-gmail-and-acrobat/",
+          "published": "2026-11-10T17:02:46+00:00"
         },
         {
-          "title": "Meta expands Instagram’s AI age-guessing tech globally",
+          "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
-          "published": "2026-11-09T15:32:27+00:00"
+          "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+          "published": "2026-11-10T14:05:10+00:00"
+        },
+        {
+          "title": "Adobe Firefly AI Assistant can now take on recurring tasks for you",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2311901/adobe-firefly-ai-assistant-can-now-take-on-recurring-tasks-for-you/",
+          "published": "2026-11-10T14:00:00+00:00"
         }
       ],
-      "score": 26.4,
+      "score": 24.7,
       "brief": {
-        "what": "3 recent headlines mention Meta. Latest: Instagram’s Effect Builder makes new filters from AI prompts",
-        "why": "Signals: 3 headlines, big price move. The stock is up 5.7% this week and down 10.8% over the month.",
-        "watch": "Next earnings expected Wed Jan 27. Results and guidance usually move the stock most.",
+        "what": "3 recent headlines mention Adobe. Latest: Adobe and Google have teamed up to connect Drive, Gmail and Acrobat",
+        "why": "Signals: 3 headlines. The stock is down 4.9% this week and down 1.7% over the month.",
+        "watch": "Next earnings expected Wed Dec 9. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "price": 269.61,
+      "changePct": 7.5,
+      "monthChangePct": 3.9,
+      "catalyst": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "when": "In the news",
+      "signals": [
+        "Big price move"
+      ],
+      "spark": [
+        245.63,
+        250.69,
+        266.03,
+        260.21,
+        259.3,
+        266.93,
+        269.61
+      ],
+      "history": [
+        {
+          "d": "2026-10-12",
+          "c": 259.53
+        },
+        {
+          "d": "2026-10-13",
+          "c": 258.58
+        },
+        {
+          "d": "2026-10-14",
+          "c": 254.08
+        },
+        {
+          "d": "2026-10-15",
+          "c": 254.76
+        },
+        {
+          "d": "2026-10-16",
+          "c": 250.0
+        },
+        {
+          "d": "2026-10-19",
+          "c": 262.45
+        },
+        {
+          "d": "2026-10-20",
+          "c": 262.63
+        },
+        {
+          "d": "2026-10-21",
+          "c": 262.37
+        },
+        {
+          "d": "2026-10-22",
+          "c": 250.38
+        },
+        {
+          "d": "2026-10-23",
+          "c": 248.0
+        },
+        {
+          "d": "2026-10-26",
+          "c": 249.09
+        },
+        {
+          "d": "2026-10-27",
+          "c": 253.1
+        },
+        {
+          "d": "2026-10-28",
+          "c": 254.6
+        },
+        {
+          "d": "2026-10-29",
+          "c": 243.79
+        },
+        {
+          "d": "2026-10-30",
+          "c": 240.35
+        },
+        {
+          "d": "2026-11-02",
+          "c": 245.63
+        },
+        {
+          "d": "2026-11-03",
+          "c": 250.69
+        },
+        {
+          "d": "2026-11-04",
+          "c": 266.03
+        },
+        {
+          "d": "2026-11-05",
+          "c": 260.21
+        },
+        {
+          "d": "2026-11-06",
+          "c": 259.3
+        },
+        {
+          "d": "2026-11-09",
+          "c": 266.93
+        },
+        {
+          "d": "2026-11-10",
+          "c": 269.61
+        }
+      ],
+      "earnings": null,
+      "headlines": [
+        {
+          "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+          "source": "Hacker News",
+          "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+          "published": "2026-11-10T06:01:08+00:00"
+        }
+      ],
+      "score": 20.1,
+      "brief": {
+        "what": "1 recent headline mentions Amazon. Latest: Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+        "why": "Signals: big price move. The stock is up 7.5% this week and up 3.9% over the month.",
+        "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
     }
