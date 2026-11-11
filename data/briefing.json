@@ -1,311 +1,318 @@
 {
   "weekOf": "2026-11-09",
-  "updated": "2026-11-11T01:55:26+00:00",
+  "updated": "2026-11-11T18:41:29+00:00",
   "summary": [
-    "Tech leads the news with 8 of 25 stories. Top headline: X launches its own clipping feature to spur influencer engagement",
+    "Tech leads the news with 10 of 25 stories. Top headline: Peacock is redesigning its mobile app to focus more on vertical videos",
     "Earnings this week from NVDA.",
-    "Strongest rumor: Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang — helped move 240,000 banned chips into China, mostly H100…"
+    "Strongest rumor: A Grok vibe-coding agent leaked sensitive SpaceXSI data"
   ],
   "stories": [
     {
-      "id": "b9e970af16",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-11-11T01:02:13+00:00",
-      "title": "X launches its own clipping feature to spur influencer engagement",
-      "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
-      "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
-      "tickers": []
-    },
-    {
-      "id": "2b3b20374a",
+      "id": "1c964e545b",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-11T01:00:00+00:00",
-      "title": "What is the average lifespan of recordable Blu-ray discs?",
-      "summary": "How long they will last depends on a few factors.",
-      "url": "https://www.engadget.com/2307784/average-lifespan-recordable-blu-ray-discs/",
+      "published": "2026-11-11T18:24:40+00:00",
+      "title": "Peacock is redesigning its mobile app to focus more on vertical videos",
+      "summary": "This is an attempt to \"win another hour per user, per month.\"",
+      "url": "https://www.engadget.com/2313912/peacock-is-redesigning-its-mobile-app-to-focus-more-on-vertical-videos/",
       "tickers": []
     },
     {
-      "id": "c23ee0b01a",
-      "topic": "AI",
-      "kind": "Launch",
+      "id": "2254e4d01b",
+      "topic": "Tech",
+      "kind": "Company",
       "source": "The Verge",
-      "published": "2026-11-11T00:34:24+00:00",
-      "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
-      "summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new features alongside…",
-      "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+      "published": "2026-11-11T18:13:52+00:00",
+      "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
+      "summary": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices…",
+      "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+      "tickers": []
+    },
+    {
+      "id": "360c192365",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-11T17:44:53+00:00",
+      "title": "Roku will stop selling smart home devices and refocus on streaming",
+      "summary": "The company will stop selling video doorbells, its home monitoring system and other products.",
+      "url": "https://www.engadget.com/2313802/roku-will-stop-selling-smart-home-devices-and-refocus-on-streaming/",
+      "tickers": []
+    },
+    {
+      "id": "e46dc7c0c9",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-11T17:09:58+00:00",
+      "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
+      "summary": "Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, \"Scion by Toyota\" is being positioned as an experimental mobility incubator - and its first vehicle is an authentic Japanese-style kei truck built in Indiana.…",
+      "url": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
+      "tickers": []
+    },
+    {
+      "id": "fe22d229f2",
+      "topic": "Cloud",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-11T16:38:44+00:00",
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "summary": "Article URL: https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/ Comments URL: https://news.ycombinator.com/item?id=50455394 Points: 197 # Comments: 99",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "tickers": []
+    },
+    {
+      "id": "c99dd929e5",
+      "topic": "Chips",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-11T16:16:07+00:00",
+      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
       "tickers": [
-        "NVDA",
-        "MSFT"
+        "INTC"
       ]
     },
     {
-      "id": "b6e455ba76",
-      "topic": "Devices",
+      "id": "b800836e09",
+      "topic": "AI",
       "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-11T00:30:00+00:00",
-      "title": "Why your Roku might be plugged into the wrong HDMI port",
-      "summary": "A Roku isn't as sensitive to the chosen HDMI port as a game console or sound bar, but you should still choose the right one for the job.",
-      "url": "https://www.engadget.com/2307791/why-roku-plugged-into-wrong-hdmi-port/",
+      "source": "The Verge",
+      "published": "2026-11-11T16:00:00+00:00",
+      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+      "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a…",
+      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "e0a742700b",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-11T15:53:55+00:00",
+      "title": "The best early Black Friday deals you can already shop",
+      "summary": "The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a…",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
       "tickers": []
     },
     {
-      "id": "b55e7532a2",
+      "id": "f99d45fe07",
       "topic": "Devices",
       "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-11T15:30:00+00:00",
+      "title": "Sharge’s eye-catching MacBook charger is over 25 percent off",
+      "summary": "Looking for a MacBook and device charger that’s as stylish as it is capable? Both Amazon and Sharge are selling the Pixel 140W GaN charger for $69.88 and $69.90, respectively, a $24 discount on its usual price. If you’re not in need of that much wattage but like the style…",
+      "url": "https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale",
+      "tickers": [
+        "AMZN"
+      ]
+    },
+    {
+      "id": "c90fc97b1f",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Wired",
+      "published": "2026-11-11T15:30:00+00:00",
+      "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+      "summary": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
+      "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "2ad75e317a",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-11-11T15:02:47+00:00",
+      "title": "Siri co-founder backs Helix for its voice ID tech",
+      "summary": "With the rise of AI agents like Instinct and Muse, the industry needs to rethink human identity on the internet and rely on biometric signals like voice, which is where Helix comes in.",
+      "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
+      "tickers": []
+    },
+    {
+      "id": "c0be86768c",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-11-11T15:00:00+00:00",
+      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "tickers": []
+    },
+    {
+      "id": "a458a8b424",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-11T15:00:00+00:00",
+      "title": "Ocarina of Time is even better if you use a smartphone app",
+      "summary": "I never liked hunting for Golden Skulltulas in The Legend of Zelda: Ocarina of Time. The game has 100 of them tucked all over Hyrule, and even over my many hours with the N64 classic growing up, I can't remember ever actually finding all of them, or even wanting to. Jumping into…",
+      "url": "https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula",
+      "tickers": []
+    },
+    {
+      "id": "6513efad19",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-11-11T15:00:00+00:00",
+      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "0eaea40f55",
+      "topic": "Policy",
+      "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-11T00:03:54+00:00",
-      "title": "iFixit teardown shows how Apple's glowing PROLED MacBook logo works",
-      "summary": "The new laptop goes the extra mile to recreate the iconic feature.",
-      "url": "https://www.engadget.com/2312969/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/",
+      "published": "2026-11-11T14:29:03+00:00",
+      "title": "Europe wants to ban 'dark patterns' in apps and loot boxes for minors",
+      "summary": "Europe's Digital Fairness Act targets digital practices that harm children and push people into spending more.",
+      "url": "https://www.engadget.com/2313329/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors/",
+      "tickers": []
+    },
+    {
+      "id": "f067613269",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-11T14:02:11+00:00",
+      "title": "Apple is killing its Support Community forum next week",
+      "summary": "Article URL: https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down Comments URL: https://news.ycombinator.com/item?id=50453555 Points: 211 # Comments: 117",
+      "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
       "tickers": [
         "AAPL"
       ]
     },
     {
-      "id": "0214e14c33",
-      "topic": "Devices",
-      "kind": "Launch",
-      "source": "Engadget",
-      "published": "2026-11-11T00:00:00+00:00",
-      "title": "How to get this Siri camera upgrade for your iPad before its public release",
-      "summary": "You'll be able to access Visual Intelligence from a new tab in the tablet's Camera app.",
-      "url": "https://www.engadget.com/2312808/how-to-get-ipad-siri-camera-upgrade-early/",
+      "id": "c3ca424026",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-11T14:00:00+00:00",
+      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
       "tickers": []
     },
     {
-      "id": "7b111f340e",
-      "topic": "Chips",
-      "kind": "Founder",
-      "source": "Engadget",
-      "published": "2026-11-10T23:42:04+00:00",
-      "title": "NVIDIA shareholders are suing the company and CEO Jensen Huang",
-      "summary": "The company's shares have plummeted in response to the exec's affair with an alleged Chinese spy.",
-      "url": "https://www.engadget.com/2312947/nvidia-shareholders-are-suing-the-company-and-ceo-jensen-huang/",
+      "id": "11f16f756f",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-11T14:00:00+00:00",
+      "title": "Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price",
+      "summary": "It's tempting to seek out the do-everything wireless gaming headset with noise cancellation, phenomenal sound quality, multiplatform connectivity, swappable batteries - you name it. But if you just want the basics done well, Sony's new $99.99 PlayStation Pulse headset is worth…",
+      "url": "https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on",
+      "tickers": []
+    },
+    {
+      "id": "4c80d3550c",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-11-11T14:00:00+00:00",
+      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+      "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by…",
+      "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
       "tickers": [
-        "NVDA"
+        "ADBE"
       ]
     },
     {
-      "id": "8a496e1ec8",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-10T23:30:00+00:00",
-      "title": "How SCSKiller is trying to fix shader stuttering in PC games",
-      "summary": "This free app claims to defeat shader compilation in modern PC titles, but does it deliver? We tested it on games that are notorious for stuttering,",
-      "url": "https://www.engadget.com/2307815/scskiller-fix-shader-stuttering-pc-games/",
-      "tickers": []
-    },
-    {
-      "id": "63b1e61eba",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-10T23:00:00+00:00",
-      "title": "These Xiaomi phones are no longer getting support with the latest HyperOS 4 update",
-      "summary": "Xiaomi's HyperOS 4 update includes intriguing new features like Soft Light Glass, memory improvements and more, but the not everyone will get the perks.",
-      "url": "https://www.engadget.com/2307810/xiaomi-phones-no-longer-supported-hyper-os-4-update/",
-      "tickers": []
-    },
-    {
-      "id": "11dd6fb1b6",
-      "topic": "AI",
+      "id": "64a73521b9",
+      "topic": "Security",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-11-10T22:17:56+00:00",
-      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
-      "summary": "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update Comments URL: https://news.ycombinator.com/item?id=50447074 Points: 220 # Comments: 85",
-      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "published": "2026-11-11T13:56:05+00:00",
+      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+      "summary": "Article URL: https://www.theverge.com/tech/1012372/tv-privacy-acr-questions Comments URL: https://news.ycombinator.com/item?id=50453474 Points: 265 # Comments: 152",
+      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
       "tickers": []
     },
     {
-      "id": "2b67655af0",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-10T22:05:37+00:00",
-      "title": "Meta warns some of its AI glasses may get 'too warm' if they get wet",
-      "summary": "A software update will tell users if they're affected and direct them to Meta's customer support for a full replacement.",
-      "url": "https://www.engadget.com/2312864/meta-warns-some-of-its-ai-glasses-may-get-too-warm-if-they-get-wet/",
-      "tickers": []
-    },
-    {
-      "id": "f4bd292108",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-10T22:00:00+00:00",
-      "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
-      "summary": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you can check out include The Avengers and Black Panther, Meta…",
-      "url": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
-      "tickers": []
-    },
-    {
-      "id": "b48ac228d2",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-11-10T21:40:31+00:00",
-      "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
-      "summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the app to deliver AI-generated…",
-      "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
-      "tickers": []
-    },
-    {
-      "id": "618a3d3907",
-      "topic": "AI",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-11-10T21:08:52+00:00",
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-      "tickers": []
-    },
-    {
-      "id": "2937e4d7fb",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-11-10T21:06:12+00:00",
-      "title": "Sony cancels live-service shooter Fairgames",
-      "summary": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some planned live service titles, including in the God of War and…",
-      "url": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
-      "tickers": []
-    },
-    {
-      "id": "a72dd581bd",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-10T21:00:00+00:00",
-      "title": "What is the 'Dead Internet Theory' and should humanity be worried?",
-      "summary": "As AI-generated content takes over the internet, will human beings still be able to connect online with other humans in a meaningful way?",
-      "url": "https://www.engadget.com/2307790/what-is-dead-internet-theory/",
-      "tickers": []
-    },
-    {
-      "id": "6deaeadbf9",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-10T20:52:13+00:00",
-      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-      "tickers": []
-    },
-    {
-      "id": "c4002beef7",
-      "topic": "Startups",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-11-10T20:47:05+00:00",
-      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
-      "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
-      "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
-      "tickers": []
-    },
-    {
-      "id": "99b82ea216",
-      "topic": "Policy",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-10T20:43:55+00:00",
-      "title": "X-energy gets green light to build its first small modular nuclear reactors",
-      "summary": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas.",
-      "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
-      "tickers": []
-    },
-    {
-      "id": "500f9e7efd",
-      "topic": "Startups",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-11-10T19:57:52+00:00",
-      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
-      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-      "tickers": []
-    },
-    {
-      "id": "408e4f487a",
+      "id": "fc8ca50039",
       "topic": "Tech",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-11-10T19:50:46+00:00",
-      "title": "Scion is back and is going to sell a kei truck in America",
-      "summary": "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ Comments URL: https://news.ycombinator.com/item?id=50445401 Points: 324 # Comments: 248",
-      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "published": "2026-11-11T13:39:29+00:00",
+      "title": "Hyper-Realistic Sand with WebGL2",
+      "summary": "Article URL: https://av.github.io/safe-sand/ Comments URL: https://news.ycombinator.com/item?id=50453288 Points: 185 # Comments: 40",
+      "url": "https://av.github.io/safe-sand/",
       "tickers": []
     },
     {
-      "id": "3a58bed866",
+      "id": "5a679af580",
       "topic": "Tech",
       "kind": "Company",
+      "source": "Wired",
+      "published": "2026-11-11T13:36:15+00:00",
+      "title": "Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules",
+      "summary": "Winning streaks can be turned off and influencers will be forced to reveal when they’re being paid under the new Digital Fairness Act aimed at tackling “dark patterns” on platforms and services.",
+      "url": "https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/",
+      "tickers": []
+    },
+    {
+      "id": "4687e3b68f",
+      "topic": "Startups",
+      "kind": "Founder",
       "source": "The Verge",
-      "published": "2026-11-10T19:40:52+00:00",
-      "title": "The PlayStation Plus PC app is shutting down next month",
-      "summary": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to Sony, not many people are using that perk: With a…",
-      "url": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
+      "published": "2026-11-11T13:30:00+00:00",
+      "title": "Streaming is still trying to be TikTok",
+      "summary": "At Skydance's first employee town hall after it acquired Warner Bros. Discovery in October, CEO David Ellison told staff that the company behind Paramount Plus and HBO Max was competing for people's attention with some of the world's biggest tech companies. Months earlier, he'd…",
+      "url": "https://www.theverge.com/streaming/1030864/streaming-skydance-paramount-disney-hulu-earnings-tiktok-short-form-video",
       "tickers": []
     },
     {
-      "id": "f23f7f244f",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-10T19:30:00+00:00",
-      "title": "The best-selling game console of all time is over 25 years old",
-      "summary": "Sony shipped over 160 million PlayStation 2 units over its 13-year run.",
-      "url": "https://www.engadget.com/2307802/the-best-selling-game-console-of-all-time-is-over-25-years-old/",
-      "tickers": []
-    },
-    {
-      "id": "d4baed6c62",
+      "id": "1ee4642577",
       "topic": "AI",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-10T19:19:20+00:00",
-      "title": "New York will independently test AI models",
-      "summary": "The state's research center will check AI companies' work instead of taking their word.",
-      "url": "https://www.engadget.com/2312487/new-york-will-independently-test-ai-models/",
-      "tickers": []
+      "published": "2026-11-11T12:59:44+00:00",
+      "title": "Microsoft's Automatic Super Resolution is now officially out for the ROG Xbox Ally X",
+      "summary": "Microsoft's upscaling tech for video games is now officially available for select Xbox Ally machines, as well as some other Copilot+ PCs.",
+      "url": "https://www.engadget.com/2313202/microsoft-automatic-super-resolution-comes-to-rog-xbox-ally-x/",
+      "tickers": [
+        "MSFT"
+      ]
     },
     {
-      "id": "33181b7f52",
-      "topic": "Devices",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-11-10T19:19:12+00:00",
-      "title": "Starlink Mini 2 adds a swappable battery",
-      "summary": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop. According to some users on X who shared screenshots of invitations to order Starlink Mini 2, the…",
-      "url": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
+      "id": "7f46f551a4",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-11T12:30:17+00:00",
+      "title": "Can a Linear Program Do Weight-Space Programming?",
+      "summary": "Article URL: https://nathan.rs/posts/weight-space-lp/ Comments URL: https://news.ycombinator.com/item?id=50452655 Points: 179 # Comments: 29",
+      "url": "https://nathan.rs/posts/weight-space-lp/",
       "tickers": []
     }
   ],
   "rumors": [
     {
-      "id": "c0a1aa20b3",
-      "topic": "Chips",
+      "id": "be33011233",
+      "topic": "AI",
       "status": "Just surfaced",
-      "title": "Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang — helped move 240,000 banned chips into China, mostly H100…",
-      "detail": "submitted by /u/Mountain_Till_5868 [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1xt0mny/alice_huang_reportedly_instrumental_in_securing/",
-      "sources": 1,
-      "mentions": 10,
-      "credible": 0,
+      "title": "A Grok vibe-coding agent leaked sensitive SpaceXSI data",
+      "detail": "A flaw in SpaceXSI's Grok Build vibe-coding agent allowed sensitive data to leak from thousands of users including... SpaceXSI.",
+      "url": "https://www.engadget.com/2313187/grok-build-leaked-sensitive-spacexsi-data/",
+      "sources": 2,
+      "mentions": 2,
+      "credible": 2,
       "days": 0,
-      "tickers": [
-        "NVDA"
-      ],
-      "score": 19
+      "tickers": [],
+      "score": 29
     },
     {
       "id": "500f9e7efd",
@@ -322,49 +329,60 @@
       "score": 18
     },
     {
-      "id": "517b404334",
+      "id": "caf950a242",
       "topic": "AI",
       "status": "Just surfaced",
-      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-      "detail": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
-      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "detail": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
       "sources": 1,
       "mentions": 1,
       "credible": 1,
       "days": 0,
       "tickers": [],
       "score": 15
+    },
+    {
+      "id": "c0a1aa20b3",
+      "topic": "Chips",
+      "status": "Just surfaced",
+      "title": "Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang — helped move 240,000 banned chips into China, mostly H100…",
+      "detail": "submitted by /u/Mountain_Till_5868 [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1xt0mny/alice_huang_reportedly_instrumental_in_securing/",
+      "sources": 1,
+      "mentions": 4,
+      "credible": 0,
+      "days": 0,
+      "tickers": [
+        "NVDA"
+      ],
+      "score": 14
     }
   ],
   "watchlist": [
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "price": 168.89,
-      "changePct": -18.3,
-      "monthChangePct": -25.4,
+      "price": 177.16,
+      "changePct": -11.5,
+      "monthChangePct": -22.5,
       "catalyst": "Earnings report",
       "when": "Tue",
       "signals": [
         "Earnings",
-        "12 headlines",
-        "Big price move",
-        "Volume up"
+        "6 headlines",
+        "Big price move"
       ],
       "spark": [
-        202.06,
         206.69,
         200.13,
         181.6,
         186.64,
         178.67,
-        168.89
+        168.89,
+        177.16
       ],
       "history": [
-        {
-          "d": "2026-10-12",
-          "c": 226.32
-        },
         {
           "d": "2026-10-13",
           "c": 228.52
@@ -448,208 +466,62 @@
         {
           "d": "2026-11-10",
           "c": 168.89
+        },
+        {
+          "d": "2026-11-11",
+          "c": 177.16
         }
       ],
       "earnings": "2026-11-17",
       "headlines": [
         {
+          "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+          "published": "2026-11-11T15:30:00+00:00"
+        },
+        {
+          "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+          "published": "2026-11-11T07:30:51+00:00"
+        },
+        {
           "title": "NVIDIA shareholders are suing the company and CEO Jensen Huang",
           "source": "Engadget",
           "url": "https://www.engadget.com/2312947/nvidia-shareholders-are-suing-the-company-and-ceo-jensen-huang/",
           "published": "2026-11-10T23:42:04+00:00"
-        },
-        {
-          "title": "NVIDIA DLSS 4.5 has presets you should know about",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2307797/nvidia-dlss-4-5-presets-should-know/",
-          "published": "2026-11-10T17:45:00+00:00"
         }
       ],
-      "score": 100,
+      "score": 91.1,
       "brief": {
-        "what": "2 recent headlines mention NVIDIA. Latest: NVIDIA shareholders are suing the company and CEO Jensen Huang There is also a rumor making the rounds: Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang — helped move 240,000 banned chips into China, mostly H100…",
-        "why": "Signals: earnings, 12 headlines, big price move, volume up. The stock is down 18.3% this week and down 25.4% over the month.",
+        "what": "3 recent headlines mention NVIDIA. Latest: China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway There is also a rumor making the rounds: Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang — helped move 240,000 banned chips into China, mostly H100…",
+        "why": "Signals: earnings, 6 headlines, big price move. The stock is down 11.5% this week and down 22.5% over the month.",
         "watch": "Next earnings expected Tue Nov 17. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "price": 348.51,
-      "changePct": 5.0,
-      "monthChangePct": 2.2,
-      "catalyst": "iFixit teardown shows how Apple's glowing PROLED MacBook logo works",
-      "when": "In the news",
-      "signals": [
-        "6 headlines",
-        "Big price move"
-      ],
-      "spark": [
-        338.32,
-        331.9,
-        349.51,
-        344.17,
-        342.37,
-        350.69,
-        348.51
-      ],
-      "history": [
-        {
-          "d": "2026-10-12",
-          "c": 340.97
-        },
-        {
-          "d": "2026-10-13",
-          "c": 341.27
-        },
-        {
-          "d": "2026-10-14",
-          "c": 342.96
-        },
-        {
-          "d": "2026-10-15",
-          "c": 342.0
-        },
-        {
-          "d": "2026-10-16",
-          "c": 343.46
-        },
-        {
-          "d": "2026-10-19",
-          "c": 342.94
-        },
-        {
-          "d": "2026-10-20",
-          "c": 339.5
-        },
-        {
-          "d": "2026-10-21",
-          "c": 343.99
-        },
-        {
-          "d": "2026-10-22",
-          "c": 348.22
-        },
-        {
-          "d": "2026-10-23",
-          "c": 347.73
-        },
-        {
-          "d": "2026-10-26",
-          "c": 343.91
-        },
-        {
-          "d": "2026-10-27",
-          "c": 347.1
-        },
-        {
-          "d": "2026-10-28",
-          "c": 343.83
-        },
-        {
-          "d": "2026-10-29",
-          "c": 348.91
-        },
-        {
-          "d": "2026-10-30",
-          "c": 344.63
-        },
-        {
-          "d": "2026-11-02",
-          "c": 338.32
-        },
-        {
-          "d": "2026-11-03",
-          "c": 331.9
-        },
-        {
-          "d": "2026-11-04",
-          "c": 349.51
-        },
-        {
-          "d": "2026-11-05",
-          "c": 344.17
-        },
-        {
-          "d": "2026-11-06",
-          "c": 342.37
-        },
-        {
-          "d": "2026-11-09",
-          "c": 350.69
-        },
-        {
-          "d": "2026-11-10",
-          "c": 348.51
-        }
-      ],
-      "earnings": "2027-01-28",
-      "headlines": [
-        {
-          "title": "iFixit teardown shows how Apple's glowing PROLED MacBook logo works",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2312969/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/",
-          "published": "2026-11-11T00:03:54+00:00"
-        },
-        {
-          "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
-          "published": "2026-11-10T18:49:19+00:00"
-        },
-        {
-          "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
-          "published": "2026-11-10T16:00:00+00:00"
-        },
-        {
-          "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-          "published": "2026-11-10T15:29:30+00:00"
-        },
-        {
-          "title": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
-          "published": "2026-10-30T15:00:00+00:00"
-        }
-      ],
-      "score": 40.0,
-      "brief": {
-        "what": "5 recent headlines mention Apple. Latest: iFixit teardown shows how Apple's glowing PROLED MacBook logo works",
-        "why": "Signals: 6 headlines, big price move. The stock is up 5.0% this week and up 2.2% over the month.",
-        "watch": "Next earnings expected Thu Jan 28. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
     {
       "ticker": "GOOGL",
       "name": "Alphabet",
-      "price": 287.38,
-      "changePct": 2.6,
-      "monthChangePct": -18.5,
-      "catalyst": "Google’s Pixel Tag tracker is now available",
+      "price": 295.0,
+      "changePct": 2.1,
+      "monthChangePct": -16.6,
+      "catalyst": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
       "when": "In the news",
       "signals": [
-        "12 headlines"
+        "10 headlines"
       ],
       "spark": [
-        278.99,
         280.03,
         288.93,
         282.57,
         284.78,
         288.15,
-        287.38
+        287.38,
+        295.0
       ],
       "history": [
-        {
-          "d": "2026-10-12",
-          "c": 352.72
-        },
         {
           "d": "2026-10-13",
           "c": 353.78
@@ -733,21 +605,37 @@
         {
           "d": "2026-11-10",
           "c": 287.38
+        },
+        {
+          "d": "2026-11-11",
+          "c": 295.0
         }
       ],
       "earnings": null,
       "headlines": [
         {
-          "title": "Google’s Pixel Tag tracker is now available",
+          "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
           "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
-          "published": "2026-11-10T19:00:00+00:00"
+          "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+          "published": "2026-11-11T16:00:00+00:00"
         },
         {
-          "title": "Google is making Pixel HiLight slightly more useful",
+          "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
           "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
-          "published": "2026-11-10T19:00:00+00:00"
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+          "published": "2026-11-11T15:00:00+00:00"
+        },
+        {
+          "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+          "source": "Hacker News",
+          "url": "https://pietromiotti.com/latest/maya-site/?maya",
+          "published": "2026-11-11T12:05:22+00:00"
+        },
+        {
+          "title": "Samsung Gallery now syncs with Google to back up your photos",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2313059/samsung-gallery-syncs-with-google/",
+          "published": "2026-11-11T06:47:17+00:00"
         },
         {
           "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
@@ -756,28 +644,10 @@
           "published": "2026-11-10T18:49:52+00:00"
         },
         {
-          "title": "Google turns Gemini towards medical paperwork",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2312279/google-turns-gemini-towards-medical-paperwork/",
-          "published": "2026-11-10T17:35:46+00:00"
-        },
-        {
-          "title": "Anthropic takes on Google and Microsoft with Claude Sheets",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2312177/anthropic-takes-on-google-and-microsoft-with-claude-sheets/",
-          "published": "2026-11-10T17:30:00+00:00"
-        },
-        {
-          "title": "Google Fi announces super network automatic carrier switching for improved speed and reception",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2312022/google-fi-super-network-automatic-carrier-switching/",
-          "published": "2026-11-10T17:30:00+00:00"
-        },
-        {
-          "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+          "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-          "published": "2026-11-10T15:54:08+00:00"
+          "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+          "published": "2026-11-10T18:49:19+00:00"
         },
         {
           "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
@@ -798,168 +668,181 @@
           "published": "2026-11-04T13:49:51+00:00"
         }
       ],
-      "score": 35.2,
+      "score": 34.2,
       "brief": {
-        "what": "10 recent headlines mention Alphabet. Latest: Google’s Pixel Tag tracker is now available",
-        "why": "Signals: 12 headlines. The stock is up 2.6% this week and down 18.5% over the month.",
+        "what": "9 recent headlines mention Alphabet. Latest: Google’s Tabletop AI experiment lets you build custom collaboration apps",
+        "why": "Signals: 10 headlines. The stock is up 2.1% this week and down 16.6% over the month.",
         "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
     },
     {
-      "ticker": "AMD",
-      "name": "AMD",
-      "price": 515.21,
-      "changePct": 6.5,
-      "monthChangePct": -13.3,
-      "catalyst": "AMD's Zen 6 Family: Feeding the Beast",
+      "ticker": "AAPL",
+      "name": "Apple",
+      "price": 355.27,
+      "changePct": 1.6,
+      "monthChangePct": 4.1,
+      "catalyst": "Apple is killing its Support Community forum next week",
       "when": "In the news",
       "signals": [
-        "2 headlines",
-        "Big price move",
-        "Volume up"
+        "7 headlines"
       ],
       "spark": [
-        466.84,
-        483.9,
-        488.78,
-        404.4,
-        449.04,
-        508.58,
-        515.21
+        331.9,
+        349.51,
+        344.17,
+        342.37,
+        350.69,
+        348.51,
+        355.27
       ],
       "history": [
         {
-          "d": "2026-10-12",
-          "c": 594.24
-        },
-        {
           "d": "2026-10-13",
-          "c": 605.53
+          "c": 341.27
         },
         {
           "d": "2026-10-14",
-          "c": 570.82
+          "c": 342.96
         },
         {
           "d": "2026-10-15",
-          "c": 562.23
+          "c": 342.0
         },
         {
           "d": "2026-10-16",
-          "c": 528.75
+          "c": 343.46
         },
         {
           "d": "2026-10-19",
-          "c": 538.05
+          "c": 342.94
         },
         {
           "d": "2026-10-20",
-          "c": 534.74
+          "c": 339.5
         },
         {
           "d": "2026-10-21",
-          "c": 552.72
+          "c": 343.99
         },
         {
           "d": "2026-10-22",
-          "c": 507.93
+          "c": 348.22
         },
         {
           "d": "2026-10-23",
-          "c": 516.79
+          "c": 347.73
         },
         {
           "d": "2026-10-26",
-          "c": 531.28
+          "c": 343.91
         },
         {
           "d": "2026-10-27",
-          "c": 560.26
+          "c": 347.1
         },
         {
           "d": "2026-10-28",
-          "c": 578.44
+          "c": 343.83
         },
         {
           "d": "2026-10-29",
-          "c": 566.42
+          "c": 348.91
         },
         {
           "d": "2026-10-30",
-          "c": 504.8
+          "c": 344.63
         },
         {
           "d": "2026-11-02",
-          "c": 466.84
+          "c": 338.32
         },
         {
           "d": "2026-11-03",
-          "c": 483.9
+          "c": 331.9
         },
         {
           "d": "2026-11-04",
-          "c": 488.78
+          "c": 349.51
         },
         {
           "d": "2026-11-05",
-          "c": 404.4
+          "c": 344.17
         },
         {
           "d": "2026-11-06",
-          "c": 449.04
+          "c": 342.37
         },
         {
           "d": "2026-11-09",
-          "c": 508.58
+          "c": 350.69
         },
         {
           "d": "2026-11-10",
-          "c": 515.21
+          "c": 348.51
+        },
+        {
+          "d": "2026-11-11",
+          "c": 355.27
         }
       ],
-      "earnings": "2027-02-02",
+      "earnings": "2027-01-28",
       "headlines": [
         {
-          "title": "AMD's Zen 6 Family: Feeding the Beast",
+          "title": "Apple is killing its Support Community forum next week",
           "source": "Hacker News",
-          "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
-          "published": "2026-11-10T17:02:32+00:00"
+          "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+          "published": "2026-11-11T14:02:11+00:00"
+        },
+        {
+          "title": "iFixit teardown shows how Apple's glowing PROLED MacBook logo works",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2312969/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/",
+          "published": "2026-11-11T00:03:54+00:00"
+        },
+        {
+          "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+          "published": "2026-11-10T18:49:19+00:00"
+        },
+        {
+          "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
+          "published": "2026-11-10T16:00:00+00:00"
         }
       ],
-      "score": 25.9,
+      "score": 33.3,
       "brief": {
-        "what": "1 recent headline mentions AMD. Latest: AMD's Zen 6 Family: Feeding the Beast",
-        "why": "Signals: 2 headlines, big price move, volume up. The stock is up 6.5% this week and down 13.3% over the month.",
-        "watch": "Next earnings expected Tue Feb 2. Results and guidance usually move the stock most.",
+        "what": "4 recent headlines mention Apple. Latest: Apple is killing its Support Community forum next week",
+        "why": "Signals: 7 headlines. The stock is up 1.6% this week and up 4.1% over the month.",
+        "watch": "Next earnings expected Thu Jan 28. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
     {
       "ticker": "MSFT",
       "name": "Microsoft",
-      "price": 533.16,
-      "changePct": 2.3,
-      "monthChangePct": -1.5,
-      "catalyst": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+      "price": 522.14,
+      "changePct": -6.1,
+      "monthChangePct": -3.9,
+      "catalyst": "Microsoft's Automatic Super Resolution is now officially out for the ROG Xbox Ally X",
       "when": "In the news",
       "signals": [
-        "4 headlines"
+        "2 headlines",
+        "Big price move"
       ],
       "spark": [
-        507.12,
         520.99,
         555.8,
         535.93,
         530.61,
         545.18,
-        533.16
+        533.16,
+        522.14
       ],
       "history": [
-        {
-          "d": "2026-10-12",
-          "c": 541.15
-        },
         {
           "d": "2026-10-13",
           "c": 543.45
@@ -1043,21 +926,19 @@
         {
           "d": "2026-11-10",
           "c": 533.16
+        },
+        {
+          "d": "2026-11-11",
+          "c": 522.14
         }
       ],
       "earnings": "2027-01-27",
       "headlines": [
         {
-          "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
-          "published": "2026-11-11T00:34:24+00:00"
-        },
-        {
-          "title": "Anthropic takes on Google and Microsoft with Claude Sheets",
+          "title": "Microsoft's Automatic Super Resolution is now officially out for the ROG Xbox Ally X",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2312177/anthropic-takes-on-google-and-microsoft-with-claude-sheets/",
-          "published": "2026-11-10T17:30:00+00:00"
+          "url": "https://www.engadget.com/2313202/microsoft-automatic-super-resolution-comes-to-rog-xbox-ally-x/",
+          "published": "2026-11-11T12:59:44+00:00"
         },
         {
           "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
@@ -1066,11 +947,131 @@
           "published": "2026-11-03T16:03:13+00:00"
         }
       ],
-      "score": 24.9,
+      "score": 22.1,
       "brief": {
-        "what": "3 recent headlines mention Microsoft. Latest: Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
-        "why": "Signals: 4 headlines. The stock is up 2.3% this week and down 1.5% over the month.",
+        "what": "2 recent headlines mention Microsoft. Latest: Microsoft's Automatic Super Resolution is now officially out for the ROG Xbox Ally X",
+        "why": "Signals: 2 headlines, big price move. The stock is down 6.1% this week and down 3.9% over the month.",
         "watch": "Next earnings expected Wed Jan 27. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD",
+      "price": 565.59,
+      "changePct": 15.7,
+      "monthChangePct": -6.6,
+      "catalyst": "Up 16% this week",
+      "when": "Price",
+      "signals": [
+        "Big price move"
+      ],
+      "spark": [
+        483.9,
+        488.78,
+        404.4,
+        449.04,
+        508.58,
+        515.21,
+        565.59
+      ],
+      "history": [
+        {
+          "d": "2026-10-13",
+          "c": 605.53
+        },
+        {
+          "d": "2026-10-14",
+          "c": 570.82
+        },
+        {
+          "d": "2026-10-15",
+          "c": 562.23
+        },
+        {
+          "d": "2026-10-16",
+          "c": 528.75
+        },
+        {
+          "d": "2026-10-19",
+          "c": 538.05
+        },
+        {
+          "d": "2026-10-20",
+          "c": 534.74
+        },
+        {
+          "d": "2026-10-21",
+          "c": 552.72
+        },
+        {
+          "d": "2026-10-22",
+          "c": 507.93
+        },
+        {
+          "d": "2026-10-23",
+          "c": 516.79
+        },
+        {
+          "d": "2026-10-26",
+          "c": 531.28
+        },
+        {
+          "d": "2026-10-27",
+          "c": 560.26
+        },
+        {
+          "d": "2026-10-28",
+          "c": 578.44
+        },
+        {
+          "d": "2026-10-29",
+          "c": 566.42
+        },
+        {
+          "d": "2026-10-30",
+          "c": 504.8
+        },
+        {
+          "d": "2026-11-02",
+          "c": 466.84
+        },
+        {
+          "d": "2026-11-03",
+          "c": 483.9
+        },
+        {
+          "d": "2026-11-04",
+          "c": 488.78
+        },
+        {
+          "d": "2026-11-05",
+          "c": 404.4
+        },
+        {
+          "d": "2026-11-06",
+          "c": 449.04
+        },
+        {
+          "d": "2026-11-09",
+          "c": 508.58
+        },
+        {
+          "d": "2026-11-10",
+          "c": 515.21
+        },
+        {
+          "d": "2026-11-11",
+          "c": 565.59
+        }
+      ],
+      "earnings": "2027-02-02",
+      "headlines": [],
+      "score": 20.0,
+      "brief": {
+        "what": "No major headlines about AMD in the last two weeks.",
+        "why": "Signals: big price move. The stock is up 15.7% this week and down 6.6% over the month.",
+        "watch": "Next earnings expected Tue Feb 2. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
