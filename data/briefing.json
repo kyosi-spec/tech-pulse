@@ -1,12 +1,265 @@
 {
   "weekOf": "2026-11-09",
-  "updated": "2026-11-11T18:41:29+00:00",
+  "updated": "2026-11-12T02:57:53+00:00",
   "summary": [
-    "Tech leads the news with 10 of 25 stories. Top headline: Peacock is redesigning its mobile app to focus more on vertical videos",
+    "Tech leads the news with 10 of 25 stories. Top headline: The unfolding Jensen Huang scandal: a timeline",
     "Earnings this week from NVDA.",
-    "Strongest rumor: A Grok vibe-coding agent leaked sensitive SpaceXSI data"
+    "Strongest rumor: Nvidia is reportedly preparing to fire Jensen Huang"
   ],
   "stories": [
+    {
+      "id": "a2892c5d08",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-11T23:50:00+00:00",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "tickers": []
+    },
+    {
+      "id": "77e82452eb",
+      "topic": "Chips",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-11T23:17:05+00:00",
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "8ea73c650c",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-11T22:46:07+00:00",
+      "title": "New York is forcing T-Mobile to stop putting data caps on low-income home internet plans",
+      "summary": "The company was throttling speeds for plans offered under the Affordable Broadband Act.",
+      "url": "https://www.engadget.com/2314341/new-york-is-forcing-t-mobile-to-stop-putting-data-caps-on-low-income-home-internet-plans/",
+      "tickers": []
+    },
+    {
+      "id": "9f7411dcd0",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-11T22:34:23+00:00",
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "summary": "Article URL: https://www.mcmillen.dev/sigbovik/ Comments URL: https://news.ycombinator.com/item?id=50459745 Points: 193 # Comments: 27",
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "tickers": []
+    },
+    {
+      "id": "3d1181ca16",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-11T22:16:41+00:00",
+      "title": "Lock Your GitHub Actions",
+      "summary": "Article URL: https://hugovk.dev/blog/2026/lock-github-actions/ Comments URL: https://news.ycombinator.com/item?id=50459485 Points: 151 # Comments: 27",
+      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "tickers": []
+    },
+    {
+      "id": "c0a61791c6",
+      "topic": "Chips",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-11T22:03:58+00:00",
+      "title": "Jensen Huang said to have had relationship with executive who reports to him",
+      "summary": "Article URL: https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html Comments URL: https://news.ycombinator.com/item?id=50459321 Points: 263 # Comments: 266",
+      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "c9f460caf0",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-11-11T22:00:00+00:00",
+      "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
+      "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ongoing efforts to…",
+      "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
+      "tickers": []
+    },
+    {
+      "id": "a9fa9db45d",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-11T21:54:21+00:00",
+      "title": "United won’t let your AI agent book your flight",
+      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "tickers": []
+    },
+    {
+      "id": "993a2e2676",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-11T21:24:35+00:00",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 419 # Comments: 403",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "tickers": []
+    },
+    {
+      "id": "e4ca312289",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-11T20:26:32+00:00",
+      "title": "Emacs in the Age of Magic",
+      "summary": "Article URL: https://commandlinesystems.com/magic.txt Comments URL: https://news.ycombinator.com/item?id=50458208 Points: 155 # Comments: 55",
+      "url": "https://commandlinesystems.com/magic.txt",
+      "tickers": []
+    },
+    {
+      "id": "e2de36ad4e",
+      "topic": "Cloud",
+      "kind": "Launch",
+      "source": "TechCrunch",
+      "published": "2026-11-11T20:15:15+00:00",
+      "title": "Why the data center you dread might never even be built",
+      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may…",
+      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "tickers": []
+    },
+    {
+      "id": "a888b12810",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-11T20:12:01+00:00",
+      "title": "Meta is losing its longtime head of infrastructure",
+      "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "tickers": []
+    },
+    {
+      "id": "2f2355640e",
+      "topic": "Startups",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-11T20:04:28+00:00",
+      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+      "summary": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.",
+      "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
+      "tickers": []
+    },
+    {
+      "id": "c114e89a35",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Wired",
+      "published": "2026-11-11T19:55:54+00:00",
+      "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+      "summary": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+      "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+      "tickers": []
+    },
+    {
+      "id": "d06351c30f",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-11T19:54:55+00:00",
+      "title": "Google brings the Gemini app to Apple CarPlay",
+      "summary": "The chatbot was already available through the Google Maps app.",
+      "url": "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/",
+      "tickers": [
+        "AAPL",
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "6712550ce6",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-11T19:54:00+00:00",
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "tickers": []
+    },
+    {
+      "id": "010a95228e",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-11T19:34:55+00:00",
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "tickers": []
+    },
+    {
+      "id": "049e199517",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-11T19:27:00+00:00",
+      "title": "How many SpaceX Starship rocket tests have failed?",
+      "summary": "Thanks to SpaceX's unique approach to testing, the answer isn't so clear-cut.",
+      "url": "https://www.engadget.com/2314045/how-many-spacex-starship-rocket-tests-failed/",
+      "tickers": []
+    },
+    {
+      "id": "4223c7295a",
+      "topic": "Chips",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-11-11T19:22:22+00:00",
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "f30775c0a4",
+      "topic": "Startups",
+      "kind": "Founder",
+      "source": "Hacker News",
+      "published": "2026-11-11T19:12:16+00:00",
+      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+      "summary": "Article URL: https://termsheetplease.com/ Comments URL: https://news.ycombinator.com/item?id=50457230 Points: 193 # Comments: 77",
+      "url": "https://termsheetplease.com/",
+      "tickers": []
+    },
+    {
+      "id": "b66e97360e",
+      "topic": "Tech",
+      "kind": "Founder",
+      "source": "Engadget",
+      "published": "2026-11-11T18:57:37+00:00",
+      "title": "Cash App founder's killer gets 16 years to life in prison",
+      "summary": "Bob Lee died from multiple stab wounds in 2023.",
+      "url": "https://www.engadget.com/2313991/cash-app-founders-killer-gets-16-years-to-life-in-prison/",
+      "tickers": []
+    },
+    {
+      "id": "376ac05563",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-11T18:32:42+00:00",
+      "title": "Gemini Decisions API",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ Comments URL: https://news.ycombinator.com/item?id=50456791 Points: 293 # Comments: 92",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
     {
       "id": "1c964e545b",
       "topic": "Tech",
@@ -19,6 +272,19 @@
       "tickers": []
     },
     {
+      "id": "38b1ea97ce",
+      "topic": "Cloud",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-11T18:21:38+00:00",
+      "title": "AWS emulator",
+      "summary": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agent... https://www.allthingsdistributed.com/2026/11/aws-emulator-an... Comments URL: https://news.ycombinator.com/item?id=50456631 Points: 708 # Comments: 220",
+      "url": "https://github.com/aws/aws-emulator",
+      "tickers": [
+        "AMZN"
+      ]
+    },
+    {
       "id": "2254e4d01b",
       "topic": "Tech",
       "kind": "Company",
@@ -28,278 +294,25 @@
       "summary": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices…",
       "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
       "tickers": []
-    },
-    {
-      "id": "360c192365",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-11T17:44:53+00:00",
-      "title": "Roku will stop selling smart home devices and refocus on streaming",
-      "summary": "The company will stop selling video doorbells, its home monitoring system and other products.",
-      "url": "https://www.engadget.com/2313802/roku-will-stop-selling-smart-home-devices-and-refocus-on-streaming/",
-      "tickers": []
-    },
-    {
-      "id": "e46dc7c0c9",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-11T17:09:58+00:00",
-      "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
-      "summary": "Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, \"Scion by Toyota\" is being positioned as an experimental mobility incubator - and its first vehicle is an authentic Japanese-style kei truck built in Indiana.…",
-      "url": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
-      "tickers": []
-    },
-    {
-      "id": "fe22d229f2",
-      "topic": "Cloud",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-11T16:38:44+00:00",
-      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-      "summary": "Article URL: https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/ Comments URL: https://news.ycombinator.com/item?id=50455394 Points: 197 # Comments: 99",
-      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-      "tickers": []
-    },
-    {
-      "id": "c99dd929e5",
-      "topic": "Chips",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-11T16:16:07+00:00",
-      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
-      "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
-      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
-      "tickers": [
-        "INTC"
-      ]
-    },
-    {
-      "id": "b800836e09",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-11T16:00:00+00:00",
-      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-      "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a…",
-      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "e0a742700b",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-11T15:53:55+00:00",
-      "title": "The best early Black Friday deals you can already shop",
-      "summary": "The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a…",
-      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-      "tickers": []
-    },
-    {
-      "id": "f99d45fe07",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-11T15:30:00+00:00",
-      "title": "Sharge’s eye-catching MacBook charger is over 25 percent off",
-      "summary": "Looking for a MacBook and device charger that’s as stylish as it is capable? Both Amazon and Sharge are selling the Pixel 140W GaN charger for $69.88 and $69.90, respectively, a $24 discount on its usual price. If you’re not in need of that much wattage but like the style…",
-      "url": "https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale",
-      "tickers": [
-        "AMZN"
-      ]
-    },
-    {
-      "id": "c90fc97b1f",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Wired",
-      "published": "2026-11-11T15:30:00+00:00",
-      "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
-      "summary": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
-      "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "2ad75e317a",
-      "topic": "AI",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-11-11T15:02:47+00:00",
-      "title": "Siri co-founder backs Helix for its voice ID tech",
-      "summary": "With the rise of AI agents like Instinct and Muse, the industry needs to rethink human identity on the internet and rely on biometric signals like voice, which is where Helix comes in.",
-      "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
-      "tickers": []
-    },
-    {
-      "id": "c0be86768c",
-      "topic": "AI",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-11-11T15:00:00+00:00",
-      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-      "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
-      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-      "tickers": []
-    },
-    {
-      "id": "a458a8b424",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-11T15:00:00+00:00",
-      "title": "Ocarina of Time is even better if you use a smartphone app",
-      "summary": "I never liked hunting for Golden Skulltulas in The Legend of Zelda: Ocarina of Time. The game has 100 of them tucked all over Hyrule, and even over my many hours with the N64 classic growing up, I can't remember ever actually finding all of them, or even wanting to. Jumping into…",
-      "url": "https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula",
-      "tickers": []
-    },
-    {
-      "id": "6513efad19",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-11-11T15:00:00+00:00",
-      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-      "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "0eaea40f55",
-      "topic": "Policy",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-11T14:29:03+00:00",
-      "title": "Europe wants to ban 'dark patterns' in apps and loot boxes for minors",
-      "summary": "Europe's Digital Fairness Act targets digital practices that harm children and push people into spending more.",
-      "url": "https://www.engadget.com/2313329/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors/",
-      "tickers": []
-    },
-    {
-      "id": "f067613269",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-11T14:02:11+00:00",
-      "title": "Apple is killing its Support Community forum next week",
-      "summary": "Article URL: https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down Comments URL: https://news.ycombinator.com/item?id=50453555 Points: 211 # Comments: 117",
-      "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "c3ca424026",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-11T14:00:00+00:00",
-      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-      "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
-      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-      "tickers": []
-    },
-    {
-      "id": "11f16f756f",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-11T14:00:00+00:00",
-      "title": "Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price",
-      "summary": "It's tempting to seek out the do-everything wireless gaming headset with noise cancellation, phenomenal sound quality, multiplatform connectivity, swappable batteries - you name it. But if you just want the basics done well, Sony's new $99.99 PlayStation Pulse headset is worth…",
-      "url": "https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on",
-      "tickers": []
-    },
-    {
-      "id": "4c80d3550c",
-      "topic": "AI",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-11-11T14:00:00+00:00",
-      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
-      "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by…",
-      "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
-      "tickers": [
-        "ADBE"
-      ]
-    },
-    {
-      "id": "64a73521b9",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-11T13:56:05+00:00",
-      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
-      "summary": "Article URL: https://www.theverge.com/tech/1012372/tv-privacy-acr-questions Comments URL: https://news.ycombinator.com/item?id=50453474 Points: 265 # Comments: 152",
-      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
-      "tickers": []
-    },
-    {
-      "id": "fc8ca50039",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-11T13:39:29+00:00",
-      "title": "Hyper-Realistic Sand with WebGL2",
-      "summary": "Article URL: https://av.github.io/safe-sand/ Comments URL: https://news.ycombinator.com/item?id=50453288 Points: 185 # Comments: 40",
-      "url": "https://av.github.io/safe-sand/",
-      "tickers": []
-    },
-    {
-      "id": "5a679af580",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Wired",
-      "published": "2026-11-11T13:36:15+00:00",
-      "title": "Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules",
-      "summary": "Winning streaks can be turned off and influencers will be forced to reveal when they’re being paid under the new Digital Fairness Act aimed at tackling “dark patterns” on platforms and services.",
-      "url": "https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/",
-      "tickers": []
-    },
-    {
-      "id": "4687e3b68f",
-      "topic": "Startups",
-      "kind": "Founder",
-      "source": "The Verge",
-      "published": "2026-11-11T13:30:00+00:00",
-      "title": "Streaming is still trying to be TikTok",
-      "summary": "At Skydance's first employee town hall after it acquired Warner Bros. Discovery in October, CEO David Ellison told staff that the company behind Paramount Plus and HBO Max was competing for people's attention with some of the world's biggest tech companies. Months earlier, he'd…",
-      "url": "https://www.theverge.com/streaming/1030864/streaming-skydance-paramount-disney-hulu-earnings-tiktok-short-form-video",
-      "tickers": []
-    },
-    {
-      "id": "1ee4642577",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-11T12:59:44+00:00",
-      "title": "Microsoft's Automatic Super Resolution is now officially out for the ROG Xbox Ally X",
-      "summary": "Microsoft's upscaling tech for video games is now officially available for select Xbox Ally machines, as well as some other Copilot+ PCs.",
-      "url": "https://www.engadget.com/2313202/microsoft-automatic-super-resolution-comes-to-rog-xbox-ally-x/",
-      "tickers": [
-        "MSFT"
-      ]
-    },
-    {
-      "id": "7f46f551a4",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-11T12:30:17+00:00",
-      "title": "Can a Linear Program Do Weight-Space Programming?",
-      "summary": "Article URL: https://nathan.rs/posts/weight-space-lp/ Comments URL: https://news.ycombinator.com/item?id=50452655 Points: 179 # Comments: 29",
-      "url": "https://nathan.rs/posts/weight-space-lp/",
-      "tickers": []
     }
   ],
   "rumors": [
+    {
+      "id": "dea4d5f6e8",
+      "topic": "Chips",
+      "status": "Unconfirmed",
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "detail": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second…",
+      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "sources": 3,
+      "mentions": 13,
+      "credible": 2,
+      "days": 0,
+      "tickers": [
+        "NVDA"
+      ],
+      "score": 43
+    },
     {
       "id": "be33011233",
       "topic": "AI",
@@ -310,23 +323,9 @@
       "sources": 2,
       "mentions": 2,
       "credible": 2,
-      "days": 0,
+      "days": 1,
       "tickers": [],
       "score": 29
-    },
-    {
-      "id": "500f9e7efd",
-      "topic": "AI",
-      "status": "Just surfaced",
-      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "detail": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
-      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-      "sources": 1,
-      "mentions": 2,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 18
     },
     {
       "id": "caf950a242",
@@ -343,35 +342,48 @@
       "score": 15
     },
     {
-      "id": "c0a1aa20b3",
-      "topic": "Chips",
+      "id": "ea4289ae0f",
+      "topic": "AI",
       "status": "Just surfaced",
-      "title": "Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang — helped move 240,000 banned chips into China, mostly H100…",
-      "detail": "submitted by /u/Mountain_Till_5868 [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1xt0mny/alice_huang_reportedly_instrumental_in_securing/",
+      "title": "ByteDance is reportedly working on its own AI agent",
+      "detail": "The Chinese company wants to compete with Meta's Muse.",
+      "url": "https://www.engadget.com/2314064/bytedance-is-reportedly-working-on-its-own-ai-agent/",
       "sources": 1,
-      "mentions": 4,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 15
+    },
+    {
+      "id": "afb23dedce",
+      "topic": "AI",
+      "status": "Just surfaced",
+      "title": "The Dutch city of Utrecht considering a ban on AI camera glasses in municipal buildings",
+      "detail": "submitted by /u/sr_local [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1xtnebt/the_dutch_city_of_utrecht_considering_a_ban_on_ai/",
+      "sources": 1,
+      "mentions": 1,
       "credible": 0,
       "days": 0,
-      "tickers": [
-        "NVDA"
-      ],
-      "score": 14
+      "tickers": [],
+      "score": 8
     }
   ],
   "watchlist": [
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "price": 177.16,
-      "changePct": -11.5,
-      "monthChangePct": -22.5,
+      "price": 173.73,
+      "changePct": -13.2,
+      "monthChangePct": -24.0,
       "catalyst": "Earnings report",
       "when": "Tue",
       "signals": [
         "Earnings",
-        "6 headlines",
-        "Big price move"
+        "15 headlines",
+        "Big price move",
+        "Volume up"
       ],
       "spark": [
         206.69,
@@ -380,7 +392,7 @@
         186.64,
         178.67,
         168.89,
-        177.16
+        173.73
       ],
       "history": [
         {
@@ -469,11 +481,17 @@
         },
         {
           "d": "2026-11-11",
-          "c": 177.16
+          "c": 173.73
         }
       ],
       "earnings": "2026-11-17",
       "headlines": [
+        {
+          "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+          "published": "2026-11-11T23:17:05+00:00"
+        },
         {
           "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
           "source": "Wired",
@@ -493,10 +511,10 @@
           "published": "2026-11-10T23:42:04+00:00"
         }
       ],
-      "score": 91.1,
+      "score": 95.1,
       "brief": {
-        "what": "3 recent headlines mention NVIDIA. Latest: China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway There is also a rumor making the rounds: Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang — helped move 240,000 banned chips into China, mostly H100…",
-        "why": "Signals: earnings, 6 headlines, big price move. The stock is down 11.5% this week and down 22.5% over the month.",
+        "what": "4 recent headlines mention NVIDIA. Latest: Jensen Huang accused of having another affair — with an Nvidia exec There is also a rumor making the rounds: Nvidia is reportedly preparing to fire Jensen Huang",
+        "why": "Signals: earnings, 15 headlines, big price move, volume up. The stock is down 13.2% this week and down 24.0% over the month.",
         "watch": "Next earnings expected Tue Nov 17. Results and guidance usually move the stock most.",
         "ai": false
       }
@@ -504,13 +522,13 @@
     {
       "ticker": "GOOGL",
       "name": "Alphabet",
-      "price": 295.0,
-      "changePct": 2.1,
-      "monthChangePct": -16.6,
-      "catalyst": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+      "price": 293.45,
+      "changePct": 1.6,
+      "monthChangePct": -17.1,
+      "catalyst": "Google brings the Gemini app to Apple CarPlay",
       "when": "In the news",
       "signals": [
-        "10 headlines"
+        "6 headlines"
       ],
       "spark": [
         280.03,
@@ -519,7 +537,7 @@
         284.78,
         288.15,
         287.38,
-        295.0
+        293.45
       ],
       "history": [
         {
@@ -608,11 +626,17 @@
         },
         {
           "d": "2026-11-11",
-          "c": 295.0
+          "c": 293.45
         }
       ],
       "earnings": null,
       "headlines": [
+        {
+          "title": "Google brings the Gemini app to Apple CarPlay",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/",
+          "published": "2026-11-11T19:54:55+00:00"
+        },
         {
           "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
           "source": "The Verge",
@@ -626,28 +650,10 @@
           "published": "2026-11-11T15:00:00+00:00"
         },
         {
-          "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-          "source": "Hacker News",
-          "url": "https://pietromiotti.com/latest/maya-site/?maya",
-          "published": "2026-11-11T12:05:22+00:00"
-        },
-        {
           "title": "Samsung Gallery now syncs with Google to back up your photos",
           "source": "Engadget",
           "url": "https://www.engadget.com/2313059/samsung-gallery-syncs-with-google/",
           "published": "2026-11-11T06:47:17+00:00"
-        },
-        {
-          "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-          "published": "2026-11-10T18:49:52+00:00"
-        },
-        {
-          "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
-          "published": "2026-11-10T18:49:19+00:00"
         },
         {
           "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
@@ -660,18 +666,12 @@
           "source": "Wired",
           "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
           "published": "2026-11-04T20:06:21+00:00"
-        },
-        {
-          "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
-          "published": "2026-11-04T13:49:51+00:00"
         }
       ],
-      "score": 34.2,
+      "score": 33.1,
       "brief": {
-        "what": "9 recent headlines mention Alphabet. Latest: Google’s Tabletop AI experiment lets you build custom collaboration apps",
-        "why": "Signals: 10 headlines. The stock is up 2.1% this week and down 16.6% over the month.",
+        "what": "6 recent headlines mention Alphabet. Latest: Google brings the Gemini app to Apple CarPlay",
+        "why": "Signals: 6 headlines. The stock is up 1.6% this week and down 17.1% over the month.",
         "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
@@ -679,13 +679,13 @@
     {
       "ticker": "AAPL",
       "name": "Apple",
-      "price": 355.27,
-      "changePct": 1.6,
-      "monthChangePct": 4.1,
-      "catalyst": "Apple is killing its Support Community forum next week",
+      "price": 355.63,
+      "changePct": 1.8,
+      "monthChangePct": 4.2,
+      "catalyst": "A general purpose Apple Silicon layer for x86-64 PCs",
       "when": "In the news",
       "signals": [
-        "7 headlines"
+        "4 headlines"
       ],
       "spark": [
         331.9,
@@ -694,7 +694,7 @@
         342.37,
         350.69,
         348.51,
-        355.27
+        355.63
       ],
       "history": [
         {
@@ -783,40 +783,34 @@
         },
         {
           "d": "2026-11-11",
-          "c": 355.27
+          "c": 355.63
         }
       ],
       "earnings": "2027-01-28",
       "headlines": [
         {
-          "title": "Apple is killing its Support Community forum next week",
-          "source": "Hacker News",
-          "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
-          "published": "2026-11-11T14:02:11+00:00"
+          "title": "Google brings the Gemini app to Apple CarPlay",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/",
+          "published": "2026-11-11T19:54:55+00:00"
+        },
+        {
+          "title": "Apple is shutting down its online Support Community on November 20",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2313147/apple-shuts-down-support-community-forum/",
+          "published": "2026-11-11T10:52:59+00:00"
         },
         {
           "title": "iFixit teardown shows how Apple's glowing PROLED MacBook logo works",
           "source": "Engadget",
           "url": "https://www.engadget.com/2312969/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/",
           "published": "2026-11-11T00:03:54+00:00"
-        },
-        {
-          "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
-          "published": "2026-11-10T18:49:19+00:00"
-        },
-        {
-          "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
-          "published": "2026-11-10T16:00:00+00:00"
         }
       ],
-      "score": 33.3,
+      "score": 23.5,
       "brief": {
-        "what": "4 recent headlines mention Apple. Latest: Apple is killing its Support Community forum next week",
-        "why": "Signals: 7 headlines. The stock is up 1.6% this week and up 4.1% over the month.",
+        "what": "3 recent headlines mention Apple. Latest: Google brings the Gemini app to Apple CarPlay",
+        "why": "Signals: 4 headlines. The stock is up 1.8% this week and up 4.2% over the month.",
         "watch": "Next earnings expected Thu Jan 28. Results and guidance usually move the stock most.",
         "ai": false
       }
@@ -824,9 +818,9 @@
     {
       "ticker": "MSFT",
       "name": "Microsoft",
-      "price": 522.14,
-      "changePct": -6.1,
-      "monthChangePct": -3.9,
+      "price": 521.13,
+      "changePct": -6.2,
+      "monthChangePct": -4.1,
       "catalyst": "Microsoft's Automatic Super Resolution is now officially out for the ROG Xbox Ally X",
       "when": "In the news",
       "signals": [
@@ -840,7 +834,7 @@
         530.61,
         545.18,
         533.16,
-        522.14
+        521.13
       ],
       "history": [
         {
@@ -929,7 +923,7 @@
         },
         {
           "d": "2026-11-11",
-          "c": 522.14
+          "c": 521.13
         }
       ],
       "earnings": "2027-01-27",
@@ -947,10 +941,10 @@
           "published": "2026-11-03T16:03:13+00:00"
         }
       ],
-      "score": 22.1,
+      "score": 23.0,
       "brief": {
         "what": "2 recent headlines mention Microsoft. Latest: Microsoft's Automatic Super Resolution is now officially out for the ROG Xbox Ally X",
-        "why": "Signals: 2 headlines, big price move. The stock is down 6.1% this week and down 3.9% over the month.",
+        "why": "Signals: 2 headlines, big price move. The stock is down 6.2% this week and down 4.1% over the month.",
         "watch": "Next earnings expected Wed Jan 27. Results and guidance usually move the stock most.",
         "ai": false
       }
@@ -958,10 +952,10 @@
     {
       "ticker": "AMD",
       "name": "AMD",
-      "price": 565.59,
-      "changePct": 15.7,
-      "monthChangePct": -6.6,
-      "catalyst": "Up 16% this week",
+      "price": 552.9,
+      "changePct": 13.1,
+      "monthChangePct": -8.7,
+      "catalyst": "Up 13% this week",
       "when": "Price",
       "signals": [
         "Big price move"
@@ -973,7 +967,7 @@
         449.04,
         508.58,
         515.21,
-        565.59
+        552.9
       ],
       "history": [
         {
@@ -1062,15 +1056,15 @@
         },
         {
           "d": "2026-11-11",
-          "c": 565.59
+          "c": 552.9
         }
       ],
       "earnings": "2027-02-02",
       "headlines": [],
-      "score": 20.0,
+      "score": 22.2,
       "brief": {
         "what": "No major headlines about AMD in the last two weeks.",
-        "why": "Signals: big price move. The stock is up 15.7% this week and down 6.6% over the month.",
+        "why": "Signals: big price move. The stock is up 13.1% this week and down 8.7% over the month.",
         "watch": "Next earnings expected Tue Feb 2. Results and guidance usually move the stock most.",
         "ai": false
       }
