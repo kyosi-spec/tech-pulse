@@ -1,12 +1,235 @@
 {
   "weekOf": "2026-11-09",
-  "updated": "2026-11-13T18:30:42+00:00",
+  "updated": "2026-11-14T02:26:00+00:00",
   "summary": [
-    "Tech leads the news with 14 of 25 stories. Top headline: You can adjust the position of the trackball on Keychron’s new wireless mouse",
-    "Earnings this week from NVDA.",
+    "Tech leads the news with 11 of 25 stories. Top headline: FAA lifts nationwide ground stop that blocked takeoffs for hours",
+    "Biggest catalyst on the watchlist: NVDA, $11.4m in nvidia hardware vanishes during shipment from ca to tx.",
     "Strongest rumor: Jensen Huang didn’t show confidence in his successor, report says"
   ],
   "stories": [
+    {
+      "id": "2ac803ac50",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-14T01:53:04+00:00",
+      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that…",
+      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+      "tickers": []
+    },
+    {
+      "id": "b627bb50bd",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-13T23:49:11+00:00",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less…",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "tickers": [
+        "AMZN"
+      ]
+    },
+    {
+      "id": "7764d1d931",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-13T23:00:00+00:00",
+      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
+      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+      "tickers": [
+        "AMZN"
+      ]
+    },
+    {
+      "id": "e1598277ee",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-13T22:50:13+00:00",
+      "title": "Some international physical copies of GTA VI can allegedly be redeemed without opening the box",
+      "summary": "The box was already for decoration, and now maybe more so.",
+      "url": "https://www.engadget.com/2316687/some-physical-copies-of-gta-vi-can-allegedly-be-redeemed-without-opening-the-box/",
+      "tickers": []
+    },
+    {
+      "id": "e312e2ded7",
+      "topic": "Startups",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-11-13T22:43:00+00:00",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "17c73ed81d",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-13T22:04:24+00:00",
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "summary": "Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 211 # Comments: 48",
+      "url": "https://orcasairband.com/",
+      "tickers": []
+    },
+    {
+      "id": "3d3671b9da",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-13T21:44:38+00:00",
+      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+      "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
+      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+      "tickers": []
+    },
+    {
+      "id": "009d1a757c",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-13T21:06:52+00:00",
+      "title": "All US airports are currently ground stopped",
+      "summary": "Article URL: https://twitter.com/flightradar24/status/2121347654714077605 Comments URL: https://news.ycombinator.com/item?id=50489652 Points: 169 # Comments: 33",
+      "url": "https://twitter.com/flightradar24/status/2121347654714077605",
+      "tickers": []
+    },
+    {
+      "id": "9435cf8c1a",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-11-13T20:45:10+00:00",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "tickers": []
+    },
+    {
+      "id": "1db7054e18",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-13T20:30:00+00:00",
+      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
+      "summary": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a solid $20 discount and the lowest price…",
+      "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
+      "tickers": [
+        "AMZN"
+      ]
+    },
+    {
+      "id": "80ff103ea8",
+      "topic": "Cloud",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-11-13T20:07:24+00:00",
+      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+      "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
+      "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+      "tickers": []
+    },
+    {
+      "id": "c0b68d1952",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-11-13T19:37:57+00:00",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "tickers": []
+    },
+    {
+      "id": "d9da668ceb",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-13T19:15:32+00:00",
+      "title": "Google now lets people connect Gemini to their bank accounts",
+      "summary": "This is for spending analysis and not for making purchases.",
+      "url": "https://www.engadget.com/2316384/google-now-lets-people-connect-gemini-to-their-bank-accounts/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "3b13e9fde8",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-11-13T19:14:38+00:00",
+      "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
+      "summary": "The long-awaited launch of GTA VI is around the corner, happening next Friday, November 19th. While discounts on the game itself will be rare for some time, there’s a clever workaround to save you a few bucks on your digital copy. We found discounts on gift cards for both Sony…",
+      "url": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
+      "tickers": []
+    },
+    {
+      "id": "9a1b1b9279",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-13T19:14:02+00:00",
+      "title": "FM-1 Workbench",
+      "summary": "Article URL: https://open.m-vave.com/fm1-workbench Comments URL: https://news.ycombinator.com/item?id=50488325 Points: 186 # Comments: 112",
+      "url": "https://open.m-vave.com/fm1-workbench",
+      "tickers": []
+    },
+    {
+      "id": "3a7e91de0e",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-13T19:00:00+00:00",
+      "title": "Disney's 3D movies shine on Meta's Quest 3, it's just a shame it took so long",
+      "summary": "Finally, you can watch Avatar in 3D HFR at home.",
+      "url": "https://www.engadget.com/2316342/meta-quest-3-disney-plus-3d-movies-hands-on/",
+      "tickers": []
+    },
+    {
+      "id": "f8549f2fd8",
+      "topic": "Chips",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-13T18:40:44+00:00",
+      "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+      "summary": "Article URL: https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas Comments URL: https://news.ycombinator.com/item?id=50487864 Points: 298 # Comments: 164",
+      "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "f7d420f8b8",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-13T18:40:30+00:00",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "96d69ef280",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-13T18:18:37+00:00",
+      "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
+      "summary": "Article URL: https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/ Comments URL: https://news.ycombinator.com/item?id=50487522 Points: 301 # Comments: 157",
+      "url": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
+      "tickers": []
+    },
     {
       "id": "8536d1750e",
       "topic": "Tech",
@@ -16,6 +239,30 @@
       "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
       "summary": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more like other trackball mice already available from companies like…",
       "url": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
+      "tickers": []
+    },
+    {
+      "id": "9c27703a40",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-13T17:58:37+00:00",
+      "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+      "summary": "Technical Write-up: https://www.justinchavez.com/blog/isometric-sf-how/ Hi HN! Showcasing this fun project. I took 1300 square miles of the SF Bay Area from Google Photorealistic 3D Tiles and transformed them into a cohesive pixel map. It's really fun to explore and stumble upon…",
+      "url": "https://isometricsf.com/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "1ce4f62e9f",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-13T17:55:28+00:00",
+      "title": "After 600 experiments, here's what I discovered about JEPA world models",
+      "summary": "Article URL: https://haddyalchaer.com/jepa Comments URL: https://news.ycombinator.com/item?id=50487185 Points: 217 # Comments: 36",
+      "url": "https://haddyalchaer.com/jepa",
       "tickers": []
     },
     {
@@ -32,6 +279,17 @@
       ]
     },
     {
+      "id": "508dd5625d",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-13T17:30:10+00:00",
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 336 # Comments: 93",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "tickers": []
+    },
+    {
       "id": "9f2e2c85e8",
       "topic": "AI",
       "kind": "Company",
@@ -41,272 +299,6 @@
       "summary": "The new Wallet feature will allow its AI agents to make purchases on your behalf.",
       "url": "https://www.engadget.com/2316137/you-can-now-tempt-fate-and-give-your-banking-information-to-chatgpt/",
       "tickers": []
-    },
-    {
-      "id": "0e07b46b96",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-11-13T17:12:56+00:00",
-      "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
-      "summary": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wasn't done shrinking its hardware. Camp Snap's new CS-8…",
-      "url": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
-      "tickers": []
-    },
-    {
-      "id": "538876e670",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-13T17:09:58+00:00",
-      "title": "\"LibreOffice works 365 days a year. Just saying.\"",
-      "summary": "Article URL: https://twitter.com/LibreOffice/status/2121205272479998268 Comments URL: https://news.ycombinator.com/item?id=50486482 Points: 355 # Comments: 121",
-      "url": "https://twitter.com/LibreOffice/status/2121205272479998268",
-      "tickers": []
-    },
-    {
-      "id": "72a108f0ee",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-13T16:55:57+00:00",
-      "title": "The new Apple TV has a YouTube problem",
-      "summary": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black screen with a QR code and an error message saying \"YouTube is not yet available on…",
-      "url": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "ebd73257be",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-13T16:35:36+00:00",
-      "title": "Microsoft services are returning after an outage took down Outlook, Teams and more",
-      "summary": "The House of Representatives, health care providers, schools and many other organizations were affected.",
-      "url": "https://www.engadget.com/2316029/microsoft-services-are-returning-after-an-outage-took-down-outlook-teams-and-more/",
-      "tickers": [
-        "MSFT"
-      ]
-    },
-    {
-      "id": "2ff75137a0",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Ars Technica",
-      "published": "2026-11-13T16:26:32+00:00",
-      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
-      "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
-      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
-      "tickers": []
-    },
-    {
-      "id": "41a7716bf0",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-13T16:00:12+00:00",
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "tickers": []
-    },
-    {
-      "id": "3f7348a00e",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-13T16:00:00+00:00",
-      "title": "The Verge’s 2026 gift guide for dads",
-      "summary": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and we're here to guide…",
-      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
-      "tickers": []
-    },
-    {
-      "id": "829f0bb235",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-11-13T16:00:00+00:00",
-      "title": "My favorite recipe app just got a big upgrade — and a subscription fee",
-      "summary": "Nearly 10 years after the launch of Paprika 3, the recipe-managing, pantry-organizing, grocery list-making app has gotten a big upgrade that adds more functionality to nearly every corner of the experience. I tested Paprika 4 for several weeks while it was in open beta, and the…",
-      "url": "https://www.theverge.com/tech/1032141/paprika-4-recipe-grocery-pantry-app-update-subscription-hands-on",
-      "tickers": []
-    },
-    {
-      "id": "b8c8109f5d",
-      "topic": "Tech",
-      "kind": "Founder",
-      "source": "Wired",
-      "published": "2026-11-13T16:00:00+00:00",
-      "title": "Jensen Huang and the End of the Founder Fairy Tale",
-      "summary": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
-      "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
-      "tickers": []
-    },
-    {
-      "id": "ff7642db4d",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-13T15:58:00+00:00",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "e0a742700b",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-13T15:49:27+00:00",
-      "title": "The best early Black Friday deals you can already shop",
-      "summary": "The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good…",
-      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-      "tickers": []
-    },
-    {
-      "id": "0ce914f583",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-11-13T15:22:14+00:00",
-      "title": "Apple announces release dates for the first Apple Home Collection smart devices",
-      "summary": "The first few smart home devices and accessories that Apple co-developed with LG Electronics and Schneider Electric for its new Apple Home Collection are now available for preorder through the company's online store, with delivery expected in mid-December. Apple announced the…",
-      "url": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "a205b76c6c",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-13T14:57:55+00:00",
-      "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
-      "summary": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
-      "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
-      "tickers": [
-        "UBER"
-      ]
-    },
-    {
-      "id": "3f71f10386",
-      "topic": "Chips",
-      "kind": "Founder",
-      "source": "The Verge",
-      "published": "2026-11-13T14:47:16+00:00",
-      "title": "What’s really at stake in the Jensen Huang saga",
-      "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China…",
-      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "dc079a88ec",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-13T14:44:48+00:00",
-      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
-      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
-      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-      "tickers": []
-    },
-    {
-      "id": "101bb759a0",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-13T14:01:13+00:00",
-      "title": "Why Zig over C for Systems Programming",
-      "summary": "Article URL: https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/ Comments URL: https://news.ycombinator.com/item?id=50483611 Points: 177 # Comments: 125",
-      "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
-      "tickers": []
-    },
-    {
-      "id": "885c15206d",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-13T14:00:00+00:00",
-      "title": "The Motorola Signature 27 is a beast",
-      "summary": "Motorola's latest phone has a monstrous tandem OLED display, a huge 7,000mah battery, fancy cameras and a massive $1,600 price tag.",
-      "url": "https://www.engadget.com/2315452/motorola-signature-27-hands-on/",
-      "tickers": []
-    },
-    {
-      "id": "e6082b84aa",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-13T14:00:00+00:00",
-      "title": "Why Apple's HomeView relies so heavily on your iPhone",
-      "summary": "To make the HomeView both personal and communal, there was only one place to go.",
-      "url": "https://www.engadget.com/2315338/why-apples-homeview-relies-so-heavily-on-your-iphone/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "0cdba16c41",
-      "topic": "Cloud",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-13T13:15:20+00:00",
-      "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
-      "summary": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
-      "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
-      "tickers": [
-        "MSFT"
-      ]
-    },
-    {
-      "id": "777bf6aac0",
-      "topic": "Chips",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-13T13:00:00+00:00",
-      "title": "Surface Laptop Ultra review: The most powerful Surface yet, but it still lags behind Apple",
-      "summary": "Microsoft's latest Surface is a beautiful flagship device for NVIDIA's RTX Spark.",
-      "url": "https://www.engadget.com/2314873/surface-laptop-ultra-review/",
-      "tickers": [
-        "NVDA",
-        "AAPL",
-        "MSFT"
-      ]
-    },
-    {
-      "id": "5dd19aa976",
-      "topic": "Chips",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-13T12:58:10+00:00",
-      "title": "Bloomberg details web of Chinese AI companies with smuggled NVIDIA chips linked to Alice Huang",
-      "summary": "Bloomberg found evidence of a network of Chinese companies smuggling NVIDIA chips with Alice Huang at the center.",
-      "url": "https://www.engadget.com/2315710/bloomberg-details-web-of-chinese-ai-companies-with-smuggled-nvidia-chips-linked-to-alice-huang/",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "a2a0d96e04",
-      "topic": "Chips",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-11-13T12:52:19+00:00",
-      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-      "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
-      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-      "tickers": [
-        "NVDA"
-      ]
     }
   ],
   "rumors": [
@@ -325,22 +317,6 @@
       "score": 18
     },
     {
-      "id": "9b57bc05ea",
-      "topic": "Chips",
-      "status": "Just surfaced",
-      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-      "detail": "https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-... Comments URL: https://news.ycombinator.com/item?id=50473190 Points: 417 # Comments: 449",
-      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
-      "sources": 1,
-      "mentions": 7,
-      "credible": 0,
-      "days": 0,
-      "tickers": [
-        "NVDA"
-      ],
-      "score": 17
-    },
-    {
       "id": "517b404334",
       "topic": "AI",
       "status": "Unconfirmed",
@@ -350,7 +326,7 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 2,
+      "days": 3,
       "tickers": [],
       "score": 15
     },
@@ -364,7 +340,7 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 0,
+      "days": 1,
       "tickers": [],
       "score": 15
     },
@@ -378,8 +354,24 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 0,
+      "days": 1,
       "tickers": [],
+      "score": 15
+    },
+    {
+      "id": "b627bb50bd",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "detail": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less…",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [
+        "AMZN"
+      ],
       "score": 15
     }
   ],
@@ -387,15 +379,15 @@
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "price": 161.35,
-      "changePct": -13.6,
-      "monthChangePct": -25.7,
-      "catalyst": "Earnings report",
-      "when": "Tue",
+      "price": 162.85,
+      "changePct": -12.7,
+      "monthChangePct": -25.0,
+      "catalyst": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+      "when": "In the news",
       "signals": [
-        "Earnings",
-        "26 headlines",
-        "Big price move"
+        "19 headlines",
+        "Big price move",
+        "Volume up"
       ],
       "spark": [
         181.6,
@@ -404,7 +396,7 @@
         168.89,
         173.73,
         166.19,
-        161.35
+        162.85
       ],
       "history": [
         {
@@ -493,11 +485,23 @@
         },
         {
           "d": "2026-11-13",
-          "c": 161.35
+          "c": 162.85
         }
       ],
-      "earnings": "2026-11-17",
+      "earnings": null,
       "headlines": [
+        {
+          "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+          "source": "Hacker News",
+          "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+          "published": "2026-11-13T18:40:44+00:00"
+        },
+        {
+          "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+          "published": "2026-11-13T18:40:30+00:00"
+        },
         {
           "title": "Bloomberg details web of Chinese AI companies with smuggled NVIDIA chips linked to Alice Huang",
           "source": "Engadget",
@@ -545,38 +549,26 @@
           "source": "Engadget",
           "url": "https://www.engadget.com/2315091/ex-nvidia-ceo-jensen-huang-is-set-to-testify-before-congress-this-month/",
           "published": "2026-11-12T17:53:08+00:00"
-        },
-        {
-          "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-          "published": "2026-11-12T16:32:33+00:00"
-        },
-        {
-          "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
-          "published": "2026-11-11T15:30:00+00:00"
         }
       ],
-      "score": 91.6,
+      "score": 54.3,
       "brief": {
-        "what": "10 recent headlines mention NVIDIA. Latest: Bloomberg details web of Chinese AI companies with smuggled NVIDIA chips linked to Alice Huang There is also a rumor making the rounds: Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-        "why": "Signals: earnings, 26 headlines, big price move. The stock is down 13.6% this week and down 25.7% over the month.",
-        "watch": "Next earnings expected Tue Nov 17. Results and guidance usually move the stock most.",
+        "what": "10 recent headlines mention NVIDIA. Latest: $11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+        "why": "Signals: 19 headlines, big price move, volume up. The stock is down 12.7% this week and down 25.0% over the month.",
+        "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
     },
     {
       "ticker": "AAPL",
       "name": "Apple",
-      "price": 357.86,
-      "changePct": 4.6,
-      "monthChangePct": 4.7,
+      "price": 356.27,
+      "changePct": 4.1,
+      "monthChangePct": 4.3,
       "catalyst": "The new Apple TV has a YouTube problem",
       "when": "In the news",
       "signals": [
-        "8 headlines"
+        "5 headlines"
       ],
       "spark": [
         343.91,
@@ -585,7 +577,7 @@
         348.25,
         355.36,
         354.88,
-        357.86
+        356.27
       ],
       "history": [
         {
@@ -674,22 +666,16 @@
         },
         {
           "d": "2026-11-13",
-          "c": 357.86
+          "c": 356.27
         }
       ],
-      "earnings": "2027-01-28",
+      "earnings": null,
       "headlines": [
         {
           "title": "The new Apple TV has a YouTube problem",
           "source": "The Verge",
           "url": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
           "published": "2026-11-13T16:55:57+00:00"
-        },
-        {
-          "title": "Apple announces release dates for the first Apple Home Collection smart devices",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing",
-          "published": "2026-11-13T15:22:14+00:00"
         },
         {
           "title": "Why Apple's HomeView relies so heavily on your iPhone",
@@ -710,36 +696,30 @@
           "published": "2026-11-12T17:00:00+00:00"
         },
         {
-          "title": "Apple HomeView review: A versatile smart display and Siri-powered home hub",
+          "title": "Pre-orders for some Apple Home Collection devices will open November 13",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2313999/apple-homeview-review/",
-          "published": "2026-11-12T14:00:00+00:00"
-        },
-        {
-          "title": "Apple TV 4K (4th gen) review: Still great, but drastically more expensive",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2314410/apple-tv-4k-4th-gen-review/",
-          "published": "2026-11-12T14:00:00+00:00"
+          "url": "https://www.engadget.com/2314724/pre-orders-for-some-apple-home-collection-devices-will-open-november-13/",
+          "published": "2026-11-12T15:16:55+00:00"
         }
       ],
-      "score": 39.2,
+      "score": 33.3,
       "brief": {
-        "what": "7 recent headlines mention Apple. Latest: The new Apple TV has a YouTube problem",
-        "why": "Signals: 8 headlines. The stock is up 4.6% this week and up 4.7% over the month.",
-        "watch": "Next earnings expected Thu Jan 28. Results and guidance usually move the stock most.",
+        "what": "5 recent headlines mention Apple. Latest: The new Apple TV has a YouTube problem",
+        "why": "Signals: 5 headlines. The stock is up 4.1% this week and up 4.3% over the month.",
+        "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
     },
     {
       "ticker": "MSFT",
       "name": "Microsoft",
-      "price": 524.4,
-      "changePct": -1.2,
-      "monthChangePct": -2.8,
-      "catalyst": "Microsoft services are returning after an outage took down Outlook, Teams and more",
+      "price": 523.88,
+      "changePct": -1.3,
+      "monthChangePct": -2.9,
+      "catalyst": "FAA SMART AI system vendor and Microsoft both say ground stop isn't their fault",
       "when": "In the news",
       "signals": [
-        "16 headlines"
+        "14 headlines"
       ],
       "spark": [
         535.93,
@@ -748,7 +728,7 @@
         533.16,
         521.13,
         523.0,
-        524.4
+        523.88
       ],
       "history": [
         {
@@ -837,10 +817,10 @@
         },
         {
           "d": "2026-11-13",
-          "c": 524.4
+          "c": 523.88
         }
       ],
-      "earnings": "2027-01-27",
+      "earnings": null,
       "headlines": [
         {
           "title": "Microsoft services are returning after an outage took down Outlook, Teams and more",
@@ -849,16 +829,10 @@
           "published": "2026-11-13T16:35:36+00:00"
         },
         {
-          "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
+          "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
           "published": "2026-11-13T13:15:20+00:00"
-        },
-        {
-          "title": "Service degradation on Microsoft 365",
-          "source": "Hacker News",
-          "url": "https://status.cloud.microsoft/",
-          "published": "2026-11-12T18:20:48+00:00"
         },
         {
           "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
@@ -867,21 +841,21 @@
           "published": "2026-11-03T16:03:13+00:00"
         }
       ],
-      "score": 32.3,
+      "score": 32.5,
       "brief": {
-        "what": "4 recent headlines mention Microsoft. Latest: Microsoft services are returning after an outage took down Outlook, Teams and more",
-        "why": "Signals: 16 headlines. The stock is down 1.2% this week and down 2.8% over the month.",
-        "watch": "Next earnings expected Wed Jan 27. Results and guidance usually move the stock most.",
+        "what": "3 recent headlines mention Microsoft. Latest: Microsoft services are returning after an outage took down Outlook, Teams and more",
+        "why": "Signals: 14 headlines. The stock is down 1.3% this week and down 2.9% over the month.",
+        "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
     },
     {
       "ticker": "GOOGL",
       "name": "Alphabet",
-      "price": 295.47,
-      "changePct": 3.8,
-      "monthChangePct": -15.4,
-      "catalyst": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+      "price": 295.77,
+      "changePct": 3.9,
+      "monthChangePct": -15.3,
+      "catalyst": "Google now lets people connect Gemini to their bank accounts",
       "when": "In the news",
       "signals": [
         "4 headlines"
@@ -893,7 +867,7 @@
         287.38,
         293.45,
         298.7,
-        295.47
+        295.77
       ],
       "history": [
         {
@@ -982,11 +956,17 @@
         },
         {
           "d": "2026-11-13",
-          "c": 295.47
+          "c": 295.77
         }
       ],
       "earnings": null,
       "headlines": [
+        {
+          "title": "Google now lets people connect Gemini to their bank accounts",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2316384/google-now-lets-people-connect-gemini-to-their-bank-accounts/",
+          "published": "2026-11-13T19:15:32+00:00"
+        },
         {
           "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
           "source": "TechCrunch",
@@ -1006,10 +986,10 @@
           "published": "2026-11-12T14:00:00+00:00"
         }
       ],
-      "score": 27.5,
+      "score": 27.7,
       "brief": {
-        "what": "3 recent headlines mention Alphabet. Latest: Google’s latest Search upgrade promises better answers to your most complicated questions",
-        "why": "Signals: 4 headlines. The stock is up 3.8% this week and down 15.4% over the month.",
+        "what": "4 recent headlines mention Alphabet. Latest: Google now lets people connect Gemini to their bank accounts",
+        "why": "Signals: 4 headlines. The stock is up 3.9% this week and down 15.3% over the month.",
         "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
@@ -1017,10 +997,10 @@
     {
       "ticker": "AMD",
       "name": "AMD",
-      "price": 525.86,
-      "changePct": 17.1,
-      "monthChangePct": -6.5,
-      "catalyst": "Up 17% this week",
+      "price": 534.06,
+      "changePct": 18.9,
+      "monthChangePct": -5.0,
+      "catalyst": "Up 19% this week",
       "when": "Price",
       "signals": [
         "Big price move"
@@ -1032,7 +1012,7 @@
         515.21,
         552.9,
         585.3,
-        525.86
+        534.06
       ],
       "history": [
         {
@@ -1121,16 +1101,16 @@
         },
         {
           "d": "2026-11-13",
-          "c": 525.86
+          "c": 534.06
         }
       ],
-      "earnings": "2027-02-02",
+      "earnings": null,
       "headlines": [],
-      "score": 20.0,
+      "score": 22.4,
       "brief": {
         "what": "No major headlines about AMD in the last two weeks.",
-        "why": "Signals: big price move. The stock is up 17.1% this week and down 6.5% over the month.",
-        "watch": "Next earnings expected Tue Feb 2. Results and guidance usually move the stock most.",
+        "why": "Signals: big price move. The stock is up 18.9% this week and down 5.0% over the month.",
+        "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
     }
