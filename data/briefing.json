@@ -1,328 +1,305 @@
 {
   "weekOf": "2026-11-09",
-  "updated": "2026-11-14T17:05:47+00:00",
+  "updated": "2026-11-15T01:54:18+00:00",
   "summary": [
-    "Tech leads the news with 13 of 25 stories. Top headline: Uber drivers' information stolen in a third-party hack",
+    "Tech leads the news with 14 of 25 stories. Top headline: Which NVIDIA GPU is closest to the PS5? The answer isn't so simple",
     "Earnings this week from NVDA.",
-    "Strongest rumor: Mass smuggling of up to 1.5 million Nvidia AI GPUs could be the underlying cause of Jensen Huang's departure, leading analysts claim — more than 1.5 gigawatts of banned chips tracked to China despite…"
+    "Strongest rumor: Jensen Huang didn’t show confidence in his successor, report says"
   ],
   "stories": [
     {
-      "id": "f5abf6929a",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-14T16:47:44+00:00",
-      "title": "Uber drivers' information stolen in a third-party hack",
-      "summary": "Uber sends warning to drivers whose information was stolen in a data breach.",
-      "url": "https://www.engadget.com/2316881/uber-drivers-information-stolen-in-a-third-party-hack/",
-      "tickers": [
-        "UBER"
-      ]
-    },
-    {
-      "id": "2cfa4d5cd6",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-14T16:45:00+00:00",
-      "title": "Your new tech is still stuck in the year 1970 — here's why",
-      "summary": "If you've ever seen an arbitrary date in 1970 on your non-Windows device, don't worry, it's not glitching. It was chosen during the development process.",
-      "url": "https://www.engadget.com/2311725/new-tech-stick-in-year-1970-unix-time-explained/",
-      "tickers": []
-    },
-    {
-      "id": "7544501ac3",
+      "id": "a8cf7154e2",
       "topic": "Chips",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-11-14T16:34:15+00:00",
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-15T01:00:00+00:00",
+      "title": "Which NVIDIA GPU is closest to the PS5? The answer isn't so simple",
+      "summary": "One of the biggest questions when it comes to purchasing a gaming rig is whether to go console or PC. This NVIDIA GPU gives the closest results to a PS5.",
+      "url": "https://www.engadget.com/2313644/nvidia-gpu-ps5-closest-match-answer-not-simple/",
       "tickers": [
         "NVDA"
       ]
     },
     {
-      "id": "89396c25bb",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "Engadget",
-      "published": "2026-11-14T16:30:00+00:00",
-      "title": "Here's how much Apple AirPods cost in 2016 vs. 2026",
-      "summary": "First introduced in 2016, AirPods have improved in quality, offering a bevy of new features, but how has that impacted the cost to the consumer today?",
-      "url": "https://www.engadget.com/2311715/apple-airpods-2016-vs-2026-how-much-they-cost/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "e124e632f3",
+      "id": "62a5e742a7",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-14T16:15:00+00:00",
-      "title": "Whatever happened to Sony Xperia phones?",
-      "summary": "Sony seems to have its hand in virtually every device offering, but true fans know that one product line in particular vanished from the American market.",
-      "url": "https://www.engadget.com/2311608/sony-xperia-phones-what-happened/",
+      "published": "2026-11-15T00:45:00+00:00",
+      "title": "This Sony patent would add a credit card reader to your PlayStation controller",
+      "summary": "As Sony and PlayStation head into a digital-only era, new tech on its upcoming controllers could help make online purchases even more convenient for gaming.",
+      "url": "https://www.engadget.com/2313652/sony-patent-playstation-controller-adds-credit-card-reader/",
       "tickers": []
     },
     {
-      "id": "9c02ed6595",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-14T16:00:00+00:00",
-      "title": "What the circled \"Z\" on Google Maps means",
-      "summary": "If you've seen a circled capital Z on your Google Maps route, you should know what it means. It might save you from a ticket.",
-      "url": "https://www.engadget.com/2311447/google-maps-circled-z-meaning/",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "f14eb90ca7",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-14T15:45:00+00:00",
-      "title": "Sodium vs. lithium-ion batteries: What's the difference between them?",
-      "summary": "Lithium-ion batteries may dominate today, but emerging alternatives like sodium-ion may soon have their time in the spotlight if we can manage key differences.",
-      "url": "https://www.engadget.com/2311394/sodium-vs-lithium-ion-batteries-differences-compared/",
-      "tickers": []
-    },
-    {
-      "id": "346e9ad6e0",
+      "id": "7d19f4929e",
       "topic": "Devices",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-14T15:30:00+00:00",
-      "title": "Should you make the switch to Samsung Galaxy from Google Pixel?",
-      "summary": "Thinking about trading your Google Pixel for a Samsung Galaxy? Some of the biggest differences might not be the ones you expect.",
-      "url": "https://www.engadget.com/2311344/switch-to-samsung-galaxy-to-google-pixel/",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "4a5102c858",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-14T15:15:00+00:00",
-      "title": "Smart glasses could replace your monitor but they shouldn't — here's why",
-      "summary": "Smart glasses could one day replace your desk setup with a screen that follows you anywhere. Before you make the switch, there are a few things to consider.",
-      "url": "https://www.engadget.com/2311266/smart-glasses-replace-monitor-why-not/",
+      "published": "2026-11-15T00:30:00+00:00",
+      "title": "What are the limitations of eGPUs vs onboard graphics cards for laptops?",
+      "summary": "Is it worth it to use an eGPU with your laptop? That depends. Let's take a closer look at the most important factors you should consider.",
+      "url": "https://www.engadget.com/2313636/limitations-egpu-vs-onboard-graphics-card-laptop-pc/",
       "tickers": []
     },
     {
-      "id": "01ecd05c1b",
+      "id": "1f46e83932",
       "topic": "Tech",
       "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-14T15:00:00+00:00",
-      "title": "Here are our favorite deals from REI’s giant Holiday Sale",
-      "summary": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve come across, but if you’re looking to save on outdoor gear or…",
-      "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
+      "source": "Engadget",
+      "published": "2026-11-15T00:15:00+00:00",
+      "title": "11 gadgets under $10 that solve everyday problems",
+      "summary": "Lots of tech purchases run into the hundreds of dollars, but you don't have to spend a lot to make some upgrades.",
+      "url": "https://www.engadget.com/2310535/affordable-gadgets-under-10-dollars/",
       "tickers": []
     },
     {
-      "id": "b703b8604b",
-      "topic": "AI",
+      "id": "04d251fa3e",
+      "topic": "Chips",
       "kind": "Founder",
-      "source": "The Verge",
-      "published": "2026-11-14T15:00:00+00:00",
-      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is…",
-      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "tickers": []
-    },
-    {
-      "id": "3246cca741",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-14T15:00:00+00:00",
-      "title": "The weird reasons why your ethernet cable might be slower than your Wi-Fi",
-      "summary": "It could be hardware, software or something else entirely.",
-      "url": "https://www.engadget.com/2311140/reason-why-ethernet-cable-slower-than-wifi/",
-      "tickers": []
-    },
-    {
-      "id": "4ef939d0d5",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-14T14:45:00+00:00",
-      "title": "Your iPhone has a built-in barometer — Here's how to use it",
-      "summary": "The iPhone's barometer is easy to overlook, but it's one of several sensors working behind the scenes every day, collecting data most users haven't seen.",
-      "url": "https://www.engadget.com/2311121/iphone-barometric-pressure-app-and-how-it-works/",
+      "source": "TechCrunch",
+      "published": "2026-11-15T00:08:07+00:00",
+      "title": "Where was Nvidia’s security team?",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday…",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
       "tickers": [
-        "AAPL"
+        "NVDA"
       ]
     },
     {
-      "id": "89f328b79b",
+      "id": "13bc92d901",
       "topic": "Devices",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-14T14:30:00+00:00",
-      "title": "Which Android Phones Are Most Similar To The OnePlus 16?",
-      "summary": "While the OnePlus 16 isn't available in the US or Europe, there are lots of good alternatives.",
-      "url": "https://www.engadget.com/2311107/android-phones-most-similar-oneplus-16/",
+      "published": "2026-11-15T00:00:00+00:00",
+      "title": "There's a hidden way you can check which services are running on your Android phone",
+      "summary": "Want to see what's draining your Android phone's memory? Here's how to unlock the hidden Running Services menu to monitor background apps.",
+      "url": "https://www.engadget.com/2313576/hidden-way-check-which-services-running-on-android-phone/",
       "tickers": []
     },
     {
-      "id": "be795507fa",
+      "id": "e0442320a4",
       "topic": "Tech",
       "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-14T23:45:00+00:00",
+      "title": "Common reasons your Roku TV can turn on by itself and how to fix it",
+      "summary": "If your TV has randomly been turning on and it has a Roku attached to it, it could be your Roku's doing. Check these settings.",
+      "url": "https://www.engadget.com/2313550/roku-tv-turns-on-by-itself-common-reasons-fixes/",
+      "tickers": []
+    },
+    {
+      "id": "fcf908b05f",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-14T23:00:00+00:00",
+      "title": "Why your SD card won't let you transfer files bigger than 4GB, and how to fix it",
+      "summary": "Some SD cards just won't accept files larger than 4GB, no matter the total capacity or how much free storage there is. But don't worry, it's not hard to fix.",
+      "url": "https://www.engadget.com/2313042/sd-card-4-gb-file-transfer-limit-fat32-explained/",
+      "tickers": []
+    },
+    {
+      "id": "e8d1d6e167",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-14T22:30:00+00:00",
+      "title": "This underrated Google Health app feature can make food tracking less annoying",
+      "summary": "There's a suite of features with Google's Health app, but you've likely overlooked the intuitive food tracking function that helps keep your diet in check.",
+      "url": "https://www.engadget.com/2312924/underrated-google-health-app-food-tracker/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "60d58471c0",
+      "topic": "Chips",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-14T22:26:30+00:00",
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "summary": "Article URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html Comments URL: https://news.ycombinator.com/item?id=50501631 Points: 179 # Comments: 99",
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "dcd624fc88",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-14T22:15:00+00:00",
+      "title": "How to get better results from Google Gemini",
+      "summary": "These tips and tricks will help you prompt Gemini better.",
+      "url": "https://www.engadget.com/2312834/how-to-get-better-results-google-gemini/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "74c713c64d",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-14T22:00:00+00:00",
+      "title": "Honor Magic8 Pro vs. Magic9 Pro Max: What's been upgraded?",
+      "summary": "This Pro upgrade is messier than the typical year-over-year refresh, but the new flagship does give us a pretty good idea of where Honor put its priorities.",
+      "url": "https://www.engadget.com/2307825/honor-magic-8-pro-vs-9-pro-upgrade-comparison/",
+      "tickers": []
+    },
+    {
+      "id": "e2f38161ac",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-14T21:45:00+00:00",
+      "title": "Here's when a dedicated graphics card is worth it",
+      "summary": "Modern iGPUs are surprisingly capable, but they aren't without limitations.",
+      "url": "https://www.engadget.com/2312688/when-dedicated-graphics-card-worth-it/",
+      "tickers": []
+    },
+    {
+      "id": "7507cc1ea9",
+      "topic": "Devices",
+      "kind": "Launch",
       "source": "The Verge",
-      "published": "2026-11-14T14:18:36+00:00",
-      "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
-      "summary": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"only be available in supported service areas\" - meaning…",
-      "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+      "published": "2026-11-14T21:44:44+00:00",
+      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver…",
+      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "tickers": []
+    },
+    {
+      "id": "b7b23413e3",
+      "topic": "Chips",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-14T21:41:22+00:00",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "7475da4974",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-14T21:30:00+00:00",
+      "title": "The reasons why your TV soundbar has an audio delay",
+      "summary": "Audio delays are really irritating, especially when watching sports and live events. We've got several possible causes and what you can do about them.",
+      "url": "https://www.engadget.com/2312648/reasons-why-tv-soundbar-audio-delay/",
+      "tickers": []
+    },
+    {
+      "id": "0244783e4e",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-14T21:22:24+00:00",
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "summary": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 705 # Comments: 468",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "tickers": []
+    },
+    {
+      "id": "31e3e26aea",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-14T21:15:00+00:00",
+      "title": "Why some USB ports are yellow (and less common than others)",
+      "summary": "Not every USB port color means what you think. Learn why yellow ports are so uncommon and what to check before you plug in anything important.",
+      "url": "https://www.engadget.com/2312464/why-some-usb-ports-yellow-less-common/",
+      "tickers": []
+    },
+    {
+      "id": "f48b01b820",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-14T21:00:00+00:00",
+      "title": "How to clear the cache on your Samsung TV",
+      "summary": "Your TV's cache is a collection of temporary files, some of which you don't need anymore. Here's why you might want to clear those out – and how.",
+      "url": "https://www.engadget.com/2312222/how-to-clear-cache-samsung-tv/",
+      "tickers": []
+    },
+    {
+      "id": "985dbe6b00",
+      "topic": "Devices",
+      "kind": "Founder",
+      "source": "Engadget",
+      "published": "2026-11-14T20:45:00+00:00",
+      "title": "How to clear the cache on your Xbox Series X",
+      "summary": "Clearing the cache on your Xbox Series X can help it retain its snappiness while avoiding glitches, or you can perform a console reset if all else fails.",
+      "url": "https://www.engadget.com/2312189/how-to-clear-cache-xbox-series-x/",
+      "tickers": []
+    },
+    {
+      "id": "aebc1f1f3f",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-14T20:30:00+00:00",
+      "title": "Is your car tracking your location? Here's how to check and opt out",
+      "summary": "Modern cars are great for farming user data, and big tech companies know it. It's important to know how this information is collected and how to opt out.",
+      "url": "https://www.engadget.com/2312168/car-location-tracking-how-to-opt-out/",
+      "tickers": []
+    },
+    {
+      "id": "2db27d7939",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-14T20:15:00+00:00",
+      "title": "This built-in Windows tool can diagnose your PC's battery health",
+      "summary": "If your laptop doesn't seem to hold a charge as well as it used to, start by checking the diagnostics this tool can report. We'll show you how to use it.",
+      "url": "https://www.engadget.com/2312107/built-in-windows-tool-diagnose-pc-battery-health-powercfg/",
+      "tickers": []
+    },
+    {
+      "id": "b1d4d9821f",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-14T20:04:44+00:00",
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
       "tickers": [
         "TSLA"
       ]
     },
     {
-      "id": "253ab1618b",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-14T14:15:00+00:00",
-      "title": "Samsung is taking a page out of Pixel's playbook with One UI 9.5",
-      "summary": "A riff on Google's Pixel Screenshots could pull together fragmented information from across your phone.",
-      "url": "https://www.engadget.com/2316348/samsung-one-ui-9-5-feature-memory-app-from-pixel-playbook/",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "56827b9e08",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-14T14:00:00+00:00",
-      "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
-      "summary": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one full-size gamepad, plus a couple of 8BitDo's Zero 2 controllers for…",
-      "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
-      "tickers": []
-    },
-    {
-      "id": "3aa0ab97a7",
+      "id": "afb775ebfa",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-14T14:00:00+00:00",
-      "title": "How to use the new remote finding features on the Apple TV 4K (4th gen)",
-      "summary": "The new Apple TV 4K has a smarter way to hunt down a missing remote. Find out how the feature works and what you need on your end to make it happen.",
-      "url": "https://www.engadget.com/2316344/how-to-use-apple-tv-4k-remote-finding-feature/",
-      "tickers": [
-        "AAPL"
-      ]
+      "published": "2026-11-14T20:00:00+00:00",
+      "title": "Change these Fitbit Edge settings for a better experience",
+      "summary": "The Fitbit Edge not only looks good, but packs plenty of features while remaining minimal. To get the most out of it, you only need to tweak a few settings.",
+      "url": "https://www.engadget.com/2311860/change-fitbit-edge-settings-better-user-experience/",
+      "tickers": []
     },
     {
-      "id": "2262cfa6be",
+      "id": "9df306f171",
       "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-14T13:45:00+00:00",
-      "title": "How long will it take you to download GTA 6 based on your internet speeds?",
-      "summary": "You won't have to ruin your weekend plans to download this open-world epic.",
-      "url": "https://www.engadget.com/2316732/gta-6-download-time-internet-speed-calculator/",
-      "tickers": []
-    },
-    {
-      "id": "a56cd0bfec",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-14T13:30:00+00:00",
-      "title": "5 TVs with deep discounts before Black Friday even started",
-      "summary": "You don't need to wait till later this month to snag an upgrade for your living room.",
-      "url": "https://www.engadget.com/2316107/deep-discounts-tvs-before-black-friday-deals/",
-      "tickers": []
-    },
-    {
-      "id": "afa9057742",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-14T13:15:00+00:00",
-      "title": "One UI 9 is the final major update for these older Samsung Galaxy phones",
-      "summary": "Some of Samsung's older Galaxy phones are reaching the end of their primary Android OS upgrades, with One UI 9 as the last update planned.",
-      "url": "https://www.engadget.com/2310671/one-ui-9-samsung-galaxy-phones-last-major-update/",
-      "tickers": []
-    },
-    {
-      "id": "ee5d49fd0a",
-      "topic": "Chips",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-14T13:15:00+00:00",
-      "title": "AMD vs. Intel CPUs: Which is the better buy in 2026?",
-      "summary": "AMD and Intel CPUs have different strengths, so you'll need to consider what you need out of a CPU to make the right choice.",
-      "url": "https://www.engadget.com/2310528/amd-vs-intel-cpu-which-better-buy-2026/",
-      "tickers": [
-        "AMD",
-        "INTC"
-      ]
-    },
-    {
-      "id": "da8d083a1f",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-14T13:00:00+00:00",
-      "title": "A gadget to make your dumb house smarter",
-      "summary": "Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you can read all the old editions at the Installer homepage.) This week, I've been…",
-      "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
-      "tickers": []
-    },
-    {
-      "id": "0835a87723",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-14T12:45:45+00:00",
-      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again Comments URL: https://news.ycombinator.com/item?id=50496602 Points: 210 # Comments: 77",
-      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
-      "tickers": []
-    },
-    {
-      "id": "99dea6f8b2",
-      "topic": "Chips",
       "kind": "Founder",
       "source": "The Verge",
-      "published": "2026-11-14T12:00:00+00:00",
-      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-      "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his…",
-      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "published": "2026-11-14T19:47:40+00:00",
+      "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+      "summary": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic: The Gathering series was first…",
+      "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
       "tickers": [
-        "NVDA"
+        "NFLX"
       ]
     }
   ],
   "rumors": [
-    {
-      "id": "1c670c524a",
-      "topic": "Chips",
-      "status": "Just surfaced",
-      "title": "Mass smuggling of up to 1.5 million Nvidia AI GPUs could be the underlying cause of Jensen Huang's departure, leading analysts claim — more than 1.5 gigawatts of banned chips tracked to China despite…",
-      "detail": "submitted by /u/Comfortable-Rub-9160 [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1xvpr68/mass_smuggling_of_up_to_15_million_nvidia_ai_gpus/",
-      "sources": 1,
-      "mentions": 10,
-      "credible": 0,
-      "days": 0,
-      "tickers": [
-        "NVDA"
-      ],
-      "score": 19
-    },
     {
       "id": "c92f63cd9c",
       "topic": "Tech",
@@ -347,81 +324,81 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 3,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "497d5e25d6",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-      "detail": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
-      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 1,
+      "days": 4,
       "tickers": [],
       "score": 15
     },
     {
       "id": "617ca77c85",
       "topic": "Tech",
-      "status": "Just surfaced",
+      "status": "Unconfirmed",
       "title": "Silicon Valley Is Still Defending Jensen Huang",
       "detail": "Nvidia employees and tech insiders never thought the chip king would lose his job. Despite his sudden resignation, many of them are still in denial.",
       "url": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 1,
+      "days": 2,
       "tickers": [],
       "score": 15
     },
     {
-      "id": "b627bb50bd",
+      "id": "bfe2befc7d",
       "topic": "Tech",
       "status": "Just surfaced",
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "detail": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less…",
-      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "title": "One cable mistake could be killing your desktop PC's gaming performance",
+      "detail": "Plugging your monitor into the motherboard instead of your dedicated GPU can ruin gaming performance. Here's how to check your ports and get your frames back.",
+      "url": "https://www.engadget.com/2313063/cable-mistake-desktop-pc-gaming-performance/",
       "sources": 1,
       "mentions": 1,
       "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 15
+    },
+    {
+      "id": "e0442320a4",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "Common reasons your Roku TV can turn on by itself and how to fix it",
+      "detail": "If your TV has randomly been turning on and it has a Roku attached to it, it could be your Roku's doing. Check these settings.",
+      "url": "https://www.engadget.com/2313550/roku-tv-turns-on-by-itself-common-reasons-fixes/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 15
+    },
+    {
+      "id": "066946e45d",
+      "topic": "AI",
+      "status": "Just surfaced",
+      "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
+      "detail": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls Comments URL…",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 0,
+      "days": 0,
+      "tickers": [],
+      "score": 8
+    },
+    {
+      "id": "b6eea724ab",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "Apple, Meta, SpaceXAI reportedly the target of congressional investigation",
+      "detail": "submitted by /u/DeepSignature4329 [link] [comments]",
+      "url": "https://www.reddit.com/r/technology/comments/1xw87c4/apple_meta_spacexai_reportedly_the_target_of/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 0,
       "days": 0,
       "tickers": [
-        "AMZN"
+        "AAPL"
       ],
-      "score": 15
-    },
-    {
-      "id": "2262cfa6be",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "How long will it take you to download GTA 6 based on your internet speeds?",
-      "detail": "You won't have to ruin your weekend plans to download this open-world epic.",
-      "url": "https://www.engadget.com/2316732/gta-6-download-time-internet-speed-calculator/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "3246cca741",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "The weird reasons why your ethernet cable might be slower than your Wi-Fi",
-      "detail": "It could be hardware, software or something else entirely.",
-      "url": "https://www.engadget.com/2311140/reason-why-ethernet-cable-slower-than-wifi/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
+      "score": 8
     }
   ],
   "watchlist": [
@@ -435,7 +412,7 @@
       "when": "Tue",
       "signals": [
         "Earnings",
-        "16 headlines",
+        "18 headlines",
         "Big price move",
         "Volume up"
       ],
@@ -541,16 +518,34 @@
       "earnings": "2026-11-17",
       "headlines": [
         {
+          "title": "Which NVIDIA GPU is closest to the PS5? The answer isn't so simple",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2313644/nvidia-gpu-ps5-closest-match-answer-not-simple/",
+          "published": "2026-11-15T01:00:00+00:00"
+        },
+        {
+          "title": "Where was Nvidia’s security team?",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+          "published": "2026-11-15T00:08:07+00:00"
+        },
+        {
+          "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+          "source": "Hacker News",
+          "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+          "published": "2026-11-14T22:26:30+00:00"
+        },
+        {
+          "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+          "published": "2026-11-14T21:41:22+00:00"
+        },
+        {
           "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
           "published": "2026-11-14T16:34:15+00:00"
-        },
-        {
-          "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "source": "Hacker News",
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-          "published": "2026-11-14T02:52:59+00:00"
         },
         {
           "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
@@ -571,12 +566,6 @@
           "published": "2026-11-13T01:17:49+00:00"
         },
         {
-          "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-          "published": "2026-11-12T22:42:51+00:00"
-        },
-        {
           "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
           "source": "Wired",
           "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
@@ -587,18 +576,12 @@
           "source": "Wired",
           "url": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
           "published": "2026-11-12T14:14:33+00:00"
-        },
-        {
-          "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
-          "published": "2026-11-11T15:30:00+00:00"
         }
       ],
       "score": 94.3,
       "brief": {
-        "what": "9 recent headlines mention NVIDIA. Latest: Asian governments react to Nvidia CEO Jensen Huang’s exit There is also a rumor making the rounds: Mass smuggling of up to 1.5 million Nvidia AI GPUs could be the underlying cause of Jensen Huang's departure, leading analysts claim — more than 1.5 gigawatts of banned chips tracked to China despite…",
-        "why": "Signals: earnings, 16 headlines, big price move, volume up. The stock is down 12.7% this week and down 25.0% over the month.",
+        "what": "10 recent headlines mention NVIDIA. Latest: Which NVIDIA GPU is closest to the PS5? The answer isn't so simple",
+        "why": "Signals: earnings, 18 headlines, big price move, volume up. The stock is down 12.7% this week and down 25.0% over the month.",
         "watch": "Next earnings expected Tue Nov 17. Results and guidance usually move the stock most.",
         "ai": false
       }
@@ -609,7 +592,7 @@
       "price": 390.22,
       "changePct": 8.9,
       "monthChangePct": 7.7,
-      "catalyst": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+      "catalyst": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
       "when": "In the news",
       "signals": [
         "2 headlines",
@@ -717,6 +700,12 @@
       "earnings": "2027-01-27",
       "headlines": [
         {
+          "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+          "published": "2026-11-14T20:04:44+00:00"
+        },
+        {
           "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
           "source": "The Verge",
           "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
@@ -725,281 +714,9 @@
       ],
       "score": 27.9,
       "brief": {
-        "what": "1 recent headline mentions Tesla. Latest: Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+        "what": "2 recent headlines mention Tesla. Latest: Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
         "why": "Signals: 2 headlines, big price move. The stock is up 8.9% this week and up 7.7% over the month.",
         "watch": "Next earnings expected Wed Jan 27. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "GOOGL",
-      "name": "Alphabet",
-      "price": 295.77,
-      "changePct": 3.9,
-      "monthChangePct": -15.3,
-      "catalyst": "What the circled \"Z\" on Google Maps means",
-      "when": "In the news",
-      "signals": [
-        "4 headlines"
-      ],
-      "spark": [
-        282.57,
-        284.78,
-        288.15,
-        287.38,
-        293.45,
-        298.7,
-        295.77
-      ],
-      "history": [
-        {
-          "d": "2026-10-15",
-          "c": 349.22
-        },
-        {
-          "d": "2026-10-16",
-          "c": 340.59
-        },
-        {
-          "d": "2026-10-19",
-          "c": 344.18
-        },
-        {
-          "d": "2026-10-20",
-          "c": 340.28
-        },
-        {
-          "d": "2026-10-21",
-          "c": 334.76
-        },
-        {
-          "d": "2026-10-22",
-          "c": 324.22
-        },
-        {
-          "d": "2026-10-23",
-          "c": 320.21
-        },
-        {
-          "d": "2026-10-26",
-          "c": 316.8
-        },
-        {
-          "d": "2026-10-27",
-          "c": 320.58
-        },
-        {
-          "d": "2026-10-28",
-          "c": 324.89
-        },
-        {
-          "d": "2026-10-29",
-          "c": 283.82
-        },
-        {
-          "d": "2026-10-30",
-          "c": 279.84
-        },
-        {
-          "d": "2026-11-02",
-          "c": 278.99
-        },
-        {
-          "d": "2026-11-03",
-          "c": 280.03
-        },
-        {
-          "d": "2026-11-04",
-          "c": 288.93
-        },
-        {
-          "d": "2026-11-05",
-          "c": 282.57
-        },
-        {
-          "d": "2026-11-06",
-          "c": 284.78
-        },
-        {
-          "d": "2026-11-09",
-          "c": 288.15
-        },
-        {
-          "d": "2026-11-10",
-          "c": 287.38
-        },
-        {
-          "d": "2026-11-11",
-          "c": 293.45
-        },
-        {
-          "d": "2026-11-12",
-          "c": 298.7
-        },
-        {
-          "d": "2026-11-13",
-          "c": 295.77
-        }
-      ],
-      "earnings": null,
-      "headlines": [
-        {
-          "title": "What the circled \"Z\" on Google Maps means",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2311447/google-maps-circled-z-meaning/",
-          "published": "2026-11-14T16:00:00+00:00"
-        },
-        {
-          "title": "Should you make the switch to Samsung Galaxy from Google Pixel?",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2311344/switch-to-samsung-galaxy-to-google-pixel/",
-          "published": "2026-11-14T15:30:00+00:00"
-        },
-        {
-          "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-          "published": "2026-11-12T19:27:45+00:00"
-        },
-        {
-          "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
-          "published": "2026-11-12T18:05:41+00:00"
-        }
-      ],
-      "score": 27.7,
-      "brief": {
-        "what": "4 recent headlines mention Alphabet. Latest: What the circled \"Z\" on Google Maps means",
-        "why": "Signals: 4 headlines. The stock is up 3.9% this week and down 15.3% over the month.",
-        "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD",
-      "price": 534.06,
-      "changePct": 18.9,
-      "monthChangePct": -5.0,
-      "catalyst": "AMD vs. Intel CPUs: Which is the better buy in 2026?",
-      "when": "In the news",
-      "signals": [
-        "Big price move"
-      ],
-      "spark": [
-        404.4,
-        449.04,
-        508.58,
-        515.21,
-        552.9,
-        585.3,
-        534.06
-      ],
-      "history": [
-        {
-          "d": "2026-10-15",
-          "c": 562.23
-        },
-        {
-          "d": "2026-10-16",
-          "c": 528.75
-        },
-        {
-          "d": "2026-10-19",
-          "c": 538.05
-        },
-        {
-          "d": "2026-10-20",
-          "c": 534.74
-        },
-        {
-          "d": "2026-10-21",
-          "c": 552.72
-        },
-        {
-          "d": "2026-10-22",
-          "c": 507.93
-        },
-        {
-          "d": "2026-10-23",
-          "c": 516.79
-        },
-        {
-          "d": "2026-10-26",
-          "c": 531.28
-        },
-        {
-          "d": "2026-10-27",
-          "c": 560.26
-        },
-        {
-          "d": "2026-10-28",
-          "c": 578.44
-        },
-        {
-          "d": "2026-10-29",
-          "c": 566.42
-        },
-        {
-          "d": "2026-10-30",
-          "c": 504.8
-        },
-        {
-          "d": "2026-11-02",
-          "c": 466.84
-        },
-        {
-          "d": "2026-11-03",
-          "c": 483.9
-        },
-        {
-          "d": "2026-11-04",
-          "c": 488.78
-        },
-        {
-          "d": "2026-11-05",
-          "c": 404.4
-        },
-        {
-          "d": "2026-11-06",
-          "c": 449.04
-        },
-        {
-          "d": "2026-11-09",
-          "c": 508.58
-        },
-        {
-          "d": "2026-11-10",
-          "c": 515.21
-        },
-        {
-          "d": "2026-11-11",
-          "c": 552.9
-        },
-        {
-          "d": "2026-11-12",
-          "c": 585.3
-        },
-        {
-          "d": "2026-11-13",
-          "c": 534.06
-        }
-      ],
-      "earnings": "2027-02-02",
-      "headlines": [
-        {
-          "title": "AMD vs. Intel CPUs: Which is the better buy in 2026?",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2310528/amd-vs-intel-cpu-which-better-buy-2026/",
-          "published": "2026-11-14T13:15:00+00:00"
-        }
-      ],
-      "score": 27.4,
-      "brief": {
-        "what": "1 recent headline mentions AMD. Latest: AMD vs. Intel CPUs: Which is the better buy in 2026?",
-        "why": "Signals: big price move. The stock is up 18.9% this week and down 5.0% over the month.",
-        "watch": "Next earnings expected Tue Feb 2. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
@@ -1009,7 +726,7 @@
       "price": 356.27,
       "changePct": 4.1,
       "monthChangePct": 4.3,
-      "catalyst": "Here's how much Apple AirPods cost in 2016 vs. 2026",
+      "catalyst": "How did Woz write the Apple 1 BASIC before building the computer?",
       "when": "In the news",
       "signals": [
         "3 headlines"
@@ -1116,29 +833,276 @@
       "earnings": "2027-01-28",
       "headlines": [
         {
-          "title": "Here's how much Apple AirPods cost in 2016 vs. 2026",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2311715/apple-airpods-2016-vs-2026-how-much-they-cost/",
-          "published": "2026-11-14T16:30:00+00:00"
-        },
-        {
-          "title": "Your iPhone has a built-in barometer — Here's how to use it",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2311121/iphone-barometric-pressure-app-and-how-it-works/",
-          "published": "2026-11-14T14:45:00+00:00"
-        },
-        {
-          "title": "How to use the new remote finding features on the Apple TV 4K (4th gen)",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2316344/how-to-use-apple-tv-4k-remote-finding-feature/",
-          "published": "2026-11-14T14:00:00+00:00"
+          "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+          "published": "2026-11-14T18:00:00+00:00"
         }
       ],
       "score": 23.3,
       "brief": {
-        "what": "3 recent headlines mention Apple. Latest: Here's how much Apple AirPods cost in 2016 vs. 2026",
+        "what": "1 recent headline mentions Apple. Latest: Got an iPhone Duo? These 9 settings make it easier to use There is also a rumor making the rounds: Apple, Meta, SpaceXAI reportedly the target of congressional investigation",
         "why": "Signals: 3 headlines. The stock is up 4.1% this week and up 4.3% over the month.",
         "watch": "Next earnings expected Thu Jan 28. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "price": 295.77,
+      "changePct": 3.9,
+      "monthChangePct": -15.3,
+      "catalyst": "This underrated Google Health app feature can make food tracking less annoying",
+      "when": "In the news",
+      "signals": [
+        "3 headlines"
+      ],
+      "spark": [
+        282.57,
+        284.78,
+        288.15,
+        287.38,
+        293.45,
+        298.7,
+        295.77
+      ],
+      "history": [
+        {
+          "d": "2026-10-15",
+          "c": 349.22
+        },
+        {
+          "d": "2026-10-16",
+          "c": 340.59
+        },
+        {
+          "d": "2026-10-19",
+          "c": 344.18
+        },
+        {
+          "d": "2026-10-20",
+          "c": 340.28
+        },
+        {
+          "d": "2026-10-21",
+          "c": 334.76
+        },
+        {
+          "d": "2026-10-22",
+          "c": 324.22
+        },
+        {
+          "d": "2026-10-23",
+          "c": 320.21
+        },
+        {
+          "d": "2026-10-26",
+          "c": 316.8
+        },
+        {
+          "d": "2026-10-27",
+          "c": 320.58
+        },
+        {
+          "d": "2026-10-28",
+          "c": 324.89
+        },
+        {
+          "d": "2026-10-29",
+          "c": 283.82
+        },
+        {
+          "d": "2026-10-30",
+          "c": 279.84
+        },
+        {
+          "d": "2026-11-02",
+          "c": 278.99
+        },
+        {
+          "d": "2026-11-03",
+          "c": 280.03
+        },
+        {
+          "d": "2026-11-04",
+          "c": 288.93
+        },
+        {
+          "d": "2026-11-05",
+          "c": 282.57
+        },
+        {
+          "d": "2026-11-06",
+          "c": 284.78
+        },
+        {
+          "d": "2026-11-09",
+          "c": 288.15
+        },
+        {
+          "d": "2026-11-10",
+          "c": 287.38
+        },
+        {
+          "d": "2026-11-11",
+          "c": 293.45
+        },
+        {
+          "d": "2026-11-12",
+          "c": 298.7
+        },
+        {
+          "d": "2026-11-13",
+          "c": 295.77
+        }
+      ],
+      "earnings": null,
+      "headlines": [
+        {
+          "title": "This underrated Google Health app feature can make food tracking less annoying",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2312924/underrated-google-health-app-food-tracker/",
+          "published": "2026-11-14T22:30:00+00:00"
+        },
+        {
+          "title": "How to get better results from Google Gemini",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2312834/how-to-get-better-results-google-gemini/",
+          "published": "2026-11-14T22:15:00+00:00"
+        },
+        {
+          "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
+          "published": "2026-11-12T18:05:41+00:00"
+        }
+      ],
+      "score": 22.7,
+      "brief": {
+        "what": "3 recent headlines mention Alphabet. Latest: This underrated Google Health app feature can make food tracking less annoying",
+        "why": "Signals: 3 headlines. The stock is up 3.9% this week and down 15.3% over the month.",
+        "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD",
+      "price": 534.06,
+      "changePct": 18.9,
+      "monthChangePct": -5.0,
+      "catalyst": "Up 19% this week",
+      "when": "Price",
+      "signals": [
+        "Big price move"
+      ],
+      "spark": [
+        404.4,
+        449.04,
+        508.58,
+        515.21,
+        552.9,
+        585.3,
+        534.06
+      ],
+      "history": [
+        {
+          "d": "2026-10-15",
+          "c": 562.23
+        },
+        {
+          "d": "2026-10-16",
+          "c": 528.75
+        },
+        {
+          "d": "2026-10-19",
+          "c": 538.05
+        },
+        {
+          "d": "2026-10-20",
+          "c": 534.74
+        },
+        {
+          "d": "2026-10-21",
+          "c": 552.72
+        },
+        {
+          "d": "2026-10-22",
+          "c": 507.93
+        },
+        {
+          "d": "2026-10-23",
+          "c": 516.79
+        },
+        {
+          "d": "2026-10-26",
+          "c": 531.28
+        },
+        {
+          "d": "2026-10-27",
+          "c": 560.26
+        },
+        {
+          "d": "2026-10-28",
+          "c": 578.44
+        },
+        {
+          "d": "2026-10-29",
+          "c": 566.42
+        },
+        {
+          "d": "2026-10-30",
+          "c": 504.8
+        },
+        {
+          "d": "2026-11-02",
+          "c": 466.84
+        },
+        {
+          "d": "2026-11-03",
+          "c": 483.9
+        },
+        {
+          "d": "2026-11-04",
+          "c": 488.78
+        },
+        {
+          "d": "2026-11-05",
+          "c": 404.4
+        },
+        {
+          "d": "2026-11-06",
+          "c": 449.04
+        },
+        {
+          "d": "2026-11-09",
+          "c": 508.58
+        },
+        {
+          "d": "2026-11-10",
+          "c": 515.21
+        },
+        {
+          "d": "2026-11-11",
+          "c": 552.9
+        },
+        {
+          "d": "2026-11-12",
+          "c": 585.3
+        },
+        {
+          "d": "2026-11-13",
+          "c": 534.06
+        }
+      ],
+      "earnings": "2027-02-02",
+      "headlines": [],
+      "score": 22.4,
+      "brief": {
+        "what": "No major headlines about AMD in the last two weeks.",
+        "why": "Signals: big price move. The stock is up 18.9% this week and down 5.0% over the month.",
+        "watch": "Next earnings expected Tue Feb 2. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
