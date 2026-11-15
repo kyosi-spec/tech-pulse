@@ -1,319 +1,303 @@
 {
   "weekOf": "2026-11-09",
-  "updated": "2026-11-15T01:54:18+00:00",
+  "updated": "2026-11-15T17:42:12+00:00",
   "summary": [
-    "Tech leads the news with 14 of 25 stories. Top headline: Which NVIDIA GPU is closest to the PS5? The answer isn't so simple",
+    "Tech leads the news with 12 of 25 stories. Top headline: Should you keep your smart home gadgets on a separate home network?",
     "Earnings this week from NVDA.",
-    "Strongest rumor: Jensen Huang didn’t show confidence in his successor, report says"
+    "Strongest rumor: Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI"
   ],
   "stories": [
     {
-      "id": "a8cf7154e2",
-      "topic": "Chips",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-15T01:00:00+00:00",
-      "title": "Which NVIDIA GPU is closest to the PS5? The answer isn't so simple",
-      "summary": "One of the biggest questions when it comes to purchasing a gaming rig is whether to go console or PC. This NVIDIA GPU gives the closest results to a PS5.",
-      "url": "https://www.engadget.com/2313644/nvidia-gpu-ps5-closest-match-answer-not-simple/",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "62a5e742a7",
+      "id": "bb7f697a45",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-15T00:45:00+00:00",
-      "title": "This Sony patent would add a credit card reader to your PlayStation controller",
-      "summary": "As Sony and PlayStation head into a digital-only era, new tech on its upcoming controllers could help make online purchases even more convenient for gaming.",
-      "url": "https://www.engadget.com/2313652/sony-patent-playstation-controller-adds-credit-card-reader/",
+      "published": "2026-11-15T17:15:00+00:00",
+      "title": "Should you keep your smart home gadgets on a separate home network?",
+      "summary": "A dedicated network for smart home devices may sound excessive, but there may be reasons to separate those gadgets from everything else on your network.",
+      "url": "https://www.engadget.com/2313757/should-smart-devices-use-separate-wifi/",
       "tickers": []
     },
     {
-      "id": "7d19f4929e",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-15T00:30:00+00:00",
-      "title": "What are the limitations of eGPUs vs onboard graphics cards for laptops?",
-      "summary": "Is it worth it to use an eGPU with your laptop? That depends. Let's take a closer look at the most important factors you should consider.",
-      "url": "https://www.engadget.com/2313636/limitations-egpu-vs-onboard-graphics-card-laptop-pc/",
-      "tickers": []
-    },
-    {
-      "id": "1f46e83932",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-15T00:15:00+00:00",
-      "title": "11 gadgets under $10 that solve everyday problems",
-      "summary": "Lots of tech purchases run into the hundreds of dollars, but you don't have to spend a lot to make some upgrades.",
-      "url": "https://www.engadget.com/2310535/affordable-gadgets-under-10-dollars/",
-      "tickers": []
-    },
-    {
-      "id": "04d251fa3e",
-      "topic": "Chips",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-11-15T00:08:07+00:00",
-      "title": "Where was Nvidia’s security team?",
-      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday…",
-      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "13bc92d901",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-15T00:00:00+00:00",
-      "title": "There's a hidden way you can check which services are running on your Android phone",
-      "summary": "Want to see what's draining your Android phone's memory? Here's how to unlock the hidden Running Services menu to monitor background apps.",
-      "url": "https://www.engadget.com/2313576/hidden-way-check-which-services-running-on-android-phone/",
-      "tickers": []
-    },
-    {
-      "id": "e0442320a4",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-14T23:45:00+00:00",
-      "title": "Common reasons your Roku TV can turn on by itself and how to fix it",
-      "summary": "If your TV has randomly been turning on and it has a Roku attached to it, it could be your Roku's doing. Check these settings.",
-      "url": "https://www.engadget.com/2313550/roku-tv-turns-on-by-itself-common-reasons-fixes/",
-      "tickers": []
-    },
-    {
-      "id": "fcf908b05f",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-14T23:00:00+00:00",
-      "title": "Why your SD card won't let you transfer files bigger than 4GB, and how to fix it",
-      "summary": "Some SD cards just won't accept files larger than 4GB, no matter the total capacity or how much free storage there is. But don't worry, it's not hard to fix.",
-      "url": "https://www.engadget.com/2313042/sd-card-4-gb-file-transfer-limit-fat32-explained/",
-      "tickers": []
-    },
-    {
-      "id": "e8d1d6e167",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-14T22:30:00+00:00",
-      "title": "This underrated Google Health app feature can make food tracking less annoying",
-      "summary": "There's a suite of features with Google's Health app, but you've likely overlooked the intuitive food tracking function that helps keep your diet in check.",
-      "url": "https://www.engadget.com/2312924/underrated-google-health-app-food-tracker/",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "60d58471c0",
-      "topic": "Chips",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-14T22:26:30+00:00",
-      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-      "summary": "Article URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html Comments URL: https://news.ycombinator.com/item?id=50501631 Points: 179 # Comments: 99",
-      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "dcd624fc88",
+      "id": "3725859936",
       "topic": "AI",
       "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-14T22:15:00+00:00",
-      "title": "How to get better results from Google Gemini",
-      "summary": "These tips and tricks will help you prompt Gemini better.",
-      "url": "https://www.engadget.com/2312834/how-to-get-better-results-google-gemini/",
+      "source": "TechCrunch",
+      "published": "2026-11-15T17:05:00+00:00",
+      "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
       "tickers": [
-        "GOOGL"
+        "NVDA"
       ]
     },
     {
-      "id": "74c713c64d",
+      "id": "e80d523baf",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-15T17:00:00+00:00",
+      "title": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
+      "summary": "Amazon’s early Black Friday promos are already underway, and we’ll be highlighting some of our favorites over the next few days on our Shopping page. Among them is the Fanttik S1 Pro Cordless Electric Screwdriver, which is currently matching its all-time low of $39.99 ($40 off)…",
+      "url": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale",
+      "tickers": [
+        "AMZN"
+      ]
+    },
+    {
+      "id": "cb3c331feb",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-14T22:00:00+00:00",
-      "title": "Honor Magic8 Pro vs. Magic9 Pro Max: What's been upgraded?",
-      "summary": "This Pro upgrade is messier than the typical year-over-year refresh, but the new flagship does give us a pretty good idea of where Honor put its priorities.",
-      "url": "https://www.engadget.com/2307825/honor-magic-8-pro-vs-9-pro-upgrade-comparison/",
+      "published": "2026-11-15T17:00:00+00:00",
+      "title": "5 emerging technologies that may soon become part of everyday life",
+      "summary": "Progress is faster every day, and we're sure some of the biggest developments in current technology are about to become a thing of every day.",
+      "url": "https://www.engadget.com/2313755/emerging-technologies-could-change-everyday-life/",
       "tickers": []
     },
     {
-      "id": "e2f38161ac",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-14T21:45:00+00:00",
-      "title": "Here's when a dedicated graphics card is worth it",
-      "summary": "Modern iGPUs are surprisingly capable, but they aren't without limitations.",
-      "url": "https://www.engadget.com/2312688/when-dedicated-graphics-card-worth-it/",
-      "tickers": []
-    },
-    {
-      "id": "7507cc1ea9",
+      "id": "85c4e4be8c",
       "topic": "Devices",
       "kind": "Launch",
       "source": "The Verge",
-      "published": "2026-11-14T21:44:44+00:00",
-      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
-      "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver…",
-      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "published": "2026-11-15T16:59:16+00:00",
+      "title": "Apple’s first smart glasses are coming together",
+      "summary": "Apple's smart glasses are among the worst-kept secrets in the tech world. Bloomberg's Mark Gurman says the company's first model, which will lack augmented reality features, will be announced at June's WWDC next year. They likely won't ship right away, however, with Gurman…",
+      "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "a58f59e94f",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-15T16:45:00+00:00",
+      "title": "Why do some USB connectors have those 2 square holes?",
+      "summary": "Some USB connectors, including USB-A, feature two small holes that have an important purpose. Other USB connectors lack these holes for a reason, too.",
+      "url": "https://www.engadget.com/2313749/why-some-usb-connectors-have-2-square-holes/",
       "tickers": []
     },
     {
-      "id": "b7b23413e3",
+      "id": "e899667265",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-15T16:30:00+00:00",
+      "title": "Vibe coding is changing how musicians customize their gear",
+      "summary": "AI is changing just about every industry even music. This is how musicians are using vibe coding to alter their sound, their gear and how music is made.",
+      "url": "https://www.engadget.com/2313717/vibe-coding-changing-how-musicians-customize-gear/",
+      "tickers": []
+    },
+    {
+      "id": "e1588a7504",
       "topic": "Chips",
       "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-15T16:15:00+00:00",
+      "title": "Gaming PC GPUs vs. console GPUs: What's the difference between them?",
+      "summary": "Although PC gamers have to think about it more while putting together their machine, consoles also use GPUs. Here's the difference between them.",
+      "url": "https://www.engadget.com/2313709/gaming-pc-vs-console-gpu-difference-between/",
+      "tickers": []
+    },
+    {
+      "id": "53db8ab8b6",
+      "topic": "Tech",
+      "kind": "Company",
       "source": "TechCrunch",
-      "published": "2026-11-14T21:41:22+00:00",
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "published": "2026-11-15T16:00:00+00:00",
+      "title": "The tech products we enthusiastically recommend this holiday season",
+      "summary": "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond.",
+      "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
+      "tickers": []
+    },
+    {
+      "id": "a2b59d3af8",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-15T16:00:00+00:00",
+      "title": "Rachelle Hampton won’t admit how long she spent charting the use of ‘murmur’ in Twilight",
+      "summary": "Rachelle Hampton is a writer and co-owner at Defector Media, and the host of Normal Gossip, a podcast of anonymous listener-submitted stories about everyday drama. Whether that's lies about luxury wool in a literal knitting circle, the impeachment of a hypocritical HOA…",
+      "url": "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview",
+      "tickers": []
+    },
+    {
+      "id": "96b59643df",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-15T16:00:00+00:00",
+      "title": "Some places have already banned AI glasses, and the list just keeps growing",
+      "summary": "Safety and privacy concerns have led to bans on AI glasses in a number of public places, including courtrooms, schools and theaters.",
+      "url": "https://www.engadget.com/2313707/ai-glasses-banned-places-list-keeps-growing/",
+      "tickers": []
+    },
+    {
+      "id": "7b046d4b7c",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-15T15:45:00+00:00",
+      "title": "Can you use your Android phone as a computer speaker?",
+      "summary": "If you've got an old Android phone lying around, it may be possible to give the device new life as a computer speaker.",
+      "url": "https://www.engadget.com/2313706/use-android-phone-as-computer-speaker/",
+      "tickers": []
+    },
+    {
+      "id": "f29156f65e",
+      "topic": "Devices",
+      "kind": "Launch",
+      "source": "Engadget",
+      "published": "2026-11-15T15:30:00+00:00",
+      "title": "iPhone Duo Vs Oppo Find N6: How these foldables compare",
+      "summary": "The foldable smartphone scene is exploding as Apple has just announced it is finally entering the arena. Here's how the iPhone Duo compares to the Oppo Find N6.",
+      "url": "https://www.engadget.com/2313699/iphone-duo-vs-oppo-find-n6-foldable-comparison/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "325ec57168",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-15T15:15:00+00:00",
+      "title": "How much electricity does your home sound system typically use?",
+      "summary": "A home sound system is a great upgrade, but it does use electricity which means you're paying for the power. Here's how to measure how much power it's using.",
+      "url": "https://www.engadget.com/2313696/how-much-electricity-sound-system-uses/",
+      "tickers": []
+    },
+    {
+      "id": "b913cbfa56",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-15T15:00:00+00:00",
+      "title": "Why your laptop fans spin up even when you're not doing anything",
+      "summary": "Laptop fans fulfill the important function of making sure your device doesn't overheat. But if they keep spinning and making noise, there might be a problem.",
+      "url": "https://www.engadget.com/2313693/laptop-fans-spin-up-not-doing-anything-why/",
+      "tickers": []
+    },
+    {
+      "id": "7a20787f72",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-15T14:46:58+00:00",
+      "title": "All AI-generated code should be Open Source",
+      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 456 # Comments: 280",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "tickers": []
+    },
+    {
+      "id": "908d7a3b54",
+      "topic": "Chips",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-15T14:45:00+00:00",
+      "title": "How long will your NVIDIA GPU be supported?",
+      "summary": "Graphics cards do not have an expiration date on the box., but we can help you figure out which clicking tocks are most important to your system's performance.",
+      "url": "https://www.engadget.com/2313688/how-long-nvidia-gpu-supported/",
       "tickers": [
         "NVDA"
       ]
     },
     {
-      "id": "7475da4974",
-      "topic": "Devices",
+      "id": "62428aba8a",
+      "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-14T21:30:00+00:00",
-      "title": "The reasons why your TV soundbar has an audio delay",
-      "summary": "Audio delays are really irritating, especially when watching sports and live events. We've got several possible causes and what you can do about them.",
-      "url": "https://www.engadget.com/2312648/reasons-why-tv-soundbar-audio-delay/",
+      "published": "2026-11-15T14:30:00+00:00",
+      "title": "These are some of the strongest 3D printer filaments for durable parts",
+      "summary": "Let's take a closer look at some of the strongest and most practical filaments for the type of 3D printers accessible to the average maker.",
+      "url": "https://www.engadget.com/2313687/strongest-3d-printer-filament-carbon-fiber-nylon-polycarbonate/",
       "tickers": []
     },
     {
-      "id": "0244783e4e",
+      "id": "2ce577987a",
+      "topic": "Chips",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-15T14:15:00+00:00",
+      "title": "Why did Google Pixels stop using Snapdragon chips?",
+      "summary": "There was a time when Google relied on Snapdragon chips to make its Pixel smartphones, but that's not the case anymore. Here's why it stopped.",
+      "url": "https://www.engadget.com/2313685/why-google-pixel-stop-using-snapdragon/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "c6c8ae4dff",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-15T14:00:00+00:00",
+      "title": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
+      "summary": "LG’s B6E was already one of the most affordable OLED TVs you could buy, but it’s an even better deal now that it’s included as part of Best Buy’s latest doorbuster event. Now through the end of today, November 15th, the 55-inch model is 50 percent off, dropping it to an all-time…",
+      "url": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
+      "tickers": []
+    },
+    {
+      "id": "8c8c7b3264",
       "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-15T14:00:00+00:00",
+      "title": "5 tips and tricks every PS5 owner should know",
+      "summary": "The PS5 has several quality-of-life features that are buried deep but have been expanded over the years. These options save time and reduce annoyances.",
+      "url": "https://www.engadget.com/2313556/tips-tricks-ps5-owners-should-know/",
+      "tickers": []
+    },
+    {
+      "id": "470fd40044",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-15T13:57:30+00:00",
+      "title": "The Sony Aibo was a robot revolution dressed like a dog",
+      "summary": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our coworkers; others would be our friends; and at least one would be our pet. And…",
+      "url": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
+      "tickers": []
+    },
+    {
+      "id": "3c6bf9d0fc",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-15T13:45:00+00:00",
+      "title": "Anker vs. Belkin: Which company's power banks and accessories should you get?",
+      "summary": "To decide between Anker and Belkin's power banks and accessories, consider what you want most: lots of power or unique products for gamers and creators.",
+      "url": "https://www.engadget.com/2313682/anker-vs-belkin-which-products-accessories-should-get/",
+      "tickers": []
+    },
+    {
+      "id": "a78a7534af",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-15T13:30:00+00:00",
+      "title": "The hidden features every Apple Maps user should know about",
+      "summary": "Apple Maps isn't just about the big-ticket features; it has a range of lesser-known features that are just as useful. Here are some of the most notable.",
+      "url": "https://www.engadget.com/2313048/apple-maps-hidden-features-users-should-know/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "f1069af1dc",
+      "topic": "Devices",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-11-14T21:22:24+00:00",
-      "title": "SpaceX catches the Starship to end Flight 15",
-      "summary": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 705 # Comments: 468",
-      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "published": "2026-11-15T13:15:22+00:00",
+      "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+      "summary": "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/ Comments URL: https://news.ycombinator.com/item?id=50506719 Points: 222 # Comments: 123",
+      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
       "tickers": []
-    },
-    {
-      "id": "31e3e26aea",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-14T21:15:00+00:00",
-      "title": "Why some USB ports are yellow (and less common than others)",
-      "summary": "Not every USB port color means what you think. Learn why yellow ports are so uncommon and what to check before you plug in anything important.",
-      "url": "https://www.engadget.com/2312464/why-some-usb-ports-yellow-less-common/",
-      "tickers": []
-    },
-    {
-      "id": "f48b01b820",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-14T21:00:00+00:00",
-      "title": "How to clear the cache on your Samsung TV",
-      "summary": "Your TV's cache is a collection of temporary files, some of which you don't need anymore. Here's why you might want to clear those out – and how.",
-      "url": "https://www.engadget.com/2312222/how-to-clear-cache-samsung-tv/",
-      "tickers": []
-    },
-    {
-      "id": "985dbe6b00",
-      "topic": "Devices",
-      "kind": "Founder",
-      "source": "Engadget",
-      "published": "2026-11-14T20:45:00+00:00",
-      "title": "How to clear the cache on your Xbox Series X",
-      "summary": "Clearing the cache on your Xbox Series X can help it retain its snappiness while avoiding glitches, or you can perform a console reset if all else fails.",
-      "url": "https://www.engadget.com/2312189/how-to-clear-cache-xbox-series-x/",
-      "tickers": []
-    },
-    {
-      "id": "aebc1f1f3f",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-14T20:30:00+00:00",
-      "title": "Is your car tracking your location? Here's how to check and opt out",
-      "summary": "Modern cars are great for farming user data, and big tech companies know it. It's important to know how this information is collected and how to opt out.",
-      "url": "https://www.engadget.com/2312168/car-location-tracking-how-to-opt-out/",
-      "tickers": []
-    },
-    {
-      "id": "2db27d7939",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-14T20:15:00+00:00",
-      "title": "This built-in Windows tool can diagnose your PC's battery health",
-      "summary": "If your laptop doesn't seem to hold a charge as well as it used to, start by checking the diagnostics this tool can report. We'll show you how to use it.",
-      "url": "https://www.engadget.com/2312107/built-in-windows-tool-diagnose-pc-battery-health-powercfg/",
-      "tickers": []
-    },
-    {
-      "id": "b1d4d9821f",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-14T20:04:44+00:00",
-      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
-      "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
-      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
-      "tickers": [
-        "TSLA"
-      ]
-    },
-    {
-      "id": "afb775ebfa",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-14T20:00:00+00:00",
-      "title": "Change these Fitbit Edge settings for a better experience",
-      "summary": "The Fitbit Edge not only looks good, but packs plenty of features while remaining minimal. To get the most out of it, you only need to tweak a few settings.",
-      "url": "https://www.engadget.com/2311860/change-fitbit-edge-settings-better-user-experience/",
-      "tickers": []
-    },
-    {
-      "id": "9df306f171",
-      "topic": "Tech",
-      "kind": "Founder",
-      "source": "The Verge",
-      "published": "2026-11-14T19:47:40+00:00",
-      "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
-      "summary": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic: The Gathering series was first…",
-      "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
-      "tickers": [
-        "NFLX"
-      ]
     }
   ],
   "rumors": [
-    {
-      "id": "c92f63cd9c",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Jensen Huang didn’t show confidence in his successor, report says",
-      "detail": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
-      "sources": 1,
-      "mentions": 2,
-      "credible": 1,
-      "days": 1,
-      "tickers": [],
-      "score": 18
-    },
     {
       "id": "517b404334",
       "topic": "AI",
@@ -341,64 +325,6 @@
       "days": 2,
       "tickers": [],
       "score": 15
-    },
-    {
-      "id": "bfe2befc7d",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "One cable mistake could be killing your desktop PC's gaming performance",
-      "detail": "Plugging your monitor into the motherboard instead of your dedicated GPU can ruin gaming performance. Here's how to check your ports and get your frames back.",
-      "url": "https://www.engadget.com/2313063/cable-mistake-desktop-pc-gaming-performance/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "e0442320a4",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Common reasons your Roku TV can turn on by itself and how to fix it",
-      "detail": "If your TV has randomly been turning on and it has a Roku attached to it, it could be your Roku's doing. Check these settings.",
-      "url": "https://www.engadget.com/2313550/roku-tv-turns-on-by-itself-common-reasons-fixes/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "066946e45d",
-      "topic": "AI",
-      "status": "Just surfaced",
-      "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
-      "detail": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls Comments URL…",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 0,
-      "days": 0,
-      "tickers": [],
-      "score": 8
-    },
-    {
-      "id": "b6eea724ab",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Apple, Meta, SpaceXAI reportedly the target of congressional investigation",
-      "detail": "submitted by /u/DeepSignature4329 [link] [comments]",
-      "url": "https://www.reddit.com/r/technology/comments/1xw87c4/apple_meta_spacexai_reportedly_the_target_of/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 0,
-      "days": 0,
-      "tickers": [
-        "AAPL"
-      ],
-      "score": 8
     }
   ],
   "watchlist": [
@@ -412,7 +338,7 @@
       "when": "Tue",
       "signals": [
         "Earnings",
-        "18 headlines",
+        "17 headlines",
         "Big price move",
         "Volume up"
       ],
@@ -518,6 +444,18 @@
       "earnings": "2026-11-17",
       "headlines": [
         {
+          "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+          "published": "2026-11-15T17:05:00+00:00"
+        },
+        {
+          "title": "How long will your NVIDIA GPU be supported?",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2313688/how-long-nvidia-gpu-supported/",
+          "published": "2026-11-15T14:45:00+00:00"
+        },
+        {
           "title": "Which NVIDIA GPU is closest to the PS5? The answer isn't so simple",
           "source": "Engadget",
           "url": "https://www.engadget.com/2313644/nvidia-gpu-ps5-closest-match-answer-not-simple/",
@@ -528,12 +466,6 @@
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
           "published": "2026-11-15T00:08:07+00:00"
-        },
-        {
-          "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-          "source": "Hacker News",
-          "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-          "published": "2026-11-14T22:26:30+00:00"
         },
         {
           "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
@@ -552,12 +484,6 @@
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
           "published": "2026-11-13T18:40:30+00:00"
-        },
-        {
-          "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-          "published": "2026-11-13T12:52:19+00:00"
         },
         {
           "title": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
@@ -580,9 +506,419 @@
       ],
       "score": 94.3,
       "brief": {
-        "what": "10 recent headlines mention NVIDIA. Latest: Which NVIDIA GPU is closest to the PS5? The answer isn't so simple",
-        "why": "Signals: earnings, 18 headlines, big price move, volume up. The stock is down 12.7% this week and down 25.0% over the month.",
+        "what": "10 recent headlines mention NVIDIA. Latest: TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+        "why": "Signals: earnings, 17 headlines, big price move, volume up. The stock is down 12.7% this week and down 25.0% over the month.",
         "watch": "Next earnings expected Tue Nov 17. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "price": 356.27,
+      "changePct": 4.1,
+      "monthChangePct": 4.3,
+      "catalyst": "Apple’s first smart glasses are coming together",
+      "when": "In the news",
+      "signals": [
+        "6 headlines"
+      ],
+      "spark": [
+        343.91,
+        342.11,
+        350.42,
+        348.25,
+        355.36,
+        354.88,
+        356.27
+      ],
+      "history": [
+        {
+          "d": "2026-10-15",
+          "c": 341.74
+        },
+        {
+          "d": "2026-10-16",
+          "c": 343.2
+        },
+        {
+          "d": "2026-10-19",
+          "c": 342.68
+        },
+        {
+          "d": "2026-10-20",
+          "c": 339.24
+        },
+        {
+          "d": "2026-10-21",
+          "c": 343.73
+        },
+        {
+          "d": "2026-10-22",
+          "c": 347.96
+        },
+        {
+          "d": "2026-10-23",
+          "c": 347.47
+        },
+        {
+          "d": "2026-10-26",
+          "c": 343.65
+        },
+        {
+          "d": "2026-10-27",
+          "c": 346.84
+        },
+        {
+          "d": "2026-10-28",
+          "c": 343.57
+        },
+        {
+          "d": "2026-10-29",
+          "c": 348.65
+        },
+        {
+          "d": "2026-10-30",
+          "c": 344.37
+        },
+        {
+          "d": "2026-11-02",
+          "c": 338.06
+        },
+        {
+          "d": "2026-11-03",
+          "c": 331.65
+        },
+        {
+          "d": "2026-11-04",
+          "c": 349.24
+        },
+        {
+          "d": "2026-11-05",
+          "c": 343.91
+        },
+        {
+          "d": "2026-11-06",
+          "c": 342.11
+        },
+        {
+          "d": "2026-11-09",
+          "c": 350.42
+        },
+        {
+          "d": "2026-11-10",
+          "c": 348.25
+        },
+        {
+          "d": "2026-11-11",
+          "c": 355.36
+        },
+        {
+          "d": "2026-11-12",
+          "c": 354.88
+        },
+        {
+          "d": "2026-11-13",
+          "c": 356.27
+        }
+      ],
+      "earnings": "2027-01-28",
+      "headlines": [
+        {
+          "title": "Apple’s first smart glasses are coming together",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
+          "published": "2026-11-15T16:59:16+00:00"
+        },
+        {
+          "title": "iPhone Duo Vs Oppo Find N6: How these foldables compare",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2313699/iphone-duo-vs-oppo-find-n6-foldable-comparison/",
+          "published": "2026-11-15T15:30:00+00:00"
+        },
+        {
+          "title": "The hidden features every Apple Maps user should know about",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2313048/apple-maps-hidden-features-users-should-know/",
+          "published": "2026-11-15T13:30:00+00:00"
+        },
+        {
+          "title": "The right way to transfer your Spotify playlists and songs to Apple Music",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2311090/how-to-transfer-spotify-playlist-songs-to-apple-music/",
+          "published": "2026-11-15T13:15:00+00:00"
+        },
+        {
+          "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+          "source": "Hacker News",
+          "url": "https://retrocomputing.stackexchange.com/questions/17957",
+          "published": "2026-11-14T22:22:49+00:00"
+        },
+        {
+          "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+          "published": "2026-11-14T18:00:00+00:00"
+        }
+      ],
+      "score": 38.3,
+      "brief": {
+        "what": "6 recent headlines mention Apple. Latest: Apple’s first smart glasses are coming together",
+        "why": "Signals: 6 headlines. The stock is up 4.1% this week and up 4.3% over the month.",
+        "watch": "Next earnings expected Thu Jan 28. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "price": 523.88,
+      "changePct": -1.3,
+      "monthChangePct": -2.9,
+      "catalyst": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests — email warning system fails, 40 first responders deployed for triage, four hospitalized",
+      "when": "In the news",
+      "signals": [
+        "5 headlines"
+      ],
+      "spark": [
+        535.93,
+        530.61,
+        545.18,
+        533.16,
+        521.13,
+        523.0,
+        523.88
+      ],
+      "history": [
+        {
+          "d": "2026-10-15",
+          "c": 539.44
+        },
+        {
+          "d": "2026-10-16",
+          "c": 529.05
+        },
+        {
+          "d": "2026-10-19",
+          "c": 533.52
+        },
+        {
+          "d": "2026-10-20",
+          "c": 531.87
+        },
+        {
+          "d": "2026-10-21",
+          "c": 532.95
+        },
+        {
+          "d": "2026-10-22",
+          "c": 521.08
+        },
+        {
+          "d": "2026-10-23",
+          "c": 524.51
+        },
+        {
+          "d": "2026-10-26",
+          "c": 532.6
+        },
+        {
+          "d": "2026-10-27",
+          "c": 531.33
+        },
+        {
+          "d": "2026-10-28",
+          "c": 531.01
+        },
+        {
+          "d": "2026-10-29",
+          "c": 530.14
+        },
+        {
+          "d": "2026-10-30",
+          "c": 521.91
+        },
+        {
+          "d": "2026-11-02",
+          "c": 507.12
+        },
+        {
+          "d": "2026-11-03",
+          "c": 520.99
+        },
+        {
+          "d": "2026-11-04",
+          "c": 555.8
+        },
+        {
+          "d": "2026-11-05",
+          "c": 535.93
+        },
+        {
+          "d": "2026-11-06",
+          "c": 530.61
+        },
+        {
+          "d": "2026-11-09",
+          "c": 545.18
+        },
+        {
+          "d": "2026-11-10",
+          "c": 533.16
+        },
+        {
+          "d": "2026-11-11",
+          "c": 521.13
+        },
+        {
+          "d": "2026-11-12",
+          "c": 523.0
+        },
+        {
+          "d": "2026-11-13",
+          "c": 523.88
+        }
+      ],
+      "earnings": "2027-01-27",
+      "headlines": [
+        {
+          "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+          "published": "2026-11-13T13:15:20+00:00"
+        },
+        {
+          "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+          "published": "2026-11-03T16:03:13+00:00"
+        }
+      ],
+      "score": 27.5,
+      "brief": {
+        "what": "2 recent headlines mention Microsoft. Latest: Microsoft’s latest email outage turned into a full-blown global cloud crisis",
+        "why": "Signals: 5 headlines. The stock is down 1.3% this week and down 2.9% over the month.",
+        "watch": "Next earnings expected Wed Jan 27. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron",
+      "price": 778.31,
+      "changePct": 12.8,
+      "monthChangePct": -16.4,
+      "catalyst": "Judge Allows DRAM Supply Conspiracy Suit Against Samsung, SK Hynix, Micron to Proceed",
+      "when": "In the news",
+      "signals": [
+        "Big price move"
+      ],
+      "spark": [
+        656.39,
+        690.0,
+        733.15,
+        725.11,
+        811.3,
+        798.44,
+        778.31
+      ],
+      "history": [
+        {
+          "d": "2026-10-15",
+          "c": 931.24
+        },
+        {
+          "d": "2026-10-16",
+          "c": 878.84
+        },
+        {
+          "d": "2026-10-19",
+          "c": 904.9
+        },
+        {
+          "d": "2026-10-20",
+          "c": 896.07
+        },
+        {
+          "d": "2026-10-21",
+          "c": 913.67
+        },
+        {
+          "d": "2026-10-22",
+          "c": 856.49
+        },
+        {
+          "d": "2026-10-23",
+          "c": 877.55
+        },
+        {
+          "d": "2026-10-26",
+          "c": 903.7
+        },
+        {
+          "d": "2026-10-27",
+          "c": 928.76
+        },
+        {
+          "d": "2026-10-28",
+          "c": 983.23
+        },
+        {
+          "d": "2026-10-29",
+          "c": 934.27
+        },
+        {
+          "d": "2026-10-30",
+          "c": 884.74
+        },
+        {
+          "d": "2026-11-02",
+          "c": 833.59
+        },
+        {
+          "d": "2026-11-03",
+          "c": 855.1
+        },
+        {
+          "d": "2026-11-04",
+          "c": 795.23
+        },
+        {
+          "d": "2026-11-05",
+          "c": 656.39
+        },
+        {
+          "d": "2026-11-06",
+          "c": 690.0
+        },
+        {
+          "d": "2026-11-09",
+          "c": 733.15
+        },
+        {
+          "d": "2026-11-10",
+          "c": 725.11
+        },
+        {
+          "d": "2026-11-11",
+          "c": 811.3
+        },
+        {
+          "d": "2026-11-12",
+          "c": 798.44
+        },
+        {
+          "d": "2026-11-13",
+          "c": 778.31
+        }
+      ],
+      "earnings": "2026-12-23",
+      "headlines": [],
+      "score": 25.0,
+      "brief": {
+        "what": "No major headlines about Micron in the last two weeks.",
+        "why": "Signals: big price move. The stock is up 12.8% this week and down 16.4% over the month.",
+        "watch": "Next earnings expected Wed Dec 23. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
@@ -595,7 +931,6 @@
       "catalyst": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
       "when": "In the news",
       "signals": [
-        "2 headlines",
         "Big price move"
       ],
       "spark": [
@@ -704,405 +1039,13 @@
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
           "published": "2026-11-14T20:04:44+00:00"
-        },
-        {
-          "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
-          "published": "2026-11-14T14:18:36+00:00"
         }
       ],
-      "score": 27.9,
+      "score": 22.9,
       "brief": {
-        "what": "2 recent headlines mention Tesla. Latest: Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
-        "why": "Signals: 2 headlines, big price move. The stock is up 8.9% this week and up 7.7% over the month.",
+        "what": "1 recent headline mentions Tesla. Latest: Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+        "why": "Signals: big price move. The stock is up 8.9% this week and up 7.7% over the month.",
         "watch": "Next earnings expected Wed Jan 27. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "price": 356.27,
-      "changePct": 4.1,
-      "monthChangePct": 4.3,
-      "catalyst": "How did Woz write the Apple 1 BASIC before building the computer?",
-      "when": "In the news",
-      "signals": [
-        "3 headlines"
-      ],
-      "spark": [
-        343.91,
-        342.11,
-        350.42,
-        348.25,
-        355.36,
-        354.88,
-        356.27
-      ],
-      "history": [
-        {
-          "d": "2026-10-15",
-          "c": 341.74
-        },
-        {
-          "d": "2026-10-16",
-          "c": 343.2
-        },
-        {
-          "d": "2026-10-19",
-          "c": 342.68
-        },
-        {
-          "d": "2026-10-20",
-          "c": 339.24
-        },
-        {
-          "d": "2026-10-21",
-          "c": 343.73
-        },
-        {
-          "d": "2026-10-22",
-          "c": 347.96
-        },
-        {
-          "d": "2026-10-23",
-          "c": 347.47
-        },
-        {
-          "d": "2026-10-26",
-          "c": 343.65
-        },
-        {
-          "d": "2026-10-27",
-          "c": 346.84
-        },
-        {
-          "d": "2026-10-28",
-          "c": 343.57
-        },
-        {
-          "d": "2026-10-29",
-          "c": 348.65
-        },
-        {
-          "d": "2026-10-30",
-          "c": 344.37
-        },
-        {
-          "d": "2026-11-02",
-          "c": 338.06
-        },
-        {
-          "d": "2026-11-03",
-          "c": 331.65
-        },
-        {
-          "d": "2026-11-04",
-          "c": 349.24
-        },
-        {
-          "d": "2026-11-05",
-          "c": 343.91
-        },
-        {
-          "d": "2026-11-06",
-          "c": 342.11
-        },
-        {
-          "d": "2026-11-09",
-          "c": 350.42
-        },
-        {
-          "d": "2026-11-10",
-          "c": 348.25
-        },
-        {
-          "d": "2026-11-11",
-          "c": 355.36
-        },
-        {
-          "d": "2026-11-12",
-          "c": 354.88
-        },
-        {
-          "d": "2026-11-13",
-          "c": 356.27
-        }
-      ],
-      "earnings": "2027-01-28",
-      "headlines": [
-        {
-          "title": "Got an iPhone Duo? These 9 settings make it easier to use",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
-          "published": "2026-11-14T18:00:00+00:00"
-        }
-      ],
-      "score": 23.3,
-      "brief": {
-        "what": "1 recent headline mentions Apple. Latest: Got an iPhone Duo? These 9 settings make it easier to use There is also a rumor making the rounds: Apple, Meta, SpaceXAI reportedly the target of congressional investigation",
-        "why": "Signals: 3 headlines. The stock is up 4.1% this week and up 4.3% over the month.",
-        "watch": "Next earnings expected Thu Jan 28. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "GOOGL",
-      "name": "Alphabet",
-      "price": 295.77,
-      "changePct": 3.9,
-      "monthChangePct": -15.3,
-      "catalyst": "This underrated Google Health app feature can make food tracking less annoying",
-      "when": "In the news",
-      "signals": [
-        "3 headlines"
-      ],
-      "spark": [
-        282.57,
-        284.78,
-        288.15,
-        287.38,
-        293.45,
-        298.7,
-        295.77
-      ],
-      "history": [
-        {
-          "d": "2026-10-15",
-          "c": 349.22
-        },
-        {
-          "d": "2026-10-16",
-          "c": 340.59
-        },
-        {
-          "d": "2026-10-19",
-          "c": 344.18
-        },
-        {
-          "d": "2026-10-20",
-          "c": 340.28
-        },
-        {
-          "d": "2026-10-21",
-          "c": 334.76
-        },
-        {
-          "d": "2026-10-22",
-          "c": 324.22
-        },
-        {
-          "d": "2026-10-23",
-          "c": 320.21
-        },
-        {
-          "d": "2026-10-26",
-          "c": 316.8
-        },
-        {
-          "d": "2026-10-27",
-          "c": 320.58
-        },
-        {
-          "d": "2026-10-28",
-          "c": 324.89
-        },
-        {
-          "d": "2026-10-29",
-          "c": 283.82
-        },
-        {
-          "d": "2026-10-30",
-          "c": 279.84
-        },
-        {
-          "d": "2026-11-02",
-          "c": 278.99
-        },
-        {
-          "d": "2026-11-03",
-          "c": 280.03
-        },
-        {
-          "d": "2026-11-04",
-          "c": 288.93
-        },
-        {
-          "d": "2026-11-05",
-          "c": 282.57
-        },
-        {
-          "d": "2026-11-06",
-          "c": 284.78
-        },
-        {
-          "d": "2026-11-09",
-          "c": 288.15
-        },
-        {
-          "d": "2026-11-10",
-          "c": 287.38
-        },
-        {
-          "d": "2026-11-11",
-          "c": 293.45
-        },
-        {
-          "d": "2026-11-12",
-          "c": 298.7
-        },
-        {
-          "d": "2026-11-13",
-          "c": 295.77
-        }
-      ],
-      "earnings": null,
-      "headlines": [
-        {
-          "title": "This underrated Google Health app feature can make food tracking less annoying",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2312924/underrated-google-health-app-food-tracker/",
-          "published": "2026-11-14T22:30:00+00:00"
-        },
-        {
-          "title": "How to get better results from Google Gemini",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2312834/how-to-get-better-results-google-gemini/",
-          "published": "2026-11-14T22:15:00+00:00"
-        },
-        {
-          "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
-          "published": "2026-11-12T18:05:41+00:00"
-        }
-      ],
-      "score": 22.7,
-      "brief": {
-        "what": "3 recent headlines mention Alphabet. Latest: This underrated Google Health app feature can make food tracking less annoying",
-        "why": "Signals: 3 headlines. The stock is up 3.9% this week and down 15.3% over the month.",
-        "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD",
-      "price": 534.06,
-      "changePct": 18.9,
-      "monthChangePct": -5.0,
-      "catalyst": "Up 19% this week",
-      "when": "Price",
-      "signals": [
-        "Big price move"
-      ],
-      "spark": [
-        404.4,
-        449.04,
-        508.58,
-        515.21,
-        552.9,
-        585.3,
-        534.06
-      ],
-      "history": [
-        {
-          "d": "2026-10-15",
-          "c": 562.23
-        },
-        {
-          "d": "2026-10-16",
-          "c": 528.75
-        },
-        {
-          "d": "2026-10-19",
-          "c": 538.05
-        },
-        {
-          "d": "2026-10-20",
-          "c": 534.74
-        },
-        {
-          "d": "2026-10-21",
-          "c": 552.72
-        },
-        {
-          "d": "2026-10-22",
-          "c": 507.93
-        },
-        {
-          "d": "2026-10-23",
-          "c": 516.79
-        },
-        {
-          "d": "2026-10-26",
-          "c": 531.28
-        },
-        {
-          "d": "2026-10-27",
-          "c": 560.26
-        },
-        {
-          "d": "2026-10-28",
-          "c": 578.44
-        },
-        {
-          "d": "2026-10-29",
-          "c": 566.42
-        },
-        {
-          "d": "2026-10-30",
-          "c": 504.8
-        },
-        {
-          "d": "2026-11-02",
-          "c": 466.84
-        },
-        {
-          "d": "2026-11-03",
-          "c": 483.9
-        },
-        {
-          "d": "2026-11-04",
-          "c": 488.78
-        },
-        {
-          "d": "2026-11-05",
-          "c": 404.4
-        },
-        {
-          "d": "2026-11-06",
-          "c": 449.04
-        },
-        {
-          "d": "2026-11-09",
-          "c": 508.58
-        },
-        {
-          "d": "2026-11-10",
-          "c": 515.21
-        },
-        {
-          "d": "2026-11-11",
-          "c": 552.9
-        },
-        {
-          "d": "2026-11-12",
-          "c": 585.3
-        },
-        {
-          "d": "2026-11-13",
-          "c": 534.06
-        }
-      ],
-      "earnings": "2027-02-02",
-      "headlines": [],
-      "score": 22.4,
-      "brief": {
-        "what": "No major headlines about AMD in the last two weeks.",
-        "why": "Signals: big price move. The stock is up 18.9% this week and down 5.0% over the month.",
-        "watch": "Next earnings expected Tue Feb 2. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
