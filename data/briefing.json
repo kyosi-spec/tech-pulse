@@ -1,335 +1,312 @@
 {
   "weekOf": "2026-11-16",
-  "updated": "2026-11-17T04:29:02+00:00",
+  "updated": "2026-11-17T19:50:31+00:00",
   "summary": [
-    "Tech leads the news with 9 of 25 stories. Top headline: Buying a used phone? Make sure to check the IMEI first",
+    "Tech leads the news with 11 of 25 stories. Top headline: Waymo suspends freeway rides nationwide after California DMV order",
     "Earnings this week from NVDA, DELL.",
-    "Strongest rumor: Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security"
+    "Strongest rumor: Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI"
   ],
   "stories": [
     {
-      "id": "66823abd2d",
+      "id": "f1954b5e38",
       "topic": "Tech",
       "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-17T01:30:00+00:00",
-      "title": "Buying a used phone? Make sure to check the IMEI first",
-      "summary": "One of the most important parts of buying a used phone involves the device's IMEI number - which can reveal whether it has sketchy history and more.",
-      "url": "https://www.engadget.com/2315183/buying-used-phone-check-imei-first/",
+      "source": "TechCrunch",
+      "published": "2026-11-17T19:49:41+00:00",
+      "title": "Waymo suspends freeway rides nationwide after California DMV order",
+      "summary": "The California Department of Motor Vehicles, which regulates the testing and deployment of autonomous vehicles in the state, issued the operational restrictions on Waymo following several incidents.",
+      "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
       "tickers": []
     },
     {
-      "id": "43e63a42f2",
+      "id": "66f669fccd",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-11-17T19:38:42+00:00",
+      "title": "Framework’s better couch keyboard is now available for preorder",
+      "summary": "Framework announced its Wireless Touchpad Keyboard earlier this year with the goal of delivering a better couch keyboarding experience than the Logitech K400. According to The Verge's Sean Hollister who went hands-on with Framework's new all-in-one keyboard and touchpad last…",
+      "url": "https://www.theverge.com/tech/1035805/framework-wireless-touchpad-keyboard-preorder-open",
+      "tickers": []
+    },
+    {
+      "id": "c14b9470f3",
+      "topic": "Policy",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-17T19:38:05+00:00",
+      "title": "California just banned Waymo from all state freeways",
+      "summary": "California has pulled the plug on Waymo's driverless freeway rides across the entire state, citing potential safety hazards. In a statement, the California Department of Motor Vehicles said that the ban went into effect on November 11th. The crackdown follows two recent…",
+      "url": "https://www.theverge.com/transportation/1035789/california-dmv-bans-waymo-freeways-construction-zone-safety",
+      "tickers": []
+    },
+    {
+      "id": "c28121d29e",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "Engadget",
+      "published": "2026-11-17T19:33:27+00:00",
+      "title": "Google Wallet is launching on iOS",
+      "summary": "In case you, for some reason, don't want to use the nearly identical Apple Wallet.",
+      "url": "https://www.engadget.com/2319673/google-wallet-is-launching-on-ios/",
+      "tickers": [
+        "AAPL",
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "564c609ea8",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-11-17T19:32:11+00:00",
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "tickers": []
+    },
+    {
+      "id": "af4ffcbfa5",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-17T01:00:00+00:00",
-      "title": "Meta is testing Direct, a standalone messaging app for Instagram",
-      "summary": "Meta's new DM app for Instagram is only available in Turkey and Thailand, for now.",
-      "url": "https://www.engadget.com/2318452/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/",
+      "published": "2026-11-17T19:30:34+00:00",
+      "title": "3 Body Problem finally returns to Netflix on January 14",
+      "summary": "It's been nearly three years since the sci-fi adaptation first premiered.",
+      "url": "https://www.engadget.com/2319667/3-body-problem-finally-returns-to-netflix-on-january-14/",
+      "tickers": [
+        "NFLX"
+      ]
+    },
+    {
+      "id": "e88af8424e",
+      "topic": "Tech",
+      "kind": "Founder",
+      "source": "Engadget",
+      "published": "2026-11-17T19:30:00+00:00",
+      "title": "Can you use a keyboard and mouse with an Xbox Series X?",
+      "summary": "Learn how to up your Xbox game with keyboard and mouse controls.",
+      "url": "https://www.engadget.com/2315395/use-keyboard-mouse-with-xbox-series-x/",
+      "tickers": []
+    },
+    {
+      "id": "14221e5d3c",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-17T19:19:10+00:00",
+      "title": "JBL’s headphones that are great for in-flight entertainment are 67 percent off",
+      "summary": "If you’re looking to upgrade your headphones before the big wave of Black Friday deals arrives, you can buy JBL’s Tour One M3 for a new low price of $149 ($300 off) at Amazon, Best Buy, and directly from JBL. The deal is so good that my colleague John Higgins, The Verge’s audio…",
+      "url": "https://www.theverge.com/gadgets/1035085/jbl-tour-one-m3-deal-sale-black-friday-2026",
+      "tickers": [
+        "AMZN"
+      ]
+    },
+    {
+      "id": "8ef964ef96",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-17T19:02:20+00:00",
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "45ab1c5e96",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-17T19:00:00+00:00",
+      "title": "What exactly are Flock cameras and how can you spot one?",
+      "summary": "Flock cameras are showing up at intersections and neighborhood entrances. Learn what they are capable of and how to spot one before you drive past.",
+      "url": "https://www.engadget.com/2315371/what-are-flock-cameras-how-to-spot/",
+      "tickers": []
+    },
+    {
+      "id": "0305387ee5",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-17T18:58:01+00:00",
+      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+      "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might…",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "940efc306c",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-17T18:55:40+00:00",
+      "title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
+      "summary": "Apple's status page confirms its services are facing outages, but has not confirmed the cause.",
+      "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "ebbc5a6e1d",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-17T18:48:23+00:00",
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "0699058852",
+      "topic": "Devices",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-11-17T18:33:02+00:00",
+      "title": "Meta is testing a new standalone messaging app called Direct",
+      "summary": "Meta announced Direct, a new messaging app from Instagram that it's currently testing in Turkey and Thailand on iOS and Android. Direct is essentially Instagram's direct messaging without Instagram's other features. Meta says your Instagram chats will sync across both apps if…",
+      "url": "https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app",
       "tickers": [
         "META"
       ]
     },
     {
-      "id": "cb3a0b5df2",
-      "topic": "Security",
+      "id": "cf93650209",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "The Verge",
+      "published": "2026-11-17T18:30:03+00:00",
+      "title": "Amflow’s new urban e-bike series is deliciously overpowered for flat city streets",
+      "summary": "DJI spinoff Amflow has spent the last couple of years shaking up the electric mountain bike (eMTB) market with ridiculously high-torque, lightweight models. Today, it's bringing that same overengineered energy to pavement with the UE Series, its first urban commuter line. The…",
+      "url": "https://www.theverge.com/transportation/1035318/amflow-ue-carbon-pro-commuter-ebike-dji-avinox-price-specs",
+      "tickers": []
+    },
+    {
+      "id": "b7c103059f",
+      "topic": "AI",
       "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-17T00:30:00+00:00",
-      "title": "The important Gmail security settings you should be using",
-      "summary": "If you haven't taken steps to secure your Gmail account recently, it's time to log in and make sure these settings are squared away.",
-      "url": "https://www.engadget.com/2315195/gmail-security-settings-most-important-use/",
-      "tickers": []
-    },
-    {
-      "id": "55fa3d3245",
-      "topic": "Chips",
-      "kind": "Founder",
-      "source": "Engadget",
-      "published": "2026-11-17T00:00:00+00:00",
-      "title": "Whether it's Black Friday or a CEO scandal, NVIDIA GPUs just don't get deep discounts",
-      "summary": "Hoping the Jensen Huang fallout means cheap RTX cards this Black Friday? Here's what's really driving GPU prices and why deals may be hard to find.",
-      "url": "https://www.engadget.com/2318262/nvidia-gou-dont-get-deep-discounts-black-friend-ceo-scandal/",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "45e170674e",
-      "topic": "Startups",
-      "kind": "Founder",
       "source": "TechCrunch",
-      "published": "2026-11-16T23:32:32+00:00",
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "published": "2026-11-17T18:10:00+00:00",
+      "title": "As decision model use skyrockets, is customization the next frontier?",
+      "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
       "tickers": []
     },
     {
-      "id": "f1b1e14eaf",
+      "id": "a9016c2a0e",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-16T23:30:00+00:00",
-      "title": "How to put your iPad in recovery mode (with and without a home button)",
-      "summary": "A failed update or too many wrong passcodes can leave your iPad unusable. Find out how recovery mode works and when it's worth trying as a last resort.",
-      "url": "https://www.engadget.com/2315100/how-to-put-ipad-in-recovery-mode/",
+      "published": "2026-11-17T18:07:29+00:00",
+      "title": "Grado's GW200 headphones boast fresh drivers and a longer battery life",
+      "summary": "They run $329 and are up for preorder now.",
+      "url": "https://www.engadget.com/2319483/grados-gw200-headphones-boast-fresh-drivers-and-a-longer-battery-life/",
       "tickers": []
     },
     {
-      "id": "98320b78b8",
-      "topic": "Chips",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-16T23:17:34+00:00",
-      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the…",
-      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "8e6365e0fa",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-16T23:00:34+00:00",
-      "title": "Optimizely compromised, served malware on Zoom, GitLab",
-      "summary": "Article URL: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/ Comments URL: https://news.ycombinator.com/item?id=50524767 Points: 178 # Comments: 89",
-      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "id": "c0810a1067",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-11-17T18:04:16+00:00",
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
       "tickers": []
     },
     {
-      "id": "ec2a5282d1",
+      "id": "29643f736f",
       "topic": "Devices",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-16T23:00:00+00:00",
-      "title": "The charging mistakes that could ruin your Nintendo Switch's battery",
-      "summary": "To avoid turning your Nintendo Switch into just another stationary console, there are a few common and easy-to-overlook charging mistakes you'll want to avoid",
-      "url": "https://www.engadget.com/2314944/nintendo-switch-charging-mistakes-ruin-battery/",
-      "tickers": []
-    },
-    {
-      "id": "5344cc6a87",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-16T22:58:20+00:00",
-      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-      "summary": "Article URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/ Comments URL: https://news.ycombinator.com/item?id=50524736 Points: 359 # Comments: 222",
-      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-      "tickers": []
-    },
-    {
-      "id": "8e436a0efa",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-16T22:54:59+00:00",
-      "title": "United Airlines system outage disrupts departures just days after the big ground stop",
-      "summary": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. At 6:13PM ET, United said the problem has been fixed: Earlier today we experienced a…",
-      "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
-      "tickers": []
-    },
-    {
-      "id": "3044b395b3",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-16T22:38:43+00:00",
-      "title": "United Airlines has fixed issue that caused 'widespread system outage'",
-      "summary": "United is apparently experiencing a major outage just days after a nationwide ground stop halted thousands of flights.",
-      "url": "https://www.engadget.com/2318613/united-airlines-is-experiencing-a-widespread-system-outage/",
-      "tickers": []
-    },
-    {
-      "id": "639de075ec",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-16T22:12:31+00:00",
-      "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
-      "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
-      "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
-      "tickers": []
-    },
-    {
-      "id": "4215a39cda",
-      "topic": "Chips",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-11-16T22:03:02+00:00",
-      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
-      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "37a2561488",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-16T21:41:57+00:00",
-      "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
-      "summary": "Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building massive followings with content focused on chemical biohacking. Were it not…",
-      "url": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
-      "tickers": []
-    },
-    {
-      "id": "7c7f2c1c09",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-16T21:32:17+00:00",
-      "title": "BugMeNot has closed",
-      "summary": "Article URL: https://www.bugmenot.com/ Comments URL: https://news.ycombinator.com/item?id=50523601 Points: 396 # Comments: 197",
-      "url": "https://www.bugmenot.com/",
-      "tickers": []
-    },
-    {
-      "id": "0c6252d538",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-16T21:20:37+00:00",
-      "title": "OpenCode Browse",
-      "summary": "Article URL: https://opencode.ai/product/browse Comments URL: https://news.ycombinator.com/item?id=50523459 Points: 168 # Comments: 76",
-      "url": "https://opencode.ai/product/browse",
-      "tickers": []
-    },
-    {
-      "id": "8cbdf8677b",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-16T21:17:24+00:00",
-      "title": "The iPhone Duo gets face unlock with the latest iOS 27 beta.",
-      "summary": "You won't need to wait for TouchID on your $2,000 foldable.",
-      "url": "https://www.engadget.com/2318489/iphone-duo-gets-face-unlock-with-the-latest-ios-27-beta/",
+      "published": "2026-11-17T18:00:00+00:00",
+      "title": "Ways to tell if someone blocked your phone number on iPhone",
+      "summary": "Unanswered calls and missing read receipts don't always mean a block. See which signs are worth noticing and what else could be going on instead.",
+      "url": "https://www.engadget.com/2315321/signs-someone-blocked-your-number-iphone/",
       "tickers": [
         "AAPL"
       ]
     },
     {
-      "id": "b905323bdd",
-      "topic": "AI",
+      "id": "c578ba2cd5",
+      "topic": "Devices",
       "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-16T21:01:02+00:00",
-      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
-      "summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
-      "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+      "source": "The Verge",
+      "published": "2026-11-17T17:50:22+00:00",
+      "title": "YouTube found a new way to inflate view counts",
+      "summary": "YouTube's view counts will now include the number of people that it estimates are watching a video together on TV. In an update on Monday, the platform says it's bringing \"co-views\" to public view counts across long-form videos, Shorts, and live content to provide a more…",
+      "url": "https://www.theverge.com/streaming/1035683/youtube-co-views-count",
+      "tickers": []
+    },
+    {
+      "id": "7505c8e80d",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-17T17:47:14+00:00",
+      "title": "Apple Services Down",
+      "summary": "Article URL: https://developer.apple.com/system-status/ Comments URL: https://news.ycombinator.com/item?id=50535238 Points: 303 # Comments: 178",
+      "url": "https://developer.apple.com/system-status/",
       "tickers": [
         "AAPL"
       ]
     },
     {
-      "id": "1801f3be1c",
-      "topic": "Devices",
-      "kind": "Launch",
-      "source": "Engadget",
-      "published": "2026-11-16T21:00:00+00:00",
-      "title": "Every Xbox console generation sorted by release date",
-      "summary": "Microsoft debuted the Xbox in 2001, and there's quite a lot to look back on from the quarter-century since the company got into gaming.",
-      "url": "https://www.engadget.com/2314891/every-xbox-console-generation-sorted-release-date/",
-      "tickers": [
-        "MSFT"
-      ]
-    },
-    {
-      "id": "9b27c0ab05",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-16T20:49:32+00:00",
-      "title": "Customers at major banks report difficulty accessing accounts online",
-      "summary": "Representatives from the companies say this is a technical problem and not a cyberattack.",
-      "url": "https://www.engadget.com/2318431/customers-at-major-banks-report-difficulty-accessing-accounts-online/",
-      "tickers": []
-    },
-    {
-      "id": "ead24ab59a",
+      "id": "6218b24f4d",
       "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-16T20:46:01+00:00",
-      "title": "California sues OpenAI over rogue AI hacking incidents",
-      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-      "tickers": []
-    },
-    {
-      "id": "951c45784a",
-      "topic": "Tech",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-11-16T20:43:36+00:00",
-      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-      "summary": "Article URL: https://www.cs.cmu.edu/learn/ Comments URL: https://news.ycombinator.com/item?id=50522980 Points: 958 # Comments: 148",
-      "url": "https://www.cs.cmu.edu/learn/",
+      "published": "2026-11-17T17:46:43+00:00",
+      "title": "GPT‑6.2 Astra and Sol",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 623 # Comments: 359",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
       "tickers": []
     },
     {
-      "id": "27bfa04343",
-      "topic": "AI",
-      "kind": "Founder",
+      "id": "61720e8563",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-17T17:45:00+00:00",
+      "title": "The easiest way to set up CarPlay for the first time",
+      "summary": "CarPlay isn't hard to start using, but you should know a few points going in for the best experience.",
+      "url": "https://www.engadget.com/2315270/easy-carplay-setup-first-time-users/",
+      "tickers": []
+    },
+    {
+      "id": "66b5957d6d",
+      "topic": "Devices",
+      "kind": "Company",
       "source": "The Verge",
-      "published": "2026-11-16T20:41:28+00:00",
-      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-      "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-      "tickers": []
+      "published": "2026-11-17T17:41:22+00:00",
+      "title": "The iPhone Duo feels far more intuitive with Apple’s new face unlock",
+      "summary": "Apple is testing adding face unlock to the iPhone Duo - not true Face ID, but something a little simpler and less secure. So far, it works great, and even with a few Apple-imposed security limitations, it makes the Duo quicker and more comfortable to use than relying on Touch ID…",
+      "url": "https://www.theverge.com/tech/1035437/iphone-duo-face-unlock-front-camera-hands-on",
+      "tickers": [
+        "AAPL"
+      ]
     },
     {
-      "id": "481311b87b",
-      "topic": "AI",
-      "kind": "Founder",
-      "source": "Ars Technica",
-      "published": "2026-11-16T20:37:47+00:00",
-      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-      "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
-      "tickers": [
-        "INTC"
-      ]
+      "id": "0cae57b6fa",
+      "topic": "Policy",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-17T17:40:38+00:00",
+      "title": "UK tribunal tosses PlayStation Store price-gouging lawsuit, citing physical games as competition",
+      "summary": "Those same physical copies are on their way out.",
+      "url": "https://www.engadget.com/2319408/uk-tribunal-tosses-playstation-store-price-gouging-lawsuit-citing-physical-games-as-competition/",
+      "tickers": []
     }
   ],
   "rumors": [
-    {
-      "id": "51cbb1776d",
-      "topic": "Chips",
-      "status": "Just surfaced",
-      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-      "detail": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-      "sources": 2,
-      "mentions": 9,
-      "credible": 1,
-      "days": 0,
-      "tickers": [
-        "NVDA"
-      ],
-      "score": 30
-    },
-    {
-      "id": "94f08d92c3",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
-      "detail": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). Kurtaj, who is now 21, hacked BT/EE sometime between August…",
-      "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
-      "sources": 2,
-      "mentions": 2,
-      "credible": 2,
-      "days": 0,
-      "tickers": [],
-      "score": 29
-    },
     {
       "id": "517b404334",
       "topic": "AI",
@@ -357,37 +334,46 @@
       "days": 4,
       "tickers": [],
       "score": 15
+    },
+    {
+      "id": "d2610597f0",
+      "topic": "AI",
+      "status": "Just surfaced",
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "detail": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 15
     }
   ],
   "watchlist": [
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "price": 156.14,
-      "changePct": -12.6,
-      "monthChangePct": -27.1,
+      "price": 152.83,
+      "changePct": -9.5,
+      "monthChangePct": -29.6,
       "catalyst": "Earnings report",
       "when": "Tue",
       "signals": [
         "Earnings",
-        "13 headlines",
-        "Big price move",
-        "Volume up"
+        "12 headlines",
+        "Big price move"
       ],
       "spark": [
-        186.64,
         178.67,
         168.89,
         173.73,
         166.19,
         162.85,
-        156.14
+        156.14,
+        152.83
       ],
       "history": [
-        {
-          "d": "2026-10-16",
-          "c": 214.13
-        },
         {
           "d": "2026-10-19",
           "c": 217.09
@@ -471,45 +457,37 @@
         {
           "d": "2026-11-16",
           "c": 156.14
+        },
+        {
+          "d": "2026-11-17",
+          "c": 152.83
         }
       ],
       "earnings": "2026-11-17",
       "headlines": [
         {
-          "title": "Whether it's Black Friday or a CEO scandal, NVIDIA GPUs just don't get deep discounts",
+          "title": "Jensen Huang Says He’s Open to Coming Back to Nvidia",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/jensen-huang-says-hes-open-to-coming-back-to-nvidia/",
+          "published": "2026-11-17T17:32:24+00:00"
+        },
+        {
+          "title": "Jensen Huang said he'd be 'honored' to return as NVIDIA CEO, because of course he would",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2318262/nvidia-gou-dont-get-deep-discounts-black-friend-ceo-scandal/",
-          "published": "2026-11-17T00:00:00+00:00"
+          "url": "https://www.engadget.com/2319382/jensen-huang-said-hed-be-honored-to-return-as-nvidia-ceo-because-of-course-he-would/",
+          "published": "2026-11-17T17:29:48+00:00"
         },
         {
-          "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+          "title": "NVIDIA establishes export control committee following Jensen Huang resignation",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2319262/nvidia-establishes-export-control-committee-following-jensen-huang-resignation/",
+          "published": "2026-11-17T16:33:21+00:00"
+        },
+        {
+          "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-          "published": "2026-11-16T22:03:02+00:00"
-        },
-        {
-          "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-          "published": "2026-11-16T19:12:02+00:00"
-        },
-        {
-          "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-          "published": "2026-11-16T18:11:10+00:00"
-        },
-        {
-          "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
-          "published": "2026-11-16T11:00:00+00:00"
-        },
-        {
-          "title": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-          "published": "2026-11-13T01:17:49+00:00"
+          "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+          "published": "2026-11-17T14:05:30+00:00"
         },
         {
           "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
@@ -524,10 +502,10 @@
           "published": "2026-11-11T15:30:00+00:00"
         }
       ],
-      "score": 92.9,
+      "score": 89.7,
       "brief": {
-        "what": "8 recent headlines mention NVIDIA. Latest: Whether it's Black Friday or a CEO scandal, NVIDIA GPUs just don't get deep discounts There is also a rumor making the rounds: Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-        "why": "Signals: earnings, 13 headlines, big price move, volume up. The stock is down 12.6% this week and down 27.1% over the month.",
+        "what": "6 recent headlines mention NVIDIA. Latest: Jensen Huang Says He’s Open to Coming Back to Nvidia",
+        "why": "Signals: earnings, 12 headlines, big price move. The stock is down 9.5% this week and down 29.6% over the month.",
         "watch": "Next earnings expected Tue Nov 17. Results and guidance usually move the stock most.",
         "ai": false
       }
@@ -535,29 +513,24 @@
     {
       "ticker": "DELL",
       "name": "Dell",
-      "price": 320.55,
-      "changePct": -7.4,
-      "monthChangePct": -28.9,
+      "price": 318.8,
+      "changePct": -4.7,
+      "monthChangePct": -29.9,
       "catalyst": "Earnings report",
       "when": "Tue",
       "signals": [
-        "Earnings",
-        "Big price move"
+        "Earnings"
       ],
       "spark": [
-        328.53,
         346.31,
         334.38,
         373.68,
         371.17,
         344.53,
-        320.55
+        320.55,
+        318.8
       ],
       "history": [
-        {
-          "d": "2026-10-16",
-          "c": 451.09
-        },
         {
           "d": "2026-10-19",
           "c": 454.81
@@ -641,176 +614,43 @@
         {
           "d": "2026-11-16",
           "c": 320.55
+        },
+        {
+          "d": "2026-11-17",
+          "c": 318.8
         }
       ],
       "earnings": "2026-11-24",
       "headlines": [],
-      "score": 55.6,
+      "score": 49.3,
       "brief": {
         "what": "No major headlines about Dell in the last two weeks.",
-        "why": "Signals: earnings, big price move. The stock is down 7.4% this week and down 28.9% over the month.",
+        "why": "Signals: earnings. The stock is down 4.7% this week and down 29.9% over the month.",
         "watch": "Next earnings expected Tue Nov 24. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft",
-      "price": 517.99,
-      "changePct": -5.0,
-      "monthChangePct": -2.1,
-      "catalyst": "Users, admins report new Microsoft 365 outage with Exchange, Outlook, Excel, hit",
-      "when": "In the news",
-      "signals": [
-        "4 headlines"
-      ],
-      "spark": [
-        530.61,
-        545.18,
-        533.16,
-        521.13,
-        523.0,
-        523.88,
-        517.99
-      ],
-      "history": [
-        {
-          "d": "2026-10-16",
-          "c": 529.05
-        },
-        {
-          "d": "2026-10-19",
-          "c": 533.52
-        },
-        {
-          "d": "2026-10-20",
-          "c": 531.87
-        },
-        {
-          "d": "2026-10-21",
-          "c": 532.95
-        },
-        {
-          "d": "2026-10-22",
-          "c": 521.08
-        },
-        {
-          "d": "2026-10-23",
-          "c": 524.51
-        },
-        {
-          "d": "2026-10-26",
-          "c": 532.6
-        },
-        {
-          "d": "2026-10-27",
-          "c": 531.33
-        },
-        {
-          "d": "2026-10-28",
-          "c": 531.01
-        },
-        {
-          "d": "2026-10-29",
-          "c": 530.14
-        },
-        {
-          "d": "2026-10-30",
-          "c": 521.91
-        },
-        {
-          "d": "2026-11-02",
-          "c": 507.12
-        },
-        {
-          "d": "2026-11-03",
-          "c": 520.99
-        },
-        {
-          "d": "2026-11-04",
-          "c": 555.8
-        },
-        {
-          "d": "2026-11-05",
-          "c": 535.93
-        },
-        {
-          "d": "2026-11-06",
-          "c": 530.61
-        },
-        {
-          "d": "2026-11-09",
-          "c": 545.18
-        },
-        {
-          "d": "2026-11-10",
-          "c": 533.16
-        },
-        {
-          "d": "2026-11-11",
-          "c": 521.13
-        },
-        {
-          "d": "2026-11-12",
-          "c": 523.0
-        },
-        {
-          "d": "2026-11-13",
-          "c": 523.88
-        },
-        {
-          "d": "2026-11-16",
-          "c": 517.99
-        }
-      ],
-      "earnings": "2027-01-27",
-      "headlines": [
-        {
-          "title": "Microsoft blames monster email outage on software defect introduced in July fix",
-          "source": "Hacker News",
-          "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
-          "published": "2026-11-16T13:18:22+00:00"
-        },
-        {
-          "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
-          "published": "2026-11-03T16:03:13+00:00"
-        }
-      ],
-      "score": 30.7,
-      "brief": {
-        "what": "2 recent headlines mention Microsoft. Latest: Microsoft blames monster email outage on software defect introduced in July fix",
-        "why": "Signals: 4 headlines. The stock is down 5.0% this week and down 2.1% over the month.",
-        "watch": "Next earnings expected Wed Jan 27. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
     {
       "ticker": "GOOGL",
       "name": "Alphabet",
-      "price": 283.72,
-      "changePct": -1.5,
-      "monthChangePct": -16.7,
-      "catalyst": "Which Google Pixel phone is most similar to the Galaxy S26+?",
+      "price": 279.85,
+      "changePct": -2.6,
+      "monthChangePct": -18.7,
+      "catalyst": "Google Wallet is launching on iOS",
       "when": "In the news",
       "signals": [
-        "5 headlines"
+        "8 headlines"
       ],
       "spark": [
-        284.78,
         288.15,
         287.38,
         293.45,
         298.7,
         295.77,
-        283.72
+        283.72,
+        279.85
       ],
       "history": [
-        {
-          "d": "2026-10-16",
-          "c": 340.59
-        },
         {
           "d": "2026-10-19",
           "c": 344.18
@@ -894,33 +734,55 @@
         {
           "d": "2026-11-16",
           "c": 283.72
+        },
+        {
+          "d": "2026-11-17",
+          "c": 279.85
         }
       ],
       "earnings": null,
       "headlines": [
         {
-          "title": "Which Google Pixel phone is most similar to the Galaxy S26+?",
+          "title": "Google Wallet is launching on iOS",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2314824/google-pixel-phone-most-similar-to-galaxy-s26-plus/",
-          "published": "2026-11-16T19:30:00+00:00"
+          "url": "https://www.engadget.com/2319673/google-wallet-is-launching-on-ios/",
+          "published": "2026-11-17T19:33:27+00:00"
         },
         {
-          "title": "Google Maps' chatbot can find appointments and call to book them for you",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2318186/google-maps-chatbot-can-find-appointments-and-call-to-book-them-for-you/",
-          "published": "2026-11-16T19:17:00+00:00"
-        },
-        {
-          "title": "Google adds 66 regional dialects to Gemini",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2317417/google-adds-66-regional-dialects-to-gemini/",
-          "published": "2026-11-16T17:00:00+00:00"
-        },
-        {
-          "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+          "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
-          "published": "2026-11-16T14:48:13+00:00"
+          "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+          "published": "2026-11-17T19:02:20+00:00"
+        },
+        {
+          "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+          "published": "2026-11-17T18:58:01+00:00"
+        },
+        {
+          "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+          "published": "2026-11-17T18:48:23+00:00"
+        },
+        {
+          "title": "Google Pixel Tag review: Simple but effective",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2319280/google-pixel-tag-review/",
+          "published": "2026-11-17T17:00:00+00:00"
+        },
+        {
+          "title": "The hidden features every Google Maps user should know about",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2315026/google-maps-hidden-features-users-should-know/",
+          "published": "2026-11-17T14:45:00+00:00"
+        },
+        {
+          "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+          "published": "2026-11-17T10:47:45+00:00"
         },
         {
           "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
@@ -929,144 +791,276 @@
           "published": "2026-11-12T18:05:41+00:00"
         }
       ],
-      "score": 28.1,
+      "score": 35.2,
       "brief": {
-        "what": "5 recent headlines mention Alphabet. Latest: Which Google Pixel phone is most similar to the Galaxy S26+?",
-        "why": "Signals: 5 headlines. The stock is down 1.5% this week and down 16.7% over the month.",
+        "what": "8 recent headlines mention Alphabet. Latest: Google Wallet is launching on iOS",
+        "why": "Signals: 8 headlines. The stock is down 2.6% this week and down 18.7% over the month.",
         "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
     },
     {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "price": 257.75,
-      "changePct": -3.4,
-      "monthChangePct": 3.1,
-      "catalyst": "Improve your Amazon Kindle experience by doing these simple things",
+      "ticker": "AAPL",
+      "name": "Apple",
+      "price": 350.83,
+      "changePct": 0.7,
+      "monthChangePct": 2.4,
+      "catalyst": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
       "when": "In the news",
       "signals": [
-        "4 headlines"
+        "7 headlines"
       ],
       "spark": [
-        259.3,
-        266.93,
-        270.87,
-        266.17,
-        267.44,
-        266.66,
-        257.75
+        350.42,
+        348.25,
+        355.36,
+        354.88,
+        356.27,
+        352.78,
+        350.83
       ],
       "history": [
         {
-          "d": "2026-10-16",
-          "c": 250.0
-        },
-        {
           "d": "2026-10-19",
-          "c": 262.45
+          "c": 342.68
         },
         {
           "d": "2026-10-20",
-          "c": 262.63
+          "c": 339.24
         },
         {
           "d": "2026-10-21",
-          "c": 262.37
+          "c": 343.73
         },
         {
           "d": "2026-10-22",
-          "c": 250.38
+          "c": 347.96
         },
         {
           "d": "2026-10-23",
-          "c": 248.0
+          "c": 347.47
         },
         {
           "d": "2026-10-26",
-          "c": 249.09
+          "c": 343.65
         },
         {
           "d": "2026-10-27",
-          "c": 253.1
+          "c": 346.84
         },
         {
           "d": "2026-10-28",
-          "c": 254.6
+          "c": 343.57
         },
         {
           "d": "2026-10-29",
-          "c": 243.79
+          "c": 348.65
         },
         {
           "d": "2026-10-30",
-          "c": 240.35
+          "c": 344.37
         },
         {
           "d": "2026-11-02",
-          "c": 245.63
+          "c": 338.06
         },
         {
           "d": "2026-11-03",
-          "c": 250.69
+          "c": 331.65
         },
         {
           "d": "2026-11-04",
-          "c": 266.03
+          "c": 349.24
         },
         {
           "d": "2026-11-05",
-          "c": 260.21
+          "c": 343.91
         },
         {
           "d": "2026-11-06",
-          "c": 259.3
+          "c": 342.11
         },
         {
           "d": "2026-11-09",
-          "c": 266.93
+          "c": 350.42
         },
         {
           "d": "2026-11-10",
-          "c": 270.87
+          "c": 348.25
         },
         {
           "d": "2026-11-11",
-          "c": 266.17
+          "c": 355.36
         },
         {
           "d": "2026-11-12",
-          "c": 267.44
+          "c": 354.88
         },
         {
           "d": "2026-11-13",
-          "c": 266.66
+          "c": 356.27
         },
         {
           "d": "2026-11-16",
-          "c": 257.75
-        }
-      ],
-      "earnings": null,
-      "headlines": [
-        {
-          "title": "Improve your Amazon Kindle experience by doing these simple things",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2314792/improve-amazon-kindle-experience-doing-simple-things/",
-          "published": "2026-11-16T19:00:00+00:00"
+          "c": 352.78
         },
         {
-          "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/",
-          "published": "2026-11-16T17:00:00+00:00"
+          "d": "2026-11-17",
+          "c": 350.83
         }
       ],
-      "score": 26.9,
+      "earnings": "2027-01-28",
+      "headlines": [
+        {
+          "title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
+          "published": "2026-11-17T18:55:40+00:00"
+        },
+        {
+          "title": "Ways to tell if someone blocked your phone number on iPhone",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2315321/signs-someone-blocked-your-number-iphone/",
+          "published": "2026-11-17T18:00:00+00:00"
+        },
+        {
+          "title": "Apple Services Down",
+          "source": "Hacker News",
+          "url": "https://developer.apple.com/system-status/",
+          "published": "2026-11-17T17:47:14+00:00"
+        },
+        {
+          "title": "The iPhone Duo feels far more intuitive with Apple’s new face unlock",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1035437/iphone-duo-face-unlock-front-camera-hands-on",
+          "published": "2026-11-17T17:41:22+00:00"
+        }
+      ],
+      "score": 31.5,
       "brief": {
-        "what": "2 recent headlines mention Amazon. Latest: Improve your Amazon Kindle experience by doing these simple things",
-        "why": "Signals: 4 headlines. The stock is down 3.4% this week and up 3.1% over the month.",
-        "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
+        "what": "4 recent headlines mention Apple. Latest: Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
+        "why": "Signals: 7 headlines. The stock is up 0.7% this week and up 2.4% over the month.",
+        "watch": "Next earnings expected Thu Jan 28. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "CRM",
+      "name": "Salesforce",
+      "price": 196.38,
+      "changePct": -8.0,
+      "monthChangePct": -19.0,
+      "catalyst": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+      "when": "In the news",
+      "signals": [
+        "Big price move"
+      ],
+      "spark": [
+        214.94,
+        213.48,
+        218.01,
+        217.57,
+        217.84,
+        214.83,
+        196.38
+      ],
+      "history": [
+        {
+          "d": "2026-10-19",
+          "c": 242.45
+        },
+        {
+          "d": "2026-10-20",
+          "c": 242.43
+        },
+        {
+          "d": "2026-10-21",
+          "c": 241.78
+        },
+        {
+          "d": "2026-10-22",
+          "c": 250.29
+        },
+        {
+          "d": "2026-10-23",
+          "c": 248.57
+        },
+        {
+          "d": "2026-10-26",
+          "c": 247.61
+        },
+        {
+          "d": "2026-10-27",
+          "c": 240.89
+        },
+        {
+          "d": "2026-10-28",
+          "c": 242.11
+        },
+        {
+          "d": "2026-10-29",
+          "c": 230.9
+        },
+        {
+          "d": "2026-10-30",
+          "c": 229.17
+        },
+        {
+          "d": "2026-11-02",
+          "c": 226.18
+        },
+        {
+          "d": "2026-11-03",
+          "c": 222.2
+        },
+        {
+          "d": "2026-11-04",
+          "c": 227.11
+        },
+        {
+          "d": "2026-11-05",
+          "c": 222.41
+        },
+        {
+          "d": "2026-11-06",
+          "c": 213.65
+        },
+        {
+          "d": "2026-11-09",
+          "c": 214.94
+        },
+        {
+          "d": "2026-11-10",
+          "c": 213.48
+        },
+        {
+          "d": "2026-11-11",
+          "c": 218.01
+        },
+        {
+          "d": "2026-11-12",
+          "c": 217.57
+        },
+        {
+          "d": "2026-11-13",
+          "c": 217.84
+        },
+        {
+          "d": "2026-11-16",
+          "c": 214.83
+        },
+        {
+          "d": "2026-11-17",
+          "c": 196.38
+        }
+      ],
+      "earnings": "2026-12-02",
+      "headlines": [],
+      "score": 22.6,
+      "brief": {
+        "what": "No major headlines about Salesforce in the last two weeks.",
+        "why": "Signals: big price move. The stock is down 8.0% this week and down 19.0% over the month.",
+        "watch": "Next earnings expected Wed Dec 2. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
