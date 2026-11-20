@@ -1,335 +1,336 @@
 {
   "weekOf": "2026-11-16",
-  "updated": "2026-11-19T19:29:08+00:00",
+  "updated": "2026-11-20T03:12:16+00:00",
   "summary": [
-    "Tech leads the news with 12 of 25 stories. Top headline: Some creators are skeptical of Instagram’s new affiliate program",
+    "AI leads the news with 12 of 25 stories. Top headline: Apple may be developing its own AI agent that runs your Mac",
     "Earnings this week from DELL.",
     "Strongest rumor: Nvidia’s Board Has No Plans to Bring Back Jensen Huang"
   ],
   "stories": [
     {
-      "id": "4eacc3a716",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-11-19T19:12:30+00:00",
-      "title": "Some creators are skeptical of Instagram’s new affiliate program",
-      "summary": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to make it easier for influencers to make money from affiliate…",
-      "url": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
-      "tickers": [
-        "AMZN",
-        "META"
-      ]
-    },
-    {
-      "id": "93e2453a95",
+      "id": "6d165a6b07",
       "topic": "AI",
       "kind": "Company",
       "source": "TechCrunch",
-      "published": "2026-11-19T19:10:45+00:00",
-      "title": "Anthropic’s IPO could deliver $156 billion to charity",
-      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-      "tickers": []
-    },
-    {
-      "id": "b52d6b0a7f",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-19T19:06:04+00:00",
-      "title": "Ubisoft lays off 166 more workers, opens a generative AI studio",
-      "summary": "Even Rockstar developers fear layoffs, as GTA 6 rakes in billions of dollars.",
-      "url": "https://www.engadget.com/2322205/ubisoft-lays-off-166-more-workers-opens-a-generative-ai-studio/",
-      "tickers": []
-    },
-    {
-      "id": "ef31632aed",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-19T18:41:26+00:00",
-      "title": "Anthropic is now a public company worth more than $1 trillion",
-      "summary": "The company was briefly valued at more than $2 trillion.",
-      "url": "https://www.engadget.com/2322144/anthropic-is-now-a-public-company-worth-more-than-1-trillion/",
-      "tickers": []
-    },
-    {
-      "id": "ba4a661ae1",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-19T18:33:08+00:00",
-      "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
-      "summary": "Sonos speakers and soundbars aren’t exactly cheap, but thankfully the company’s Black Friday sale has already begun, making everything a little easier to afford through November 30th. Most notably, you can pick up the Arc Ultra soundbar for a new low of $849 ($250 off) from…",
-      "url": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
-      "tickers": []
-    },
-    {
-      "id": "987ee8d990",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-19T18:21:13+00:00",
-      "title": "Gemini on Mac can now use your computer",
-      "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms…",
-      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "4751de34f8",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-19T18:15:00+00:00",
-      "title": "Oh, Elon Musk is ‘moderate’ now, is he?",
-      "summary": "A little less than two years ago, Elon Musk stood onstage at the Conservative Political Action Conference, sunglasses on, black MAGA hat perched atop his head, wielding a chainsaw. Last night, Musk called in to The New York Times DealBook Summit and distanced himself from…",
-      "url": "https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook",
-      "tickers": []
-    },
-    {
-      "id": "0bf8419c0d",
-      "topic": "Tech",
-      "kind": "Founder",
-      "source": "Engadget",
-      "published": "2026-11-19T18:00:48+00:00",
-      "title": "How to game share GTA 6 and split the cost with a friend",
-      "summary": "You can do this on Xbox Series X and PlayStation 5.",
-      "url": "https://www.engadget.com/2322043/how-to-game-share-gta-6-split-cost/",
-      "tickers": []
-    },
-    {
-      "id": "86a25b6e0c",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-19T17:58:01+00:00",
-      "title": "Amazon is pushing alerts opposing NYC’s Delivery Protection Act",
-      "summary": "Amazon is serving up push notifications and banners on its home page to some users, warning that a new bill could add up to $5 per order in New York City. The Delivery Protection Act, which is backed by Mayor Zohran Mamdani and a number of labor groups, including the Teamsters…",
-      "url": "https://www.theverge.com/tech/1037813/amazon-is-pushing-alerts-to-shoppers-opposing-nycs-delivery-protection-act",
-      "tickers": [
-        "AMZN"
-      ]
-    },
-    {
-      "id": "71ffefec33",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-19T17:38:44+00:00",
-      "title": "Google signs deal with Blue Origin to send satellite data centers into orbit",
-      "summary": "This is part of Project Suncatcher, an experiment aimed at running AI systems in space.",
-      "url": "https://www.engadget.com/2321988/google-signs-deal-with-blue-origin-to-send-satellite-data-centers-into-orbit/",
-      "tickers": [
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "a774a81e73",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-19T17:30:44+00:00",
-      "title": "Claude solves two open problems in the physics of black holes",
-      "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 154 # Comments: 40",
-      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "tickers": []
-    },
-    {
-      "id": "6aa42203da",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-19T17:30:00+00:00",
-      "title": "Apple HomePod mini 2 review: A necessary, but underwhelming update",
-      "summary": "The most notable upgrade on the HomePod mini 2 is its S10 chip, which is supposed to power Siri AI, but that's still in the works.",
-      "url": "https://www.engadget.com/2321939/apple-homepod-mini-2-review/",
+      "published": "2026-11-20T00:56:01+00:00",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
       "tickers": [
         "AAPL"
       ]
     },
     {
-      "id": "eb08621c15",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-19T17:23:58+00:00",
-      "title": "You won't find this fan favorite feature in GTA 6",
-      "summary": "Replaying missions is possible, but not easy.",
-      "url": "https://www.engadget.com/2321965/you-wont-find-this-fan-favorite-feature-in-gta-6/",
-      "tickers": []
-    },
-    {
-      "id": "9f1c9fbbc1",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-19T17:18:44+00:00",
-      "title": "How to switch camera views in GTA 6",
-      "summary": "The game only offers a first-person perspective in very limited circumstances.",
-      "url": "https://www.engadget.com/2321960/gta-6-how-to-switch-camera-views/",
-      "tickers": []
-    },
-    {
-      "id": "09e9b73d98",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-11-19T17:15:00+00:00",
-      "title": "Amazon’s last-gen Kindle Paperwhite hasn’t been this cheap since June",
-      "summary": "alt: Amazon’s last-gen Kindle Paperwhite is just $10 more than the base modelalt: The last-gen Kindle Paperwhite for $130 is a stellar Black Friday deal Amazon debuted its latest Kindle Paperwhite in October, which is now available for $199.99 and replaces the outgoing 2024…",
-      "url": "https://www.theverge.com/gadgets/1037635/amazon-kindle-paperwhite-black-friday-2026-deal-sale",
-      "tickers": [
-        "AMZN"
-      ]
-    },
-    {
-      "id": "214c8b36ea",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-19T17:09:54+00:00",
-      "title": "How to adjust and turn off motion blur in GTA 6 if it makes you feel sick",
-      "summary": "GTA 6's motion blur effect is thankfully easy to adjust.",
-      "url": "https://www.engadget.com/2321944/gta-6-how-to-adjust-turn-off-blur-motion/",
-      "tickers": []
-    },
-    {
-      "id": "74914966de",
+      "id": "592e4b354a",
       "topic": "AI",
-      "kind": "Launch",
-      "source": "Hacker News",
-      "published": "2026-11-19T17:02:40+00:00",
-      "title": "Anthropic hits $2T in Nasdaq debut",
-      "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ Comments URL: https://news.ycombinator.com/item?id=50562754 Points: 345 # Comments: 501",
-      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-      "tickers": []
-    },
-    {
-      "id": "1b325efd71",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-19T17:01:15+00:00",
-      "title": "Here are some photos of Elon Musk, who is 'not MAGA'",
-      "summary": "He's not even sure what that means, guys.",
-      "url": "https://www.engadget.com/2321922/here-are-some-photos-of-elon-musk-who-is-not-maga/",
-      "tickers": []
-    },
-    {
-      "id": "0507cb6d8c",
-      "topic": "Startups",
       "kind": "Founder",
       "source": "TechCrunch",
-      "published": "2026-11-19T17:00:00+00:00",
-      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+      "published": "2026-11-20T00:43:50+00:00",
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
       "tickers": []
     },
     {
-      "id": "e988c8ecdf",
-      "topic": "Tech",
+      "id": "459ca94930",
+      "topic": "AI",
       "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-11-20T00:26:03+00:00",
+      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+      "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+      "tickers": []
+    },
+    {
+      "id": "50de83f519",
+      "topic": "AI",
+      "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-19T16:55:20+00:00",
-      "title": "Change these Xbox Series X/S settings before playing GTA 6",
-      "summary": "For the best possible Grand Theft Auto VI experience, change these settings on your Xbox Series X/S to squeeze out every bit of performance.",
-      "url": "https://www.engadget.com/2320713/xbox-series-x-s-settings-change-before-playing-gta-6/",
-      "tickers": []
-    },
-    {
-      "id": "22ddb87ed0",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-19T16:52:01+00:00",
-      "title": "Anthropic starts trading on Wall Street",
-      "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-      "tickers": []
-    },
-    {
-      "id": "abfbc9933a",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-19T16:30:18+00:00",
-      "title": "Fuck Your AI Safeguards",
-      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 195 # Comments: 68",
-      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
-      "tickers": []
-    },
-    {
-      "id": "0cf057b005",
-      "topic": "Startups",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-19T16:28:12+00:00",
-      "title": "Microsoft is killing its great tasks app in favor of its worse tasks app",
-      "summary": "In 2015 Microsoft acquired a to-do list app called Wunderlist, for a price rumored to be as high as $200 million. Wunderlist fans were worried that Microsoft would make their beloved app soulless and corporate, or worse, hide it behind some convoluted enterprise subscription.…",
-      "url": "https://www.theverge.com/tech/1037558/microsoft-to-do-shutdown-planner",
-      "tickers": [
-        "MSFT"
-      ]
-    },
-    {
-      "id": "cbd95d8e78",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-19T16:21:03+00:00",
-      "title": "UK government forced to admit it issued Apple a secret encryption order",
-      "summary": "Article URL: https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/ Comments URL: https://news.ycombinator.com/item?id=50562113 Points: 223 # Comments: 102",
-      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+      "published": "2026-11-20T00:03:22+00:00",
+      "title": "Job posting seemingly confirms Apple is working on its own AI agent for coding and other tasks",
+      "summary": "Apple is is hiring a senior engineering manager to build \"capable, reliable and safe\" agentic tools.",
+      "url": "https://www.engadget.com/2322586/job-posting-seemingly-confirms-apple-is-working-on-its-own-ai-agent-for-coding-and-other-tasks/",
       "tickers": [
         "AAPL"
       ]
     },
     {
-      "id": "fcffe7d5fd",
-      "topic": "AI",
+      "id": "3c871d8b15",
+      "topic": "Tech",
       "kind": "Founder",
       "source": "TechCrunch",
-      "published": "2026-11-19T16:19:41+00:00",
-      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-      "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
-      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "published": "2026-11-19T23:37:56+00:00",
+      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+      "summary": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
+      "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
       "tickers": []
+    },
+    {
+      "id": "ac2762107d",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-19T23:35:35+00:00",
+      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "summary": "Article URL: https://git-aarvin.github.io/mei/ Comments URL: https://news.ycombinator.com/item?id=50568130 Points: 180 # Comments: 105",
+      "url": "https://git-aarvin.github.io/mei/",
+      "tickers": []
+    },
+    {
+      "id": "b2140cf1d0",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-19T23:28:22+00:00",
+      "title": "The GTA 6 star system says a lot more than just your Wanted level",
+      "summary": "Just committing a robbery doesn't necessarily mean your Wanted level will rise.",
+      "url": "https://www.engadget.com/2322564/gta-6-wanted-level-star-system-details/",
+      "tickers": []
+    },
+    {
+      "id": "58031086df",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-19T22:33:26+00:00",
+      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+      "summary": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
+      "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+      "tickers": []
+    },
+    {
+      "id": "aa31e51c2c",
+      "topic": "Chips",
+      "kind": "Founder",
+      "source": "The Verge",
+      "published": "2026-11-19T21:59:35+00:00",
+      "title": "A brief history of Nvidia’s recent stock fluctuations",
+      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "ff7492acd4",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-19T21:58:06+00:00",
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "tickers": []
+    },
+    {
+      "id": "02c4214131",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Wired",
+      "published": "2026-11-19T21:57:01+00:00",
+      "title": "What’s With All These Outages?",
+      "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+      "tickers": []
+    },
+    {
+      "id": "22888ef5c7",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-19T21:42:31+00:00",
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "tickers": []
+    },
+    {
+      "id": "2c350c6b80",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-19T21:33:24+00:00",
+      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+      "summary": "Uber is testing the new program in three U.S. cities.",
+      "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
+      "tickers": [
+        "UBER"
+      ]
+    },
+    {
+      "id": "3477bd5f35",
+      "topic": "Devices",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-11-19T21:12:06+00:00",
+      "title": "Meta now sells 3D movies on Quest VR headsets",
+      "summary": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spider-Man: Far From Home, Jurassic World Rebirth, Wicked: For…",
+      "url": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
+      "tickers": []
+    },
+    {
+      "id": "65153b6f95",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-19T21:06:58+00:00",
+      "title": "Meta Quest adds 3D movie purchases and rentals to its TV app",
+      "summary": "The headlining film is a Billie Eilish 3D concert experience co-directed by James Cameron.",
+      "url": "https://www.engadget.com/2322428/meta-quest-adds-3d-movie-purchases-and-rentals-to-its-tv-app/",
+      "tickers": []
+    },
+    {
+      "id": "6b7bea3522",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-19T20:42:38+00:00",
+      "title": "You can now purchase the 512GB Steam Machine like a normal console",
+      "summary": "Valve has worked through the waitlist for the smaller version of its gaming PC.",
+      "url": "https://www.engadget.com/2322377/you-can-now-purchase-the-512gb-steam-machine-like-a-normal-console/",
+      "tickers": []
+    },
+    {
+      "id": "0e0fd13309",
+      "topic": "Chips",
+      "kind": "Founder",
+      "source": "Wired",
+      "published": "2026-11-19T20:34:17+00:00",
+      "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
+      "summary": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
+      "url": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "1f6a75dc6b",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Ars Technica",
+      "published": "2026-11-19T20:29:46+00:00",
+      "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+      "summary": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
+      "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+      "tickers": []
+    },
+    {
+      "id": "f8896bb502",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-19T20:18:49+00:00",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "f1426194a3",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-19T20:05:06+00:00",
+      "title": "Google is putting AI chats right on the homepage",
+      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar…",
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "d7f6f9893b",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-19T20:00:12+00:00",
+      "title": "Employees call out Google over AI Search in schools",
+      "summary": "The Alphabet Workers Union voiced concern over Google requiring its AI tools be bundled with Search.",
+      "url": "https://www.engadget.com/2322304/employees-call-out-google-over-ai-search-in-schools/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "316299873c",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-19T19:40:28+00:00",
+      "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
+      "summary": "The Federal Communications Commission voted unanimously to allow state and local prisons to jam cellphones. In an announcement on Thursday, the FCC argues the rule will help combat an \"influx of contraband cellphones\" used to carry out crimes from prison. Jammers are generally…",
+      "url": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
+      "tickers": []
+    },
+    {
+      "id": "3e9e287b5b",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-19T19:35:52+00:00",
+      "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
+      "summary": "Back in my day, the only “Doorbuster” sales were at physical retail stores. But now, you can get ultra-low prices before Black Friday whether you want to shop in-store or online. One that stands out is the previous-generation Sony WH-1000XM5 noise-canceling headphones, which are…",
+      "url": "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale",
+      "tickers": []
+    },
+    {
+      "id": "187c08f384",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-11-19T19:33:22+00:00",
+      "title": "You can now buy a Steam Machine without getting on a waitlist",
+      "summary": "Valve announced some updates about Steam Machine availability today, including good news if you want to buy one right now and potential bad news about future supply due to RAMaggedon. The good news: You can now purchase a 512GB Steam Machine without getting on a waitlist.…",
+      "url": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply",
+      "tickers": []
+    },
+    {
+      "id": "1e2d7af6b7",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-19T19:16:42+00:00",
+      "title": "Apple TV expands its racing coverage with the all-female F1 Academy",
+      "summary": "The platform will air \"every qualifying session and race throughout the season.\"",
+      "url": "https://www.engadget.com/2322221/apple-tv-expands-its-racing-coverage-with-the-all-female-f1-academy/",
+      "tickers": [
+        "AAPL"
+      ]
     }
   ],
   "rumors": [
     {
       "id": "a597de461e",
       "topic": "Chips",
-      "status": "Just surfaced",
+      "status": "Unconfirmed",
       "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
       "detail": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intend” to reinstate the company’s ousted CEO.",
       "url": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
       "sources": 1,
-      "mentions": 5,
+      "mentions": 6,
       "credible": 1,
-      "days": 1,
+      "days": 2,
       "tickers": [
         "NVDA"
       ],
-      "score": 22
+      "score": 23
     },
     {
-      "id": "753d8d1836",
-      "topic": "AI",
+      "id": "bbedb22938",
+      "topic": "Tech",
       "status": "Just surfaced",
-      "title": "Anthropic prices IPO at $83 a share, above projected range",
-      "detail": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
-      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "title": "Meta's Muse Charm will reportedly cost $300 and come with free Verizon 5G",
+      "detail": "Meta's standalone AI gadget won't be cheap, but it might come with a free data plan.",
+      "url": "https://www.engadget.com/2322541/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/",
       "sources": 1,
-      "mentions": 2,
+      "mentions": 3,
       "credible": 1,
       "days": 0,
       "tickers": [],
-      "score": 18
+      "score": 20
     },
     {
       "id": "517b404334",
@@ -341,7 +342,7 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 8,
+      "days": 9,
       "tickers": [],
       "score": 15
     },
@@ -355,7 +356,7 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 6,
+      "days": 7,
       "tickers": [],
       "score": 15
     },
@@ -369,31 +370,15 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 0,
+      "days": 1,
       "tickers": [],
       "score": 15
     },
     {
-      "id": "0cf057b005",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "Microsoft is killing its great tasks app in favor of its worse tasks app",
-      "detail": "In 2015 Microsoft acquired a to-do list app called Wunderlist, for a price rumored to be as high as $200 million. Wunderlist fans were worried that Microsoft would make their beloved app soulless and corporate, or worse, hide it behind some convoluted enterprise subscription.…",
-      "url": "https://www.theverge.com/tech/1037558/microsoft-to-do-shutdown-planner",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [
-        "MSFT"
-      ],
-      "score": 15
-    },
-    {
-      "id": "72ec1221fd",
+      "id": "0da80f6e63",
       "topic": "AI",
       "status": "Just surfaced",
-      "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
       "detail": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
       "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
       "sources": 1,
@@ -404,12 +389,12 @@
       "score": 15
     },
     {
-      "id": "8464ab8c49",
+      "id": "6d32842748",
       "topic": "Devices",
       "status": "Just surfaced",
-      "title": "Apple’s iPhone camera leader has reportedly left the company",
-      "detail": "Jon McCormack, Apple's vice president of camera software engineering, left the company last month, Bloomberg reports. Its sources say McCormack retired \"at the end of October after more than eight years at the company.\" Apple reportedly has not yet named a new VP to step in for…",
-      "url": "https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera",
+      "title": "Leaked images may show Motorola's answer to the iPhone Duo",
+      "detail": "We may have our best look yet at Motorola's upcoming foldable.",
+      "url": "https://www.engadget.com/2322557/leaked-images-may-show-motorolas-answer-to-the-iphone-duo/",
       "sources": 1,
       "mentions": 1,
       "credible": 1,
@@ -418,15 +403,29 @@
         "AAPL"
       ],
       "score": 15
+    },
+    {
+      "id": "0ef0106b86",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+      "detail": "Article URL: https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87 Comments URL: https://news.ycombinator.com/item?id=50568082 Points: 115 # Comments: 33",
+      "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 0,
+      "days": 0,
+      "tickers": [],
+      "score": 8
     }
   ],
   "watchlist": [
     {
       "ticker": "DELL",
       "name": "Dell",
-      "price": 319.23,
-      "changePct": -14.0,
-      "monthChangePct": -34.3,
+      "price": 313.11,
+      "changePct": -16.2,
+      "monthChangePct": -32.2,
       "catalyst": "Earnings report",
       "when": "Tue",
       "signals": [
@@ -434,15 +433,19 @@
         "Big price move"
       ],
       "spark": [
+        334.38,
         373.68,
         371.17,
         344.53,
         320.55,
         322.79,
-        313.11,
-        319.23
+        313.11
       ],
       "history": [
+        {
+          "d": "2026-10-20",
+          "c": 461.56
+        },
         {
           "d": "2026-10-21",
           "c": 485.88
@@ -526,10 +529,6 @@
         {
           "d": "2026-11-18",
           "c": 313.11
-        },
-        {
-          "d": "2026-11-19",
-          "c": 319.23
         }
       ],
       "earnings": "2026-11-24",
@@ -537,7 +536,7 @@
       "score": 60.0,
       "brief": {
         "what": "No major headlines about Dell in the last two weeks.",
-        "why": "Signals: earnings, big price move. The stock is down 14.0% this week and down 34.3% over the month.",
+        "why": "Signals: earnings, big price move. The stock is down 16.2% this week and down 32.2% over the month.",
         "watch": "Next earnings expected Tue Nov 24. Results and guidance usually move the stock most.",
         "ai": false
       }
@@ -545,13 +544,13 @@
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "price": 148.79,
-      "changePct": -10.5,
-      "monthChangePct": -33.0,
-      "catalyst": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "price": 145.98,
+      "changePct": -12.2,
+      "monthChangePct": -34.2,
+      "catalyst": "A brief history of Nvidia’s recent stock fluctuations",
       "when": "In the news",
       "signals": [
-        "9 headlines",
+        "8 headlines",
         "Big price move"
       ],
       "spark": [
@@ -561,7 +560,7 @@
         156.14,
         155.46,
         150.96,
-        148.79
+        145.98
       ],
       "history": [
         {
@@ -650,28 +649,22 @@
         },
         {
           "d": "2026-11-19",
-          "c": 148.79
+          "c": 145.98
         }
       ],
       "earnings": null,
       "headlines": [
         {
-          "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-          "published": "2026-11-18T23:17:28+00:00"
+          "title": "A brief history of Nvidia’s recent stock fluctuations",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+          "published": "2026-11-19T21:59:35+00:00"
         },
         {
           "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
           "source": "Wired",
           "url": "https://www.wired.com/story/guys-really-we-got-this/",
           "published": "2026-11-18T22:16:23+00:00"
-        },
-        {
-          "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
-          "published": "2026-11-18T21:57:40+00:00"
         },
         {
           "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
@@ -686,162 +679,10 @@
           "published": "2026-11-17T17:32:24+00:00"
         }
       ],
-      "score": 50.0,
+      "score": 51.4,
       "brief": {
-        "what": "5 recent headlines mention NVIDIA. Latest: Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit There is also a rumor making the rounds: Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
-        "why": "Signals: 9 headlines, big price move. The stock is down 10.5% this week and down 33.0% over the month.",
-        "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "GOOGL",
-      "name": "Alphabet",
-      "price": 279.15,
-      "changePct": -6.5,
-      "monthChangePct": -16.6,
-      "catalyst": "Google gives Gemini the ability to use your Mac for you",
-      "when": "In the news",
-      "signals": [
-        "6 headlines",
-        "Big price move"
-      ],
-      "spark": [
-        293.45,
-        298.7,
-        295.77,
-        283.72,
-        280.2,
-        282.44,
-        279.15
-      ],
-      "history": [
-        {
-          "d": "2026-10-21",
-          "c": 334.76
-        },
-        {
-          "d": "2026-10-22",
-          "c": 324.22
-        },
-        {
-          "d": "2026-10-23",
-          "c": 320.21
-        },
-        {
-          "d": "2026-10-26",
-          "c": 316.8
-        },
-        {
-          "d": "2026-10-27",
-          "c": 320.58
-        },
-        {
-          "d": "2026-10-28",
-          "c": 324.89
-        },
-        {
-          "d": "2026-10-29",
-          "c": 283.82
-        },
-        {
-          "d": "2026-10-30",
-          "c": 279.84
-        },
-        {
-          "d": "2026-11-02",
-          "c": 278.99
-        },
-        {
-          "d": "2026-11-03",
-          "c": 280.03
-        },
-        {
-          "d": "2026-11-04",
-          "c": 288.93
-        },
-        {
-          "d": "2026-11-05",
-          "c": 282.57
-        },
-        {
-          "d": "2026-11-06",
-          "c": 284.78
-        },
-        {
-          "d": "2026-11-09",
-          "c": 288.15
-        },
-        {
-          "d": "2026-11-10",
-          "c": 287.38
-        },
-        {
-          "d": "2026-11-11",
-          "c": 293.45
-        },
-        {
-          "d": "2026-11-12",
-          "c": 298.7
-        },
-        {
-          "d": "2026-11-13",
-          "c": 295.77
-        },
-        {
-          "d": "2026-11-16",
-          "c": 283.72
-        },
-        {
-          "d": "2026-11-17",
-          "c": 280.2
-        },
-        {
-          "d": "2026-11-18",
-          "c": 282.44
-        },
-        {
-          "d": "2026-11-19",
-          "c": 279.15
-        }
-      ],
-      "earnings": null,
-      "headlines": [
-        {
-          "title": "Google gives Gemini the ability to use your Mac for you",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-          "published": "2026-11-19T18:09:11+00:00"
-        },
-        {
-          "title": "Google signs deal with Blue Origin to send satellite data centers into orbit",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2321988/google-signs-deal-with-blue-origin-to-send-satellite-data-centers-into-orbit/",
-          "published": "2026-11-19T17:38:44+00:00"
-        },
-        {
-          "title": "Xreal Aura review: Solid AR glasses hampered by Google's half-baked Android XR",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2320945/xreal-aura-review/",
-          "published": "2026-11-18T19:30:00+00:00"
-        },
-        {
-          "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
-          "published": "2026-11-17T10:47:45+00:00"
-        },
-        {
-          "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
-          "published": "2026-11-12T18:05:41+00:00"
-        }
-      ],
-      "score": 43.1,
-      "brief": {
-        "what": "5 recent headlines mention Alphabet. Latest: Google gives Gemini the ability to use your Mac for you",
-        "why": "Signals: 6 headlines, big price move. The stock is down 6.5% this week and down 16.6% over the month.",
+        "what": "4 recent headlines mention NVIDIA. Latest: A brief history of Nvidia’s recent stock fluctuations There is also a rumor making the rounds: Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+        "why": "Signals: 8 headlines, big price move. The stock is down 12.2% this week and down 34.2% over the month.",
         "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
@@ -849,13 +690,13 @@
     {
       "ticker": "AAPL",
       "name": "Apple",
-      "price": 350.09,
-      "changePct": -1.3,
-      "monthChangePct": 1.9,
-      "catalyst": "Apple’s iPhone camera leader has reportedly left the company",
+      "price": 349.21,
+      "changePct": -1.6,
+      "monthChangePct": 1.6,
+      "catalyst": "Apple may be developing its own AI agent that runs your Mac",
       "when": "In the news",
       "signals": [
-        "5 headlines"
+        "8 headlines"
       ],
       "spark": [
         355.36,
@@ -864,7 +705,7 @@
         352.78,
         351.91,
         352.45,
-        350.09
+        349.21
       ],
       "history": [
         {
@@ -953,11 +794,29 @@
         },
         {
           "d": "2026-11-19",
-          "c": 350.09
+          "c": 349.21
         }
       ],
       "earnings": "2027-01-28",
       "headlines": [
+        {
+          "title": "Apple may be developing its own AI agent that runs your Mac",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+          "published": "2026-11-20T00:56:01+00:00"
+        },
+        {
+          "title": "Job posting seemingly confirms Apple is working on its own AI agent for coding and other tasks",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2322586/job-posting-seemingly-confirms-apple-is-working-on-its-own-ai-agent-for-coding-and-other-tasks/",
+          "published": "2026-11-20T00:03:22+00:00"
+        },
+        {
+          "title": "Apple TV expands its racing coverage with the all-female F1 Academy",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2322221/apple-tv-expands-its-racing-coverage-with-the-all-female-f1-academy/",
+          "published": "2026-11-19T19:16:42+00:00"
+        },
         {
           "title": "Apple HomePod mini 2 review: A necessary, but underwhelming update",
           "source": "Engadget",
@@ -971,150 +830,259 @@
           "published": "2026-11-19T16:21:03+00:00"
         }
       ],
-      "score": 27.7,
+      "score": 33.2,
       "brief": {
-        "what": "2 recent headlines mention Apple. Latest: Apple HomePod mini 2 review: A necessary, but underwhelming update There is also a rumor making the rounds: Apple’s iPhone camera leader has reportedly left the company",
-        "why": "Signals: 5 headlines. The stock is down 1.3% this week and up 1.9% over the month.",
+        "what": "5 recent headlines mention Apple. Latest: Apple may be developing its own AI agent that runs your Mac There is also a rumor making the rounds: Leaked images may show Motorola's answer to the iPhone Duo",
+        "why": "Signals: 8 headlines. The stock is down 1.6% this week and up 1.6% over the month.",
         "watch": "Next earnings expected Thu Jan 28. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
     {
-      "ticker": "MSFT",
-      "name": "Microsoft",
-      "price": 503.57,
-      "changePct": -3.7,
-      "monthChangePct": -5.5,
-      "catalyst": "Microsoft is killing its great tasks app in favor of its worse tasks app",
-      "when": "In the news",
+      "ticker": "AMD",
+      "name": "AMD",
+      "price": 489.19,
+      "changePct": -16.4,
+      "monthChangePct": -11.5,
+      "catalyst": "Down 16% this week",
+      "when": "Price",
       "signals": [
-        "4 headlines"
+        "Big price move",
+        "Volume up"
       ],
       "spark": [
-        521.13,
-        523.0,
-        523.88,
-        517.99,
-        506.24,
-        508.29,
-        503.57
+        552.9,
+        585.3,
+        534.06,
+        504.28,
+        503.41,
+        530.14,
+        489.19
       ],
       "history": [
         {
           "d": "2026-10-21",
-          "c": 532.95
+          "c": 552.72
         },
         {
           "d": "2026-10-22",
-          "c": 521.08
+          "c": 507.93
         },
         {
           "d": "2026-10-23",
-          "c": 524.51
+          "c": 516.79
         },
         {
           "d": "2026-10-26",
-          "c": 532.6
+          "c": 531.28
         },
         {
           "d": "2026-10-27",
-          "c": 531.33
+          "c": 560.26
         },
         {
           "d": "2026-10-28",
-          "c": 531.01
+          "c": 578.44
         },
         {
           "d": "2026-10-29",
-          "c": 530.14
+          "c": 566.42
         },
         {
           "d": "2026-10-30",
-          "c": 521.91
+          "c": 504.8
         },
         {
           "d": "2026-11-02",
-          "c": 507.12
+          "c": 466.84
         },
         {
           "d": "2026-11-03",
-          "c": 520.99
+          "c": 483.9
         },
         {
           "d": "2026-11-04",
-          "c": 555.8
+          "c": 488.78
         },
         {
           "d": "2026-11-05",
-          "c": 535.93
+          "c": 404.4
         },
         {
           "d": "2026-11-06",
-          "c": 530.61
+          "c": 449.04
         },
         {
           "d": "2026-11-09",
-          "c": 545.18
+          "c": 508.58
         },
         {
           "d": "2026-11-10",
-          "c": 533.16
+          "c": 515.21
         },
         {
           "d": "2026-11-11",
-          "c": 521.13
+          "c": 552.9
         },
         {
           "d": "2026-11-12",
-          "c": 523.0
+          "c": 585.3
         },
         {
           "d": "2026-11-13",
-          "c": 523.88
+          "c": 534.06
         },
         {
           "d": "2026-11-16",
-          "c": 517.99
+          "c": 504.28
         },
         {
           "d": "2026-11-17",
-          "c": 506.24
+          "c": 503.41
         },
         {
           "d": "2026-11-18",
-          "c": 508.29
+          "c": 530.14
         },
         {
           "d": "2026-11-19",
-          "c": 503.57
+          "c": 489.19
         }
       ],
-      "earnings": "2027-01-27",
+      "earnings": "2027-02-02",
+      "headlines": [],
+      "score": 24.5,
+      "brief": {
+        "what": "No major headlines about AMD in the last two weeks.",
+        "why": "Signals: big price move, volume up. The stock is down 16.4% this week and down 11.5% over the month.",
+        "watch": "Next earnings expected Tue Feb 2. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel",
+      "price": 55.72,
+      "changePct": -9.0,
+      "monthChangePct": -40.1,
+      "catalyst": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+      "when": "In the news",
+      "signals": [
+        "Big price move"
+      ],
+      "spark": [
+        62.5,
+        61.2,
+        59.66,
+        55.47,
+        55.17,
+        54.67,
+        55.72
+      ],
+      "history": [
+        {
+          "d": "2026-10-21",
+          "c": 92.96
+        },
+        {
+          "d": "2026-10-22",
+          "c": 85.49
+        },
+        {
+          "d": "2026-10-23",
+          "c": 86.96
+        },
+        {
+          "d": "2026-10-26",
+          "c": 90.47
+        },
+        {
+          "d": "2026-10-27",
+          "c": 93.74
+        },
+        {
+          "d": "2026-10-28",
+          "c": 95.53
+        },
+        {
+          "d": "2026-10-29",
+          "c": 92.07
+        },
+        {
+          "d": "2026-10-30",
+          "c": 65.76
+        },
+        {
+          "d": "2026-11-02",
+          "c": 59.97
+        },
+        {
+          "d": "2026-11-03",
+          "c": 60.55
+        },
+        {
+          "d": "2026-11-04",
+          "c": 58.27
+        },
+        {
+          "d": "2026-11-05",
+          "c": 52.25
+        },
+        {
+          "d": "2026-11-06",
+          "c": 56.28
+        },
+        {
+          "d": "2026-11-09",
+          "c": 59.37
+        },
+        {
+          "d": "2026-11-10",
+          "c": 58.13
+        },
+        {
+          "d": "2026-11-11",
+          "c": 62.5
+        },
+        {
+          "d": "2026-11-12",
+          "c": 61.2
+        },
+        {
+          "d": "2026-11-13",
+          "c": 59.66
+        },
+        {
+          "d": "2026-11-16",
+          "c": 55.47
+        },
+        {
+          "d": "2026-11-17",
+          "c": 55.17
+        },
+        {
+          "d": "2026-11-18",
+          "c": 54.67
+        },
+        {
+          "d": "2026-11-19",
+          "c": 55.72
+        }
+      ],
+      "earnings": "2027-01-28",
       "headlines": [
         {
-          "title": "Microsoft is killing its great tasks app in favor of its worse tasks app",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1037558/microsoft-to-do-shutdown-planner",
-          "published": "2026-11-19T16:28:12+00:00"
-        },
-        {
-          "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-          "published": "2026-11-19T00:42:56+00:00"
-        },
-        {
-          "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-          "published": "2026-11-18T23:17:28+00:00"
+          "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+          "published": "2026-11-16T20:37:47+00:00"
         }
       ],
-      "score": 27.4,
+      "score": 22.9,
       "brief": {
-        "what": "3 recent headlines mention Microsoft. Latest: Microsoft is killing its great tasks app in favor of its worse tasks app There is also a rumor making the rounds: Microsoft is killing its great tasks app in favor of its worse tasks app",
-        "why": "Signals: 4 headlines. The stock is down 3.7% this week and down 5.5% over the month.",
-        "watch": "Next earnings expected Wed Jan 27. Results and guidance usually move the stock most.",
+        "what": "1 recent headline mentions Intel. Latest: Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+        "why": "Signals: big price move. The stock is down 9.0% this week and down 40.1% over the month.",
+        "watch": "Next earnings expected Thu Jan 28. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
