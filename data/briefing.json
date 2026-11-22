@@ -1,49 +1,289 @@
 {
   "weekOf": "2026-11-16",
-  "updated": "2026-11-21T17:57:30+00:00",
+  "updated": "2026-11-22T02:12:50+00:00",
   "summary": [
-    "Tech leads the news with 15 of 25 stories. Top headline: HomeView vs. Echo Show: What's the difference between Apple's and Amazon's smart displays?",
+    "Tech leads the news with 17 of 25 stories. Top headline: Attention Pixel 9 and 10 owners: is it actually worth upgrading to the Pixel 11?",
     "Earnings this week from DELL.",
-    "Strongest rumor: Nvidia’s Board Has No Plans to Bring Back Jensen Huang"
+    "Strongest rumor: The FBI and USDA were reportedly hacked"
   ],
   "stories": [
     {
-      "id": "efda9897ad",
-      "topic": "AI",
+      "id": "29dd28b164",
+      "topic": "Devices",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-21T17:45:00+00:00",
-      "title": "HomeView vs. Echo Show: What's the difference between Apple's and Amazon's smart displays?",
-      "summary": "Both the HomeView and Echo Show put an AI assistant in your home, but they work in different ways.",
-      "url": "https://www.engadget.com/2318413/apple-homeview-vs-amazon-echo-show-smart-display-comparison/",
+      "published": "2026-11-22T01:00:00+00:00",
+      "title": "Attention Pixel 9 and 10 owners: is it actually worth upgrading to the Pixel 11?",
+      "summary": "New doesn't always mean better, especially in this economy. Here's what you need to know before deciding if the new Google Pixel 11 is the worth your money.",
+      "url": "https://www.engadget.com/2319300/pixel-11-is-it-worth-upgrading-from-9-10/",
       "tickers": [
-        "AAPL",
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "beb417d5db",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-22T01:00:00+00:00",
+      "title": "Samsung vs. LG OLED TVs: What's the difference between them?",
+      "summary": "It's not simple to say that one is better than the other.",
+      "url": "https://www.engadget.com/2310887/samsung-vs-lg-oled-tv-difference-between/",
+      "tickers": []
+    },
+    {
+      "id": "b1f8e355cf",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-22T00:45:00+00:00",
+      "title": "This is what can happen if too many devices are sharing your home network",
+      "summary": "If you play your numbers right, you may be able to avoid internet connectivity issues at home without shelling out more money.",
+      "url": "https://www.engadget.com/2319295/what-can-happen-too-many-devices-on-home-network/",
+      "tickers": []
+    },
+    {
+      "id": "6a74266796",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-22T00:30:00+00:00",
+      "title": "Your PC's USB port can charge your phone, even when it's turned off — Here's how",
+      "summary": "Yes, a powered-off PC can still charge your phone, but only if the right feature is on. Here's what to check before you shut down and walk away.",
+      "url": "https://www.engadget.com/2319291/how-to-enable-usb-port-charging-pc-off/",
+      "tickers": []
+    },
+    {
+      "id": "5ac7900a89",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-22T00:15:00+00:00",
+      "title": "10 things you should never do on your Android phone",
+      "summary": "Every Android user should know what to avoid so they don't make mistakes that shorten their phone's useful life.",
+      "url": "https://www.engadget.com/2317775/never-do-these-things-on-android-phone/",
+      "tickers": []
+    },
+    {
+      "id": "64e3b10c5d",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-22T00:00:00+00:00",
+      "title": "This is the best type of wireless earbuds for audio output",
+      "summary": "Comfort, price and aesthetics obviously impact what we put on our ears, but if sound fidelity is your priority, this kind of wireless earbud is the best choice.",
+      "url": "https://www.engadget.com/2319289/wireless-earbuds-type-best-for-audio-output/",
+      "tickers": []
+    },
+    {
+      "id": "275fe7b6db",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-21T23:45:00+00:00",
+      "title": "How to calibrate your 3D printer (and why you should)",
+      "summary": "Your 3D printer might not need replacing just because its prints keep failing. A few calibration checks could solve the problem and improve print quality.",
+      "url": "https://www.engadget.com/2310980/how-to-calibrate-3d-printer-why-should/",
+      "tickers": []
+    },
+    {
+      "id": "d6e336be1b",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-21T23:30:00+00:00",
+      "title": "Building your own mini PC is harder than you would think",
+      "summary": "Mini PCs are appealing for their small footprint, but there are some things you should consider before you commit to building your own.",
+      "url": "https://www.engadget.com/2319272/build-mini-pc-cost-harder-than-expected/",
+      "tickers": []
+    },
+    {
+      "id": "cb4cb429a1",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-21T23:00:00+00:00",
+      "title": "Six products and services Google discontinued in 2026",
+      "summary": "Here's a rundown of some Google tools that ended up in the graveyard this year.",
+      "url": "https://www.engadget.com/2319181/google-products-services-discontinued-2026/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "64c213dd33",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-21T22:30:00+00:00",
+      "title": "Why does your phone say no service even with a SIM card?",
+      "summary": "Your SIM card controls your phone's connection to your carrier, and if it's not working, standard texts and calls won't go through.",
+      "url": "https://www.engadget.com/2319140/phone-says-no-service-with-sim-card/",
+      "tickers": []
+    },
+    {
+      "id": "eb778761ff",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-21T22:15:00+00:00",
+      "title": "iPad Air vs. iPad Pro: The features you're actually paying $450 extra for",
+      "summary": "The iPad Air and iPad Pro are both great options if you plan to use a tablet for work or creativity, but you shouldn't pay for what you won't use.",
+      "url": "https://www.engadget.com/2319122/ipad-air-vs-pro-features-compared-price-difference/",
+      "tickers": []
+    },
+    {
+      "id": "695ee58b8b",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-21T22:00:00+00:00",
+      "title": "This built-in windows tool can tell if your DirectX has a problem",
+      "summary": "DxDiag is a handy and free resource for troubleshooting DirectX.",
+      "url": "https://www.engadget.com/2319109/built-in-windows-tool-find-problem-directx-diagnostic/",
+      "tickers": []
+    },
+    {
+      "id": "e13b003e00",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-21T21:59:31+00:00",
+      "title": "Amazon is complaining about NYC Council on shipping labels, too",
+      "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively…",
+      "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+      "tickers": [
         "AMZN"
       ]
     },
     {
-      "id": "ec8afc0579",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "Engadget",
-      "published": "2026-11-21T17:30:00+00:00",
-      "title": "This retro classic is the most re-released game of all time — here's why",
-      "summary": "Surpassing any other game, this recognizable retro title has been released on virtually every gaming platform, from the earliest retro machines to smartphones.",
-      "url": "https://www.engadget.com/2318410/why-tetris-most-re-released-retro-game-ever/",
-      "tickers": []
-    },
-    {
-      "id": "6132e1bcf3",
+      "id": "44fe19e914",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-21T17:15:00+00:00",
-      "title": "How to set up surround sound with Apple TV 4K and HomePods",
-      "summary": "Surround yourself with Apple's premium home theater experience - for a price.",
-      "url": "https://www.engadget.com/2318408/how-to-set-up-surround-sound-apple-tv-4k-homepods/",
+      "published": "2026-11-21T21:45:00+00:00",
+      "title": "The free Raspberry Pi tool you should be using to access it remotely",
+      "summary": "Avoid forwarding ports by using this handy tool.",
+      "url": "https://www.engadget.com/2319090/free-raspberry-pi-tool-access-remotely/",
+      "tickers": []
+    },
+    {
+      "id": "61a5c4b5f8",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-21T21:37:10+00:00",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "tickers": []
+    },
+    {
+      "id": "6ba52165d2",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-21T21:30:00+00:00",
+      "title": "How long can fiber optic cables be before they lose signal?",
+      "summary": "Fiber optic cables can span your neighborhood or multiple continents, but there are limitations to this technology's communication capabilities.",
+      "url": "https://www.engadget.com/2319077/fiber-optic-cable-how-long-before-lose-signal/",
+      "tickers": []
+    },
+    {
+      "id": "791a403d15",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-21T21:15:00+00:00",
+      "title": "How to easily factory reset your Fitbit",
+      "summary": "There's a difference between restarting and factory resetting your Fitbit.",
+      "url": "https://www.engadget.com/2319074/how-to-factory-reset-fitbit-device/",
+      "tickers": []
+    },
+    {
+      "id": "6af66204df",
+      "topic": "Chips",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-21T21:07:42+00:00",
+      "title": "A tale of two Nvidias",
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "f07b6d137c",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-21T21:00:00+00:00",
+      "title": "What's new with Apple's latest Siri Remote, and does your old Apple TV support it?",
+      "summary": "The 4th-gen Apple TV 4K comes with a new remote. Here's what you need to know about it.",
+      "url": "https://www.engadget.com/2319050/whats-new-siri-remote-does-older-apple-tv-support/",
       "tickers": [
         "AAPL"
       ]
+    },
+    {
+      "id": "9478d704d6",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-21T20:45:00+00:00",
+      "title": "The trade-offs of using Apple's AirPods Max headphones",
+      "summary": "Apple's AirPods Max sound great, but they come with a lot of compromises for $549 headphones.",
+      "url": "https://www.engadget.com/2319042/trade-offs-using-apple-airpods-max-headphones/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "cbcd4efa37",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-21T20:30:00+00:00",
+      "title": "Discs vs. disks: What's the difference?",
+      "summary": "They're pronounced the same and only deviate by a single letter, but their mechanics and usage are quite different.",
+      "url": "https://www.engadget.com/2319034/discs-vs-disks-differences/",
+      "tickers": []
+    },
+    {
+      "id": "37761c1484",
+      "topic": "Devices",
+      "kind": "Launch",
+      "source": "Engadget",
+      "published": "2026-11-21T20:15:00+00:00",
+      "title": "Why Apple Vision Pro never took off like Meta's VR headsets",
+      "summary": "The Apple Vision Pro debuted to massive hype in 2024, but the years since then have not been kind to Apple's megabucks mixed-reality headset.",
+      "url": "https://www.engadget.com/2318875/why-apple-vision-pro-did-not-take-off-vs-meta-vr/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "c5f5b9f476",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-21T20:03:37+00:00",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely…",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "tickers": []
+    },
+    {
+      "id": "fbe4b8dacd",
+      "topic": "Security",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-21T18:44:53+00:00",
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+      "tickers": []
     },
     {
       "id": "b8b9289525",
@@ -55,248 +295,23 @@
       "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
       "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "tickers": []
-    },
-    {
-      "id": "0fde7256fa",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-21T17:00:00+00:00",
-      "title": "5 clever things you can still do with an old DVD or CD player",
-      "summary": "If you don't have discs to play, they can make for clever fodder for DIY projects.",
-      "url": "https://www.engadget.com/2318405/clever-uses-old-dvd-cd-players/",
-      "tickers": []
-    },
-    {
-      "id": "89aab147a1",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-21T16:45:00+00:00",
-      "title": "One of Apple HomeView's best features will have you cooking like a pro",
-      "summary": "Apple makes cooking a blast with this new tool on its smart display.",
-      "url": "https://www.engadget.com/2318404/apple-homeview-cooking-feature/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "f62b68898a",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-21T16:30:00+00:00",
-      "title": "36 percent of households have ditched a streaming service subscription recently: Here's why",
-      "summary": "If you've cut back your streaming subscriptions recently, you're not alone.",
-      "url": "https://www.engadget.com/2318288/why-36-percent-households-ditching-streaming-subscriptions/",
-      "tickers": []
-    },
-    {
-      "id": "a0f5b80716",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-21T16:15:00+00:00",
-      "title": "Common reasons why your iPhone keeps randomly turning off",
-      "summary": "If your iPhone's battery can't keep up with what you're doing or you overwhelm its hardware, it might shut down to protect itself.",
-      "url": "https://www.engadget.com/2318247/common-reasons-why-iphone-turning-off/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "1ab6992e60",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-21T16:01:32+00:00",
-      "title": "Waymo recalls robotaxis after they drove into closed freeway lanes",
-      "summary": "The recalls come after the California DMV banned Waymo from operating on its state freeways.",
-      "url": "https://www.engadget.com/2324099/waymo-recalls-robotaxis-after-they-drove-into-closed-freeway-lanes/",
-      "tickers": []
-    },
-    {
-      "id": "4197b592bc",
-      "topic": "Startups",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-11-21T16:00:00+00:00",
-      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
-      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-      "tickers": []
-    },
-    {
-      "id": "0c600d01d4",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-21T16:00:00+00:00",
-      "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
-      "summary": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of laughs, top-notch puns, and frankly wholesome fun. Comedy is just…",
-      "url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
-      "tickers": []
-    },
-    {
-      "id": "6142b6a04b",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-11-21T16:00:00+00:00",
-      "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
-      "summary": "Amazon only announced its first digital photo frame less than a month ago, but it’s already getting a sizable discount for Black Friday. You can currently grab the Alexa Photo Frame at Amazon and Best Buy starting at $114 ($115 off), making it a great holiday gift for anyone who…",
-      "url": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
-      "tickers": [
-        "AMZN"
-      ]
-    },
-    {
-      "id": "2b8d7ce770",
-      "topic": "Chips",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-21T16:00:00+00:00",
-      "title": "Where you can find which GPU you have in your Windows PC",
-      "summary": "Your laptop may be running two graphics processors without you knowing it. Here are the built-in Windows tools that reveal what is powering your games.",
-      "url": "https://www.engadget.com/2315158/where-find-which-graphics-card-gpu-in-windows-pc/",
-      "tickers": []
-    },
-    {
-      "id": "149759f691",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-21T15:45:00+00:00",
-      "title": "Ways you can help your Fitbit's battery last longer",
-      "summary": "Fitbits don't last forever, but there's a couple easy ways you can get more years of step counts and heart-rate monitoring from your favorite wearable",
-      "url": "https://www.engadget.com/2318393/help-your-fitbit-battery-last-longer/",
-      "tickers": []
-    },
-    {
-      "id": "8c474097dd",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-21T15:30:00+00:00",
-      "title": "The pros and cons of using a VPN over encrypted DNS",
-      "summary": "Explore the perks and drawbacks of choosing a VPN over encrypted DNS, from privacy and security to speed, costs, and control over your browsing habits.",
-      "url": "https://www.engadget.com/2317883/pros-cons-using-vpn-over-encrypted-dns/",
-      "tickers": []
-    },
-    {
-      "id": "29336f34dd",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-21T15:18:29+00:00",
-      "title": "Alaska, your next governor is a Wikipedia nerd",
-      "summary": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.",
-      "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
-      "tickers": []
-    },
-    {
-      "id": "f11467a7c1",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-21T15:15:00+00:00",
-      "title": "Why your ping is terrible (even though you have fast internet)",
-      "summary": "Having a fast internet speed helps with online performance, but ping is the value that matters much more for games and video calls.",
-      "url": "https://www.engadget.com/2318153/fast-internet-but-terrible-ping-why/",
-      "tickers": []
-    },
-    {
-      "id": "ea39d9a866",
-      "topic": "AI",
-      "kind": "Founder",
-      "source": "The Verge",
-      "published": "2026-11-21T15:00:00+00:00",
-      "title": "Can Anthropic afford to put safety first?",
-      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that…",
-      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-      "tickers": []
-    },
-    {
-      "id": "b516a87c78",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-21T15:00:00+00:00",
-      "title": "How do those 'metal detector' apps for your phone actually work?",
-      "summary": "Your phone can be turned into something of a metal detector, but don't expect the range of a dedicated machine.",
-      "url": "https://www.engadget.com/2318137/how-phone-metal-detector-apps-work/",
-      "tickers": []
-    },
-    {
-      "id": "5fa79283e7",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-21T14:55:28+00:00",
-      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
-      "summary": "If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wireless earbuds, which normally retail for $169.99 and come in four colors…",
-      "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
-      "tickers": [
-        "AMZN"
-      ]
-    },
-    {
-      "id": "c34d07f0c4",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-21T14:45:00+00:00",
-      "title": "5 gadgets you should never buy used",
-      "summary": "Buying used tech could save you money, but some gadgets aren't worth the risk. Here's what you should avoid buying secondhand unless it's refurbished.",
-      "url": "https://www.engadget.com/2318096/gadgets-you-should-never-buy-used/",
-      "tickers": []
-    },
-    {
-      "id": "8f5bf4ee9d",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-21T14:36:45+00:00",
-      "title": "Lean verification of the Riemann Hypothesis",
-      "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 391 # Comments: 303",
-      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "tickers": []
-    },
-    {
-      "id": "e4312cbc9a",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-21T14:30:00+00:00",
-      "title": "Why so many desktop PC cases have glass walls (and why you might not want that)",
-      "summary": "Tempered glass has taken over the PC case market. Learn what drives the trend and the trade-offs that could make a glass-panel build a poor fit for you.",
-      "url": "https://www.engadget.com/2318044/desktop-pc-why-tempered-glass-walls-downsides/",
-      "tickers": []
-    },
-    {
-      "id": "6316d7faf3",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-21T14:25:25+00:00",
-      "title": "Etsy says it will not use sellers' content to train AI after they revolt over policy changes",
-      "summary": "Etsy changed its terms of use, adding a clause on AI training. Now, it has clarified that it will not use sellers' content to train AI that can copy their work.",
-      "url": "https://www.engadget.com/2324090/etsy-not-use-seller-content-train-ai/",
-      "tickers": []
-    },
-    {
-      "id": "5fcf4b8086",
-      "topic": "Cloud",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-21T14:15:00+00:00",
-      "title": "What data storage looked like in the early 2000s vs. today",
-      "summary": "We've come a long way in storage technology in just 25 years, from floppies and tiny USB drives to massive SSDs and cloud storage.",
-      "url": "https://www.engadget.com/2318027/what-data-storage-looked-like-early-2000s-vs-today/",
-      "tickers": []
     }
   ],
   "rumors": [
+    {
+      "id": "cea4ef11d8",
+      "topic": "Security",
+      "status": "Just surfaced",
+      "title": "The FBI and USDA were reportedly hacked",
+      "detail": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC)…",
+      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+      "sources": 2,
+      "mentions": 2,
+      "credible": 2,
+      "days": 0,
+      "tickers": [],
+      "score": 29
+    },
     {
       "id": "a597de461e",
       "topic": "Chips",
@@ -307,11 +322,25 @@
       "sources": 1,
       "mentions": 6,
       "credible": 1,
-      "days": 3,
+      "days": 4,
       "tickers": [
         "NVDA"
       ],
       "score": 23
+    },
+    {
+      "id": "fbe4b8dacd",
+      "topic": "Security",
+      "status": "Just surfaced",
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "detail": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+      "sources": 2,
+      "mentions": 2,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 22
     },
     {
       "id": "083c0d2472",
@@ -323,7 +352,7 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 2,
+      "days": 3,
       "tickers": [],
       "score": 15
     },
@@ -340,48 +369,6 @@
       "days": 1,
       "tickers": [],
       "score": 15
-    },
-    {
-      "id": "661e27da0f",
-      "topic": "Tech",
-      "status": "Just surfaced",
-      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
-      "detail": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principle,\" and that the deal would also include new…",
-      "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "cea4ef11d8",
-      "topic": "Security",
-      "status": "Just surfaced",
-      "title": "The FBI and USDA were reportedly hacked",
-      "detail": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC)…",
-      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "c7b1c1f0f2",
-      "topic": "Security",
-      "status": "Just surfaced",
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "detail": "Article URL: https://www.bbc.com/news/articles/cvze7de86pk3o Comments URL: https://news.ycombinator.com/item?id=50587859 Points: 136 # Comments: 69",
-      "url": "https://www.bbc.com/news/articles/cvze7de86pk3o",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 0,
-      "days": 0,
-      "tickers": [],
-      "score": 8
     }
   ],
   "watchlist": [
@@ -513,10 +500,10 @@
       "price": 125.53,
       "changePct": -22.9,
       "monthChangePct": -40.8,
-      "catalyst": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+      "catalyst": "A tale of two Nvidias",
       "when": "In the news",
       "signals": [
-        "7 headlines",
+        "8 headlines",
         "Big price move",
         "Volume up"
       ],
@@ -622,6 +609,12 @@
       "earnings": null,
       "headlines": [
         {
+          "title": "A tale of two Nvidias",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+          "published": "2026-11-21T21:07:42+00:00"
+        },
+        {
           "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
           "source": "Wired",
           "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
@@ -654,8 +647,142 @@
       ],
       "score": 57.0,
       "brief": {
-        "what": "5 recent headlines mention NVIDIA. Latest: Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation There is also a rumor making the rounds: Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
-        "why": "Signals: 7 headlines, big price move, volume up. The stock is down 22.9% this week and down 40.8% over the month.",
+        "what": "6 recent headlines mention NVIDIA. Latest: A tale of two Nvidias There is also a rumor making the rounds: Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+        "why": "Signals: 8 headlines, big price move, volume up. The stock is down 22.9% this week and down 40.8% over the month.",
+        "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "price": 265.29,
+      "changePct": -10.3,
+      "monthChangePct": -18.2,
+      "catalyst": "Six products and services Google discontinued in 2026",
+      "when": "In the news",
+      "signals": [
+        "3 headlines",
+        "Big price move"
+      ],
+      "spark": [
+        298.7,
+        295.77,
+        283.72,
+        280.2,
+        282.44,
+        272.66,
+        265.29
+      ],
+      "history": [
+        {
+          "d": "2026-10-22",
+          "c": 324.22
+        },
+        {
+          "d": "2026-10-23",
+          "c": 320.21
+        },
+        {
+          "d": "2026-10-26",
+          "c": 316.8
+        },
+        {
+          "d": "2026-10-27",
+          "c": 320.58
+        },
+        {
+          "d": "2026-10-28",
+          "c": 324.89
+        },
+        {
+          "d": "2026-10-29",
+          "c": 283.82
+        },
+        {
+          "d": "2026-10-30",
+          "c": 279.84
+        },
+        {
+          "d": "2026-11-02",
+          "c": 278.99
+        },
+        {
+          "d": "2026-11-03",
+          "c": 280.03
+        },
+        {
+          "d": "2026-11-04",
+          "c": 288.93
+        },
+        {
+          "d": "2026-11-05",
+          "c": 282.57
+        },
+        {
+          "d": "2026-11-06",
+          "c": 284.78
+        },
+        {
+          "d": "2026-11-09",
+          "c": 288.15
+        },
+        {
+          "d": "2026-11-10",
+          "c": 287.38
+        },
+        {
+          "d": "2026-11-11",
+          "c": 293.45
+        },
+        {
+          "d": "2026-11-12",
+          "c": 298.7
+        },
+        {
+          "d": "2026-11-13",
+          "c": 295.77
+        },
+        {
+          "d": "2026-11-16",
+          "c": 283.72
+        },
+        {
+          "d": "2026-11-17",
+          "c": 280.2
+        },
+        {
+          "d": "2026-11-18",
+          "c": 282.44
+        },
+        {
+          "d": "2026-11-19",
+          "c": 272.66
+        },
+        {
+          "d": "2026-11-20",
+          "c": 265.29
+        }
+      ],
+      "earnings": null,
+      "headlines": [
+        {
+          "title": "Six products and services Google discontinued in 2026",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2319181/google-products-services-discontinued-2026/",
+          "published": "2026-11-21T23:00:00+00:00"
+        },
+        {
+          "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+          "published": "2026-11-17T10:47:45+00:00"
+        }
+      ],
+      "score": 36.6,
+      "brief": {
+        "what": "2 recent headlines mention Alphabet. Latest: Six products and services Google discontinued in 2026",
+        "why": "Signals: 3 headlines, big price move. The stock is down 10.3% this week and down 18.2% over the month.",
         "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
@@ -666,10 +793,10 @@
       "price": 342.56,
       "changePct": -3.8,
       "monthChangePct": -1.6,
-      "catalyst": "HomeView vs. Echo Show: What's the difference between Apple's and Amazon's smart displays?",
+      "catalyst": "What's new with Apple's latest Siri Remote, and does your old Apple TV support it?",
       "when": "In the news",
       "signals": [
-        "7 headlines",
+        "5 headlines",
         "Volume up"
       ],
       "spark": [
@@ -774,34 +901,22 @@
       "earnings": "2027-01-28",
       "headlines": [
         {
-          "title": "HomeView vs. Echo Show: What's the difference between Apple's and Amazon's smart displays?",
+          "title": "What's new with Apple's latest Siri Remote, and does your old Apple TV support it?",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2318413/apple-homeview-vs-amazon-echo-show-smart-display-comparison/",
-          "published": "2026-11-21T17:45:00+00:00"
+          "url": "https://www.engadget.com/2319050/whats-new-siri-remote-does-older-apple-tv-support/",
+          "published": "2026-11-21T21:00:00+00:00"
         },
         {
-          "title": "How to set up surround sound with Apple TV 4K and HomePods",
+          "title": "The trade-offs of using Apple's AirPods Max headphones",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2318408/how-to-set-up-surround-sound-apple-tv-4k-homepods/",
-          "published": "2026-11-21T17:15:00+00:00"
+          "url": "https://www.engadget.com/2319042/trade-offs-using-apple-airpods-max-headphones/",
+          "published": "2026-11-21T20:45:00+00:00"
         },
         {
-          "title": "One of Apple HomeView's best features will have you cooking like a pro",
+          "title": "Why Apple Vision Pro never took off like Meta's VR headsets",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2318404/apple-homeview-cooking-feature/",
-          "published": "2026-11-21T16:45:00+00:00"
-        },
-        {
-          "title": "Common reasons why your iPhone keeps randomly turning off",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2318247/common-reasons-why-iphone-turning-off/",
-          "published": "2026-11-21T16:15:00+00:00"
-        },
-        {
-          "title": "Why deep discounts on used Apple AirPods just aren't worth it",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2317961/used-apple-airpods-deep-discounts-not-worth-it/",
-          "published": "2026-11-21T14:00:00+00:00"
+          "url": "https://www.engadget.com/2318875/why-apple-vision-pro-did-not-take-off-vs-meta-vr/",
+          "published": "2026-11-21T20:15:00+00:00"
         },
         {
           "title": "Startup sues Apple in India over tap-to-share contacts feature",
@@ -816,10 +931,10 @@
           "published": "2026-11-20T00:56:01+00:00"
         }
       ],
-      "score": 41.1,
+      "score": 36.1,
       "brief": {
-        "what": "7 recent headlines mention Apple. Latest: HomeView vs. Echo Show: What's the difference between Apple's and Amazon's smart displays?",
-        "why": "Signals: 7 headlines, volume up. The stock is down 3.8% this week and down 1.6% over the month.",
+        "what": "5 recent headlines mention Apple. Latest: What's new with Apple's latest Siri Remote, and does your old Apple TV support it?",
+        "why": "Signals: 5 headlines, volume up. The stock is down 3.8% this week and down 1.6% over the month.",
         "watch": "Next earnings expected Thu Jan 28. Results and guidance usually move the stock most.",
         "ai": false
       }
@@ -830,10 +945,10 @@
       "price": 246.82,
       "changePct": -7.4,
       "monthChangePct": -1.4,
-      "catalyst": "HomeView vs. Echo Show: What's the difference between Apple's and Amazon's smart displays?",
+      "catalyst": "Amazon is complaining about NYC Council on shipping labels, too",
       "when": "In the news",
       "signals": [
-        "3 headlines",
+        "2 headlines",
         "Big price move"
       ],
       "spark": [
@@ -938,10 +1053,10 @@
       "earnings": null,
       "headlines": [
         {
-          "title": "HomeView vs. Echo Show: What's the difference between Apple's and Amazon's smart displays?",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2318413/apple-homeview-vs-amazon-echo-show-smart-display-comparison/",
-          "published": "2026-11-21T17:45:00+00:00"
+          "title": "Amazon is complaining about NYC Council on shipping labels, too",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+          "published": "2026-11-21T21:59:31+00:00"
         },
         {
           "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
@@ -950,138 +1065,11 @@
           "published": "2026-11-21T16:00:00+00:00"
         }
       ],
-      "score": 32.2,
+      "score": 27.2,
       "brief": {
-        "what": "2 recent headlines mention Amazon. Latest: HomeView vs. Echo Show: What's the difference between Apple's and Amazon's smart displays?",
-        "why": "Signals: 3 headlines, big price move. The stock is down 7.4% this week and down 1.4% over the month.",
+        "what": "2 recent headlines mention Amazon. Latest: Amazon is complaining about NYC Council on shipping labels, too",
+        "why": "Signals: 2 headlines, big price move. The stock is down 7.4% this week and down 1.4% over the month.",
         "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "INTC",
-      "name": "Intel",
-      "price": 51.28,
-      "changePct": -14.0,
-      "monthChangePct": -40.0,
-      "catalyst": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-      "when": "In the news",
-      "signals": [
-        "Big price move"
-      ],
-      "spark": [
-        61.2,
-        59.66,
-        55.47,
-        55.17,
-        54.67,
-        55.72,
-        51.28
-      ],
-      "history": [
-        {
-          "d": "2026-10-22",
-          "c": 85.49
-        },
-        {
-          "d": "2026-10-23",
-          "c": 86.96
-        },
-        {
-          "d": "2026-10-26",
-          "c": 90.47
-        },
-        {
-          "d": "2026-10-27",
-          "c": 93.74
-        },
-        {
-          "d": "2026-10-28",
-          "c": 95.53
-        },
-        {
-          "d": "2026-10-29",
-          "c": 92.07
-        },
-        {
-          "d": "2026-10-30",
-          "c": 65.76
-        },
-        {
-          "d": "2026-11-02",
-          "c": 59.97
-        },
-        {
-          "d": "2026-11-03",
-          "c": 60.55
-        },
-        {
-          "d": "2026-11-04",
-          "c": 58.27
-        },
-        {
-          "d": "2026-11-05",
-          "c": 52.25
-        },
-        {
-          "d": "2026-11-06",
-          "c": 56.28
-        },
-        {
-          "d": "2026-11-09",
-          "c": 59.37
-        },
-        {
-          "d": "2026-11-10",
-          "c": 58.13
-        },
-        {
-          "d": "2026-11-11",
-          "c": 62.5
-        },
-        {
-          "d": "2026-11-12",
-          "c": 61.2
-        },
-        {
-          "d": "2026-11-13",
-          "c": 59.66
-        },
-        {
-          "d": "2026-11-16",
-          "c": 55.47
-        },
-        {
-          "d": "2026-11-17",
-          "c": 55.17
-        },
-        {
-          "d": "2026-11-18",
-          "c": 54.67
-        },
-        {
-          "d": "2026-11-19",
-          "c": 55.72
-        },
-        {
-          "d": "2026-11-20",
-          "c": 51.28
-        }
-      ],
-      "earnings": "2027-01-28",
-      "headlines": [
-        {
-          "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
-          "published": "2026-11-16T20:37:47+00:00"
-        }
-      ],
-      "score": 27.1,
-      "brief": {
-        "what": "1 recent headline mentions Intel. Latest: Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-        "why": "Signals: big price move. The stock is down 14.0% this week and down 40.0% over the month.",
-        "watch": "Next earnings expected Thu Jan 28. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
