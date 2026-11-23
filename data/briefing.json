@@ -1,291 +1,289 @@
 {
-  "weekOf": "2026-11-16",
-  "updated": "2026-11-22T18:29:42+00:00",
+  "weekOf": "2026-11-23",
+  "updated": "2026-11-23T02:43:38+00:00",
   "summary": [
-    "Tech leads the news with 14 of 25 stories. Top headline: 11 types of smart gadgets to consider pairing with your Ring doorbell",
+    "Tech leads the news with 17 of 25 stories. Top headline: Here's how much Starlink cost in 2020 vs. 2026",
     "Earnings this week from DELL.",
     "Strongest rumor: Nvidia’s Board Has No Plans to Bring Back Jensen Huang"
   ],
   "stories": [
     {
-      "id": "b89eeae03b",
+      "id": "c82beb7aaf",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-22T18:15:00+00:00",
-      "title": "11 types of smart gadgets to consider pairing with your Ring doorbell",
-      "summary": "If you've expanded your smart home to have multiple smart devices, you may want to see how many will work with Ring.",
-      "url": "https://www.engadget.com/2319422/ring-doorbell-smart-gadget-pairings/",
+      "published": "2026-11-23T01:30:00+00:00",
+      "title": "Here's how much Starlink cost in 2020 vs. 2026",
+      "summary": "Throw in discounts and fluctuating rates, and two customers could end up paying vastly different bills for the same Starlink satellite service.",
+      "url": "https://www.engadget.com/2319572/how-much-starlink-cost-2020-vs-2026/",
       "tickers": []
     },
     {
-      "id": "4d6c325c0e",
-      "topic": "Cloud",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-22T18:08:43+00:00",
-      "title": "Why data centers are at the center of the Big Tech backlash",
-      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
-      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-      "tickers": []
-    },
-    {
-      "id": "f7539f386a",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-22T18:00:00+00:00",
-      "title": "Don't throw away your old Xbox — Do this instead",
-      "summary": "Your old Xbox doesn't deserve to be dumped in a dustbin. From making a buck to making a kid's day, there are ways to give your console a new lease on life.",
-      "url": "https://www.engadget.com/2319409/dont-throw-away-old-xbox-do-this-instead-sell-donate/",
-      "tickers": []
-    },
-    {
-      "id": "938966a642",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-22T17:46:44+00:00",
-      "title": "Delta flights in and out of Atlanta delayed due to system outage",
-      "summary": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's largest hub and one of the busiest airports in the world.…",
-      "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
-      "tickers": []
-    },
-    {
-      "id": "3036b44f12",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-22T17:45:00+00:00",
-      "title": "You can mass-delete all of your emails on Gmail in only a few clicks",
-      "summary": "If you have thousands of emails piling up in Gmail, you can delete them in bulk without losing the important ones.",
-      "url": "https://www.engadget.com/2319403/how-to-mass-delete-all-emails-gmail/",
-      "tickers": []
-    },
-    {
-      "id": "55da548498",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-22T17:30:00+00:00",
-      "title": "How to cancel your Nintendo Switch Online subscription",
-      "summary": "You'll have to switch off Nintendo Switch Online's auto-renewal to cancel it. Here's how.",
-      "url": "https://www.engadget.com/2319401/cancel-nintendo-switch-online-subscription/",
-      "tickers": []
-    },
-    {
-      "id": "03999c6aca",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-22T17:25:20+00:00",
-      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found…",
-      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
-      "tickers": []
-    },
-    {
-      "id": "b6fe4bb36b",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "Engadget",
-      "published": "2026-11-22T17:15:00+00:00",
-      "title": "5 iOS 27.3 changes coming to your Apple devices by 2027",
-      "summary": "iOS 27.3's first developer beta is out ahead of a possible December 2026 launch, and it brings with it a handful of notable changes and new features.",
-      "url": "https://www.engadget.com/2319400/apple-ios-27-3-changes-by-2027/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "b8aba4ffd2",
+      "id": "0c60c3d149",
       "topic": "AI",
       "kind": "Company",
       "source": "TechCrunch",
-      "published": "2026-11-22T17:06:00+00:00",
-      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
-      "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "published": "2026-11-23T01:25:53+00:00",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
       "tickers": []
     },
     {
-      "id": "7818b9b055",
+      "id": "67c9955058",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-23T01:00:00+00:00",
+      "title": "How to clear your cache on Google TV",
+      "summary": "Clearing your Google TV's cache isn't a one-size-fits-all solution, but it's a useful first step if you're having performance issues or glitches.",
+      "url": "https://www.engadget.com/2319567/how-to-clear-cache-google-tv/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "bd04e50941",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-23T00:45:00+00:00",
+      "title": "This free 'Swiss Army Knife' for macOS can replace your utility apps",
+      "summary": "Vorssaint is a powerful, modular utility suite, provided permissions are carefully managed.",
+      "url": "https://www.engadget.com/2319565/vorssaint-free-swiss-army-knife-macos-replace-utility-apps/",
+      "tickers": []
+    },
+    {
+      "id": "0d1cf6a242",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-23T00:30:00+00:00",
+      "title": "Should you go with a headphone DAC/amp combo or a stack?",
+      "summary": "If your computer's headphone jack isn't cutting it anymore, it's time to get a DAC and headphone amp. But do you go for a combo DAC/amp or a stack?",
+      "url": "https://www.engadget.com/2311788/headphone-dac-amp-combo-vs-stack/",
+      "tickers": []
+    },
+    {
+      "id": "5b24f1e8cc",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-23T00:15:00+00:00",
+      "title": "8 Windows apps you should probably remove from your PC",
+      "summary": "From pre-installed junk to popular apps that have better alternatives, these are the apps you should clean off your PC if they're present.",
+      "url": "https://www.engadget.com/2317781/windows-apps-remove-from-pc/",
+      "tickers": []
+    },
+    {
+      "id": "7e965b944a",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-23T00:00:00+00:00",
+      "title": "Public vs. private IP addresses: what's the difference?",
+      "summary": "One identifies your network, the other identifies the devices using your network.",
+      "url": "https://www.engadget.com/2310692/public-vs-private-ip-addresses-differences/",
+      "tickers": []
+    },
+    {
+      "id": "32439a5e36",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-22T23:45:00+00:00",
+      "title": "What is the best way to secure your PlayStation 5 for a flight?",
+      "summary": "You don't have to leave your precious PS5 behind when flying, but you will need to take some precautions or opt for a long-distance streaming relationship.",
+      "url": "https://www.engadget.com/2319558/best-way-secure-playstation-5-for-flight-travel/",
+      "tickers": []
+    },
+    {
+      "id": "50937a7339",
       "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-22T23:30:00+00:00",
+      "title": "How to use AI glasses as a teleprompter",
+      "summary": "If you have the right type of smart glasses, this is an easy feature to enable.",
+      "url": "https://www.engadget.com/2319553/how-to-use-ai-glasses-as-teleprompter/",
+      "tickers": []
+    },
+    {
+      "id": "083cca58c4",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-22T23:12:10+00:00",
+      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 162 # Comments: 138",
+      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "tickers": []
+    },
+    {
+      "id": "b10f02dbf8",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-22T23:00:00+00:00",
+      "title": "The pros and cons of sharing your location",
+      "summary": "Location sharing has perks from tracking lost gear to staying safe on a night out. Learn what you gain and what you give up before you share.",
+      "url": "https://www.engadget.com/2319550/pros-and-cons-sharing-your-location/",
+      "tickers": []
+    },
+    {
+      "id": "446af3f3fb",
+      "topic": "Tech",
       "kind": "Company",
       "source": "The Verge",
-      "published": "2026-11-22T17:00:00+00:00",
-      "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
-      "summary": "Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In addition to a $50 off sale on one of its console bundles, Nintendo is also…",
-      "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+      "published": "2026-11-22T22:48:02+00:00",
+      "title": "We haven’t seen the last of the major tech outages",
+      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton…",
+      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
       "tickers": []
     },
     {
-      "id": "4f8eb915a2",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-22T17:00:00+00:00",
-      "title": "You can reuse your old GoPro in a couple different ways",
-      "summary": "An old GoPro may not be of much use as an action camera, but that doesn't mean it's destined for e-waste. Here are two ways to repurpose it.",
-      "url": "https://www.engadget.com/2319397/reuse-old-gopro-different-ways/",
-      "tickers": []
-    },
-    {
-      "id": "44b2618028",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-22T16:45:00+00:00",
-      "title": "Here's how to properly test your USB speed",
-      "summary": "Your USB ports and devices are all rated for certain speeds, but how do you know everything's performing as it should? It's actually not that hard.",
-      "url": "https://www.engadget.com/2319388/how-to-test-usb-speed/",
-      "tickers": []
-    },
-    {
-      "id": "80316e82cd",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-11-22T16:33:29+00:00",
-      "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
-      "summary": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-noir debut LP that's primarily sung in Urdu. The instrumentation on Khudgarzi…",
-      "url": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
-      "tickers": []
-    },
-    {
-      "id": "5c8771f813",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-22T16:30:00+00:00",
-      "title": "Fixing this annoying One UI feature is easy, but there's a catch",
-      "summary": "The Now bar on your Samsung phone's lock screen can sometimes float above the bottom of the screen. Find out how to fix this One UI feature.",
-      "url": "https://www.engadget.com/2319385/fixing-annoying-one-ui-feature-easy-but-theres-catch/",
-      "tickers": []
-    },
-    {
-      "id": "4050c029d4",
+      "id": "4f9d0c9b68",
       "topic": "Devices",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-22T16:15:00+00:00",
-      "title": "4 random apps you might not realize work with Android Auto",
-      "summary": "From deciding where to fuel up to joining meetings from your car, there are many convenient apps that work with Android Auto.",
-      "url": "https://www.engadget.com/2319383/random-apps-that-work-with-android-auto/",
-      "tickers": []
-    },
-    {
-      "id": "8884fb514c",
-      "topic": "Cloud",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-22T16:00:00+00:00",
-      "title": "6 handy ways you can use your old mini PC",
-      "summary": "From retro gaming consoles to home media servers, discover six handy ways to repurpose your old mini PC and give the hardware a new lease on life.",
-      "url": "https://www.engadget.com/2310723/handy-ways-use-old-mini-pc/",
-      "tickers": []
-    },
-    {
-      "id": "8b15da2d61",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-22T15:45:00+00:00",
-      "title": "How much storage does Apple Intelligence use on your iPhone?",
-      "summary": "Apple Intelligence has a lot of neat tricks, but you might prefer to disable them if you need every bit of free space possible.",
-      "url": "https://www.engadget.com/2319374/apple-intelligence-iphone-storage-usage/",
+      "published": "2026-11-22T22:30:00+00:00",
+      "title": "Can you safely use a 140w charger on an iPhone?",
+      "summary": "A 140-watt charger is far more juice than your iPhone needs, but does that really matter? Yes and no -- we can explain.",
+      "url": "https://www.engadget.com/2319546/can-iphone-safely-use-140w-charger/",
       "tickers": [
         "AAPL"
       ]
     },
     {
-      "id": "8dfe37d0ac",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-22T15:30:00+00:00",
-      "title": "The most recognizable spam email type is way older than the internet",
-      "summary": "It's a tale as old as time, literally. Con artists have been promising fortunes (following a small advance, of course) through all sorts of correspondence.",
-      "url": "https://www.engadget.com/2319371/most-recognizable-spam-email-type-way-older-than-internet/",
-      "tickers": []
-    },
-    {
-      "id": "5d13669e35",
-      "topic": "Policy",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-22T15:15:07+00:00",
-      "title": "Protesters storm Meta offices in India",
-      "summary": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of party leaders and warned of more…",
-      "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
-      "tickers": []
-    },
-    {
-      "id": "6287404561",
+      "id": "756bc590c3",
       "topic": "Devices",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-22T15:15:00+00:00",
-      "title": "4 iPad Pro alternatives for those looking to ditch Apple",
-      "summary": "There's really nothing quite like the iPad Pro out there, but these alternatives show that you can still get great tablets from companies other than Apple.",
-      "url": "https://www.engadget.com/2319367/ipad-alternatives-to-ditch-apple/",
-      "tickers": [
-        "AAPL"
-      ]
+      "published": "2026-11-22T22:15:00+00:00",
+      "title": "This free app connects your Android phone to your Windows PC wirelessly",
+      "summary": "Connecting your Android phone to your Windows PC wirelessly doesn't have to cost money or require a multi-step setup, as this free app proves.",
+      "url": "https://www.engadget.com/2319544/free-app-connects-android-phone-windows-pc-wirelessly-plainapp/",
+      "tickers": []
     },
     {
-      "id": "e3e118939d",
+      "id": "ca4c954048",
+      "topic": "Chips",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-22T22:00:00+00:00",
+      "title": "How to safely clean your PC's GPU to avoid damaging it in the process",
+      "summary": "Removing and cleaning a GPU can be intimidating, but it's actually pretty simple.",
+      "url": "https://www.engadget.com/2319541/safely-clean-pc-gpu-avoid-damage/",
+      "tickers": []
+    },
+    {
+      "id": "e567bfa5b1",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-22T21:45:00+00:00",
+      "title": "Why your monitor flickers when you turn it on and can it be fixed?",
+      "summary": "A flickering computer monitor can be a symptom of several different issues. Let's explore some common ones.",
+      "url": "https://www.engadget.com/2319538/monitor-flickering-when-turned-on-how-to-fix/",
+      "tickers": []
+    },
+    {
+      "id": "11e30eb441",
       "topic": "Tech",
       "kind": "Company",
       "source": "TechCrunch",
-      "published": "2026-11-22T15:00:00+00:00",
-      "title": "Can a TV be too large? An investigation",
-      "summary": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
-      "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+      "published": "2026-11-22T21:42:48+00:00",
+      "title": "‘You Can See Everything’ has made more than $100M worldwide",
+      "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+      "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
       "tickers": []
     },
     {
-      "id": "98a585a131",
+      "id": "4d53d8d1da",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-22T15:00:00+00:00",
-      "title": "Why you should never vacuum the inside of your computer",
-      "summary": "Ensuring that your PC is dust free is key, but taking a vacuum to your motherboard and other components can be very damaging. Here's what you should do instead.",
-      "url": "https://www.engadget.com/2319361/why-you-should-never-vacuum-inside-computer/",
+      "published": "2026-11-22T21:30:00+00:00",
+      "title": "The cool phone camera trick that can test your remote control's battery",
+      "summary": "Trying to figure out whether a remote control needs new batteries? Your phone camera can tell you if it's time to replace them. Here's how.",
+      "url": "https://www.engadget.com/2319533/how-to-use-phone-test-remote-control-battery/",
       "tickers": []
     },
     {
-      "id": "6872e3f5f8",
-      "topic": "Tech",
-      "kind": "Founder",
-      "source": "Engadget",
-      "published": "2026-11-22T14:45:00+00:00",
-      "title": "Sleep vs. shutdown – Which should Xbox Series X owners actually use?",
-      "summary": "As long as it's plugged in, the Xbox Series X never fully turns off, but you can manage how much power it draws.",
-      "url": "https://www.engadget.com/2319358/xbox-series-x-owners-sleep-mode-vs-shutdown/",
-      "tickers": []
-    },
-    {
-      "id": "d5c29ec3b5",
+      "id": "497286146e",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-22T14:30:00+00:00",
-      "title": "Can you completely remove One UI from a Samsung phone?",
-      "summary": "Samsung's custom software, One UI, gives every phone a similar appearance. Discover how to limit One UI and change the look of your homepage.",
-      "url": "https://www.engadget.com/2319357/limit-one-ui-9-on-samsung-phone/",
+      "published": "2026-11-22T21:15:00+00:00",
+      "title": "Which solar panel type is best for your home?",
+      "summary": "Find out how monocrystalline, polycrystalline and thin-film solar panels compare on efficiency, cost and roof space, and which type suits your home and budget.",
+      "url": "https://www.engadget.com/2319531/solar-panel-types-best-home-use/",
       "tickers": []
     },
     {
-      "id": "96b8cf02b9",
-      "topic": "Devices",
+      "id": "4a8dd1bc43",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-22T21:14:07+00:00",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "tickers": []
+    },
+    {
+      "id": "9dfe73508d",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-22T21:01:16+00:00",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 266 # Comments: 114",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "tickers": []
+    },
+    {
+      "id": "943de1227e",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-22T21:00:00+00:00",
+      "title": "The best apps to make new friends right now",
+      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+      "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "tickers": []
+    },
+    {
+      "id": "12b33e40e4",
+      "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-22T14:15:00+00:00",
-      "title": "The purpose of the SC port on your old laptop",
-      "summary": "If you have a weird, credit-card-sized slot on your laptop, read on to find out what it's for and how it's used.",
-      "url": "https://www.engadget.com/2319353/old-laptop-sc-port-purpose/",
+      "published": "2026-11-22T21:00:00+00:00",
+      "title": "How Secure Is Your Password? Here's How To Test It",
+      "summary": "Find out which common password habits leave your accounts exposed, from keyboard patterns to reused logins, and what a truly secure password needs to include.",
+      "url": "https://www.engadget.com/2319522/how-secure-is-password/",
+      "tickers": []
+    },
+    {
+      "id": "821206f550",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-22T20:45:00+00:00",
+      "title": "These iOS settings will help you control your mobile data use",
+      "summary": "Keeping your mobile data usage under control is generally a good idea, doubly so if you're on a restrictive plan, and iOS offers a few ways to do so.",
+      "url": "https://www.engadget.com/2319519/ios-settings-help-control-mobile-data-use/",
+      "tickers": []
+    },
+    {
+      "id": "0e69c89285",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-22T20:33:23+00:00",
+      "title": "A miniature San Francisco with live buses, planes and boats",
+      "summary": "Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 158 # Comments: 70",
+      "url": "https://smallsf.com/",
       "tickers": []
     }
   ],
@@ -300,7 +298,7 @@
       "sources": 1,
       "mentions": 6,
       "credible": 1,
-      "days": 4,
+      "days": 5,
       "tickers": [
         "NVDA"
       ],
@@ -316,21 +314,7 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 3,
-      "tickers": [],
-      "score": 15
-    },
-    {
-      "id": "c0c1c2ba35",
-      "topic": "Tech",
-      "status": "Unconfirmed",
-      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
-      "detail": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
-      "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 1,
-      "days": 2,
+      "days": 4,
       "tickers": [],
       "score": 15
     },
@@ -344,23 +328,9 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 0,
+      "days": 1,
       "tickers": [],
       "score": 15
-    },
-    {
-      "id": "46d7d5f71f",
-      "topic": "AI",
-      "status": "Just surfaced",
-      "title": "Together.ai: Prompt Leakage for Requests",
-      "detail": "Article URL: https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026 Comments URL: https://news.ycombinator.com/item?id=50595816 Points: 43 # Comments: 10",
-      "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-      "sources": 1,
-      "mentions": 1,
-      "credible": 0,
-      "days": 0,
-      "tickers": [],
-      "score": 8
     }
   ],
   "watchlist": [
@@ -495,7 +465,7 @@
       "catalyst": "A tale of two Nvidias",
       "when": "In the news",
       "signals": [
-        "8 headlines",
+        "7 headlines",
         "Big price move",
         "Volume up"
       ],
@@ -613,12 +583,6 @@
           "published": "2026-11-20T19:52:21+00:00"
         },
         {
-          "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
-          "published": "2026-11-20T13:21:11+00:00"
-        },
-        {
           "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
           "source": "Wired",
           "url": "https://www.wired.com/story/guys-really-we-got-this/",
@@ -639,167 +603,143 @@
       ],
       "score": 57.0,
       "brief": {
-        "what": "6 recent headlines mention NVIDIA. Latest: A tale of two Nvidias There is also a rumor making the rounds: Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
-        "why": "Signals: 8 headlines, big price move, volume up. The stock is down 22.9% this week and down 40.8% over the month.",
+        "what": "5 recent headlines mention NVIDIA. Latest: A tale of two Nvidias There is also a rumor making the rounds: Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+        "why": "Signals: 7 headlines, big price move, volume up. The stock is down 22.9% this week and down 40.8% over the month.",
         "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
     },
     {
-      "ticker": "AAPL",
-      "name": "Apple",
-      "price": 342.56,
-      "changePct": -3.8,
-      "monthChangePct": -1.6,
-      "catalyst": "5 iOS 27.3 changes coming to your Apple devices by 2027",
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "price": 265.29,
+      "changePct": -10.3,
+      "monthChangePct": -18.2,
+      "catalyst": "How to clear your cache on Google TV",
       "when": "In the news",
       "signals": [
-        "6 headlines",
-        "Volume up"
+        "2 headlines",
+        "Big price move"
       ],
       "spark": [
-        354.88,
-        356.27,
-        352.78,
-        351.91,
-        352.45,
-        349.21,
-        342.56
+        298.7,
+        295.77,
+        283.72,
+        280.2,
+        282.44,
+        272.66,
+        265.29
       ],
       "history": [
         {
           "d": "2026-10-22",
-          "c": 347.96
+          "c": 324.22
         },
         {
           "d": "2026-10-23",
-          "c": 347.47
+          "c": 320.21
         },
         {
           "d": "2026-10-26",
-          "c": 343.65
+          "c": 316.8
         },
         {
           "d": "2026-10-27",
-          "c": 346.84
+          "c": 320.58
         },
         {
           "d": "2026-10-28",
-          "c": 343.57
+          "c": 324.89
         },
         {
           "d": "2026-10-29",
-          "c": 348.65
+          "c": 283.82
         },
         {
           "d": "2026-10-30",
-          "c": 344.37
+          "c": 279.84
         },
         {
           "d": "2026-11-02",
-          "c": 338.06
+          "c": 278.99
         },
         {
           "d": "2026-11-03",
-          "c": 331.65
+          "c": 280.03
         },
         {
           "d": "2026-11-04",
-          "c": 349.24
+          "c": 288.93
         },
         {
           "d": "2026-11-05",
-          "c": 343.91
+          "c": 282.57
         },
         {
           "d": "2026-11-06",
-          "c": 342.11
+          "c": 284.78
         },
         {
           "d": "2026-11-09",
-          "c": 350.42
+          "c": 288.15
         },
         {
           "d": "2026-11-10",
-          "c": 348.25
+          "c": 287.38
         },
         {
           "d": "2026-11-11",
-          "c": 355.36
+          "c": 293.45
         },
         {
           "d": "2026-11-12",
-          "c": 354.88
+          "c": 298.7
         },
         {
           "d": "2026-11-13",
-          "c": 356.27
+          "c": 295.77
         },
         {
           "d": "2026-11-16",
-          "c": 352.78
+          "c": 283.72
         },
         {
           "d": "2026-11-17",
-          "c": 351.91
+          "c": 280.2
         },
         {
           "d": "2026-11-18",
-          "c": 352.45
+          "c": 282.44
         },
         {
           "d": "2026-11-19",
-          "c": 349.21
+          "c": 272.66
         },
         {
           "d": "2026-11-20",
-          "c": 342.56
+          "c": 265.29
         }
       ],
-      "earnings": "2027-01-28",
+      "earnings": null,
       "headlines": [
         {
-          "title": "5 iOS 27.3 changes coming to your Apple devices by 2027",
+          "title": "How to clear your cache on Google TV",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2319400/apple-ios-27-3-changes-by-2027/",
-          "published": "2026-11-22T17:15:00+00:00"
+          "url": "https://www.engadget.com/2319567/how-to-clear-cache-google-tv/",
+          "published": "2026-11-23T01:00:00+00:00"
         },
         {
-          "title": "How much storage does Apple Intelligence use on your iPhone?",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2319374/apple-intelligence-iphone-storage-usage/",
-          "published": "2026-11-22T15:45:00+00:00"
-        },
-        {
-          "title": "4 iPad Pro alternatives for those looking to ditch Apple",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2319367/ipad-alternatives-to-ditch-apple/",
-          "published": "2026-11-22T15:15:00+00:00"
-        },
-        {
-          "title": "Apple AirPods 5 vs. AirPods Pro 3: What are the key differences?",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2319344/apple-airpods-5-vs-airpods-pro-3-differences/",
-          "published": "2026-11-22T13:30:00+00:00"
-        },
-        {
-          "title": "Your questions about Apple HomeView’s audio, answered",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
-          "published": "2026-11-22T13:00:00+00:00"
-        },
-        {
-          "title": "Startup sues Apple in India over tap-to-share contacts feature",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
-          "published": "2026-11-21T04:00:00+00:00"
+          "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+          "published": "2026-11-17T10:47:45+00:00"
         }
       ],
-      "score": 41.1,
+      "score": 31.6,
       "brief": {
-        "what": "6 recent headlines mention Apple. Latest: 5 iOS 27.3 changes coming to your Apple devices by 2027",
-        "why": "Signals: 6 headlines, volume up. The stock is down 3.8% this week and down 1.6% over the month.",
-        "watch": "Next earnings expected Thu Jan 28. Results and guidance usually move the stock most.",
+        "what": "2 recent headlines mention Alphabet. Latest: How to clear your cache on Google TV",
+        "why": "Signals: 2 headlines, big price move. The stock is down 10.3% this week and down 18.2% over the month.",
+        "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
     },
