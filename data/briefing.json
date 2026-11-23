@@ -1,289 +1,308 @@
 {
   "weekOf": "2026-11-23",
-  "updated": "2026-11-23T02:43:38+00:00",
+  "updated": "2026-11-23T22:38:00+00:00",
   "summary": [
-    "Tech leads the news with 17 of 25 stories. Top headline: Here's how much Starlink cost in 2020 vs. 2026",
-    "Earnings this week from DELL.",
+    "Chips leads the news with 8 of 25 stories. Top headline: Nvidia CEO Jensen Huang is back. What happens next?",
+    "Earnings this week from CRWD, DELL.",
     "Strongest rumor: Nvidia’s Board Has No Plans to Bring Back Jensen Huang"
   ],
   "stories": [
     {
-      "id": "c82beb7aaf",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-23T01:30:00+00:00",
-      "title": "Here's how much Starlink cost in 2020 vs. 2026",
-      "summary": "Throw in discounts and fluctuating rates, and two customers could end up paying vastly different bills for the same Starlink satellite service.",
-      "url": "https://www.engadget.com/2319572/how-much-starlink-cost-2020-vs-2026/",
-      "tickers": []
-    },
-    {
-      "id": "0c60c3d149",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-23T01:25:53+00:00",
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
-      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "tickers": []
-    },
-    {
-      "id": "67c9955058",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-23T01:00:00+00:00",
-      "title": "How to clear your cache on Google TV",
-      "summary": "Clearing your Google TV's cache isn't a one-size-fits-all solution, but it's a useful first step if you're having performance issues or glitches.",
-      "url": "https://www.engadget.com/2319567/how-to-clear-cache-google-tv/",
+      "id": "cd14d4f5eb",
+      "topic": "Chips",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-11-23T22:10:32+00:00",
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
       "tickers": [
-        "GOOGL"
+        "NVDA"
       ]
     },
     {
-      "id": "bd04e50941",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-23T00:45:00+00:00",
-      "title": "This free 'Swiss Army Knife' for macOS can replace your utility apps",
-      "summary": "Vorssaint is a powerful, modular utility suite, provided permissions are carefully managed.",
-      "url": "https://www.engadget.com/2319565/vorssaint-free-swiss-army-knife-macos-replace-utility-apps/",
-      "tickers": []
+      "id": "0102ea4ea3",
+      "topic": "Chips",
+      "kind": "Founder",
+      "source": "The Verge",
+      "published": "2026-11-23T22:09:26+00:00",
+      "title": "Welcome to elite impunity, Jensen Huang",
+      "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "tickers": [
+        "NVDA"
+      ]
     },
     {
-      "id": "0d1cf6a242",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-23T00:30:00+00:00",
-      "title": "Should you go with a headphone DAC/amp combo or a stack?",
-      "summary": "If your computer's headphone jack isn't cutting it anymore, it's time to get a DAC and headphone amp. But do you go for a combo DAC/amp or a stack?",
-      "url": "https://www.engadget.com/2311788/headphone-dac-amp-combo-vs-stack/",
-      "tickers": []
-    },
-    {
-      "id": "5b24f1e8cc",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-23T00:15:00+00:00",
-      "title": "8 Windows apps you should probably remove from your PC",
-      "summary": "From pre-installed junk to popular apps that have better alternatives, these are the apps you should clean off your PC if they're present.",
-      "url": "https://www.engadget.com/2317781/windows-apps-remove-from-pc/",
-      "tickers": []
-    },
-    {
-      "id": "7e965b944a",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-23T00:00:00+00:00",
-      "title": "Public vs. private IP addresses: what's the difference?",
-      "summary": "One identifies your network, the other identifies the devices using your network.",
-      "url": "https://www.engadget.com/2310692/public-vs-private-ip-addresses-differences/",
-      "tickers": []
-    },
-    {
-      "id": "32439a5e36",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-22T23:45:00+00:00",
-      "title": "What is the best way to secure your PlayStation 5 for a flight?",
-      "summary": "You don't have to leave your precious PS5 behind when flying, but you will need to take some precautions or opt for a long-distance streaming relationship.",
-      "url": "https://www.engadget.com/2319558/best-way-secure-playstation-5-for-flight-travel/",
-      "tickers": []
-    },
-    {
-      "id": "50937a7339",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-22T23:30:00+00:00",
-      "title": "How to use AI glasses as a teleprompter",
-      "summary": "If you have the right type of smart glasses, this is an easy feature to enable.",
-      "url": "https://www.engadget.com/2319553/how-to-use-ai-glasses-as-teleprompter/",
-      "tickers": []
-    },
-    {
-      "id": "083cca58c4",
+      "id": "5ffb242c61",
       "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-22T23:12:10+00:00",
-      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
-      "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 162 # Comments: 138",
-      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "kind": "Launch",
+      "source": "TechCrunch",
+      "published": "2026-11-23T22:05:50+00:00",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
       "tickers": []
     },
     {
-      "id": "b10f02dbf8",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-22T23:00:00+00:00",
-      "title": "The pros and cons of sharing your location",
-      "summary": "Location sharing has perks from tracking lost gear to staying safe on a night out. Learn what you gain and what you give up before you share.",
-      "url": "https://www.engadget.com/2319550/pros-and-cons-sharing-your-location/",
+      "id": "6a7d85d0c4",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-11-23T22:02:05+00:00",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
       "tickers": []
     },
     {
-      "id": "446af3f3fb",
+      "id": "aa0d56aa50",
+      "topic": "Chips",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-23T21:47:41+00:00",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "4a12379546",
+      "topic": "Devices",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-11-23T21:36:48+00:00",
+      "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+      "summary": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $299 ($100 off) at Amazon and Walmart…",
+      "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+      "tickers": [
+        "AAPL",
+        "AMZN"
+      ]
+    },
+    {
+      "id": "01ee6e8fdc",
+      "topic": "Chips",
+      "kind": "Founder",
+      "source": "Wired",
+      "published": "2026-11-23T21:31:08+00:00",
+      "title": "How to Win Big Betting on Jensen Huang? Listen to Trump",
+      "summary": "Prediction market traders profited from the Nvidia CEO’s comeback by following the White House’s lead. “It’s 2026 and Trump is president, scandal schmandal,” says one winner.",
+      "url": "https://www.wired.com/story/how-to-win-big-betting-on-jensen-huang-listen-to-trump/",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "829ee45e71",
       "topic": "Tech",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-23T21:25:42+00:00",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "tickers": []
+    },
+    {
+      "id": "4e6f1ed9b1",
+      "topic": "Cloud",
       "kind": "Company",
       "source": "The Verge",
-      "published": "2026-11-22T22:48:02+00:00",
-      "title": "We haven’t seen the last of the major tech outages",
-      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton…",
-      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "published": "2026-11-23T21:09:37+00:00",
+      "title": "AI data centers throw another wrench into chaotic UN climate talks",
+      "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic…",
+      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
       "tickers": []
     },
     {
-      "id": "4f9d0c9b68",
-      "topic": "Devices",
+      "id": "ab3fc372ad",
+      "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-22T22:30:00+00:00",
-      "title": "Can you safely use a 140w charger on an iPhone?",
-      "summary": "A 140-watt charger is far more juice than your iPhone needs, but does that really matter? Yes and no -- we can explain.",
-      "url": "https://www.engadget.com/2319546/can-iphone-safely-use-140w-charger/",
+      "published": "2026-11-23T21:00:00+00:00",
+      "title": "Your older, discontinued AirTags can still serve a purpose",
+      "summary": "Apple has moved on from the original AirTag, but you don't have to. Find out how your old trackers can still earn their keep at home and on the go.",
+      "url": "https://www.engadget.com/2320290/discontinued-airtags-still-serve-purpose/",
       "tickers": [
         "AAPL"
       ]
     },
     {
-      "id": "756bc590c3",
+      "id": "d9df5f2be8",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-11-23T20:56:00+00:00",
+      "title": "Apple renews Ted Lasso for season 5",
+      "summary": "One of Apple's biggest shows is sticking around for at least one more season. The streamer announced today that Ted Lasso has been renewed for a fifth season on Apple TV, after what the company calls a \"record-breaking season four debut.\" There are currently no details about the…",
+      "url": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "ab629e993a",
+      "topic": "Policy",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-23T20:46:23+00:00",
+      "title": "GTA 6 player gets social ban on PSN after sending a photo of in-game nudity",
+      "summary": "Apparently just because it's in the game doesn't mean sharing \"obscene\" content is okay.",
+      "url": "https://www.engadget.com/2325800/gta-6-player-gets-social-ban-on-psn-after-sending-a-photo-of-in-game-nudity/",
+      "tickers": []
+    },
+    {
+      "id": "dfac92fa34",
+      "topic": "Chips",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-11-23T20:38:53+00:00",
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "593cee2458",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-23T20:16:10+00:00",
+      "title": "Grand Theft Auto 6 is really about the death of the American Dream",
+      "summary": "The struggle in GTA6 is both real and virtual.",
+      "url": "https://www.engadget.com/2325713/grand-theft-auto/",
+      "tickers": []
+    },
+    {
+      "id": "8256bc5365",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-23T20:02:30+00:00",
+      "title": "Anthropic softens its data retention policy for Mythos and Fable model use",
+      "summary": "Enterprise customers can now keep prompts and responses on their own servers.",
+      "url": "https://www.engadget.com/2325684/anthropic-softens-its-data-retention-policy-for-mythos-and-fable-model-use/",
+      "tickers": []
+    },
+    {
+      "id": "7ca98f6647",
+      "topic": "AI",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-11-23T20:00:00+00:00",
+      "title": "Claude AI can review pull requests and ship fixes on its own now",
+      "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+      "tickers": []
+    },
+    {
+      "id": "8c42438158",
+      "topic": "Chips",
+      "kind": "Founder",
+      "source": "The Verge",
+      "published": "2026-11-23T19:58:27+00:00",
+      "title": "Jensen Huang says he’ll be a ‘better CEO’ as staff applauds his return",
+      "summary": "Jensen Huang returned to Nvidia's office as CEO today to a crowd of applauding employees who stood and filmed the cofounder's first moments back. \"Thank you all for the second chances. I'm gonna be a better CEO the second time around,\" Huang said, as shown in a video of his…",
+      "url": "https://www.theverge.com/tech/1040487/nvidia-ceo-jensen-huang-staff-applauds-return",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "8271fbbda8",
+      "topic": "Chips",
+      "kind": "Founder",
+      "source": "Engadget",
+      "published": "2026-11-23T19:47:27+00:00",
+      "title": "NVIDIA's Jensen Huang will testify publicly before senators on December 3",
+      "summary": "It's going to be a busy few days in Washington DC for the freshly reinstated CEO.",
+      "url": "https://www.engadget.com/2325655/nvidia-jensen-huang-will-testify-publlicly-before-senators-on-december-3/",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "57032f8d18",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "Engadget",
+      "published": "2026-11-23T19:42:43+00:00",
+      "title": "The infamous GTA 6 hacker has been released after pleading guilty",
+      "summary": "A judge warned the hacker not to \"let this happen again.\"",
+      "url": "https://www.engadget.com/2325643/the-infamous-gta-6-hacker-has-been-released-after-pleading-guilty/",
+      "tickers": []
+    },
+    {
+      "id": "ed6d3c65f1",
       "topic": "Devices",
       "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-22T22:15:00+00:00",
-      "title": "This free app connects your Android phone to your Windows PC wirelessly",
-      "summary": "Connecting your Android phone to your Windows PC wirelessly doesn't have to cost money or require a multi-step setup, as this free app proves.",
-      "url": "https://www.engadget.com/2319544/free-app-connects-android-phone-windows-pc-wirelessly-plainapp/",
+      "source": "The Verge",
+      "published": "2026-11-23T19:40:00+00:00",
+      "title": "HBO Max is offering one of the best Black Friday deals we’ve seen this year",
+      "summary": "If you’ve been meaning to catch up on Lanterns or the latest season of The Gilded Age, Thanksgiving weekend is the perfect time to do so. And thanks to HBO Max’s new Black Friday deal, new and returning subscribers can now watch both shows for less. The streaming service is…",
+      "url": "https://www.theverge.com/gadgets/1039300/hbo-max-black-friday-2026-deal-sale",
       "tickers": []
     },
     {
-      "id": "ca4c954048",
+      "id": "baaf5d3f2f",
       "topic": "Chips",
       "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-22T22:00:00+00:00",
-      "title": "How to safely clean your PC's GPU to avoid damaging it in the process",
-      "summary": "Removing and cleaning a GPU can be intimidating, but it's actually pretty simple.",
-      "url": "https://www.engadget.com/2319541/safely-clean-pc-gpu-avoid-damage/",
-      "tickers": []
-    },
-    {
-      "id": "e567bfa5b1",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-22T21:45:00+00:00",
-      "title": "Why your monitor flickers when you turn it on and can it be fixed?",
-      "summary": "A flickering computer monitor can be a symptom of several different issues. Let's explore some common ones.",
-      "url": "https://www.engadget.com/2319538/monitor-flickering-when-turned-on-how-to-fix/",
-      "tickers": []
-    },
-    {
-      "id": "11e30eb441",
-      "topic": "Tech",
-      "kind": "Company",
       "source": "TechCrunch",
-      "published": "2026-11-22T21:42:48+00:00",
-      "title": "‘You Can See Everything’ has made more than $100M worldwide",
-      "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
-      "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+      "published": "2026-11-23T19:31:41+00:00",
+      "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
+      "summary": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.",
+      "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "f4b0546d56",
+      "topic": "Tech",
+      "kind": "Founder",
+      "source": "Engadget",
+      "published": "2026-11-23T19:30:00+00:00",
+      "title": "How to connect your Bluetooth headphones to your Xbox Series X",
+      "summary": "Connecting Bluetooth headphones to your Xbox Series X can be frustrating due to incompatibility. However, there are a few workarounds to solve this problem.",
+      "url": "https://www.engadget.com/2320288/how-to-connect-bluetooth-headphones-xbox-series-x/",
       "tickers": []
     },
     {
-      "id": "4d53d8d1da",
+      "id": "45c631ded5",
       "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-22T21:30:00+00:00",
-      "title": "The cool phone camera trick that can test your remote control's battery",
-      "summary": "Trying to figure out whether a remote control needs new batteries? Your phone camera can tell you if it's time to replace them. Here's how.",
-      "url": "https://www.engadget.com/2319533/how-to-use-phone-test-remote-control-battery/",
+      "published": "2026-11-23T19:20:26+00:00",
+      "title": "Kodak's SlideTag combines a digital photo frame and an AirTag",
+      "summary": "The SlideTag will come in a blind box with nine fun designs.",
+      "url": "https://www.engadget.com/2325598/kodak-slidetag-combines-a-digital-photo-frame-and-an-airtag/",
       "tickers": []
     },
     {
-      "id": "497286146e",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-22T21:15:00+00:00",
-      "title": "Which solar panel type is best for your home?",
-      "summary": "Find out how monocrystalline, polycrystalline and thin-film solar panels compare on efficiency, cost and roof space, and which type suits your home and budget.",
-      "url": "https://www.engadget.com/2319531/solar-panel-types-best-home-use/",
-      "tickers": []
-    },
-    {
-      "id": "4a8dd1bc43",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-22T21:14:07+00:00",
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-      "tickers": []
-    },
-    {
-      "id": "9dfe73508d",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-22T21:01:16+00:00",
-      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 266 # Comments: 114",
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "tickers": []
-    },
-    {
-      "id": "943de1227e",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-22T21:00:00+00:00",
-      "title": "The best apps to make new friends right now",
-      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
-      "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
-      "tickers": []
-    },
-    {
-      "id": "12b33e40e4",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-22T21:00:00+00:00",
-      "title": "How Secure Is Your Password? Here's How To Test It",
-      "summary": "Find out which common password habits leave your accounts exposed, from keyboard patterns to reused logins, and what a truly secure password needs to include.",
-      "url": "https://www.engadget.com/2319522/how-secure-is-password/",
-      "tickers": []
-    },
-    {
-      "id": "821206f550",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-22T20:45:00+00:00",
-      "title": "These iOS settings will help you control your mobile data use",
-      "summary": "Keeping your mobile data usage under control is generally a good idea, doubly so if you're on a restrictive plan, and iOS offers a few ways to do so.",
-      "url": "https://www.engadget.com/2319519/ios-settings-help-control-mobile-data-use/",
-      "tickers": []
-    },
-    {
-      "id": "0e69c89285",
+      "id": "e8f1cc8f10",
       "topic": "Tech",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-11-22T20:33:23+00:00",
-      "title": "A miniature San Francisco with live buses, planes and boats",
-      "summary": "Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 158 # Comments: 70",
-      "url": "https://smallsf.com/",
+      "published": "2026-11-23T19:17:55+00:00",
+      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "summary": "Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 676 # Comments: 133",
+      "url": "https://arm.jonpalmisc.com/",
+      "tickers": []
+    },
+    {
+      "id": "2f79f0fe45",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-23T19:17:11+00:00",
+      "title": "New magical shows worth watching instead of Harry Potter",
+      "summary": "Since we wrote earlier this year about J.K. Rowling using her money to support groups and policies harming transgender people, she has accused the United Nations of promoting \"sex denialism\" and described trans rights activists as \"elitists\" whose work creates \"a climate of fear…",
+      "url": "https://www.theverge.com/entertainment/1038020/shows-to-stream-instead-of-harry-potter",
       "tickers": []
     }
   ],
@@ -295,14 +314,14 @@
       "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
       "detail": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intend” to reinstate the company’s ousted CEO.",
       "url": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
-      "sources": 1,
-      "mentions": 6,
-      "credible": 1,
-      "days": 5,
+      "sources": 2,
+      "mentions": 19,
+      "credible": 2,
+      "days": 6,
       "tickers": [
         "NVDA"
       ],
-      "score": 23
+      "score": 41
     },
     {
       "id": "083c0d2472",
@@ -314,53 +333,193 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 4,
+      "days": 5,
       "tickers": [],
       "score": 15
     },
     {
-      "id": "fbe4b8dacd",
-      "topic": "Security",
+      "id": "98bc3defde",
+      "topic": "Devices",
       "status": "Just surfaced",
-      "title": "Trump says reported FBI database hack is ‘not good’",
-      "detail": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
-      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+      "title": "New leaks reveal the iPhone 18e will have a redesigned camera plateau",
+      "detail": "We've also got further confirmation the iPhone Air 2 will have a second camera lens.",
+      "url": "https://www.engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/",
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 1,
-      "tickers": [],
+      "days": 0,
+      "tickers": [
+        "AAPL"
+      ],
       "score": 15
+    },
+    {
+      "id": "23cac80b81",
+      "topic": "AI",
+      "status": "Just surfaced",
+      "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
+      "detail": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness Comments URL: https://news.ycombinator.com/item?id=50610830 Points: 72 # Comments: 81",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 0,
+      "days": 0,
+      "tickers": [],
+      "score": 8
     }
   ],
   "watchlist": [
     {
-      "ticker": "DELL",
-      "name": "Dell",
-      "price": 278.02,
-      "changePct": -19.3,
-      "monthChangePct": -38.6,
+      "ticker": "CRWD",
+      "name": "CrowdStrike",
+      "price": 208.97,
+      "changePct": -6.4,
+      "monthChangePct": -18.9,
       "catalyst": "Earnings report",
-      "when": "Tue",
+      "when": "Mon",
       "signals": [
         "Earnings",
         "Big price move",
         "Volume up"
       ],
       "spark": [
-        371.17,
+        226.61,
+        223.21,
+        219.58,
+        237.03,
+        243.46,
+        229.44,
+        208.97
+      ],
+      "history": [
+        {
+          "d": "2026-10-23",
+          "c": 257.57
+        },
+        {
+          "d": "2026-10-26",
+          "c": 261.83
+        },
+        {
+          "d": "2026-10-27",
+          "c": 268.02
+        },
+        {
+          "d": "2026-10-28",
+          "c": 266.66
+        },
+        {
+          "d": "2026-10-29",
+          "c": 261.15
+        },
+        {
+          "d": "2026-10-30",
+          "c": 250.43
+        },
+        {
+          "d": "2026-11-02",
+          "c": 241.81
+        },
+        {
+          "d": "2026-11-03",
+          "c": 244.68
+        },
+        {
+          "d": "2026-11-04",
+          "c": 241.0
+        },
+        {
+          "d": "2026-11-05",
+          "c": 217.2
+        },
+        {
+          "d": "2026-11-06",
+          "c": 216.9
+        },
+        {
+          "d": "2026-11-09",
+          "c": 228.58
+        },
+        {
+          "d": "2026-11-10",
+          "c": 225.76
+        },
+        {
+          "d": "2026-11-11",
+          "c": 229.06
+        },
+        {
+          "d": "2026-11-12",
+          "c": 229.87
+        },
+        {
+          "d": "2026-11-13",
+          "c": 226.61
+        },
+        {
+          "d": "2026-11-16",
+          "c": 223.21
+        },
+        {
+          "d": "2026-11-17",
+          "c": 219.58
+        },
+        {
+          "d": "2026-11-18",
+          "c": 237.03
+        },
+        {
+          "d": "2026-11-19",
+          "c": 243.46
+        },
+        {
+          "d": "2026-11-20",
+          "c": 229.44
+        },
+        {
+          "d": "2026-11-23",
+          "c": 208.97
+        }
+      ],
+      "earnings": "2026-11-23",
+      "headlines": [
+        {
+          "title": "CrowdStrike to acquire Zscaler for $44 billion",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+          "published": "2026-11-23T16:20:11+00:00"
+        }
+      ],
+      "score": 67.8,
+      "brief": {
+        "what": "1 recent headline mentions CrowdStrike. Latest: CrowdStrike to acquire Zscaler for $44 billion",
+        "why": "Signals: earnings, big price move, volume up. The stock is down 6.4% this week and down 18.9% over the month.",
+        "watch": "Next earnings expected Mon Nov 23. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "DELL",
+      "name": "Dell",
+      "price": 334.91,
+      "changePct": 4.5,
+      "monthChangePct": -26.6,
+      "catalyst": "Earnings report",
+      "when": "Tue",
+      "signals": [
+        "Earnings",
+        "Volume up"
+      ],
+      "spark": [
         344.53,
         320.55,
         322.79,
         313.11,
         312.54,
-        278.02
+        278.02,
+        334.91
       ],
       "history": [
-        {
-          "d": "2026-10-22",
-          "c": 452.95
-        },
         {
           "d": "2026-10-23",
           "c": 456.44
@@ -444,14 +603,18 @@
         {
           "d": "2026-11-20",
           "c": 278.02
+        },
+        {
+          "d": "2026-11-23",
+          "c": 334.91
         }
       ],
       "earnings": "2026-11-24",
       "headlines": [],
-      "score": 63.4,
+      "score": 54.2,
       "brief": {
         "what": "No major headlines about Dell in the last two weeks.",
-        "why": "Signals: earnings, big price move, volume up. The stock is down 19.3% this week and down 38.6% over the month.",
+        "why": "Signals: earnings, volume up. The stock is up 4.5% this week and down 26.6% over the month.",
         "watch": "Next earnings expected Tue Nov 24. Results and guidance usually move the stock most.",
         "ai": false
       }
@@ -459,30 +622,26 @@
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "price": 125.53,
-      "changePct": -22.9,
-      "monthChangePct": -40.8,
-      "catalyst": "A tale of two Nvidias",
+      "price": 165.05,
+      "changePct": 5.7,
+      "monthChangePct": -21.8,
+      "catalyst": "Nvidia CEO Jensen Huang is back. What happens next?",
       "when": "In the news",
       "signals": [
-        "7 headlines",
+        "20 headlines",
         "Big price move",
         "Volume up"
       ],
       "spark": [
-        166.19,
         162.85,
         156.14,
         155.46,
         150.96,
         145.98,
-        125.53
+        125.53,
+        165.05
       ],
       "history": [
-        {
-          "d": "2026-10-22",
-          "c": 212.21
-        },
         {
           "d": "2026-10-23",
           "c": 210.96
@@ -566,15 +725,49 @@
         {
           "d": "2026-11-20",
           "c": 125.53
+        },
+        {
+          "d": "2026-11-23",
+          "c": 165.05
         }
       ],
       "earnings": null,
       "headlines": [
         {
-          "title": "A tale of two Nvidias",
+          "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+          "published": "2026-11-23T22:10:32+00:00"
+        },
+        {
+          "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-          "published": "2026-11-21T21:07:42+00:00"
+          "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+          "published": "2026-11-23T21:47:41+00:00"
+        },
+        {
+          "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+          "published": "2026-11-23T20:38:53+00:00"
+        },
+        {
+          "title": "NVIDIA's Jensen Huang will testify publicly before senators on December 3",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2325655/nvidia-jensen-huang-will-testify-publlicly-before-senators-on-december-3/",
+          "published": "2026-11-23T19:47:27+00:00"
+        },
+        {
+          "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+          "published": "2026-11-23T19:31:41+00:00"
+        },
+        {
+          "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+          "published": "2026-11-23T15:04:01+00:00"
         },
         {
           "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
@@ -593,401 +786,292 @@
           "source": "Wired",
           "url": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
           "published": "2026-11-18T17:33:07+00:00"
-        },
-        {
-          "title": "Jensen Huang Says He’s Open to Coming Back to Nvidia",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/jensen-huang-says-hes-open-to-coming-back-to-nvidia/",
-          "published": "2026-11-17T17:32:24+00:00"
         }
       ],
-      "score": 57.0,
+      "score": 49.9,
       "brief": {
-        "what": "5 recent headlines mention NVIDIA. Latest: A tale of two Nvidias There is also a rumor making the rounds: Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
-        "why": "Signals: 7 headlines, big price move, volume up. The stock is down 22.9% this week and down 40.8% over the month.",
+        "what": "9 recent headlines mention NVIDIA. Latest: Nvidia CEO Jensen Huang is back. What happens next? There is also a rumor making the rounds: Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+        "why": "Signals: 20 headlines, big price move, volume up. The stock is up 5.7% this week and down 21.8% over the month.",
         "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
     },
     {
-      "ticker": "GOOGL",
-      "name": "Alphabet",
-      "price": 265.29,
-      "changePct": -10.3,
-      "monthChangePct": -18.2,
-      "catalyst": "How to clear your cache on Google TV",
+      "ticker": "AAPL",
+      "name": "Apple",
+      "price": 349.08,
+      "changePct": -1.0,
+      "monthChangePct": 0.5,
+      "catalyst": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+      "when": "In the news",
+      "signals": [
+        "6 headlines"
+      ],
+      "spark": [
+        356.27,
+        352.78,
+        351.91,
+        352.45,
+        349.21,
+        342.56,
+        349.08
+      ],
+      "history": [
+        {
+          "d": "2026-10-23",
+          "c": 347.47
+        },
+        {
+          "d": "2026-10-26",
+          "c": 343.65
+        },
+        {
+          "d": "2026-10-27",
+          "c": 346.84
+        },
+        {
+          "d": "2026-10-28",
+          "c": 343.57
+        },
+        {
+          "d": "2026-10-29",
+          "c": 348.65
+        },
+        {
+          "d": "2026-10-30",
+          "c": 344.37
+        },
+        {
+          "d": "2026-11-02",
+          "c": 338.06
+        },
+        {
+          "d": "2026-11-03",
+          "c": 331.65
+        },
+        {
+          "d": "2026-11-04",
+          "c": 349.24
+        },
+        {
+          "d": "2026-11-05",
+          "c": 343.91
+        },
+        {
+          "d": "2026-11-06",
+          "c": 342.11
+        },
+        {
+          "d": "2026-11-09",
+          "c": 350.42
+        },
+        {
+          "d": "2026-11-10",
+          "c": 348.25
+        },
+        {
+          "d": "2026-11-11",
+          "c": 355.36
+        },
+        {
+          "d": "2026-11-12",
+          "c": 354.88
+        },
+        {
+          "d": "2026-11-13",
+          "c": 356.27
+        },
+        {
+          "d": "2026-11-16",
+          "c": 352.78
+        },
+        {
+          "d": "2026-11-17",
+          "c": 351.91
+        },
+        {
+          "d": "2026-11-18",
+          "c": 352.45
+        },
+        {
+          "d": "2026-11-19",
+          "c": 349.21
+        },
+        {
+          "d": "2026-11-20",
+          "c": 342.56
+        },
+        {
+          "d": "2026-11-23",
+          "c": 349.08
+        }
+      ],
+      "earnings": "2027-01-28",
+      "headlines": [
+        {
+          "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+          "published": "2026-11-23T21:36:48+00:00"
+        },
+        {
+          "title": "Apple renews Ted Lasso for season 5",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
+          "published": "2026-11-23T20:56:00+00:00"
+        },
+        {
+          "title": "Apple removed my open-source app from EU App Stores after 9 years",
+          "source": "Hacker News",
+          "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+          "published": "2026-11-23T18:48:10+00:00"
+        },
+        {
+          "title": "What is Sound Glow on HomePods, and how do you get it on your Apple speaker?",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2320280/what-is-apple-homepod-sound-glow/",
+          "published": "2026-11-23T15:45:00+00:00"
+        }
+      ],
+      "score": 32.8,
+      "brief": {
+        "what": "4 recent headlines mention Apple. Latest: The Apple Watch Series 12 is cheaper than ever ahead of Black Friday There is also a rumor making the rounds: New leaks reveal the iPhone 18e will have a redesigned camera plateau",
+        "why": "Signals: 6 headlines. The stock is down 1.0% this week and up 0.5% over the month.",
+        "watch": "Next earnings expected Thu Jan 28. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "UBER",
+      "name": "Uber",
+      "price": 64.07,
+      "changePct": -8.5,
+      "monthChangePct": -3.9,
+      "catalyst": "Uber now lets riders request drivers who are recording their trips",
       "when": "In the news",
       "signals": [
         "2 headlines",
         "Big price move"
       ],
       "spark": [
-        298.7,
-        295.77,
-        283.72,
-        280.2,
-        282.44,
-        272.66,
-        265.29
+        69.69,
+        69.99,
+        68.81,
+        68.76,
+        65.6,
+        63.47,
+        64.07
       ],
       "history": [
         {
-          "d": "2026-10-22",
-          "c": 324.22
-        },
-        {
           "d": "2026-10-23",
-          "c": 320.21
+          "c": 66.7
         },
         {
           "d": "2026-10-26",
-          "c": 316.8
+          "c": 66.13
         },
         {
           "d": "2026-10-27",
-          "c": 320.58
+          "c": 65.78
         },
         {
           "d": "2026-10-28",
-          "c": 324.89
+          "c": 65.27
         },
         {
           "d": "2026-10-29",
-          "c": 283.82
+          "c": 65.74
         },
         {
           "d": "2026-10-30",
-          "c": 279.84
+          "c": 65.25
         },
         {
           "d": "2026-11-02",
-          "c": 278.99
+          "c": 66.71
         },
         {
           "d": "2026-11-03",
-          "c": 280.03
+          "c": 66.6
         },
         {
           "d": "2026-11-04",
-          "c": 288.93
+          "c": 69.87
         },
         {
           "d": "2026-11-05",
-          "c": 282.57
+          "c": 68.78
         },
         {
           "d": "2026-11-06",
-          "c": 284.78
+          "c": 68.59
         },
         {
           "d": "2026-11-09",
-          "c": 288.15
+          "c": 71.17
         },
         {
           "d": "2026-11-10",
-          "c": 287.38
+          "c": 70.05
         },
         {
           "d": "2026-11-11",
-          "c": 293.45
+          "c": 70.68
         },
         {
           "d": "2026-11-12",
-          "c": 298.7
+          "c": 69.12
         },
         {
           "d": "2026-11-13",
-          "c": 295.77
+          "c": 69.69
         },
         {
           "d": "2026-11-16",
-          "c": 283.72
+          "c": 69.99
         },
         {
           "d": "2026-11-17",
-          "c": 280.2
+          "c": 68.81
         },
         {
           "d": "2026-11-18",
-          "c": 282.44
+          "c": 68.76
         },
         {
           "d": "2026-11-19",
-          "c": 272.66
+          "c": 65.6
         },
         {
           "d": "2026-11-20",
-          "c": 265.29
+          "c": 63.47
+        },
+        {
+          "d": "2026-11-23",
+          "c": 64.07
         }
       ],
-      "earnings": null,
+      "earnings": "2027-02-03",
       "headlines": [
         {
-          "title": "How to clear your cache on Google TV",
+          "title": "Uber now lets riders request drivers who are recording their trips",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2319567/how-to-clear-cache-google-tv/",
-          "published": "2026-11-23T01:00:00+00:00"
+          "url": "https://www.engadget.com/2325472/uber-now-lets-riders-request-drivers-who-are-recording-their-trips/",
+          "published": "2026-11-23T18:24:49+00:00"
         },
         {
-          "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
-          "published": "2026-11-17T10:47:45+00:00"
+          "title": "Uber now lets you book rides that record the drive by default",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/",
+          "published": "2026-11-23T14:00:00+00:00"
         }
       ],
-      "score": 31.6,
-      "brief": {
-        "what": "2 recent headlines mention Alphabet. Latest: How to clear your cache on Google TV",
-        "why": "Signals: 2 headlines, big price move. The stock is down 10.3% this week and down 18.2% over the month.",
-        "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "INTC",
-      "name": "Intel",
-      "price": 51.28,
-      "changePct": -14.0,
-      "monthChangePct": -40.0,
-      "catalyst": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-      "when": "In the news",
-      "signals": [
-        "Big price move"
-      ],
-      "spark": [
-        61.2,
-        59.66,
-        55.47,
-        55.17,
-        54.67,
-        55.72,
-        51.28
-      ],
-      "history": [
-        {
-          "d": "2026-10-22",
-          "c": 85.49
-        },
-        {
-          "d": "2026-10-23",
-          "c": 86.96
-        },
-        {
-          "d": "2026-10-26",
-          "c": 90.47
-        },
-        {
-          "d": "2026-10-27",
-          "c": 93.74
-        },
-        {
-          "d": "2026-10-28",
-          "c": 95.53
-        },
-        {
-          "d": "2026-10-29",
-          "c": 92.07
-        },
-        {
-          "d": "2026-10-30",
-          "c": 65.76
-        },
-        {
-          "d": "2026-11-02",
-          "c": 59.97
-        },
-        {
-          "d": "2026-11-03",
-          "c": 60.55
-        },
-        {
-          "d": "2026-11-04",
-          "c": 58.27
-        },
-        {
-          "d": "2026-11-05",
-          "c": 52.25
-        },
-        {
-          "d": "2026-11-06",
-          "c": 56.28
-        },
-        {
-          "d": "2026-11-09",
-          "c": 59.37
-        },
-        {
-          "d": "2026-11-10",
-          "c": 58.13
-        },
-        {
-          "d": "2026-11-11",
-          "c": 62.5
-        },
-        {
-          "d": "2026-11-12",
-          "c": 61.2
-        },
-        {
-          "d": "2026-11-13",
-          "c": 59.66
-        },
-        {
-          "d": "2026-11-16",
-          "c": 55.47
-        },
-        {
-          "d": "2026-11-17",
-          "c": 55.17
-        },
-        {
-          "d": "2026-11-18",
-          "c": 54.67
-        },
-        {
-          "d": "2026-11-19",
-          "c": 55.72
-        },
-        {
-          "d": "2026-11-20",
-          "c": 51.28
-        }
-      ],
-      "earnings": "2027-01-28",
-      "headlines": [
-        {
-          "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
-          "published": "2026-11-16T20:37:47+00:00"
-        }
-      ],
-      "score": 27.1,
-      "brief": {
-        "what": "1 recent headline mentions Intel. Latest: Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-        "why": "Signals: big price move. The stock is down 14.0% this week and down 40.0% over the month.",
-        "watch": "Next earnings expected Thu Jan 28. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "TSM",
-      "name": "TSMC",
-      "price": 318.71,
-      "changePct": -20.1,
-      "monthChangePct": -22.7,
-      "catalyst": "Down 20% this week",
-      "when": "Price",
-      "signals": [
-        "Big price move",
-        "Volume up"
-      ],
-      "spark": [
-        405.49,
-        398.73,
-        373.45,
-        359.69,
-        362.62,
-        352.09,
-        318.71
-      ],
-      "history": [
-        {
-          "d": "2026-10-22",
-          "c": 412.35
-        },
-        {
-          "d": "2026-10-23",
-          "c": 418.51
-        },
-        {
-          "d": "2026-10-26",
-          "c": 424.37
-        },
-        {
-          "d": "2026-10-27",
-          "c": 436.87
-        },
-        {
-          "d": "2026-10-28",
-          "c": 439.51
-        },
-        {
-          "d": "2026-10-29",
-          "c": 431.81
-        },
-        {
-          "d": "2026-10-30",
-          "c": 406.13
-        },
-        {
-          "d": "2026-11-02",
-          "c": 398.63
-        },
-        {
-          "d": "2026-11-03",
-          "c": 404.8
-        },
-        {
-          "d": "2026-11-04",
-          "c": 395.75
-        },
-        {
-          "d": "2026-11-05",
-          "c": 353.1
-        },
-        {
-          "d": "2026-11-06",
-          "c": 375.44
-        },
-        {
-          "d": "2026-11-09",
-          "c": 388.62
-        },
-        {
-          "d": "2026-11-10",
-          "c": 396.48
-        },
-        {
-          "d": "2026-11-11",
-          "c": 413.35
-        },
-        {
-          "d": "2026-11-12",
-          "c": 405.49
-        },
-        {
-          "d": "2026-11-13",
-          "c": 398.73
-        },
-        {
-          "d": "2026-11-16",
-          "c": 373.45
-        },
-        {
-          "d": "2026-11-17",
-          "c": 359.69
-        },
-        {
-          "d": "2026-11-18",
-          "c": 362.62
-        },
-        {
-          "d": "2026-11-19",
-          "c": 352.09
-        },
-        {
-          "d": "2026-11-20",
-          "c": 318.71
-        }
-      ],
-      "earnings": "2027-01-14",
-      "headlines": [],
       "score": 26.9,
       "brief": {
-        "what": "No major headlines about TSMC in the last two weeks.",
-        "why": "Signals: big price move, volume up. The stock is down 20.1% this week and down 22.7% over the month.",
-        "watch": "Next earnings expected Thu Jan 14. Results and guidance usually move the stock most.",
+        "what": "2 recent headlines mention Uber. Latest: Uber now lets riders request drivers who are recording their trips",
+        "why": "Signals: 2 headlines, big price move. The stock is down 8.5% this week and down 3.9% over the month.",
+        "watch": "Next earnings expected Wed Feb 3. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
