@@ -1,12 +1,231 @@
 {
   "weekOf": "2026-11-23",
-  "updated": "2026-11-24T21:10:22+00:00",
+  "updated": "2026-11-25T04:53:53+00:00",
   "summary": [
-    "Tech leads the news with 9 of 25 stories. Top headline: Dozens of oil and shipping tankers hacked in recent weeks, per report",
-    "Earnings this week from DELL.",
+    "Tech leads the news with 11 of 25 stories. Top headline: Matrix Multiplication is Θ(n^2.25) [pdf]",
+    "Earnings this week from CRM, SNOW.",
     "Strongest rumor: Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired"
   ],
   "stories": [
+    {
+      "id": "1826476396",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-25T01:19:26+00:00",
+      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50637220 Points: 292 # Comments: 132",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "tickers": []
+    },
+    {
+      "id": "d584d4a2a7",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-25T01:00:00+00:00",
+      "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
+      "summary": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that resulted in unauthorized access to a limited subset of its…",
+      "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
+      "tickers": []
+    },
+    {
+      "id": "66aa8a3e98",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-25T01:00:00+00:00",
+      "title": "Change this Roku TV setting to watch movies how they were filmed",
+      "summary": "Your TV's refresh rate might be set to 60fps by default, but you can change that.",
+      "url": "https://www.engadget.com/2321254/change-roku-tv-setting-watch-movies-how-filmed/",
+      "tickers": []
+    },
+    {
+      "id": "f94fc535bc",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-25T00:30:00+00:00",
+      "title": "This helpful Apple Watch feature works seamlessly with Apple CarPlay",
+      "summary": "Long drives call for every trick you can get. See how your Apple Watch and CarPlay team up to keep you on course and a little more alert behind the wheel.",
+      "url": "https://www.engadget.com/2321253/haptic-navigation-helpful-apple-watch-feature-works-seamlessly-carplay/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "94b5a7686d",
+      "topic": "Chips",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-11-25T00:12:02+00:00",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the…",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "cb6780ec1a",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-25T00:00:00+00:00",
+      "title": "You don't have to look at your Apple Watch to get the time",
+      "summary": "Your Apple Watch has a way to share the time that even supports Morse Code. See which of its three modes makes sense for your daily routine.",
+      "url": "https://www.engadget.com/2321251/apple-watch-tell-time-without-looking-haptic-feedback/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "3f7348a00e",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-24T23:59:29+00:00",
+      "title": "The Verge’s 2026 gift guide for dads",
+      "summary": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and we're here to guide…",
+      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
+      "tickers": []
+    },
+    {
+      "id": "2a2f68523b",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-24T23:30:00+00:00",
+      "title": "The battery in your Fitbit Edge is replaceable, but it's not as easy as you'd think",
+      "summary": "Google partnered with iFixit for a step-by-step guide to replacing the Fitbit Edge's battery.",
+      "url": "https://www.engadget.com/2321249/fitbit-edge-replaceable-battery-not-easy/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "f3be33e8fd",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-24T23:25:46+00:00",
+      "title": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
+      "summary": "The US Army is moving ahead with plans to detonate the nation's stockpile of lead azide at an ammunition plant in Middletown, Iowa, at approximately 9:00AM CST on Wednesday. The Verge reached out to experts on what to expect, and will keep this post updated. What material is the…",
+      "url": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa",
+      "tickers": []
+    },
+    {
+      "id": "3f29f3b5f3",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-24T23:21:40+00:00",
+      "title": "Australia to pass safety bill that could result in massive fines for tech platforms",
+      "summary": "Australian lawmakers are close to passing the Digital Duty of Care Bill, an amendment to the country's Online Safety Act of 2021.",
+      "url": "https://www.engadget.com/2327499/australia-to-pass-safety-bill-that-could-result-in-massive-fines-for-tech-platforms/",
+      "tickers": []
+    },
+    {
+      "id": "9859cc4f76",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-24T23:00:00+00:00",
+      "title": "Improve your Starlink Wi-Fi speed with this app setting",
+      "summary": "See how a single setting in the Starlink app can improve your home internet speed, and figure out whether switching it on makes sense for your setup.",
+      "url": "https://www.engadget.com/2321248/starlink-wifi-speed-split-network-app-setting/",
+      "tickers": []
+    },
+    {
+      "id": "df2633d28c",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-24T22:40:07+00:00",
+      "title": "Huawei is guilty of conspiracy to steal trade secrets, US jury rules",
+      "summary": "The charges against the Chinese tech company date back to 2019.",
+      "url": "https://www.engadget.com/2327450/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/",
+      "tickers": []
+    },
+    {
+      "id": "b0c56cce67",
+      "topic": "Tech",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-11-24T22:27:52+00:00",
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "tickers": []
+    },
+    {
+      "id": "369188a55d",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-24T21:51:21+00:00",
+      "title": "Heart attack and stroke risk detectable decades in advance",
+      "summary": "Article URL: https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance Comments URL: https://news.ycombinator.com/item?id=50635271 Points: 198 # Comments: 96",
+      "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+      "tickers": []
+    },
+    {
+      "id": "3aea73c54c",
+      "topic": "Chips",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-11-24T21:48:27+00:00",
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "a38e6d132b",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-24T21:39:14+00:00",
+      "title": "GTA VI PC recompilation project shut down by Take-Two",
+      "summary": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished after a DMCA takedown notice from GTA VI publisher Take-Two. Leonida was…",
+      "url": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
+      "tickers": []
+    },
+    {
+      "id": "9d27858e12",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-24T21:33:29+00:00",
+      "title": "Even the best AI agents struggle with everyday life",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "tickers": []
+    },
+    {
+      "id": "7cd36ddb19",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "TechCrunch",
+      "published": "2026-11-24T21:32:38+00:00",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "tickers": []
+    },
+    {
+      "id": "dba117a2b1",
+      "topic": "AI",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-11-24T21:19:52+00:00",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "tickers": []
+    },
     {
       "id": "d7dcc5db57",
       "topic": "Security",
@@ -16,6 +235,17 @@
       "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
       "summary": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.",
       "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
+      "tickers": []
+    },
+    {
+      "id": "43f9128aef",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-24T21:02:22+00:00",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Comments URL: https://news.ycombinator.com/item?id=50634658 Points: 213 # Comments: 65",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
       "tickers": []
     },
     {
@@ -32,6 +262,30 @@
       ]
     },
     {
+      "id": "25807b8c1b",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-24T20:27:27+00:00",
+      "title": "TikTok was down",
+      "summary": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do, following a slew of other outages over the past couple of weeks. Videos sometimes wouldn't load in the For You feed on my iPhone, and…",
+      "url": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "f8add4d35a",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-24T20:08:03+00:00",
+      "title": "Ternary Bonsai 2.5 27B",
+      "summary": "Article URL: https://prismml.com/news/bonsai-2-5-27b Comments URL: https://news.ycombinator.com/item?id=50633922 Points: 377 # Comments: 128",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "tickers": []
+    },
+    {
       "id": "1c8e038c8e",
       "topic": "Policy",
       "kind": "Company",
@@ -41,259 +295,6 @@
       "summary": "Weeks before the end of the legislative session, some members of Congress are scrambling to reauthorize a controversial warrantless wiretapping authority, possibly by attaching it to a must-pass military spending bill. Sen. Mike Rounds (R-SD) told Politico that Section 702 of…",
       "url": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave",
       "tickers": []
-    },
-    {
-      "id": "cb27fafaf0",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-24T19:50:32+00:00",
-      "title": "Desperate gamers are trying bring GTA 6 to PCs and break free of its 30 fps cap",
-      "summary": "Let the recompilation efforts begin.",
-      "url": "https://www.engadget.com/2327074/desperate-gamers-are-trying-bring-gta-6-to-pcs-and-break-free-of-its-30-fps-cap/",
-      "tickers": []
-    },
-    {
-      "id": "432dc2e9f6",
-      "topic": "Chips",
-      "kind": "Founder",
-      "source": "Wired",
-      "published": "2026-11-24T19:33:23+00:00",
-      "title": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
-      "summary": "The newly reinstated CEO discussed his daily therapy sessions, his reputation as a “tech bro,” his disdain for succession planning, and his relationship with President Trump.",
-      "url": "https://www.wired.com/story/11-things-jensen-huang-actually-said-at-his-first-all-hands-back-at-nvidia/",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "12f0f75b9d",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-24T19:30:00+00:00",
-      "title": "Why you should never reply with STOP when you receive spam texts",
-      "summary": "Replying STOP can certainly stop unwanted messages from reputable senders, but replying to scam texts can do more harm that good.",
-      "url": "https://www.engadget.com/2321243/why-never-reply-stop-when-receive-spam-texts/",
-      "tickers": []
-    },
-    {
-      "id": "55b2d68613",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-24T19:00:00+00:00",
-      "title": "Amazon is knocking almost $50 off six months of Apple TV",
-      "summary": "Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the US. Apple’s streaming service usually costs $14.99 per month, but following this…",
-      "url": "https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday",
-      "tickers": [
-        "AAPL",
-        "AMZN"
-      ]
-    },
-    {
-      "id": "f8e163b5be",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-24T19:00:00+00:00",
-      "title": "The biggest limitations of ChatGPT",
-      "summary": "Here's why paying for a premium ChatGPT plan won't shield you from its biggest weaknesses, and what that means for trusting the chatbot with your work.",
-      "url": "https://www.engadget.com/2321242/chatgpt-biggest-limitations/",
-      "tickers": []
-    },
-    {
-      "id": "cc0b58801d",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "The Verge",
-      "published": "2026-11-24T18:44:57+00:00",
-      "title": "Now Firefox can select which sites use its VPN, and clear your browsing history with one click",
-      "summary": "Mozilla released Firefox 161 on Tuesday with a new setting you can use to choose which pages automatically open with the browser's VPN active. Using the \"Manage VPN rules\" option in Firefox's VPN panel, you can set it to \"always on\" or \"always off\" for specific sites, so you…",
-      "url": "https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button",
-      "tickers": []
-    },
-    {
-      "id": "1a64ab5251",
-      "topic": "Startups",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-11-24T18:30:42+00:00",
-      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
-      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-      "tickers": []
-    },
-    {
-      "id": "1292b4e38a",
-      "topic": "Cloud",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-24T18:15:41+00:00",
-      "title": "GTA 6 cloud streaming comes to PS5 and PlayStation Portal",
-      "summary": "You no longer need to free up 212GB on your PS5 for Rockstar's blockbuster.",
-      "url": "https://www.engadget.com/2326845/gta-6-cloud-streaming-comes-to-ps5-and-playstation-portal/",
-      "tickers": []
-    },
-    {
-      "id": "186717d321",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-24T18:15:00+00:00",
-      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
-      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that…",
-      "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
-      "tickers": []
-    },
-    {
-      "id": "28947f55ba",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-24T18:02:59+00:00",
-      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
-      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-      "tickers": []
-    },
-    {
-      "id": "038e6ff744",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-24T18:00:00+00:00",
-      "title": "Ways you can help your video doorbell stay charged in the winter",
-      "summary": "A dead doorbell battery could mean missed visitors or deliveries. Learn how to prepare your battery-powered video doorbell for the challenges of winter weather.",
-      "url": "https://www.engadget.com/2324749/video-doorbell-winter-charging-tips/",
-      "tickers": []
-    },
-    {
-      "id": "169255fa99",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-24T17:58:04+00:00",
-      "title": "Tidal is banning AI-generated music entirely",
-      "summary": "The company expects to purge 29 million tracks starting on December 9.",
-      "url": "https://www.engadget.com/2326812/tidal-is-banning-ai-generated-music-entirely/",
-      "tickers": []
-    },
-    {
-      "id": "025463073c",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-24T17:45:00+00:00",
-      "title": "How much does it cost to replace an out-of-warranty Tesla battery?",
-      "summary": "Check out what goes into a Tesla battery bill beyond the pack itself, and know when a repair, a refurbished pack or extra coverage makes sense for you.",
-      "url": "https://www.engadget.com/2321241/how-much-replace-tesla-battery-out-of-warranty/",
-      "tickers": [
-        "TSLA"
-      ]
-    },
-    {
-      "id": "33f7a33e8b",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-24T17:44:34+00:00",
-      "title": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
-      "summary": "The addition of live stock quotes and charts could help Threads attract the financial community that has historically relied on X.",
-      "url": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
-      "tickers": []
-    },
-    {
-      "id": "eeb598fe1f",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-24T17:30:00+00:00",
-      "title": "Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday",
-      "summary": "Between putting up decorations, entertaining guests, and meal prep, the holidays are busy enough without worrying about vacuuming. Thankfully, a proper robot vacuum can do the dirty work while you focus on more enjoyable things. And thanks to Black Friday, you can pick up some…",
-      "url": "https://www.theverge.com/gadgets/1040315/black-friday-best-early-robot-vacuum-mop-deals-2026",
-      "tickers": []
-    },
-    {
-      "id": "68b063df81",
-      "topic": "Startups",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-11-24T17:29:09+00:00",
-      "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
-      "summary": "Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth.",
-      "url": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
-      "tickers": []
-    },
-    {
-      "id": "02ec2f0a17",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-24T17:15:00+00:00",
-      "title": "Why your MacBook desktop Spaces keep rearranging themselves and how to stop it",
-      "summary": "Disable a Mission Control-specific setting to keep Spaces from switching.",
-      "url": "https://www.engadget.com/2320960/macbook-desktop-spaces-rearranging-fix/",
-      "tickers": []
-    },
-    {
-      "id": "83062c78d9",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-24T17:00:00+00:00",
-      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
-      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-      "tickers": [
-        "META"
-      ]
-    },
-    {
-      "id": "a53bba1a4f",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-24T16:46:00+00:00",
-      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-      "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
-      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-      "tickers": []
-    },
-    {
-      "id": "e9f2fdb3e2",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-24T16:45:44+00:00",
-      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-      "summary": "Basically the title. Anthropic is accusing me and my company of using their API for distillation. We are not. We do not train our own models. Our only usage which I think could get us flagged is automated regression benchmarks whenever we change some AI settings. But this is not…",
-      "url": "https://news.ycombinator.com/item?id=50630809",
-      "tickers": []
-    },
-    {
-      "id": "32b3dd34fc",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-24T16:45:00+00:00",
-      "title": "Wireless Android Auto has a phone battery draining problem, but you can fix it",
-      "summary": "Wireless Android Auto can drain your phone's battery, but a few easy adjustments can help reduce power use and keep your phone cooler while you're driving.",
-      "url": "https://www.engadget.com/2320821/wireless-android-auto-battery-drain-fix/",
-      "tickers": []
-    },
-    {
-      "id": "27e2b811ed",
-      "topic": "Tech",
-      "kind": "Launch",
-      "source": "TechCrunch",
-      "published": "2026-11-24T16:40:46+00:00",
-      "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
-      "summary": "Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Francisco Bay Area.",
-      "url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
-      "tickers": [
-        "UBER"
-      ]
     }
   ],
   "rumors": [
@@ -304,14 +305,14 @@
       "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
       "detail": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York…",
       "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-      "sources": 1,
-      "mentions": 11,
-      "credible": 1,
+      "sources": 2,
+      "mentions": 9,
+      "credible": 2,
       "days": 0,
       "tickers": [
         "NVDA"
       ],
-      "score": 27
+      "score": 37
     },
     {
       "id": "3e075ae6e1",
@@ -328,128 +329,260 @@
         "NVDA"
       ],
       "score": 18
+    },
+    {
+      "id": "f3be33e8fd",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
+      "detail": "The US Army is moving ahead with plans to detonate the nation's stockpile of lead azide at an ammunition plant in Middletown, Iowa, at approximately 9:00AM CST on Wednesday. The Verge reached out to experts on what to expect, and will keep this post updated. What material is the…",
+      "url": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 15
     }
   ],
   "watchlist": [
     {
-      "ticker": "DELL",
-      "name": "Dell",
-      "price": 290.5,
-      "changePct": -10.0,
-      "monthChangePct": -37.8,
+      "ticker": "CRM",
+      "name": "Salesforce",
+      "price": 193.26,
+      "changePct": -0.6,
+      "monthChangePct": -21.9,
       "catalyst": "Earnings report",
-      "when": "Tue",
+      "when": "Wed",
       "signals": [
-        "Earnings",
-        "Big price move",
-        "Volume up"
+        "Earnings"
       ],
       "spark": [
-        320.55,
-        322.79,
-        313.11,
-        312.54,
-        278.02,
-        334.91,
-        290.5
+        214.83,
+        194.52,
+        190.4,
+        183.31,
+        180.62,
+        185.46,
+        193.26
       ],
       "history": [
         {
           "d": "2026-10-26",
-          "c": 467.09
+          "c": 247.61
         },
         {
           "d": "2026-10-27",
-          "c": 501.96
+          "c": 240.89
         },
         {
           "d": "2026-10-28",
-          "c": 493.79
+          "c": 242.11
         },
         {
           "d": "2026-10-29",
-          "c": 475.51
+          "c": 230.9
         },
         {
           "d": "2026-10-30",
-          "c": 424.3
+          "c": 229.17
         },
         {
           "d": "2026-11-02",
-          "c": 392.78
+          "c": 226.18
         },
         {
           "d": "2026-11-03",
-          "c": 408.4
+          "c": 222.2
         },
         {
           "d": "2026-11-04",
-          "c": 372.36
+          "c": 227.11
         },
         {
           "d": "2026-11-05",
-          "c": 316.91
+          "c": 222.41
         },
         {
           "d": "2026-11-06",
-          "c": 328.53
+          "c": 213.65
         },
         {
           "d": "2026-11-09",
-          "c": 346.31
+          "c": 214.94
         },
         {
           "d": "2026-11-10",
-          "c": 334.38
+          "c": 213.48
         },
         {
           "d": "2026-11-11",
-          "c": 373.68
+          "c": 218.01
         },
         {
           "d": "2026-11-12",
-          "c": 371.17
+          "c": 217.57
         },
         {
           "d": "2026-11-13",
-          "c": 344.53
+          "c": 217.84
         },
         {
           "d": "2026-11-16",
-          "c": 320.55
+          "c": 214.83
         },
         {
           "d": "2026-11-17",
-          "c": 322.79
+          "c": 194.52
         },
         {
           "d": "2026-11-18",
-          "c": 313.11
+          "c": 190.4
         },
         {
           "d": "2026-11-19",
-          "c": 312.54
+          "c": 183.31
         },
         {
           "d": "2026-11-20",
-          "c": 278.02
+          "c": 180.62
         },
         {
           "d": "2026-11-23",
-          "c": 334.91
+          "c": 185.46
         },
         {
           "d": "2026-11-24",
-          "c": 290.5
+          "c": 193.26
         }
       ],
-      "earnings": "2026-11-24",
+      "earnings": "2026-12-02",
       "headlines": [],
-      "score": 64.0,
+      "score": 42.0,
       "brief": {
-        "what": "No major headlines about Dell in the last two weeks.",
-        "why": "Signals: earnings, big price move, volume up. The stock is down 10.0% this week and down 37.8% over the month.",
-        "watch": "Next earnings expected Tue Nov 24. Results and guidance usually move the stock most.",
+        "what": "No major headlines about Salesforce in the last two weeks.",
+        "why": "Signals: earnings. The stock is down 0.6% this week and down 21.9% over the month.",
+        "watch": "Next earnings expected Wed Dec 2. Results and guidance usually move the stock most.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "SNOW",
+      "name": "Snowflake",
+      "price": 271.09,
+      "changePct": -0.7,
+      "monthChangePct": -19.1,
+      "catalyst": "Earnings report",
+      "when": "Wed",
+      "signals": [
+        "Earnings"
+      ],
+      "spark": [
+        280.54,
+        272.94,
+        279.62,
+        268.59,
+        254.82,
+        271.27,
+        271.09
+      ],
+      "history": [
+        {
+          "d": "2026-10-26",
+          "c": 334.95
+        },
+        {
+          "d": "2026-10-27",
+          "c": 337.42
+        },
+        {
+          "d": "2026-10-28",
+          "c": 339.91
+        },
+        {
+          "d": "2026-10-29",
+          "c": 330.27
+        },
+        {
+          "d": "2026-10-30",
+          "c": 306.08
+        },
+        {
+          "d": "2026-11-02",
+          "c": 290.68
+        },
+        {
+          "d": "2026-11-03",
+          "c": 295.04
+        },
+        {
+          "d": "2026-11-04",
+          "c": 290.6
+        },
+        {
+          "d": "2026-11-05",
+          "c": 269.54
+        },
+        {
+          "d": "2026-11-06",
+          "c": 275.88
+        },
+        {
+          "d": "2026-11-09",
+          "c": 291.14
+        },
+        {
+          "d": "2026-11-10",
+          "c": 295.76
+        },
+        {
+          "d": "2026-11-11",
+          "c": 301.22
+        },
+        {
+          "d": "2026-11-12",
+          "c": 298.7
+        },
+        {
+          "d": "2026-11-13",
+          "c": 291.0
+        },
+        {
+          "d": "2026-11-16",
+          "c": 280.54
+        },
+        {
+          "d": "2026-11-17",
+          "c": 272.94
+        },
+        {
+          "d": "2026-11-18",
+          "c": 279.62
+        },
+        {
+          "d": "2026-11-19",
+          "c": 268.59
+        },
+        {
+          "d": "2026-11-20",
+          "c": 254.82
+        },
+        {
+          "d": "2026-11-23",
+          "c": 271.27
+        },
+        {
+          "d": "2026-11-24",
+          "c": 271.09
+        }
+      ],
+      "earnings": "2026-12-02",
+      "headlines": [],
+      "score": 41.4,
+      "brief": {
+        "what": "No major headlines about Snowflake in the last two weeks.",
+        "why": "Signals: earnings. The stock is down 0.7% this week and down 19.1% over the month.",
+        "watch": "Next earnings expected Wed Dec 2. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
@@ -459,10 +592,10 @@
       "price": 155.38,
       "changePct": -0.1,
       "monthChangePct": -28.1,
-      "catalyst": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+      "catalyst": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
       "when": "In the news",
       "signals": [
-        "14 headlines"
+        "10 headlines"
       ],
       "spark": [
         156.14,
@@ -566,16 +699,16 @@
       "earnings": null,
       "headlines": [
         {
+          "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+          "published": "2026-11-25T00:12:02+00:00"
+        },
+        {
           "title": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
           "source": "Wired",
           "url": "https://www.wired.com/story/11-things-jensen-huang-actually-said-at-his-first-all-hands-back-at-nvidia/",
           "published": "2026-11-24T19:33:23+00:00"
-        },
-        {
-          "title": "US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list",
-          "published": "2026-11-24T16:37:03+00:00"
         },
         {
           "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
@@ -590,28 +723,137 @@
           "published": "2026-11-24T01:35:38+00:00"
         },
         {
-          "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-          "published": "2026-11-23T21:47:41+00:00"
-        },
-        {
-          "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-          "published": "2026-11-23T20:38:53+00:00"
-        },
-        {
           "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
           "source": "Wired",
           "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
           "published": "2026-11-20T19:52:21+00:00"
         }
       ],
-      "score": 30.8,
+      "score": 31.1,
       "brief": {
-        "what": "7 recent headlines mention NVIDIA. Latest: 11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia There is also a rumor making the rounds: Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
-        "why": "Signals: 14 headlines. The stock is down 0.1% this week and down 28.1% over the month.",
+        "what": "5 recent headlines mention NVIDIA. Latest: Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion There is also a rumor making the rounds: Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+        "why": "Signals: 10 headlines. The stock is down 0.1% this week and down 28.1% over the month.",
+        "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
+        "ai": false
+      }
+    },
+    {
+      "ticker": "DELL",
+      "name": "Dell",
+      "price": 295.28,
+      "changePct": -8.5,
+      "monthChangePct": -36.8,
+      "catalyst": "Down 9% this week",
+      "when": "Price",
+      "signals": [
+        "Big price move",
+        "Volume up"
+      ],
+      "spark": [
+        320.55,
+        322.79,
+        313.11,
+        312.54,
+        278.02,
+        334.91,
+        295.28
+      ],
+      "history": [
+        {
+          "d": "2026-10-26",
+          "c": 467.09
+        },
+        {
+          "d": "2026-10-27",
+          "c": 501.96
+        },
+        {
+          "d": "2026-10-28",
+          "c": 493.79
+        },
+        {
+          "d": "2026-10-29",
+          "c": 475.51
+        },
+        {
+          "d": "2026-10-30",
+          "c": 424.3
+        },
+        {
+          "d": "2026-11-02",
+          "c": 392.78
+        },
+        {
+          "d": "2026-11-03",
+          "c": 408.4
+        },
+        {
+          "d": "2026-11-04",
+          "c": 372.36
+        },
+        {
+          "d": "2026-11-05",
+          "c": 316.91
+        },
+        {
+          "d": "2026-11-06",
+          "c": 328.53
+        },
+        {
+          "d": "2026-11-09",
+          "c": 346.31
+        },
+        {
+          "d": "2026-11-10",
+          "c": 334.38
+        },
+        {
+          "d": "2026-11-11",
+          "c": 373.68
+        },
+        {
+          "d": "2026-11-12",
+          "c": 371.17
+        },
+        {
+          "d": "2026-11-13",
+          "c": 344.53
+        },
+        {
+          "d": "2026-11-16",
+          "c": 320.55
+        },
+        {
+          "d": "2026-11-17",
+          "c": 322.79
+        },
+        {
+          "d": "2026-11-18",
+          "c": 313.11
+        },
+        {
+          "d": "2026-11-19",
+          "c": 312.54
+        },
+        {
+          "d": "2026-11-20",
+          "c": 278.02
+        },
+        {
+          "d": "2026-11-23",
+          "c": 334.91
+        },
+        {
+          "d": "2026-11-24",
+          "c": 295.28
+        }
+      ],
+      "earnings": null,
+      "headlines": [],
+      "score": 24.3,
+      "brief": {
+        "what": "No major headlines about Dell in the last two weeks.",
+        "why": "Signals: big price move, volume up. The stock is down 8.5% this week and down 36.8% over the month.",
         "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
@@ -728,251 +970,11 @@
       ],
       "earnings": "2026-12-17",
       "headlines": [],
-      "score": 20.4,
+      "score": 20.5,
       "brief": {
         "what": "No major headlines about Micron in the last two weeks.",
         "why": "Signals: big price move. The stock is down 11.6% this week and down 30.3% over the month.",
         "watch": "Next earnings expected Thu Dec 17. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD",
-      "price": 413.27,
-      "changePct": -17.9,
-      "monthChangePct": -22.2,
-      "catalyst": "Down 18% this week",
-      "when": "Price",
-      "signals": [
-        "Big price move"
-      ],
-      "spark": [
-        504.28,
-        503.41,
-        530.14,
-        489.19,
-        424.39,
-        453.46,
-        413.27
-      ],
-      "history": [
-        {
-          "d": "2026-10-26",
-          "c": 531.28
-        },
-        {
-          "d": "2026-10-27",
-          "c": 560.26
-        },
-        {
-          "d": "2026-10-28",
-          "c": 578.44
-        },
-        {
-          "d": "2026-10-29",
-          "c": 566.42
-        },
-        {
-          "d": "2026-10-30",
-          "c": 504.8
-        },
-        {
-          "d": "2026-11-02",
-          "c": 466.84
-        },
-        {
-          "d": "2026-11-03",
-          "c": 483.9
-        },
-        {
-          "d": "2026-11-04",
-          "c": 488.78
-        },
-        {
-          "d": "2026-11-05",
-          "c": 404.4
-        },
-        {
-          "d": "2026-11-06",
-          "c": 449.04
-        },
-        {
-          "d": "2026-11-09",
-          "c": 508.58
-        },
-        {
-          "d": "2026-11-10",
-          "c": 515.21
-        },
-        {
-          "d": "2026-11-11",
-          "c": 552.9
-        },
-        {
-          "d": "2026-11-12",
-          "c": 585.3
-        },
-        {
-          "d": "2026-11-13",
-          "c": 534.06
-        },
-        {
-          "d": "2026-11-16",
-          "c": 504.28
-        },
-        {
-          "d": "2026-11-17",
-          "c": 503.41
-        },
-        {
-          "d": "2026-11-18",
-          "c": 530.14
-        },
-        {
-          "d": "2026-11-19",
-          "c": 489.19
-        },
-        {
-          "d": "2026-11-20",
-          "c": 424.39
-        },
-        {
-          "d": "2026-11-23",
-          "c": 453.46
-        },
-        {
-          "d": "2026-11-24",
-          "c": 413.27
-        }
-      ],
-      "earnings": "2027-02-02",
-      "headlines": [],
-      "score": 20.2,
-      "brief": {
-        "what": "No major headlines about AMD in the last two weeks.",
-        "why": "Signals: big price move. The stock is down 17.9% this week and down 22.2% over the month.",
-        "watch": "Next earnings expected Tue Feb 2. Results and guidance usually move the stock most.",
-        "ai": false
-      }
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom",
-      "price": 301.08,
-      "changePct": -11.9,
-      "monthChangePct": -8.5,
-      "catalyst": "Down 12% this week",
-      "when": "Price",
-      "signals": [
-        "Big price move"
-      ],
-      "spark": [
-        333.4,
-        341.6,
-        354.05,
-        346.65,
-        304.41,
-        313.55,
-        301.08
-      ],
-      "history": [
-        {
-          "d": "2026-10-26",
-          "c": 329.17
-        },
-        {
-          "d": "2026-10-27",
-          "c": 342.33
-        },
-        {
-          "d": "2026-10-28",
-          "c": 351.81
-        },
-        {
-          "d": "2026-10-29",
-          "c": 345.0
-        },
-        {
-          "d": "2026-10-30",
-          "c": 326.08
-        },
-        {
-          "d": "2026-11-02",
-          "c": 322.23
-        },
-        {
-          "d": "2026-11-03",
-          "c": 332.13
-        },
-        {
-          "d": "2026-11-04",
-          "c": 325.48
-        },
-        {
-          "d": "2026-11-05",
-          "c": 291.53
-        },
-        {
-          "d": "2026-11-06",
-          "c": 293.69
-        },
-        {
-          "d": "2026-11-09",
-          "c": 319.48
-        },
-        {
-          "d": "2026-11-10",
-          "c": 331.98
-        },
-        {
-          "d": "2026-11-11",
-          "c": 345.22
-        },
-        {
-          "d": "2026-11-12",
-          "c": 364.36
-        },
-        {
-          "d": "2026-11-13",
-          "c": 347.01
-        },
-        {
-          "d": "2026-11-16",
-          "c": 333.4
-        },
-        {
-          "d": "2026-11-17",
-          "c": 341.6
-        },
-        {
-          "d": "2026-11-18",
-          "c": 354.05
-        },
-        {
-          "d": "2026-11-19",
-          "c": 346.65
-        },
-        {
-          "d": "2026-11-20",
-          "c": 304.41
-        },
-        {
-          "d": "2026-11-23",
-          "c": 313.55
-        },
-        {
-          "d": "2026-11-24",
-          "c": 301.08
-        }
-      ],
-      "earnings": "2026-12-09",
-      "headlines": [],
-      "score": 20.0,
-      "brief": {
-        "what": "No major headlines about Broadcom in the last two weeks.",
-        "why": "Signals: big price move. The stock is down 11.9% this week and down 8.5% over the month.",
-        "watch": "Next earnings expected Wed Dec 9. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
