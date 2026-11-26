@@ -1,329 +1,319 @@
 {
   "weekOf": "2026-11-23",
-  "updated": "2026-11-26T04:08:45+00:00",
+  "updated": "2026-11-26T20:10:12+00:00",
   "summary": [
-    "Tech leads the news with 12 of 25 stories. Top headline: Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+    "Tech leads the news with 12 of 25 stories. Top headline: Nvidia hits pause on chip shipments to Southeast Asia",
     "Earnings this week from SNOW, CRM.",
-    "Strongest rumor: Trump reportedly says pardoning Jensen Huang is ‘an option’"
+    "Strongest rumor: NVIDIA reportedly halts AI chip shipments to Southeast Asia"
   ],
   "stories": [
     {
-      "id": "386fa84bc3",
-      "topic": "AI",
+      "id": "bf84d6f90d",
+      "topic": "Chips",
       "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-26T00:04:34+00:00",
-      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
-      "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Camera Plug-In and $77 Onn Floodlight…",
-      "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+      "source": "TechCrunch",
+      "published": "2026-11-26T20:03:54+00:00",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
       "tickers": [
-        "GOOGL"
+        "NVDA"
       ]
     },
     {
-      "id": "d3083a60bf",
+      "id": "d577470a25",
+      "topic": "Chips",
+      "kind": "Founder",
+      "source": "TechCrunch",
+      "published": "2026-11-26T20:00:00+00:00",
+      "title": "Is Alice Huang a spy or not?",
+      "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "8375e02620",
+      "topic": "Security",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-26T20:00:00+00:00",
+      "title": "1Password says it was hacked but users' vaults are safe",
+      "summary": "1Password assures customers that their logins and other sensitive information were not compromised in a recent data breach.",
+      "url": "https://www.engadget.com/2329013/1password-hacked-but-users-vaults-are-safe/",
+      "tickers": []
+    },
+    {
+      "id": "1da5704d1d",
       "topic": "Tech",
       "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-25T23:56:44+00:00",
-      "title": "Amazon loses its latest attempt to get out of handling more recall notices",
-      "summary": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled in favor of the CPSC, which argued that Amazon is a distributor…",
-      "url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+      "source": "Engadget",
+      "published": "2026-11-26T19:44:49+00:00",
+      "title": "Amazon workers around the world plan strikes and protests on Black Friday and Cyber Monday",
+      "summary": "A campaign demanding that Amazon recognize and bargain with unions will see workers in more than 20 countries mobilize.",
+      "url": "https://www.engadget.com/2329231/amazon-workers-plan-protests-on-black-friday-and-cyber-monday/",
       "tickers": [
         "AMZN"
       ]
     },
     {
-      "id": "d52d6b9856",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-25T23:36:46+00:00",
-      "title": "We reviewed these 10 gadgets, and they're now on sale for Black Friday",
-      "summary": "Multiple gadgets from Engadget's Best of 2026 list are already on sale, including Samsung's flagship foldable and Apple's ultra-popular entry-level laptop.",
-      "url": "https://www.engadget.com/2328876/black-friday-2026-deals-on-reviewed-gadgets/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "50af2707b6",
+      "id": "b9c34954c2",
       "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-25T22:57:04+00:00",
-      "title": "Jev is probably Qwen3.5-35B-A3B",
-      "summary": "Article URL: https://modaic.dev/blog/latency-doesnt-lie Comments URL: https://news.ycombinator.com/item?id=50648823 Points: 258 # Comments: 74",
-      "url": "https://modaic.dev/blog/latency-doesnt-lie",
-      "tickers": []
-    },
-    {
-      "id": "43ba348509",
-      "topic": "Chips",
       "kind": "Company",
       "source": "TechCrunch",
-      "published": "2026-11-25T22:44:32+00:00",
-      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
-      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "e59963ba00",
-      "topic": "Tech",
-      "kind": "Founder",
-      "source": "Engadget",
-      "published": "2026-11-25T22:07:07+00:00",
-      "title": "Can you play GTA 6 from an external hard drive on PS5 or Xbox Series X/S?",
-      "summary": "With a hefty install size, GTA 6 will take up a significant chunk of your PS5 or Xbox Series X/S storage space.",
-      "url": "https://www.engadget.com/2328792/can-you-play-gta-6-from-external-hard-drive/",
+      "published": "2026-11-26T19:31:50+00:00",
+      "title": "X finally gets parental controls after 20 years",
+      "summary": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
+      "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
       "tickers": []
     },
     {
-      "id": "4dfd3b7353",
-      "topic": "AI",
+      "id": "efaba00f8b",
+      "topic": "Tech",
       "kind": "Company",
       "source": "The Verge",
-      "published": "2026-11-25T21:51:26+00:00",
-      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might…",
-      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "published": "2026-11-26T19:00:00+00:00",
+      "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+      "summary": "The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its OLED touchscreen. When I reviewed it a few years ago, I…",
+      "url": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
+      "tickers": []
+    },
+    {
+      "id": "d93a41da27",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-26T17:07:00+00:00",
+      "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+      "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $599.99 at Amazon and Costco, while the 512GB model with…",
+      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+      "tickers": [
+        "AMZN"
+      ]
+    },
+    {
+      "id": "cf4a9ac917",
+      "topic": "Devices",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-11-26T17:06:24+00:00",
+      "title": "Android app developers will soon have to share their address publicly",
+      "summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations under the Digital Services…",
+      "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
       "tickers": [
         "GOOGL"
       ]
     },
     {
-      "id": "5af483645e",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-25T21:48:10+00:00",
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "summary": "Article URL: https://github.com/lsernau/grh-lean Comments URL: https://news.ycombinator.com/item?id=50648050 Points: 329 # Comments: 165",
-      "url": "https://github.com/lsernau/grh-lean",
-      "tickers": []
-    },
-    {
-      "id": "7c0dec1319",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-25T21:48:00+00:00",
-      "title": "The Verge’s 2026 holiday gift guide for travelers",
-      "summary": "Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make friends wherever they go. Whether they're your kindred spirit or the person you…",
-      "url": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
-      "tickers": []
-    },
-    {
-      "id": "09cb30a04e",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-25T21:41:43+00:00",
-      "title": "7 gadgets that'll instantly upgrade your Thanksgiving feast",
-      "summary": "These tools will make turkey day just a little easier.",
-      "url": "https://www.engadget.com/2328767/gadgets-instantly-upgrade-thanksgiving-feast/",
-      "tickers": []
-    },
-    {
-      "id": "4f8eb515d6",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-25T21:18:02+00:00",
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 255 # Comments: 205",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "tickers": []
-    },
-    {
-      "id": "cbba07ef33",
-      "topic": "AI",
+      "id": "bb4b516ae2",
+      "topic": "Devices",
       "kind": "Company",
       "source": "TechCrunch",
-      "published": "2026-11-25T20:56:44+00:00",
-      "title": "FCC approves SpaceX plan to put AI data centers in space",
-      "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
-      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
-      "tickers": []
+      "published": "2026-11-26T17:00:00+00:00",
+      "title": "A month with the iPhone Duo has changed how I use my phone",
+      "summary": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
+      "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+      "tickers": [
+        "AAPL"
+      ]
     },
     {
-      "id": "933702b287",
-      "topic": "Security",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-25T20:38:00+00:00",
-      "title": "Slow Ubuntu security response times",
-      "summary": "Article URL: https://www.openwall.com/lists/oss-security/2026/11/25/9 Comments URL: https://news.ycombinator.com/item?id=50647181 Points: 179 # Comments: 88",
-      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-      "tickers": []
-    },
-    {
-      "id": "9d258f8307",
+      "id": "48a4826e54",
       "topic": "Tech",
       "kind": "Company",
       "source": "The Verge",
-      "published": "2026-11-25T20:31:48+00:00",
-      "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
-      "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platforms have had this for a very long time, but now it's on…",
-      "url": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
+      "published": "2026-11-26T16:55:00+00:00",
+      "title": "The best Black Friday deals we’ve already found",
+      "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a…",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
       "tickers": []
     },
     {
-      "id": "e5eb0c3175",
-      "topic": "AI",
+      "id": "94e0f55064",
+      "topic": "Tech",
       "kind": "Company",
       "source": "Engadget",
-      "published": "2026-11-25T20:04:07+00:00",
-      "title": "State AGs are trying to stop Character.AI from auctioning off users' chat histories",
-      "summary": "The proposed sale would include explicit conversations with children, officials say.",
-      "url": "https://www.engadget.com/2328630/state-ags-are-trying-to-stop-characterai-from-auctioning-off-users-chat-histories/",
+      "published": "2026-11-26T16:53:58+00:00",
+      "title": "Workers at GTA 6 studio Rockstar Games vote overwhelmingly against union recognition",
+      "summary": "The IWGB Rockstar Game Workers Union will continue to organize after only a quarter of workers voted in favor of a formal deal with the studio.",
+      "url": "https://www.engadget.com/2329177/workers-gta-6-studio-rockstar-games-vote-against-union-recognition/",
       "tickers": []
     },
     {
-      "id": "20bc18f102",
+      "id": "6e06cac4e0",
+      "topic": "Policy",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-26T16:38:00+00:00",
+      "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
+      "summary": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First Amendment lawsuit. ABC has accused the FCC of violating its…",
+      "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
+      "tickers": []
+    },
+    {
+      "id": "4dd7b9c29a",
       "topic": "AI",
       "kind": "Launch",
       "source": "TechCrunch",
-      "published": "2026-11-25T20:03:27+00:00",
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
-      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "published": "2026-11-26T16:00:00+00:00",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
       "tickers": []
     },
     {
-      "id": "c350b0a799",
-      "topic": "Tech",
+      "id": "b439dbfa88",
+      "topic": "Devices",
       "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-25T20:01:08+00:00",
-      "title": "NASA's DART mission left a stadium-sized crater in an asteroid, the ESA finds",
-      "summary": "The ESA's Hera mission has begun capturing images of the aftermath of DART's impact.",
-      "url": "https://www.engadget.com/2328617/nasas-dart-mission-left-a-stadium-sized-crater-in-an-asteroid-the-esa-finds/",
-      "tickers": []
-    },
-    {
-      "id": "3b95b27efe",
-      "topic": "Chips",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-25T19:54:57+00:00",
-      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
-      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "source": "The Verge",
+      "published": "2026-11-26T16:00:00+00:00",
+      "title": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
+      "summary": "Black Friday isn’t just a good time to save on a new TV but also a chance to spend less on what you watch on it. The shopping holiday often brings steep streaming discounts, and this year is no exception, with some streamers offering more than 50 percent off. HBO Max, Apple TV…",
+      "url": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026",
       "tickers": [
-        "NVDA"
+        "AAPL"
       ]
     },
     {
-      "id": "3b67d325ff",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-25T19:54:32+00:00",
-      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
-      "summary": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
-      "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
-      "tickers": [
-        "TSLA"
-      ]
-    },
-    {
-      "id": "733eddf57a",
+      "id": "9f01f57b79",
       "topic": "Tech",
       "kind": "Company",
       "source": "The Verge",
-      "published": "2026-11-25T19:45:51+00:00",
-      "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
-      "summary": "Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today at the Iowa Army Ammunition Plant (IAAAP) in Middletown…",
-      "url": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
+      "published": "2026-11-26T15:55:24+00:00",
+      "title": "GTA VI developers vote against unionization",
+      "summary": "Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Independent Workers Union of Great Britain (IWGB) said that Rockstar workers in the union…",
+      "url": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
       "tickers": []
     },
     {
-      "id": "011ec0d91b",
+      "id": "c355b19b09",
       "topic": "AI",
-      "kind": "Founder",
-      "source": "TechCrunch",
-      "published": "2026-11-25T19:44:24+00:00",
-      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
-      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-26T15:50:37+00:00",
+      "title": "Man sentenced to 47 months in prison after using AI to impersonate streamer N3on",
+      "summary": "David Anthony Sanchez, the man who impersonated N3on, scammed victims out of $260,000 worth of cryptocurrency.",
+      "url": "https://www.engadget.com/2329150/man-sentenced-to-47-month-prison-sentence-after-using-ai-impersonate-streamer/",
       "tickers": []
     },
     {
-      "id": "660782f7a5",
+      "id": "f4c1c73ab7",
+      "topic": "Tech",
+      "kind": "Founder",
+      "source": "The Verge",
+      "published": "2026-11-26T15:00:00+00:00",
+      "title": "Why GTA VI’s version of Florida feels so real",
+      "summary": "There are plenty of reasons why Grand Theft Auto VI is so popular: the 13 years of anticipation, the relatable lead characters and romantic storyline, the sheer level of depth. But another major factor is the sense of place. The GTA series is unmatched when it comes to…",
+      "url": "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
+      "tickers": []
+    },
+    {
+      "id": "91eedd4e7f",
       "topic": "Tech",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-11-25T19:11:27+00:00",
-      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-      "summary": "See also The matrix multiplication exponent is nine fourths [pdf] - https://news.ycombinator.com/item?id=50637220 Comments URL: https://news.ycombinator.com/item?id=50646108 Points: 1062 # Comments: 899",
-      "url": "https://scottaaronson.blog/?p=10379",
+      "published": "2026-11-26T14:26:54+00:00",
+      "title": "Tell HN: Happy Thanksgiving",
+      "summary": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway! Comments URL: https://news.ycombinator.com/item?id=50655664 Points: 492 # Comments: 122",
+      "url": "https://news.ycombinator.com/item?id=50655664",
       "tickers": []
     },
     {
-      "id": "2c78ebfa50",
+      "id": "9ad30e504e",
       "topic": "Tech",
       "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-25T18:49:52+00:00",
-      "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
-      "summary": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
-      "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+      "source": "The Verge",
+      "published": "2026-11-26T14:00:00+00:00",
+      "title": "Here’s where you can save (a little) on the Ocarina of Time remake",
+      "summary": "A lot of people have The Legend of Zelda: Ocarina of Time for the Nintendo Switch 2 on their holiday wishlist. In case you haven’t bought it yet, I wanted to share some small but welcome deals happening on the physical and digital versions of the game. Costco members can…",
+      "url": "https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale",
       "tickers": []
     },
     {
-      "id": "4d3f537c9a",
+      "id": "abf9def071",
       "topic": "Tech",
       "kind": "Company",
-      "source": "Ars Technica",
-      "published": "2026-11-25T18:38:29+00:00",
-      "title": "Backblaze explains why it's sharing customer information with advertisers",
-      "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
-      "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+      "source": "The Verge",
+      "published": "2026-11-26T14:00:00+00:00",
+      "title": "Samsung’s R95H TV shows what RGB LED is capable of",
+      "summary": "RGB LED TVs finally became affordable in 2026, and there's always a lot of promise when new TV technologies come out. More color, higher brightness, improved performance - RGB LED TVs have a lot to prove. The Samsung R95H does a lot to deliver some of those promises. It can…",
+      "url": "https://www.theverge.com/tech/1042613/samsung-r95h-rgb-led-tv-review",
       "tickers": []
     },
     {
-      "id": "24a27f87c5",
+      "id": "5495108fea",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-26T13:59:06+00:00",
+      "title": "The Screens app will let you turn your iPhone Duo into an itty bitty MacBook",
+      "summary": "Edovia has updated its Screens remote desktop app with a new Laptop Mode for the iPhone Duo.",
+      "url": "https://www.engadget.com/2329115/the-screens-app-will-let-you-turn-your-iphone-duo-into-an-itty-bitty-macbook/",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "c5f5dcd37c",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-26T13:48:11+00:00",
+      "title": "45°C inlets just killed the chiller. Most people haven't noticed yet",
+      "summary": "Article URL: https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831 Comments URL: https://news.ycombinator.com/item?id=50655278 Points: 226 # Comments: 112",
+      "url": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
+      "tickers": []
+    },
+    {
+      "id": "c193bef21c",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-26T13:14:18+00:00",
+      "title": "Casetify's Pokémon 30th anniversary collection includes a Poké Ball case for your AirPods",
+      "summary": "Casetify is releasing a Pokémon collection on December 1, and it includes an AirPods case that looks like a pixel Poké Ball.",
+      "url": "https://www.engadget.com/2329106/casetifys-pokmon-30th-anniversary-collection-includes-a-pok-ball-case-for-your-airpods/",
+      "tickers": []
+    },
+    {
+      "id": "bc2d0b1263",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-26T11:50:49+00:00",
+      "title": "Nextcloud Office Desktop app",
+      "summary": "Article URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/ Comments URL: https://news.ycombinator.com/item?id=50654289 Points: 359 # Comments: 173",
+      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+      "tickers": []
+    },
+    {
+      "id": "3157015edd",
       "topic": "AI",
       "kind": "Company",
-      "source": "TechCrunch",
-      "published": "2026-11-25T18:11:46+00:00",
-      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
-      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
-      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "source": "Engadget",
+      "published": "2026-11-26T11:01:32+00:00",
+      "title": "SpaceX gets FCC approval to deploy 1 million satellites for its AI orbital data center",
+      "summary": "The FCC has granted SpaceX's request to deploy 1 million satellites to build an AI data center in orbit.",
+      "url": "https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/",
       "tickers": []
     }
   ],
   "rumors": [
     {
-      "id": "3726dfadaf",
-      "topic": "Tech",
+      "id": "6e994d17e7",
+      "topic": "Chips",
       "status": "Just surfaced",
-      "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
-      "detail": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.",
-      "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
-      "sources": 1,
-      "mentions": 2,
-      "credible": 1,
-      "days": 1,
-      "tickers": [],
-      "score": 18
-    },
-    {
-      "id": "80d08ddcd8",
-      "topic": "Security",
-      "status": "Just surfaced",
-      "title": "1Password breach leaked customer names and emails, but not passwords",
-      "detail": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the…",
-      "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+      "title": "NVIDIA reportedly halts AI chip shipments to Southeast Asia",
+      "detail": "In the same week that NVIDIA reinstated Jensen Huang as its CEO, the company has reportedly also blocked shipments to Southeast Asia.",
+      "url": "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/",
       "sources": 1,
       "mentions": 2,
       "credible": 1,
       "days": 0,
-      "tickers": [],
+      "tickers": [
+        "NVDA"
+      ],
       "score": 18
     },
     {
@@ -336,7 +326,7 @@
       "sources": 1,
       "mentions": 1,
       "credible": 1,
-      "days": 0,
+      "days": 1,
       "tickers": [
         "AMZN"
       ],
@@ -590,10 +580,10 @@
       "price": 244.43,
       "changePct": -8.7,
       "monthChangePct": -3.4,
-      "catalyst": "Amazon loses its latest attempt to get out of handling more recall notices",
+      "catalyst": "Amazon workers around the world plan strikes and protests on Black Friday and Cyber Monday",
       "when": "In the news",
       "signals": [
-        "4 headlines",
+        "3 headlines",
         "Big price move"
       ],
       "spark": [
@@ -698,16 +688,10 @@
       "earnings": "2027-02-04",
       "headlines": [
         {
-          "title": "Amazon loses its latest attempt to get out of handling more recall notices",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
-          "published": "2026-11-25T23:56:44+00:00"
-        },
-        {
-          "title": "Amazon Autos is coming to the UK in its first expansion outside the US",
+          "title": "Amazon workers around the world plan strikes and protests on Black Friday and Cyber Monday",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2327693/amazon-autos-is-coming-to-the-uk-in-its-first-expansion-outside-the-us/",
-          "published": "2026-11-25T09:15:37+00:00"
+          "url": "https://www.engadget.com/2329231/amazon-workers-plan-protests-on-black-friday-and-cyber-monday/",
+          "published": "2026-11-26T19:44:49+00:00"
         },
         {
           "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
@@ -716,10 +700,10 @@
           "published": "2026-11-24T12:30:05+00:00"
         }
       ],
-      "score": 38.2,
+      "score": 33.2,
       "brief": {
-        "what": "3 recent headlines mention Amazon. Latest: Amazon loses its latest attempt to get out of handling more recall notices There is also a rumor making the rounds: Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-        "why": "Signals: 4 headlines, big price move. The stock is down 8.7% this week and down 3.4% over the month.",
+        "what": "2 recent headlines mention Amazon. Latest: Amazon workers around the world plan strikes and protests on Black Friday and Cyber Monday There is also a rumor making the rounds: Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+        "why": "Signals: 3 headlines, big price move. The stock is down 8.7% this week and down 3.4% over the month.",
         "watch": "Next earnings expected Thu Feb 4. Results and guidance usually move the stock most.",
         "ai": false
       }
@@ -730,7 +714,7 @@
       "price": 149.3,
       "changePct": -1.1,
       "monthChangePct": -31.5,
-      "catalyst": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "catalyst": "Nvidia hits pause on chip shipments to Southeast Asia",
       "when": "In the news",
       "signals": [
         "11 headlines"
@@ -837,6 +821,12 @@
       "earnings": null,
       "headlines": [
         {
+          "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "published": "2026-11-26T20:03:54+00:00"
+        },
+        {
           "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
@@ -849,22 +839,10 @@
           "published": "2026-11-25T19:54:57+00:00"
         },
         {
-          "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
-          "published": "2026-11-25T13:00:00+00:00"
-        },
-        {
           "title": "Not Just Nvidia: Inside Team Trump’s Takeover of Intel",
           "source": "Wired",
           "url": "https://www.wired.com/story/inside-trumps-demands-to-another-chips-ceo/",
           "published": "2026-11-25T10:00:00+00:00"
-        },
-        {
-          "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-          "published": "2026-11-25T00:12:02+00:00"
         },
         {
           "title": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
@@ -887,154 +865,129 @@
       ],
       "score": 32.6,
       "brief": {
-        "what": "8 recent headlines mention NVIDIA. Latest: S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+        "what": "7 recent headlines mention NVIDIA. Latest: Nvidia hits pause on chip shipments to Southeast Asia There is also a rumor making the rounds: NVIDIA reportedly halts AI chip shipments to Southeast Asia",
         "why": "Signals: 11 headlines. The stock is down 1.1% this week and down 31.5% over the month.",
         "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
     },
     {
-      "ticker": "GOOGL",
-      "name": "Alphabet",
-      "price": 273.1,
-      "changePct": -3.3,
-      "monthChangePct": -14.8,
-      "catalyst": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+      "ticker": "AMD",
+      "name": "AMD",
+      "price": 406.03,
+      "changePct": -23.4,
+      "monthChangePct": -27.5,
+      "catalyst": "AMD Specific Patches for Llama.cpp",
       "when": "In the news",
       "signals": [
-        "4 headlines"
+        "Big price move"
       ],
       "spark": [
-        280.2,
-        282.44,
-        272.66,
-        265.29,
-        282.1,
-        279.05,
-        273.1
+        503.41,
+        530.14,
+        489.19,
+        424.39,
+        453.46,
+        413.27,
+        406.03
       ],
       "history": [
         {
           "d": "2026-10-27",
-          "c": 320.58
+          "c": 560.26
         },
         {
           "d": "2026-10-28",
-          "c": 324.89
+          "c": 578.44
         },
         {
           "d": "2026-10-29",
-          "c": 283.82
+          "c": 566.42
         },
         {
           "d": "2026-10-30",
-          "c": 279.84
+          "c": 504.8
         },
         {
           "d": "2026-11-02",
-          "c": 278.99
+          "c": 466.84
         },
         {
           "d": "2026-11-03",
-          "c": 280.03
+          "c": 483.9
         },
         {
           "d": "2026-11-04",
-          "c": 288.93
+          "c": 488.78
         },
         {
           "d": "2026-11-05",
-          "c": 282.57
+          "c": 404.4
         },
         {
           "d": "2026-11-06",
-          "c": 284.78
+          "c": 449.04
         },
         {
           "d": "2026-11-09",
-          "c": 288.15
+          "c": 508.58
         },
         {
           "d": "2026-11-10",
-          "c": 287.38
+          "c": 515.21
         },
         {
           "d": "2026-11-11",
-          "c": 293.45
+          "c": 552.9
         },
         {
           "d": "2026-11-12",
-          "c": 298.7
+          "c": 585.3
         },
         {
           "d": "2026-11-13",
-          "c": 295.77
+          "c": 534.06
         },
         {
           "d": "2026-11-16",
-          "c": 283.72
+          "c": 504.28
         },
         {
           "d": "2026-11-17",
-          "c": 280.2
+          "c": 503.41
         },
         {
           "d": "2026-11-18",
-          "c": 282.44
+          "c": 530.14
         },
         {
           "d": "2026-11-19",
-          "c": 272.66
+          "c": 489.19
         },
         {
           "d": "2026-11-20",
-          "c": 265.29
+          "c": 424.39
         },
         {
           "d": "2026-11-23",
-          "c": 282.1
+          "c": 453.46
         },
         {
           "d": "2026-11-24",
-          "c": 279.05
+          "c": 413.27
         },
         {
           "d": "2026-11-25",
-          "c": 273.1
+          "c": 406.03
         }
       ],
-      "earnings": "2027-02-03",
-      "headlines": [
-        {
-          "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
-          "published": "2026-11-26T00:04:34+00:00"
-        },
-        {
-          "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-          "published": "2026-11-25T21:51:26+00:00"
-        },
-        {
-          "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
-          "source": "Hacker News",
-          "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-          "published": "2026-11-25T13:33:07+00:00"
-        },
-        {
-          "title": "Inside Google’s Failure to Make Google Maps Work for Palestinians",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/inside-googles-failure-to-make-google-maps-work-for-palestinians/",
-          "published": "2026-11-23T10:30:00+00:00"
-        }
-      ],
-      "score": 26.6,
+      "earnings": "2027-02-02",
+      "headlines": [],
+      "score": 25.7,
       "brief": {
-        "what": "4 recent headlines mention Alphabet. Latest: Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
-        "why": "Signals: 4 headlines. The stock is down 3.3% this week and down 14.8% over the month.",
-        "watch": "Next earnings expected Wed Feb 3. Results and guidance usually move the stock most.",
+        "what": "No major headlines about AMD in the last two weeks.",
+        "why": "Signals: big price move. The stock is down 23.4% this week and down 27.5% over the month.",
+        "watch": "Next earnings expected Tue Feb 2. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
