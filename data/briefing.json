@@ -1,12 +1,69 @@
 {
   "weekOf": "2026-11-23",
-  "updated": "2026-11-26T20:10:12+00:00",
+  "updated": "2026-11-27T04:14:00+00:00",
   "summary": [
-    "Tech leads the news with 12 of 25 stories. Top headline: Nvidia hits pause on chip shipments to Southeast Asia",
+    "Tech leads the news with 12 of 25 stories. Top headline: AI made self-hosting fun again",
     "Earnings this week from SNOW, CRM.",
     "Strongest rumor: NVIDIA reportedly halts AI chip shipments to Southeast Asia"
   ],
   "stories": [
+    {
+      "id": "7b9204f703",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-26T21:47:45+00:00",
+      "title": "AI made self-hosting fun again",
+      "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 419 # Comments: 227",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "tickers": []
+    },
+    {
+      "id": "9ba3f6ccab",
+      "topic": "Security",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-26T21:26:47+00:00",
+      "title": "Backloggd urges users to change their passwords after a breach",
+      "summary": "If you use Backloggd, you might need to log in again and reset your password.",
+      "url": "https://www.engadget.com/2329256/backloggd-breach-november-2026-password-reset/",
+      "tickers": []
+    },
+    {
+      "id": "584a22fac6",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-26T21:08:05+00:00",
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 290 # Comments: 62",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "tickers": []
+    },
+    {
+      "id": "8316f88bd0",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-26T21:00:00+00:00",
+      "title": "Netflix’s coziest show has made a very quiet return",
+      "summary": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-programming, and even games. It…",
+      "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+      "tickers": [
+        "NFLX"
+      ]
+    },
+    {
+      "id": "630f7e84a7",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-26T20:49:49+00:00",
+      "title": "Company Culture = Slack Emoji ÷ √Headcount",
+      "summary": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ Comments URL: https://news.ycombinator.com/item?id=50659640 Points: 176 # Comments: 68",
+      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "tickers": []
+    },
     {
       "id": "bf84d6f90d",
       "topic": "Chips",
@@ -78,6 +135,41 @@
       "summary": "The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its OLED touchscreen. When I reviewed it a few years ago, I…",
       "url": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
       "tickers": []
+    },
+    {
+      "id": "8416303551",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-26T17:47:45+00:00",
+      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Points: 240 # Comments: 102",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "tickers": []
+    },
+    {
+      "id": "23c73e41c2",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-26T17:36:47+00:00",
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 307 # Comments: 379",
+      "url": "https://github.com/antonpictures/youtube-punisher",
+      "tickers": []
+    },
+    {
+      "id": "eb94ec253f",
+      "topic": "Chips",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-26T17:11:29+00:00",
+      "title": "AMD-specific fork of llama.cpp",
+      "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 306 # Comments: 74",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "tickers": [
+        "AMD"
+      ]
     },
     {
       "id": "d93a41da27",
@@ -206,96 +298,6 @@
       "title": "Why GTA VI’s version of Florida feels so real",
       "summary": "There are plenty of reasons why Grand Theft Auto VI is so popular: the 13 years of anticipation, the relatable lead characters and romantic storyline, the sheer level of depth. But another major factor is the sense of place. The GTA series is unmatched when it comes to…",
       "url": "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
-      "tickers": []
-    },
-    {
-      "id": "91eedd4e7f",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-26T14:26:54+00:00",
-      "title": "Tell HN: Happy Thanksgiving",
-      "summary": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway! Comments URL: https://news.ycombinator.com/item?id=50655664 Points: 492 # Comments: 122",
-      "url": "https://news.ycombinator.com/item?id=50655664",
-      "tickers": []
-    },
-    {
-      "id": "9ad30e504e",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-26T14:00:00+00:00",
-      "title": "Here’s where you can save (a little) on the Ocarina of Time remake",
-      "summary": "A lot of people have The Legend of Zelda: Ocarina of Time for the Nintendo Switch 2 on their holiday wishlist. In case you haven’t bought it yet, I wanted to share some small but welcome deals happening on the physical and digital versions of the game. Costco members can…",
-      "url": "https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale",
-      "tickers": []
-    },
-    {
-      "id": "abf9def071",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-26T14:00:00+00:00",
-      "title": "Samsung’s R95H TV shows what RGB LED is capable of",
-      "summary": "RGB LED TVs finally became affordable in 2026, and there's always a lot of promise when new TV technologies come out. More color, higher brightness, improved performance - RGB LED TVs have a lot to prove. The Samsung R95H does a lot to deliver some of those promises. It can…",
-      "url": "https://www.theverge.com/tech/1042613/samsung-r95h-rgb-led-tv-review",
-      "tickers": []
-    },
-    {
-      "id": "5495108fea",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-26T13:59:06+00:00",
-      "title": "The Screens app will let you turn your iPhone Duo into an itty bitty MacBook",
-      "summary": "Edovia has updated its Screens remote desktop app with a new Laptop Mode for the iPhone Duo.",
-      "url": "https://www.engadget.com/2329115/the-screens-app-will-let-you-turn-your-iphone-duo-into-an-itty-bitty-macbook/",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "c5f5dcd37c",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-26T13:48:11+00:00",
-      "title": "45°C inlets just killed the chiller. Most people haven't noticed yet",
-      "summary": "Article URL: https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831 Comments URL: https://news.ycombinator.com/item?id=50655278 Points: 226 # Comments: 112",
-      "url": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
-      "tickers": []
-    },
-    {
-      "id": "c193bef21c",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-26T13:14:18+00:00",
-      "title": "Casetify's Pokémon 30th anniversary collection includes a Poké Ball case for your AirPods",
-      "summary": "Casetify is releasing a Pokémon collection on December 1, and it includes an AirPods case that looks like a pixel Poké Ball.",
-      "url": "https://www.engadget.com/2329106/casetifys-pokmon-30th-anniversary-collection-includes-a-pok-ball-case-for-your-airpods/",
-      "tickers": []
-    },
-    {
-      "id": "bc2d0b1263",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-26T11:50:49+00:00",
-      "title": "Nextcloud Office Desktop app",
-      "summary": "Article URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/ Comments URL: https://news.ycombinator.com/item?id=50654289 Points: 359 # Comments: 173",
-      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-      "tickers": []
-    },
-    {
-      "id": "3157015edd",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Engadget",
-      "published": "2026-11-26T11:01:32+00:00",
-      "title": "SpaceX gets FCC approval to deploy 1 million satellites for its AI orbital data center",
-      "summary": "The FCC has granted SpaceX's request to deploy 1 million satellites to build an AI data center in orbit.",
-      "url": "https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/",
       "tickers": []
     }
   ],
@@ -714,10 +716,10 @@
       "price": 149.3,
       "changePct": -1.1,
       "monthChangePct": -31.5,
-      "catalyst": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "catalyst": "Nvidia was right to bring back Jensen Huang, writes Sarah Guo",
       "when": "In the news",
       "signals": [
-        "11 headlines"
+        "12 headlines"
       ],
       "spark": [
         155.46,
@@ -866,7 +868,7 @@
       "score": 32.6,
       "brief": {
         "what": "7 recent headlines mention NVIDIA. Latest: Nvidia hits pause on chip shipments to Southeast Asia There is also a rumor making the rounds: NVIDIA reportedly halts AI chip shipments to Southeast Asia",
-        "why": "Signals: 11 headlines. The stock is down 1.1% this week and down 31.5% over the month.",
+        "why": "Signals: 12 headlines. The stock is down 1.1% this week and down 31.5% over the month.",
         "watch": "No earnings date announced yet. Watch for follow-up coverage of the stories above.",
         "ai": false
       }
@@ -877,7 +879,7 @@
       "price": 406.03,
       "changePct": -23.4,
       "monthChangePct": -27.5,
-      "catalyst": "AMD Specific Patches for Llama.cpp",
+      "catalyst": "AMD-specific fork of llama.cpp",
       "when": "In the news",
       "signals": [
         "Big price move"
@@ -982,10 +984,17 @@
         }
       ],
       "earnings": "2027-02-02",
-      "headlines": [],
+      "headlines": [
+        {
+          "title": "AMD-specific fork of llama.cpp",
+          "source": "Hacker News",
+          "url": "https://devnull.land/amd-specific-llama-cpp",
+          "published": "2026-11-26T17:11:29+00:00"
+        }
+      ],
       "score": 25.7,
       "brief": {
-        "what": "No major headlines about AMD in the last two weeks.",
+        "what": "1 recent headline mentions AMD. Latest: AMD-specific fork of llama.cpp",
         "why": "Signals: big price move. The stock is down 23.4% this week and down 27.5% over the month.",
         "watch": "Next earnings expected Tue Feb 2. Results and guidance usually move the stock most.",
         "ai": false
