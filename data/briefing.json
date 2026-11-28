@@ -1,12 +1,143 @@
 {
   "weekOf": "2026-11-23",
-  "updated": "2026-11-27T19:56:31+00:00",
+  "updated": "2026-11-28T03:54:27+00:00",
   "summary": [
-    "Tech leads the news with 13 of 25 stories. Top headline: Restricted NVIDIA chips were installed at a Chinese data center linked to Alice Huang",
+    "Tech leads the news with 10 of 25 stories. Top headline: The M5 MacBook Air just got its biggest discount since Apple raised the price",
     "Earnings this week from CRM, SNOW.",
-    "Strongest rumor: Hackers reportedly infiltrated the Air Force's cloud systems"
+    "Strongest rumor: NVIDIA reportedly halts AI chip shipments to Southeast Asia"
   ],
   "stories": [
+    {
+      "id": "a7c4984799",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-28T03:30:00+00:00",
+      "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+      "summary": "If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck. The 13-inch M5 MacBook Air is on sale at Amazon and Best Buy with 16GB of RAM and 512GB of storage starting at $999 ($300 off) for Black Friday, which is the lowest…",
+      "url": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+      "tickers": [
+        "AAPL",
+        "AMZN"
+      ]
+    },
+    {
+      "id": "880a426f1f",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-28T03:28:32+00:00",
+      "title": "The absolute best Black Friday deals you can still get",
+      "summary": "Black Friday is nearly over, but many of this year’s best deals are still available. You can still find some of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, robot vacuums, and so much more. We can’t guarantee a deal you’ve had your eye…",
+      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+      "tickers": []
+    },
+    {
+      "id": "435bcee6fe",
+      "topic": "Tech",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-28T01:30:00+00:00",
+      "title": "We found 60-odd Black Friday deals we love for $100 or less",
+      "summary": "Between holiday travel, gifts, and the rising cost of just about everything, expenses can quickly add up during this time of year. Thankfully, you don’t have to dip too far into your savings to take advantage of some of the better Black Friday deals we’ve seen. Below, we’ve…",
+      "url": "https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026",
+      "tickers": []
+    },
+    {
+      "id": "78a379121c",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-11-28T00:02:49+00:00",
+      "title": "This purple electric Chinese minivan can go up to 559 miles on a charge",
+      "summary": "Electric minivans could be the ultimate in utility, with room for passengers, gear, and huge batteries. While VW's ID Buzz only gave us 200 miles of real-world driving on a charge in 2023, China's BYD has just announced a flagship purple peoplemover that can go an estimated 559…",
+      "url": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+      "tickers": []
+    },
+    {
+      "id": "08090c4132",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-27T23:32:17+00:00",
+      "title": "The best robot vacuums we’ve tested are up to 60 percent off for Black Friday",
+      "summary": "Black Friday is here, and if you want a little help keeping your floors clean this holiday season, now is a great time to pick up a robot vacuum. Some of the best models we’ve tested over the last year or two are on sale for up to 60 percent off, whether you’re after a […]",
+      "url": "https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026",
+      "tickers": []
+    },
+    {
+      "id": "1aba3af649",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-27T23:32:00+00:00",
+      "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+      "summary": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier XM6 model (currently $348), but is down…",
+      "url": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+      "tickers": []
+    },
+    {
+      "id": "cefd8ac719",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "The Verge",
+      "published": "2026-11-27T23:30:32+00:00",
+      "title": "Yooka-Laylee’s free upgrade is skipping Xbox",
+      "summary": "Playtronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair: Definitive Edition as a free update on PlayStation 5, Switch 2, and PC on December 15th. Unfortunately for Xbox owners, the developer says it \"can't commit to any additional platforms for the…",
+      "url": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
+      "tickers": []
+    },
+    {
+      "id": "369c31c6de",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-27T23:06:29+00:00",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 183 # Comments: 61",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "0f558bb76b",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-27T22:46:29+00:00",
+      "title": "5 ways to make sure your console isn't holding back your GTA 6 performance",
+      "summary": "GTA 6 pulled a lot of tricks to run on current consoles, so you should make sure you're getting the best performance available.",
+      "url": "https://www.engadget.com/2329878/gta-6-performance-ways-make-sure-console-not-holding-back/",
+      "tickers": []
+    },
+    {
+      "id": "6347eff2d3",
+      "topic": "Devices",
+      "kind": "Company",
+      "source": "The Verge",
+      "published": "2026-11-27T22:30:00+00:00",
+      "title": "The new iPad Mini is getting its first major discount for Black Friday",
+      "summary": "We were big fans of Apple’s new iPad Mini when we reviewed it in early November, but its steep starting price of $699 was hard to swallow. Thankfully, the small tablet is already getting a sizable discount for Black Friday. Right now, Amazon and Walmart are both selling the 2026…",
+      "url": "https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026",
+      "tickers": [
+        "AAPL",
+        "AMZN"
+      ]
+    },
+    {
+      "id": "8a68894495",
+      "topic": "AI",
+      "kind": "Company",
+      "source": "Engadget",
+      "published": "2026-11-27T22:00:08+00:00",
+      "title": "LA school district blocks Google's AI search features",
+      "summary": "The company has insisted that AI overviews and search are a package deal.",
+      "url": "https://www.engadget.com/2329851/la-school-district-blocks-google-ai-search-features/",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
     {
       "id": "e9b0799a5e",
       "topic": "Chips",
@@ -34,49 +165,36 @@
       ]
     },
     {
-      "id": "052f8c326d",
-      "topic": "Devices",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-27T19:44:19+00:00",
-      "title": "You might lose your Oura health data if you’re still using an old Android phone",
-      "summary": "Oura will be dropping support for Android 11 on December 8th, 2026, and users may not have access to all of their data if they don't upgrade to Android 12 or higher before the deadline. The support page now reads: Oura will drop support for Android 11 on December 8, 2026. If you…",
-      "url": "https://www.theverge.com/gadgets/1044314/oura-ring-health-data-android-11",
+      "id": "ebf730a26c",
+      "topic": "Tech",
+      "kind": "Launch",
+      "source": "Hacker News",
+      "published": "2026-11-27T19:42:25+00:00",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "summary": "Article URL: https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform Comments URL…",
+      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
       "tickers": []
     },
     {
-      "id": "43ef24b041",
+      "id": "9abc6bf3be",
       "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-27T19:30:00+00:00",
-      "title": "The best Black Friday deals on smart home gear",
-      "summary": "I’ve spent my post-turkey haze powering through reams of deals on smart home gadgets to find the best discounts on some of my favorite products. Smart home is often one of the best categories to shop around Black Friday, as it’s traditionally when robot vacuums, video doorbells…",
-      "url": "https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday",
-      "tickers": []
-    },
-    {
-      "id": "bb97cb2201",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-27T18:30:00+00:00",
-      "title": "Anker’s 100W universal travel charger is down to $60, its lowest price yet",
-      "summary": "During Black Friday, the Anker 100W Universal Charger is on sale for $59.99 at Amazon, Best Buy, and Walmart, a $20 discount from its list price. That’s a few dollars lower than the previous best, with both the dark gray and silver versions available from all three retailers.…",
-      "url": "https://www.theverge.com/gadgets/1041006/anker-100w-universal-travel-charger-black-friday-deal-sale",
-      "tickers": [
-        "AMZN"
-      ]
-    },
-    {
-      "id": "d4fa4f13e2",
-      "topic": "AI",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-11-27T17:45:31+00:00",
-      "title": "I'm Scared of AI",
-      "summary": "Article URL: https://thesoapbox.email/archive/3 Comments URL: https://news.ycombinator.com/item?id=50669561 Points: 175 # Comments: 182",
-      "url": "https://thesoapbox.email/archive/3",
+      "published": "2026-11-27T19:31:01+00:00",
+      "title": "Michael Nielsen took down his book on neural nets",
+      "summary": "Article URL: https://neuralnetworksanddeeplearning.com/ Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 426 # Comments: 266",
+      "url": "https://neuralnetworksanddeeplearning.com/",
+      "tickers": []
+    },
+    {
+      "id": "6ef67c4727",
+      "topic": "Cloud",
+      "kind": "Company",
+      "source": "Hacker News",
+      "published": "2026-11-27T18:02:45+00:00",
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 250 # Comments: 78",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
       "tickers": []
     },
     {
@@ -108,46 +226,19 @@
       "source": "Hacker News",
       "published": "2026-11-27T15:40:31+00:00",
       "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
-      "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 218 # Comments: 126",
+      "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 459 # Comments: 237",
       "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
       "tickers": []
     },
     {
-      "id": "d318260bc5",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-27T15:30:00+00:00",
-      "title": "You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24",
-      "summary": "If you’re picking up any gifts that require AA batteries, it’s not a bad idea to buy a set you can keep using long after the holidays. Thankfully, you can currently get a 12-pack of Zepath’s rechargeable 3,000mWh AAs on Amazon with a charger for $23.99 ($8 off) for Black Friday…",
-      "url": "https://www.theverge.com/gadgets/1043272/zepath-rechargeable-aa-batteries-black-friday-2026-deal-sale",
-      "tickers": [
-        "AMZN"
-      ]
-    },
-    {
-      "id": "d2ab4e1aba",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-27T15:15:28+00:00",
-      "title": "Apple’s AirPods Pro 3 are a whopping $100 off for Black Friday",
-      "summary": "The AirPods Pro 3 are cheaper than ever. Despite receiving an early discount last week, Apple’s latest flagship wireless earbuds are still on sale for just $149 at Amazon, Best Buy, and Walmart. They originally sold for $249, but are commonly available for $199 outside major…",
-      "url": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
-      "tickers": [
-        "AAPL",
-        "AMZN"
-      ]
-    },
-    {
-      "id": "0fbbe8a507",
+      "id": "7b549eb54e",
       "topic": "Tech",
       "kind": "Company",
       "source": "Hacker News",
-      "published": "2026-11-27T15:03:17+00:00",
-      "title": "GPT 6.2 Astra Solves a Historical Mystery",
-      "summary": "Article URL: https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical Comments URL: https://news.ycombinator.com/item?id=50667744 Points: 154 # Comments: 63",
-      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "published": "2026-11-27T15:26:09+00:00",
+      "title": "False computer-checked proofs",
+      "summary": "Article URL: https://cr.yp.to/proofs/falseccp.html Comments URL: https://news.ycombinator.com/item?id=50667989 Points: 193 # Comments: 76",
+      "url": "https://cr.yp.to/proofs/falseccp.html",
       "tickers": []
     },
     {
@@ -159,72 +250,6 @@
       "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
       "summary": "a ball will fall. trade on where it lands. I made this game! Some technical details: The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds…",
       "url": "https://bouncemarket.minhanhday.com/",
-      "tickers": []
-    },
-    {
-      "id": "897828748b",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-27T14:30:00+00:00",
-      "title": "Buying a laptop right now is rough, but these Black Friday deals help",
-      "summary": "Laptop prices have been a hot-button topic all year long thanks to RAMageddon. We’ve seen existing models get more expensive and new models arrive at higher prices than last-gen — sometimes with lower specs, too. 2026 in general has been a bad time to buy a computer. But…",
-      "url": "https://www.theverge.com/gadgets/1042512/best-black-friday-laptop-notebook-deals-2026",
-      "tickers": []
-    },
-    {
-      "id": "291f00f67b",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "The Verge",
-      "published": "2026-11-27T14:00:00+00:00",
-      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
-      "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]",
-      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
-      "tickers": []
-    },
-    {
-      "id": "d00d0554bf",
-      "topic": "Cloud",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-27T12:54:11+00:00",
-      "title": "US Air Force's cloud computing platform hacked",
-      "summary": "Article URL: https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163 Comments URL: https://news.ycombinator.com/item?id=50666375 Points: 259 # Comments: 158",
-      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
-      "tickers": []
-    },
-    {
-      "id": "c665f5ffee",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-27T12:43:40+00:00",
-      "title": "New York and California age gating rules go into effect in the new year",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year Comments URL: https://news.ycombinator.com/item?id=50666279 Points: 162 # Comments: 183",
-      "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
-      "tickers": []
-    },
-    {
-      "id": "9a45434d47",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-27T12:08:51+00:00",
-      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
-      "summary": "Article URL: https://eprint.iacr.org/2026/3020.pdf Comments URL: https://news.ycombinator.com/item?id=50665968 Points: 190 # Comments: 82",
-      "url": "https://eprint.iacr.org/2026/3020.pdf",
-      "tickers": []
-    },
-    {
-      "id": "3906e330d8",
-      "topic": "AI",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-27T12:03:11+00:00",
-      "title": "Kimi for Science: More scientific ideas, made possible",
-      "summary": "Article URL: https://www.kimi.ai/news/kimi-for-science-program Comments URL: https://news.ycombinator.com/item?id=50665920 Points: 170 # Comments: 140",
-      "url": "https://www.kimi.ai/news/kimi-for-science-program",
       "tickers": []
     },
     {
@@ -241,17 +266,6 @@
       ]
     },
     {
-      "id": "ca63b5ec03",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-27T08:28:08+00:00",
-      "title": "Claude sabotaging ML research tasks?",
-      "summary": "Article URL: https://twitter.com/RealAstropulse/status/2126119408997466389 Comments URL: https://news.ycombinator.com/item?id=50664325 Points: 416 # Comments: 212",
-      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-      "tickers": []
-    },
-    {
       "id": "a7c5b2f485",
       "topic": "AI",
       "kind": "Company",
@@ -263,54 +277,31 @@
       "tickers": []
     },
     {
-      "id": "e18dfd73fe",
-      "topic": "AI",
+      "id": "9ba3f6ccab",
+      "topic": "Security",
       "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-27T06:44:34+00:00",
-      "title": "Group chat where your AI talks behind your back",
-      "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 616 # Comments: 260",
-      "url": "https://construct22.com/",
+      "source": "Engadget",
+      "published": "2026-11-26T21:26:47+00:00",
+      "title": "Backloggd urges users to change their passwords after a breach",
+      "summary": "If you use Backloggd, you might need to log in again and reset your password.",
+      "url": "https://www.engadget.com/2329256/backloggd-breach-november-2026-password-reset/",
       "tickers": []
     },
     {
-      "id": "16d2377719",
-      "topic": "Tech",
+      "id": "bf84d6f90d",
+      "topic": "Chips",
       "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-27T05:52:42+00:00",
-      "title": "Buy Nothing Day – Friday November 27th 2026",
-      "summary": "Article URL: https://www.buynothingday.co.uk/ Comments URL: https://news.ycombinator.com/item?id=50663261 Points: 321 # Comments: 103",
-      "url": "https://www.buynothingday.co.uk/",
-      "tickers": []
-    },
-    {
-      "id": "8ee26e992a",
-      "topic": "Tech",
-      "kind": "Company",
-      "source": "Hacker News",
-      "published": "2026-11-27T05:22:06+00:00",
-      "title": "The need for a formally verifiable mainstream programming language",
-      "summary": "Article URL: https://blainehansen.me/post/mainstream-verifiable-language/ Comments URL: https://news.ycombinator.com/item?id=50663089 Points: 267 # Comments: 272",
-      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
-      "tickers": []
+      "source": "TechCrunch",
+      "published": "2026-11-26T20:03:54+00:00",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "tickers": [
+        "NVDA"
+      ]
     }
   ],
   "rumors": [
-    {
-      "id": "5243550105",
-      "topic": "Cloud",
-      "status": "Just surfaced",
-      "title": "Hackers reportedly infiltrated the Air Force's cloud systems",
-      "detail": "The breach was discovered within the last month during system upgrade work, according to Reuters.",
-      "url": "https://www.engadget.com/2329586/hackers-reportedly-infiltrated-the-air-force-cloud-systems/",
-      "sources": 1,
-      "mentions": 3,
-      "credible": 1,
-      "days": 0,
-      "tickers": [],
-      "score": 20
-    },
     {
       "id": "6e994d17e7",
       "topic": "Chips",
@@ -341,6 +332,48 @@
       "tickers": [
         "AMZN"
       ],
+      "score": 15
+    },
+    {
+      "id": "5243550105",
+      "topic": "Cloud",
+      "status": "Just surfaced",
+      "title": "Hackers reportedly infiltrated the Air Force's cloud systems",
+      "detail": "The breach was discovered within the last month during system upgrade work, according to Reuters.",
+      "url": "https://www.engadget.com/2329586/hackers-reportedly-infiltrated-the-air-force-cloud-systems/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 15
+    },
+    {
+      "id": "6a827a8cec",
+      "topic": "AI",
+      "status": "Just surfaced",
+      "title": "Samsung is reportedly giving its camera app an AI mode",
+      "detail": "The feature could mirror the Siri mode Apple added in iOS 27.",
+      "url": "https://www.engadget.com/2329765/samsung-is-reportedly-giving-its-camera-app-an-ai-mode/",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
+      "score": 15
+    },
+    {
+      "id": "78a379121c",
+      "topic": "Tech",
+      "status": "Just surfaced",
+      "title": "This purple electric Chinese minivan can go up to 559 miles on a charge",
+      "detail": "Electric minivans could be the ultimate in utility, with room for passengers, gear, and huge batteries. While VW's ID Buzz only gave us 200 miles of real-world driving on a charge in 2023, China's BYD has just announced a flagship purple peoplemover that can go an estimated 559…",
+      "url": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+      "sources": 1,
+      "mentions": 1,
+      "credible": 1,
+      "days": 0,
+      "tickers": [],
       "score": 15
     }
   ],
@@ -761,7 +794,7 @@
       "price": 358.54,
       "changePct": 2.7,
       "monthChangePct": 4.4,
-      "catalyst": "OpenAI countersues Apple and accuses it of stealing trade secrets",
+      "catalyst": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
       "when": "In the news",
       "signals": [
         "5 headlines"
@@ -868,16 +901,22 @@
       "earnings": "2027-01-28",
       "headlines": [
         {
+          "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+          "published": "2026-11-28T03:30:00+00:00"
+        },
+        {
+          "title": "The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
+          "published": "2026-11-27T23:53:19+00:00"
+        },
+        {
           "title": "OpenAI countersues Apple and accuses it of stealing trade secrets",
           "source": "Engadget",
           "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
           "published": "2026-11-27T19:44:38+00:00"
-        },
-        {
-          "title": "The best Black Friday deals on AirPods, MacBooks, and other Apple gear",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
-          "published": "2026-11-27T16:30:37+00:00"
         },
         {
           "title": "A month with the iPhone Duo has changed how I use my phone",
@@ -894,136 +933,154 @@
       ],
       "score": 30.3,
       "brief": {
-        "what": "4 recent headlines mention Apple. Latest: OpenAI countersues Apple and accuses it of stealing trade secrets",
+        "what": "5 recent headlines mention Apple. Latest: The M5 MacBook Air just got its biggest discount since Apple raised the price",
         "why": "Signals: 5 headlines. The stock is up 2.7% this week and up 4.4% over the month.",
         "watch": "Next earnings expected Thu Jan 28. Results and guidance usually move the stock most.",
         "ai": false
       }
     },
     {
-      "ticker": "AMD",
-      "name": "AMD",
-      "price": 424.54,
-      "changePct": -13.2,
-      "monthChangePct": -26.6,
-      "catalyst": "AMD-specific fork of llama.cpp",
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "price": 274.96,
+      "changePct": 0.8,
+      "monthChangePct": -15.4,
+      "catalyst": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
       "when": "In the news",
       "signals": [
-        "Big price move"
+        "5 headlines"
       ],
       "spark": [
-        530.14,
-        489.19,
-        424.39,
-        453.46,
-        413.27,
-        406.03,
-        424.54
+        282.44,
+        272.66,
+        265.29,
+        282.1,
+        279.05,
+        273.1,
+        274.96
       ],
       "history": [
         {
           "d": "2026-10-28",
-          "c": 578.44
+          "c": 324.89
         },
         {
           "d": "2026-10-29",
-          "c": 566.42
+          "c": 283.82
         },
         {
           "d": "2026-10-30",
-          "c": 504.8
+          "c": 279.84
         },
         {
           "d": "2026-11-02",
-          "c": 466.84
+          "c": 278.99
         },
         {
           "d": "2026-11-03",
-          "c": 483.9
+          "c": 280.03
         },
         {
           "d": "2026-11-04",
-          "c": 488.78
+          "c": 288.93
         },
         {
           "d": "2026-11-05",
-          "c": 404.4
+          "c": 282.57
         },
         {
           "d": "2026-11-06",
-          "c": 449.04
+          "c": 284.78
         },
         {
           "d": "2026-11-09",
-          "c": 508.58
+          "c": 288.15
         },
         {
           "d": "2026-11-10",
-          "c": 515.21
+          "c": 287.38
         },
         {
           "d": "2026-11-11",
-          "c": 552.9
+          "c": 293.45
         },
         {
           "d": "2026-11-12",
-          "c": 585.3
+          "c": 298.7
         },
         {
           "d": "2026-11-13",
-          "c": 534.06
+          "c": 295.77
         },
         {
           "d": "2026-11-16",
-          "c": 504.28
+          "c": 283.72
         },
         {
           "d": "2026-11-17",
-          "c": 503.41
+          "c": 280.2
         },
         {
           "d": "2026-11-18",
-          "c": 530.14
+          "c": 282.44
         },
         {
           "d": "2026-11-19",
-          "c": 489.19
+          "c": 272.66
         },
         {
           "d": "2026-11-20",
-          "c": 424.39
+          "c": 265.29
         },
         {
           "d": "2026-11-23",
-          "c": 453.46
+          "c": 282.1
         },
         {
           "d": "2026-11-24",
-          "c": 413.27
+          "c": 279.05
         },
         {
           "d": "2026-11-25",
-          "c": 406.03
+          "c": 273.1
         },
         {
           "d": "2026-11-27",
-          "c": 424.54
+          "c": 274.96
         }
       ],
-      "earnings": "2027-02-02",
+      "earnings": "2027-02-03",
       "headlines": [
         {
-          "title": "AMD-specific fork of llama.cpp",
+          "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
           "source": "Hacker News",
-          "url": "https://devnull.land/amd-specific-llama-cpp",
-          "published": "2026-11-26T17:11:29+00:00"
+          "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+          "published": "2026-11-27T23:06:29+00:00"
+        },
+        {
+          "title": "LA school district blocks Google's AI search features",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2329851/la-school-district-blocks-google-ai-search-features/",
+          "published": "2026-11-27T22:00:08+00:00"
+        },
+        {
+          "title": "Google will soon share Android developers' addresses publicly",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2329389/google-will-soon-share-android-developers-addresses-publicly/",
+          "published": "2026-11-27T09:38:33+00:00"
+        },
+        {
+          "title": "Inside Google’s Failure to Make Google Maps Work for Palestinians",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/inside-googles-failure-to-make-google-maps-work-for-palestinians/",
+          "published": "2026-11-23T10:30:00+00:00"
         }
       ],
-      "score": 25.0,
+      "score": 26.7,
       "brief": {
-        "what": "1 recent headline mentions AMD. Latest: AMD-specific fork of llama.cpp",
-        "why": "Signals: big price move. The stock is down 13.2% this week and down 26.6% over the month.",
-        "watch": "Next earnings expected Tue Feb 2. Results and guidance usually move the stock most.",
+        "what": "4 recent headlines mention Alphabet. Latest: Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+        "why": "Signals: 5 headlines. The stock is up 0.8% this week and down 15.4% over the month.",
+        "watch": "Next earnings expected Wed Feb 3. Results and guidance usually move the stock most.",
         "ai": false
       }
     }
